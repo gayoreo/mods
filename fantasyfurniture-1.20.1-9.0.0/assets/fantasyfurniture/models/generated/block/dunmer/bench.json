@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/dunmer/bench",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bench": "fantasyfurniture:block/models/dunmer/bench",
+    "particle": "fantasyfurniture:block/particles/dunmer"
+  }
+}

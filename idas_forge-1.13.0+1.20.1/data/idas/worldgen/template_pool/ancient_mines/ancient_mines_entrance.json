@@ -1,0 +1,22 @@
+{
+  "name": "idas:ancient_mines/ancient_mines_entrance",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:ancient_mines/ancient_mines_entrance",
+        "processors": "idas:ancient_mines/ancient_mines_top_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 35,
+          "kernel_distance": 35
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

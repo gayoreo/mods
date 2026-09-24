@@ -1,0 +1,6 @@
+{
+  "parent": "fantasyfurniture_decorations:block/fairy_lights",
+  "textures": {
+    "lights": "fantasyfurniture_decorations:block/fairy_lights_tint"
+  }
+}

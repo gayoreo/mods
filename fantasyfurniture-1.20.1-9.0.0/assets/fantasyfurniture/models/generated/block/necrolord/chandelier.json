@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/necrolord/chandelier",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "chandelier": "fantasyfurniture:block/models/necrolord/chandelier",
+    "particle": "fantasyfurniture:block/particles/necrolord"
+  }
+}

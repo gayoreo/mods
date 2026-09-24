@@ -1,0 +1,244 @@
+{
+  "variants": {
+    "facing=east,platter=0": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_0",
+      "y": 90
+    },
+    "facing=east,platter=1": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_1",
+      "y": 90
+    },
+    "facing=east,platter=10": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_10",
+      "y": 90
+    },
+    "facing=east,platter=11": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_11",
+      "y": 90
+    },
+    "facing=east,platter=12": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_12",
+      "y": 90
+    },
+    "facing=east,platter=13": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_13",
+      "y": 90
+    },
+    "facing=east,platter=14": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_14",
+      "y": 90
+    },
+    "facing=east,platter=15": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_15",
+      "y": 90
+    },
+    "facing=east,platter=2": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_2",
+      "y": 90
+    },
+    "facing=east,platter=3": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_3",
+      "y": 90
+    },
+    "facing=east,platter=4": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_4",
+      "y": 90
+    },
+    "facing=east,platter=5": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_5",
+      "y": 90
+    },
+    "facing=east,platter=6": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_6",
+      "y": 90
+    },
+    "facing=east,platter=7": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_7",
+      "y": 90
+    },
+    "facing=east,platter=8": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_8",
+      "y": 90
+    },
+    "facing=east,platter=9": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_9",
+      "y": 90
+    },
+    "facing=north,platter=0": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_0"
+    },
+    "facing=north,platter=1": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_1"
+    },
+    "facing=north,platter=10": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_10"
+    },
+    "facing=north,platter=11": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_11"
+    },
+    "facing=north,platter=12": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_12"
+    },
+    "facing=north,platter=13": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_13"
+    },
+    "facing=north,platter=14": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_14"
+    },
+    "facing=north,platter=15": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_15"
+    },
+    "facing=north,platter=2": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_2"
+    },
+    "facing=north,platter=3": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_3"
+    },
+    "facing=north,platter=4": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_4"
+    },
+    "facing=north,platter=5": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_5"
+    },
+    "facing=north,platter=6": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_6"
+    },
+    "facing=north,platter=7": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_7"
+    },
+    "facing=north,platter=8": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_8"
+    },
+    "facing=north,platter=9": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_9"
+    },
+    "facing=south,platter=0": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_0",
+      "y": 180
+    },
+    "facing=south,platter=1": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_1",
+      "y": 180
+    },
+    "facing=south,platter=10": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_10",
+      "y": 180
+    },
+    "facing=south,platter=11": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_11",
+      "y": 180
+    },
+    "facing=south,platter=12": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_12",
+      "y": 180
+    },
+    "facing=south,platter=13": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_13",
+      "y": 180
+    },
+    "facing=south,platter=14": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_14",
+      "y": 180
+    },
+    "facing=south,platter=15": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_15",
+      "y": 180
+    },
+    "facing=south,platter=2": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_2",
+      "y": 180
+    },
+    "facing=south,platter=3": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_3",
+      "y": 180
+    },
+    "facing=south,platter=4": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_4",
+      "y": 180
+    },
+    "facing=south,platter=5": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_5",
+      "y": 180
+    },
+    "facing=south,platter=6": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_6",
+      "y": 180
+    },
+    "facing=south,platter=7": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_7",
+      "y": 180
+    },
+    "facing=south,platter=8": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_8",
+      "y": 180
+    },
+    "facing=south,platter=9": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_9",
+      "y": 180
+    },
+    "facing=west,platter=0": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_0",
+      "y": 270
+    },
+    "facing=west,platter=1": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_1",
+      "y": 270
+    },
+    "facing=west,platter=10": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_10",
+      "y": 270
+    },
+    "facing=west,platter=11": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_11",
+      "y": 270
+    },
+    "facing=west,platter=12": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_12",
+      "y": 270
+    },
+    "facing=west,platter=13": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_13",
+      "y": 270
+    },
+    "facing=west,platter=14": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_14",
+      "y": 270
+    },
+    "facing=west,platter=15": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_15",
+      "y": 270
+    },
+    "facing=west,platter=2": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_2",
+      "y": 270
+    },
+    "facing=west,platter=3": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_3",
+      "y": 270
+    },
+    "facing=west,platter=4": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_4",
+      "y": 270
+    },
+    "facing=west,platter=5": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_5",
+      "y": 270
+    },
+    "facing=west,platter=6": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_6",
+      "y": 270
+    },
+    "facing=west,platter=7": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_7",
+      "y": 270
+    },
+    "facing=west,platter=8": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_8",
+      "y": 270
+    },
+    "facing=west,platter=9": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_platter_9",
+      "y": 270
+    }
+  }
+}

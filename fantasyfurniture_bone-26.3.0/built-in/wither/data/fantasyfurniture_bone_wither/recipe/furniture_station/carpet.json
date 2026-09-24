@@ -1,0 +1,10 @@
+{
+  "type": "fantasyfurniture:furniture_station",
+  "binding_agent": "#fantasyfurniture:binding_agent",
+  "group": "wither",
+  "planks": "fantasyfurniture_bone_wither:bricks",
+  "result": {
+    "id": "fantasyfurniture_bone_wither:carpet"
+  },
+  "wool": "fantasyfurniture_bone_wither:wool"
+}

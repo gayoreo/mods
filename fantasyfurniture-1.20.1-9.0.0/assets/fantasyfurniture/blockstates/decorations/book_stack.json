@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "books=0,facing=east": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_0",
+      "y": 90
+    },
+    "books=0,facing=north": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_0"
+    },
+    "books=0,facing=south": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_0",
+      "y": 180
+    },
+    "books=0,facing=west": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_0",
+      "y": 270
+    },
+    "books=1,facing=east": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_1",
+      "y": 90
+    },
+    "books=1,facing=north": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_1"
+    },
+    "books=1,facing=south": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_1",
+      "y": 180
+    },
+    "books=1,facing=west": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_1",
+      "y": 270
+    },
+    "books=2,facing=east": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_2",
+      "y": 90
+    },
+    "books=2,facing=north": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_2"
+    },
+    "books=2,facing=south": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_2",
+      "y": 180
+    },
+    "books=2,facing=west": {
+      "model": "fantasyfurniture:generated/block/decorations/book_stack_2",
+      "y": 270
+    }
+  }
+}

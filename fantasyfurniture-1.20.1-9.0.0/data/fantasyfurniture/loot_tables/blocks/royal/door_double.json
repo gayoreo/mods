@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "conditions": [
+            {
+              "block": "fantasyfurniture:royal/door_double",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ],
+          "name": "fantasyfurniture:royal/door_double"
+        }
+      ],
+      "functions": [
+        {
+          "block": "fantasyfurniture:royal/door_double",
+          "function": "minecraft:copy_state",
+          "properties": [
+            "dye_color"
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "fantasyfurniture:blocks/royal/door_double"
+}

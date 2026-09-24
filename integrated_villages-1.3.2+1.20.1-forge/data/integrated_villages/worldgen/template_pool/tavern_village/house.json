@@ -1,0 +1,279 @@
+{
+  "name": "integrated_villages:tavern_village/house",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/house/tavern_village_basichouse1",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 25,
+          "kernel_distance": 25
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/house/tavern_village_basichouse2",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 25,
+          "kernel_distance": 25
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/house/tavern_village_basichouse3",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 25,
+          "kernel_distance": 25
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "integrated_villages:tavern_village/house/tavern_village_blacksmith",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "modifiers": [
+          {
+            "condition": {
+              "type": "integrated_api:piece_in_range",
+              "pieces": [
+                "integrated_villages:tavern_village/house/tavern_village_blacksmith"
+              ],
+              "above_range": 15,
+              "horizontal_range": 40,
+              "below_range": 15
+            },
+            "target_selector": {
+              "type": "integrated_api:self"
+            },
+            "actions": [
+              {
+                "type": "integrated_api:transform",
+                "output": [
+                  "integrated_villages:tavern_village/house/tavern_village_basichouse2"
+                ]
+              }
+            ]
+          }
+        ],
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 25,
+          "kernel_distance": 25
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "integrated_villages:tavern_village/house/tavern_village_butcher",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 25,
+          "kernel_distance": 25
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "integrated_villages:tavern_village/house/tavern_village_farmhouse1",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 25,
+          "kernel_distance": 25
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "integrated_villages:tavern_village/house/tavern_village_farmhouse2",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 25,
+          "kernel_distance": 25
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "integrated_villages:tavern_village/house/tavern_village_shepard",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 25,
+          "kernel_distance": 25
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/house/tavern_village_stable",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "modifiers": [
+          {
+            "condition": {
+              "type": "integrated_api:piece_in_range",
+              "pieces": [
+                "integrated_villages:tavern_village/house/tavern_village_stable"
+              ],
+              "above_range": 15,
+              "horizontal_range": 40,
+              "below_range": 15
+            },
+            "target_selector": {
+              "type": "integrated_api:self"
+            },
+            "actions": [
+              {
+                "type": "integrated_api:transform",
+                "output": [
+                  "integrated_villages:tavern_village/house/tavern_village_basichouse1"
+                ]
+              }
+            ]
+          }
+        ],
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 25,
+          "kernel_distance": 25
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

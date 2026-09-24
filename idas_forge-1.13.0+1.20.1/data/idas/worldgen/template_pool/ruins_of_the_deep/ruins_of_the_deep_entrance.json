@@ -1,0 +1,22 @@
+{
+  "name": "idas:ruins_of_the_deep/ruins_of_the_deep_entrance",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:ruins_of_the_deep/ruins_of_the_deep_entrance",
+        "processors": "idas:waterlogging_fix_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 17,
+          "kernel_distance": 17
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/nordic_boiled_creme_treats_1",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "nordic_boiled_creme_treats": "fantasyfurniture:block/models/decorations/nordic_boiled_creme_treats",
+    "particle": "fantasyfurniture:block/particles/decorations/nordic_boiled_creme_treats"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "fantasyfurniture_decorations:block/widow_bloom",
+    "model": {
+      "type": "fantasyfurniture_decorations:widow_bloom"
+    }
+  }
+}

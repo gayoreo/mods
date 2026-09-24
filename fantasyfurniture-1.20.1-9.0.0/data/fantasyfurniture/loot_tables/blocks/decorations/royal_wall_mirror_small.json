@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fantasyfurniture:decorations/royal_wall_mirror_small"
+        }
+      ],
+      "functions": [
+        {
+          "block": "fantasyfurniture:decorations/royal_wall_mirror_small",
+          "function": "minecraft:copy_state",
+          "properties": [
+            "dye_color"
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "fantasyfurniture:blocks/decorations/royal_wall_mirror_small"
+}

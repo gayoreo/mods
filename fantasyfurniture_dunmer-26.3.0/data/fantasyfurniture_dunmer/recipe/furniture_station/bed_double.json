@@ -1,0 +1,10 @@
+{
+  "type": "fantasyfurniture:furniture_station",
+  "binding_agent": "#fantasyfurniture:binding_agent",
+  "group": "dunmer",
+  "planks": "fantasyfurniture_dunmer:planks",
+  "result": {
+    "id": "fantasyfurniture_dunmer:bed_double"
+  },
+  "wool": "fantasyfurniture_dunmer:wool"
+}

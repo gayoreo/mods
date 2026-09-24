@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/bolts_of_cloth",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bolts_of_cloth": "fantasyfurniture:block/models/decorations/bolts_of_cloth",
+    "particle": "fantasyfurniture:block/particles/decorations/bolts_of_cloth"
+  }
+}

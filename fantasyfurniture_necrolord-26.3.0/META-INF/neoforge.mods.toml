@@ -1,0 +1,41 @@
+license = "AllRightsReserved"
+issueTrackerURL = "https://github.com/ApexStudios-Dev/FantasyFurniture/issues"
+
+[[mods]]
+modId = "fantasyfurniture_necrolord"
+version = "${file.jarVersion}"
+displayName = "Fantasy's Furniture - Necrolord"
+credits = "Apex - Programming"
+authors = "ApexStudios"
+description = "Necrolord Furniture set for Fantasy's Furniture"
+bannerFile = "banner.png"
+iconFile = "icon.png"
+displayURL = "https://modrinth.com/project/fantasys-furniture-necrolord"
+
+[[dependencies.fantasyfurniture_necrolord]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.3,26.4)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.fantasyfurniture_necrolord]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.fantasyfurniture_necrolord]]
+modId = "apexcore"
+type = "required"
+versionRange = "[26.3,26.4)"
+[dependencies.fantasyfurniture_necrolord.mc-publish]
+modrinth = "xl3myxch"
+curseforge = "550778"
+[[dependencies.fantasyfurniture_necrolord]]
+modId = "fantasyfurniture"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+[dependencies.fantasyfurniture_necrolord.mc-publish]
+modrinth = "A0nfCqYw"
+curseforge = "579564"

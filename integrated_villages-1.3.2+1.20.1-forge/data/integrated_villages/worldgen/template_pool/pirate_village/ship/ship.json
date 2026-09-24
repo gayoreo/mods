@@ -1,0 +1,30 @@
+{
+  "name": "integrated_villages:pirate_village/ship/ship",
+  "fallback": "integrated_villages:pirate_village/ship/ship",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:pirate_village/ship/pirate_village_large_ship",
+        "processors": "integrated_villages:pirate_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:none"
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:pirate_village/ship/pirate_village_small_ship",
+        "processors": "integrated_villages:pirate_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:none"
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

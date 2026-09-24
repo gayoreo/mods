@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "fantasyfurniture_decorations:block/skull_blossom_skeleton",
+    "model": {
+      "type": "fantasyfurniture_decorations:skull_blossom",
+      "skeleton": true
+    }
+  }
+}

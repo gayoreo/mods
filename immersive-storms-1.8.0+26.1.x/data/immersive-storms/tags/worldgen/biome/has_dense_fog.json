@@ -1,0 +1,17 @@
+{
+  "values": [
+    "minecraft:pale_garden",
+    {
+      "id": "#c:primary_wood_type/pale_oak",
+      "required": false
+    },
+    {
+      "id": "#c:is_spooky",
+      "required": false
+    },
+    {
+      "id": "#c:is_swamp",
+      "required": false
+    }
+  ]
+}

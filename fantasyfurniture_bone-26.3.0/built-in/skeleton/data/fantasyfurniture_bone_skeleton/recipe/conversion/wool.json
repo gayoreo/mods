@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "neoforge:ingredient_type": "neoforge:difference",
+    "base": "#minecraft:wool",
+    "subtracted": "#fantasyfurniture:furniture_wool"
+  },
+  "result": {
+    "id": "fantasyfurniture_bone_skeleton:wool"
+  }
+}

@@ -1,0 +1,93 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "projectatmosphere"
+version = "0.9.4"
+displayName = "Project Atmosphere"
+authors = "Gabou"
+description = '''Dynamic seasonal temperature and weather simulation with support for Serene Seasons and shaders.'''
+logoFile = "src/main/resources/assets/projectatmosphere/icon.png"
+mixinConfigs = "projectatmosphere.mixins.json"
+displayTest = "IGNORE_ALL_VERSION"
+
+[[dependencies."projectatmosphere"]]
+modId = "forge"
+mandatory = true
+versionRange = "[47.4,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies."projectatmosphere"]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.21)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies."projectatmosphere"]]
+modId = "sereneseasons"
+mandatory = false
+versionRange = "*"
+ordering = "AFTER"
+side = "BOTH"
+
+
+[[dependencies."projectatmosphere"]]
+modId = "sereneseasonsplus"
+mandatory = false
+versionRange = "[5.1.2,)"
+side = "BOTH"
+
+[[dependencies."projectatmosphere"]]
+modId = "dynamictrees"
+mandatory = false
+versionRange = "*"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies."projectatmosphere"]]
+modId = "sandstorm"
+mandatory = false
+versionRange = "*"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies."projectatmosphere"]]
+modId = "simpleclouds"
+mandatory = true
+versionRange = "[0.7.3,0.7.4)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies."projectatmosphere"]]
+modId = "gaboulibs"
+mandatory = true
+versionRange = "[1.9,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies."projectatmosphere"]]
+modId = "distanthorizons"
+mandatory = false
+versionRange = "[3.0.1-b,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies."projectatmosphere"]]
+modId = "coolrain"
+mandatory = false
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies."projectatmosphere"]]
+modId = "projectatmospherefortfc"
+mandatory = false
+versionRange = "[1.2.0,)"
+ordering = "AFTER"
+side = "BOTH"
+
+
+

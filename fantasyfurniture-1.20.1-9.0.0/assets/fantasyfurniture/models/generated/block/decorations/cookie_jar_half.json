@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/cookie_jar_half",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cookie_jar": "fantasyfurniture:block/models/decorations/cookie_jar",
+    "particle": "fantasyfurniture:block/particles/decorations/cookie_jar"
+  }
+}

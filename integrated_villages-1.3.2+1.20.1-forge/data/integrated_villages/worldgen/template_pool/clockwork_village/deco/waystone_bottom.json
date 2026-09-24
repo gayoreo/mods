@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:clockwork_village/waystone_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:clockwork_village/deco/clockwork_village_waystone_bottom",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

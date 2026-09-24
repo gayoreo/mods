@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/royal/desk_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "desk_right": "fantasyfurniture:block/models/royal/desk",
+    "particle": "fantasyfurniture:block/particles/royal"
+  }
+}

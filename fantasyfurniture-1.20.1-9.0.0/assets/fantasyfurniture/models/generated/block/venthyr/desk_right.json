@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/venthyr/desk_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "desk_right": "fantasyfurniture:block/models/venthyr/desk",
+    "particle": "fantasyfurniture:block/particles/venthyr"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "workstations": [
+    {
+      "required_mod": "create",
+      "output_block": "create:basin",
+      "weight": 1
+    },
+    {
+      "required_mod": "dynamicvillage",
+      "output_block": "create:schematic_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "dynamicvillage",
+      "output_block": "create:track_station",
+      "weight": 1
+    },
+    {
+      "required_mod": "dynamicvillage",
+      "output_block": "create:item_drain",
+      "weight": 1
+    },
+    {
+      "required_mod": "createbettervillagers",
+      "output_block": "create:mechanical_arm",
+      "weight": 1
+    },
+    {
+      "required_mod": "scguns",
+      "output_block": "scguns:gun_bench",
+      "weight": 1
+    }
+  ]
+}

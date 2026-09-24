@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/nordic/chair",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "chair": "fantasyfurniture:block/models/nordic/chair",
+    "particle": "fantasyfurniture:block/particles/nordic"
+  }
+}

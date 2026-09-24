@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/dunmer/wardrobe_top",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/dunmer",
+    "wardrobe_top": "fantasyfurniture:block/models/dunmer/wardrobe"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "integrated_villages:tavern_village/path_well",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_well1",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_well2",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

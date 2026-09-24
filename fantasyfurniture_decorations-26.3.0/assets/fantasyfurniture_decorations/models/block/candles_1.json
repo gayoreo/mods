@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture_decorations:block/candles_0",
+  "textures": {
+    "candles": "fantasyfurniture_decorations:block/candles_1",
+    "particle": "fantasyfurniture_decorations:block/candles_1_particle"
+  }
+}

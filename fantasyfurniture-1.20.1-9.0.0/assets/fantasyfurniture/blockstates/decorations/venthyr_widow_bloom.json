@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:block/decorations/venthyr_widow_bloom"
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:block/decorations/venthyr_widow_bloom"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:block/decorations/venthyr_widow_bloom"
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:block/decorations/venthyr_widow_bloom"
+    }
+  }
+}

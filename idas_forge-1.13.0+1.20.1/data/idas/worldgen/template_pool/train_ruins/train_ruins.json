@@ -1,0 +1,15 @@
+{
+  "name": "idas:train_ruins/train_ruins",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:train_ruins/train_ruins",
+        "processors": "idas:train_ruins_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

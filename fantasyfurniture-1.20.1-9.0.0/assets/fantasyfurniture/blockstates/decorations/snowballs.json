@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=east,snowballs=0": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_0",
+      "y": 90
+    },
+    "facing=east,snowballs=1": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_1",
+      "y": 90
+    },
+    "facing=east,snowballs=2": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_2",
+      "y": 90
+    },
+    "facing=east,snowballs=3": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_3",
+      "y": 90
+    },
+    "facing=north,snowballs=0": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_0"
+    },
+    "facing=north,snowballs=1": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_1"
+    },
+    "facing=north,snowballs=2": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_2"
+    },
+    "facing=north,snowballs=3": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_3"
+    },
+    "facing=south,snowballs=0": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_0",
+      "y": 180
+    },
+    "facing=south,snowballs=1": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_1",
+      "y": 180
+    },
+    "facing=south,snowballs=2": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_2",
+      "y": 180
+    },
+    "facing=south,snowballs=3": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_3",
+      "y": 180
+    },
+    "facing=west,snowballs=0": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_0",
+      "y": 270
+    },
+    "facing=west,snowballs=1": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_1",
+      "y": 270
+    },
+    "facing=west,snowballs=2": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_2",
+      "y": 270
+    },
+    "facing=west,snowballs=3": {
+      "model": "fantasyfurniture:generated/block/decorations/snowballs_3",
+      "y": 270
+    }
+  }
+}

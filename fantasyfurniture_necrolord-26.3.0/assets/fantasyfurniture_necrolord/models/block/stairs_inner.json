@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "fantasyfurniture_necrolord:block/bricks",
+    "side": "fantasyfurniture_necrolord:block/bricks",
+    "top": "fantasyfurniture_necrolord:block/bricks"
+  }
+}

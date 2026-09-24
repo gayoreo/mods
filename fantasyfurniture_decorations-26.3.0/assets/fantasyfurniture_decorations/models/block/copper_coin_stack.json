@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture_decorations:block/golden_coin_stack",
+  "textures": {
+    "coin_stack": "fantasyfurniture_decorations:block/copper_coin_stack",
+    "particle": "fantasyfurniture_decorations:block/copper_coin_stack_particle"
+  }
+}

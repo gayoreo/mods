@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:block/oven",
+	"textures": {
+		"oven": "fantasyfurniture_bone_wither:block/oven",
+		"particle": "fantasyfurniture_bone_wither:block/particle"
+	}
+}

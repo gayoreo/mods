@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:mossy_mounds/wagon_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mossy_mounds/path/mossy_mounds_wagon_bottom",
+        "processors": "integrated_villages:mossy_mounds_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

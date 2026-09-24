@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "fantasyfurniture:generated/block/decorations/bronze_chain",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "fantasyfurniture:generated/block/decorations/bronze_chain"
+    },
+    "axis=z": {
+      "model": "fantasyfurniture:generated/block/decorations/bronze_chain",
+      "x": 90
+    }
+  }
+}

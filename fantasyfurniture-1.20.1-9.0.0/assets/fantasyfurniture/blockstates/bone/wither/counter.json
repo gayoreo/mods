@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "connection=corner,facing=east": {
+      "model": "fantasyfurniture:generated/block/bone/wither/counter_corner",
+      "y": 90
+    },
+    "connection=corner,facing=north": {
+      "model": "fantasyfurniture:generated/block/bone/wither/counter_corner"
+    },
+    "connection=corner,facing=south": {
+      "model": "fantasyfurniture:generated/block/bone/wither/counter_corner",
+      "y": 180
+    },
+    "connection=corner,facing=west": {
+      "model": "fantasyfurniture:generated/block/bone/wither/counter_corner",
+      "y": 270
+    },
+    "connection=single,facing=east": {
+      "model": "fantasyfurniture:generated/block/bone/wither/counter_single",
+      "y": 90
+    },
+    "connection=single,facing=north": {
+      "model": "fantasyfurniture:generated/block/bone/wither/counter_single"
+    },
+    "connection=single,facing=south": {
+      "model": "fantasyfurniture:generated/block/bone/wither/counter_single",
+      "y": 180
+    },
+    "connection=single,facing=west": {
+      "model": "fantasyfurniture:generated/block/bone/wither/counter_single",
+      "y": 270
+    }
+  }
+}

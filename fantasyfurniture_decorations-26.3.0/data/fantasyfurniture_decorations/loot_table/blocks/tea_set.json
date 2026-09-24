@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fantasyfurniture_decorations:tea_set"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "fantasyfurniture_decorations:blocks/tea_set"
+}

@@ -1,0 +1,14 @@
+{
+  "workstations": [
+    {
+      "required_mod": "minecraft",
+      "output_block": "minecraft:lectern",
+      "weight": 1
+    },
+    {
+      "required_mod": "iceandfire",
+      "output_block": "iceandfire:lectern",
+      "weight": 1
+    }
+  ]
+}

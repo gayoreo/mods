@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:block/painting_small",
+	"textures": {
+		"painting_small": "fantasyfurniture_bone_skeleton:block/painting_small",
+		"particle": "fantasyfurniture_bone_skeleton:block/particle"
+	}
+}

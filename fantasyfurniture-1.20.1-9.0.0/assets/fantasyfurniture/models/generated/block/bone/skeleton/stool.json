@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/bone/skeleton/stool",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/bone",
+    "stool": "fantasyfurniture:block/models/bone/skeleton/stool"
+  }
+}

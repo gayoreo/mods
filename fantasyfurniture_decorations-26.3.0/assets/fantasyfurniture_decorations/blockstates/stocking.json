@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture_decorations:block/stocking",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture_decorations:block/stocking"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture_decorations:block/stocking",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture_decorations:block/stocking",
+      "y": 270
+    }
+  }
+}

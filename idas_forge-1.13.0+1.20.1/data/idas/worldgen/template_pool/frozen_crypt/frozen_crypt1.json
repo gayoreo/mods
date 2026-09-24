@@ -1,0 +1,22 @@
+{
+  "name": "idas:frozen_crypt/frozen_crypt1",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:frozen_crypt/frozen_crypt1",
+        "processors": "idas:frozen_crypt_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 10,
+          "kernel_distance": 10
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

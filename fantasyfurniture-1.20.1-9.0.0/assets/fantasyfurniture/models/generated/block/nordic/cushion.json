@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/nordic/cushion",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cushion": "fantasyfurniture:block/models/nordic/cushion",
+    "particle": "fantasyfurniture:block/particles/nordic"
+  }
+}

@@ -1,0 +1,6 @@
+// 1.20.1	2026-09-15T23:11:52.306118251	Hybrid Aquatic/minecraft:fishing Loot Table
+850a5a6fd1e27bd8d9174fb6f8cccf5a9d43a9d1 data/hybrid_aquatic/loot_tables/gameplay/message_in_a_bottle.json
+15e2b0c547559d233dc770d2ec2d43a64e55db74 data/hybrid_aquatic/loot_tables/gameplay/fishing/ha_medium_fish.json
+f1cd95d4c5c4edddf0b0e8b63f31fd4e5ad6d6dd data/hybrid_aquatic/loot_tables/gameplay/fishing/ha_crates.json
+752d0c84cf2a6a1f4236d58d7bcbc62df31dde8e data/hybrid_aquatic/loot_tables/gameplay/fishing/ha_large_fish.json
+ee7704b0964dbb960ae74d164c8040833cc15cd9 data/hybrid_aquatic/loot_tables/gameplay/fishing/ha_small_fish.json

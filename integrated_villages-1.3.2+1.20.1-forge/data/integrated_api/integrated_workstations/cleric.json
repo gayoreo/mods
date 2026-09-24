@@ -1,0 +1,54 @@
+{
+  "workstations": [
+    {
+      "required_mod": "minecraft",
+      "output_block": "minecraft:brewing_stand",
+      "weight": 1
+    },
+    {
+      "required_mod": "morevillagers",
+      "output_block": "morevillagers:blueprint_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "villagersplus",
+      "output_block": "villagersplus:occultist_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "villagersplus",
+      "output_block": "villagersplus:alchemist_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "mna",
+      "output_block": "mna:runescribing_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "mna",
+      "output_block": "mna:manaweaving_altar",
+      "weight": 1
+    },
+    {
+      "required_mod": "mna",
+      "output_block": "mna:runeforge",
+      "weight": 1
+    },
+    {
+      "required_mod": "ars_nouveau",
+      "output_block": "ars_nouveau:arcane_core",
+      "weight": 1
+    },
+    {
+      "required_mod": "spell_engine",
+      "output_block": "spell_engine:spell_binding",
+      "weight": 1
+    },
+    {
+      "required_mod": "paladins",
+      "output_block": "paladins:monk_workbench",
+      "weight": 1
+    }
+  ]
+}

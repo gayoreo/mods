@@ -1,0 +1,25 @@
+{
+  "vertex": "projectatmosphere:hurricane_clouds",
+  "fragment": "projectatmosphere:hurricane_eye_mask",
+  "attributes": [
+    "Position",
+    "UV0"
+  ],
+  "samplers": [
+    { "name": "SourceColorSampler" },
+    { "name": "SourceDepthSampler" }
+  ],
+  "uniforms": [
+    { "name": "InverseProjMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "InverseModelViewMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "CameraPos", "type": "float", "count": 3, "values": [ 0.0, 0.0, 0.0 ] },
+    { "name": "MaxDistance", "type": "float", "count": 1, "values": [ 1100.0 ] },
+    { "name": "ProtectionEnabled", "type": "int", "count": 1, "values": [ 0 ] },
+    { "name": "StormCount", "type": "int", "count": 1, "values": [ 0 ] },
+    { "name": "StormPositions", "type": "float", "count": 12, "values": [ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ] },
+    { "name": "StormHeights", "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+    { "name": "EyeRadii", "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+    { "name": "EyeClearRadii", "type": "float", "count": 4, "values": [ 0.0, 0.0, 0.0, 0.0 ] },
+    { "name": "EyeSlopes", "type": "float", "count": 4, "values": [ 1.0, 1.0, 1.0, 1.0 ] }
+  ]
+}

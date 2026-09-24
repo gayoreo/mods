@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/bone_skeleton_chalices_2",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bone_skeleton_chalices": "fantasyfurniture:block/models/decorations/bone_skeleton_chalices",
+    "particle": "fantasyfurniture:block/particles/bone"
+  }
+}

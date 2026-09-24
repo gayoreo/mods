@@ -1,0 +1,22 @@
+{
+  "name": "integrated_villages:tavern_village/blacksmith",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 4,
+      "element": {
+        "location": "integrated_villages:tavern_village/house/tavern_village_blacksmith",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 25,
+          "kernel_distance": 25
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

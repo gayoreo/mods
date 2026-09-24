@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,rolls=0": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_0",
+      "y": 90
+    },
+    "facing=east,rolls=1": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_1",
+      "y": 90
+    },
+    "facing=east,rolls=2": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_2",
+      "y": 90
+    },
+    "facing=north,rolls=0": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_0"
+    },
+    "facing=north,rolls=1": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_1"
+    },
+    "facing=north,rolls=2": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_2"
+    },
+    "facing=south,rolls=0": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_0",
+      "y": 180
+    },
+    "facing=south,rolls=1": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_1",
+      "y": 180
+    },
+    "facing=south,rolls=2": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_2",
+      "y": 180
+    },
+    "facing=west,rolls=0": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_0",
+      "y": 270
+    },
+    "facing=west,rolls=1": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_1",
+      "y": 270
+    },
+    "facing=west,rolls=2": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_sweetrolls_2",
+      "y": 270
+    }
+  }
+}

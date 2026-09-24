@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:mediterranean_village/well/well",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/well/mediterranean_village_well",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

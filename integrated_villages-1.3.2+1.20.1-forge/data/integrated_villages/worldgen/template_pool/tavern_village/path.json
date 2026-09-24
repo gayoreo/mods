@@ -1,0 +1,159 @@
+{
+  "name": "integrated_villages:tavern_village/path",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_house1",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_house2",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_house3",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_house4",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_house5",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_house6",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_market1",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_market2",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_market3",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_well1",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_well2",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_large1",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_large2",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_large3",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_large4",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_large5",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_path_large6",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

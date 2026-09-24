@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/potion_bottles_2",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/decorations/potion_bottles",
+    "potion_bottles": "fantasyfurniture:block/models/decorations/potion_bottles"
+  }
+}

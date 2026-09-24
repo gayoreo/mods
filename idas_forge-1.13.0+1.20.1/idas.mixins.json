@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "com.craisinlord.idas.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "idas.refmap.json",
+  "mixins": [
+    "iceandfire.DisableStructures",
+    "iceandfire.LocateStructuresCommandMixin",
+    "LabyrinthBossKilledMixin",
+    "ServerLevelMixin",
+    "ServerPlayerTickMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8"
+}

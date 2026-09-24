@@ -1,0 +1,10 @@
+{
+  "model": {
+    "type": "minecraft:special",
+    "base": "fantasyfurniture_decorations:block/skull_blossom_wither",
+    "model": {
+      "type": "fantasyfurniture_decorations:skull_blossom",
+      "skeleton": false
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:item/wardrobe",
+	"textures": {
+		"wardrobe": "fantasyfurniture_bone_skeleton:block/wardrobe",
+		"particle": "fantasyfurniture_bone_skeleton:block/particle"
+	}
+}

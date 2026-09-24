@@ -1,0 +1,22 @@
+{
+  "name": "integrated_villages:mediterranean_village/windmill",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/house/mediterranean_village_windmill",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 10,
+          "kernel_distance": 10
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

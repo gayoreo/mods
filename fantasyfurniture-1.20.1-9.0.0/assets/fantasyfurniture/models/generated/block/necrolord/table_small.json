@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/necrolord/table_small",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/necrolord",
+    "table_small": "fantasyfurniture:block/models/necrolord/table_small"
+  }
+}

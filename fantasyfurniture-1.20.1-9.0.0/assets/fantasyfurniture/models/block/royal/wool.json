@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture:block/dyeable/cube_all",
+  "textures": {
+    "all": "fantasyfurniture:block/royal/wool",
+    "tint_all": "fantasyfurniture:block/royal/wool_tint"
+  }
+}

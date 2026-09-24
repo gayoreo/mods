@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fantasyfurniture_venthyr:item/door_double"
+  }
+}

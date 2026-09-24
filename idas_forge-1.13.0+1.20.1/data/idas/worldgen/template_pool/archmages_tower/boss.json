@@ -1,0 +1,15 @@
+{
+  "name": "idas:archmages_tower/archmages_tower_boss",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:archmages_tower/archmages_tower_boss",
+        "processors": "idas:archmages_tower_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

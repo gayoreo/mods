@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:generated/block/royal/desk_left",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:generated/block/royal/desk_left"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:generated/block/royal/desk_left",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:generated/block/royal/desk_left",
+      "y": 270
+    }
+  }
+}

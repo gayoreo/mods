@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:generated/block/venthyr/lockbox",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:generated/block/venthyr/lockbox"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:generated/block/venthyr/lockbox",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:generated/block/venthyr/lockbox",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/dunmer/bed_single_foot",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bed_single": "fantasyfurniture:block/models/dunmer/bed_single",
+    "particle": "fantasyfurniture:block/particles/dunmer"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture_decorations:block/book_stack_0_1",
+  "textures": {
+    "book_stack": "fantasyfurniture_decorations:block/book_stack_1",
+    "particle": "fantasyfurniture_decorations:block/book_stack_1_particle"
+  }
+}

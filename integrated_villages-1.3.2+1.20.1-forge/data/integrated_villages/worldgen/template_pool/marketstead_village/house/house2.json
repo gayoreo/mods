@@ -1,0 +1,134 @@
+{
+  "name": "integrated_villages:marketstead_village/house",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/house/marketstead_village_fisherman",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/house/marketstead_village_engineer",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/house/marketstead_village_leatherworker",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/house/marketstead_village_botanist",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/house/marketstead_village_beastery",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/house/marketstead_village_basichouse1",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/house/marketstead_village_basichouse2",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/house/marketstead_village_stables",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

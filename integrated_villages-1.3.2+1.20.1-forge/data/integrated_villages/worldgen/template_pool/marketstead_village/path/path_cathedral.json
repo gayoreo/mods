@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:marketstead_village/path/path_cathedral",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:marketstead_village/path/marketstead_village_path_cathedral",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

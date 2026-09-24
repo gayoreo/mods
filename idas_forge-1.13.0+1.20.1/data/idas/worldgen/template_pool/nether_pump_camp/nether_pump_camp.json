@@ -1,0 +1,15 @@
+{
+  "name": "idas:nether_pump_camp/nether_pump_camp",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:nether_pump_camp/nether_pump_camp",
+        "processors": "idas:waterlogging_fix_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

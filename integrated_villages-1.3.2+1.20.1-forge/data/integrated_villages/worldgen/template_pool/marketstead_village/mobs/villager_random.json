@@ -1,0 +1,40 @@
+{
+  "name": "integrated_villages:marketstead_village/marketstead_village_villager",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "projection": "rigid",
+        "element_type": "minecraft:empty_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "integrated_villages:marketstead_village/mobs/marketstead_village_villager",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/mobs/marketstead_village_villager_baby",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/mobs/marketstead_village_villager_nitwit",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

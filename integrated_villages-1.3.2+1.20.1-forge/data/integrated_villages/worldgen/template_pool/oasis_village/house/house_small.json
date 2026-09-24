@@ -1,0 +1,102 @@
+{
+  "name": "integrated_villages:oasis_village/house_small",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:oasis_village/house/oasis_village_stables",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:oasis_village/house/oasis_village_basichouse1",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:oasis_village/house/oasis_village_basichouse2",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:oasis_village/house/oasis_village_basichouse3",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:oasis_village/house/oasis_village_basichouse4",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/house/oasis_village_tower_small",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

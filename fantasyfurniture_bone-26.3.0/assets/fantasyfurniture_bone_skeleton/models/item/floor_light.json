@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:item/floor_light",
+	"textures": {
+		"floor_light": "fantasyfurniture_bone_skeleton:block/floor_light",
+		"particle": "fantasyfurniture_bone_skeleton:block/particle"
+	}
+}

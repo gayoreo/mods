@@ -1,0 +1,10 @@
+{
+  "type": "fantasyfurniture:furniture_station",
+  "binding_agent": "#fantasyfurniture:binding_agent",
+  "group": "venthyr",
+  "planks": "fantasyfurniture_venthyr:planks",
+  "result": {
+    "id": "fantasyfurniture_venthyr:shelf"
+  },
+  "wool": "fantasyfurniture_venthyr:wool"
+}

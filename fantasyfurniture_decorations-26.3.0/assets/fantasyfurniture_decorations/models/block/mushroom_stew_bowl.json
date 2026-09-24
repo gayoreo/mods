@@ -1,0 +1,6 @@
+{
+  "parent": "fantasyfurniture_decorations:block/bowl",
+  "textures": {
+    "bowl": "fantasyfurniture_decorations:block/mushroom_stew_bowl"
+  }
+}

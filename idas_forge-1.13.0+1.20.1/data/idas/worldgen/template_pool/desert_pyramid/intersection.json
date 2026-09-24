@@ -1,0 +1,42 @@
+{
+  "name": "idas:desert_pyramid/intersection",
+  "fallback": "idas:desert_pyramid/room",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_intersection1",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_intersection2",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_intersection3",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_intersection4",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

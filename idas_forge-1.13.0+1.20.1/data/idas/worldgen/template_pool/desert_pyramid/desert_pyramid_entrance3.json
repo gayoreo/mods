@@ -1,0 +1,15 @@
+{
+  "name": "idas:desert_pyramid/desert_pyramid_entrance3",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_entrance3",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

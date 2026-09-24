@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "net.conczin.immersive_furniture.forge.mixin",
+  "refmap": "immersive_furniture.refmap.json",
+  "compatibilityLevel": "JAVA_17",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [],
+  "client": []
+}

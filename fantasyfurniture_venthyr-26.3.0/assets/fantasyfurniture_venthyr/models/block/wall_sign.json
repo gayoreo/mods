@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wall_sign",
+  "textures": {
+    "all": "fantasyfurniture_venthyr:block/sign",
+    "particle": "fantasyfurniture_venthyr:block/planks"
+  }
+}

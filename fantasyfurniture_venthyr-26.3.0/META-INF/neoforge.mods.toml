@@ -1,0 +1,41 @@
+license = "AllRightsReserved"
+issueTrackerURL = "https://github.com/ApexStudios-Dev/FantasyFurniture/issues"
+
+[[mods]]
+modId = "fantasyfurniture_venthyr"
+version = "${file.jarVersion}"
+displayName = "Fantasy's Furniture - Venthyr"
+credits = "Apex - Programming"
+authors = "ApexStudios"
+description = "Venthyr Furniture set for Fantasy's Furniture"
+bannerFile = "banner.png"
+iconFile = "icon.png"
+displayURL = "https://modrinth.com/project/fantasys-furniture-venthyr"
+
+[[dependencies.fantasyfurniture_venthyr]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.3,26.4)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.fantasyfurniture_venthyr]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.fantasyfurniture_venthyr]]
+modId = "apexcore"
+type = "required"
+versionRange = "[26.3,26.4)"
+[dependencies.fantasyfurniture_venthyr.mc-publish]
+modrinth = "xl3myxch"
+curseforge = "550778"
+[[dependencies.fantasyfurniture_venthyr]]
+modId = "fantasyfurniture"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+[dependencies.fantasyfurniture_venthyr.mc-publish]
+modrinth = "A0nfCqYw"
+curseforge = "579564"

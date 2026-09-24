@@ -1,0 +1,9 @@
+{
+  "workstations": [
+    {
+      "required_mod": "minecraft",
+      "output_block": "minecraft:cauldron",
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/nordic/lockbox",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "lockbox": "fantasyfurniture:block/models/nordic/lockbox",
+    "particle": "fantasyfurniture:block/particles/nordic"
+  }
+}

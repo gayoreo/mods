@@ -1,0 +1,23 @@
+{
+  "name": "idas:tree_of_wisdom/tree_of_wisdom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:tree_of_wisdom/tree_of_wisdom1",
+        "processors": "idas:waterlogging_fix_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 35,
+          "kernel_distance": 35
+        },
+        "is_priority": true,
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

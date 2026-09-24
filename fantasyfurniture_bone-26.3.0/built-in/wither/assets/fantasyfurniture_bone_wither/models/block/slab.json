@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "fantasyfurniture_bone_wither:block/bricks",
+    "side": "fantasyfurniture_bone_wither:block/bricks",
+    "top": "fantasyfurniture_bone_wither:block/bricks"
+  }
+}

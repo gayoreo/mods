@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture_decorations:block/muffins_blueberry_2",
+  "textures": {
+    "muffins": "fantasyfurniture_decorations:block/muffins_sweetberry",
+    "particle": "fantasyfurniture_decorations:block/muffins_sweetberry_particle"
+  }
+}

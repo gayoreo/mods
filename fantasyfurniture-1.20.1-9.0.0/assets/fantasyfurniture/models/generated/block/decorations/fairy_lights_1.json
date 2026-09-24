@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/fairy_lights_1",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "fairy_lights_1": "fantasyfurniture:block/models/decorations/fairy_lights_1",
+    "particle": "fantasyfurniture:block/particles/decorations/fairy_lights_1"
+  }
+}

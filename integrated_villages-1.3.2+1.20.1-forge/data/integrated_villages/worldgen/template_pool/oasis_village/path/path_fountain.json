@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:oasis_village/path/path_fountain",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_fountain",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

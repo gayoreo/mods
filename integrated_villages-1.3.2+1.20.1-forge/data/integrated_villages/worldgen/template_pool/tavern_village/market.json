@@ -1,0 +1,181 @@
+{
+  "name": "integrated_villages:tavern_village/market",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/market/tavern_village_market_stall1",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 20
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/market/tavern_village_market_stall2",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 20
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/market/tavern_village_market_stall3",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 20
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/market/tavern_village_market_stall4",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 20
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/market/tavern_village_market_stall5",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 20
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/market/tavern_village_market_stall6",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 20
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/market/tavern_village_market_stall7",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 20
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

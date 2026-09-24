@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fantasyfurniture_dunmer:block/slab"
+    },
+    "type=double": {
+      "model": "fantasyfurniture_dunmer:block/planks"
+    },
+    "type=top": {
+      "model": "fantasyfurniture_dunmer:block/slab_top"
+    }
+  }
+}

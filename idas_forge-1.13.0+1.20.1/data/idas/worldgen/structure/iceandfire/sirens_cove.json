@@ -1,0 +1,15 @@
+{
+  "type": "integrated_api:optional_dependency_structure",
+  "start_pool": "idas:sirens_cove/sirens_cove1",
+  "size": 1,
+  "required_mods" : "iceandfire",
+  "valid_biome_radius_check": 3,
+  "biomes": "#idas:has_structure/sirens_cove_biomes",
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "start_height": {
+    "absolute": 0
+  },
+  "spawn_overrides": {}
+}

@@ -1,0 +1,18 @@
+{
+  "values": [
+    "fantasyfurniture:nordic/bed_single",
+    "fantasyfurniture:nordic/bed_double",
+    "fantasyfurniture:dunmer/bed_single",
+    "fantasyfurniture:dunmer/bed_double",
+    "fantasyfurniture:venthyr/bed_single",
+    "fantasyfurniture:venthyr/bed_double",
+    "fantasyfurniture:bone/skeleton/bed_single",
+    "fantasyfurniture:bone/skeleton/bed_double",
+    "fantasyfurniture:bone/wither/bed_single",
+    "fantasyfurniture:bone/wither/bed_double",
+    "fantasyfurniture:royal/bed_single",
+    "fantasyfurniture:royal/bed_double",
+    "fantasyfurniture:necrolord/bed_single",
+    "fantasyfurniture:necrolord/bed_double"
+  ]
+}

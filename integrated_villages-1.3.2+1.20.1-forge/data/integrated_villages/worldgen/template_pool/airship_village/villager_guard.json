@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:airship_village/airship_village_villager_guard",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:airship_village/mobs/airship_village_villager_guard",
+        "processors": "integrated_villages:airship_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/nordic/counter_single",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "counter": "fantasyfurniture:block/models/nordic/counter",
+    "particle": "fantasyfurniture:block/particles/nordic"
+  }
+}

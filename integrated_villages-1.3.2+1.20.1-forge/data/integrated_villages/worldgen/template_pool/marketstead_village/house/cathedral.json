@@ -1,0 +1,22 @@
+{
+  "name": "integrated_villages:marketstead_village/cathedral",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/house/marketstead_village_cathedral",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 20,
+          "kernel_distance": 20
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

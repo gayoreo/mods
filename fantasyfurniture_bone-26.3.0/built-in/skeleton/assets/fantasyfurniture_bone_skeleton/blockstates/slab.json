@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fantasyfurniture_bone_skeleton:block/slab"
+    },
+    "type=double": {
+      "model": "fantasyfurniture_bone_skeleton:block/bricks"
+    },
+    "type=top": {
+      "model": "fantasyfurniture_bone_skeleton:block/slab_top"
+    }
+  }
+}

@@ -1,0 +1,769 @@
+{
+  "variants": {
+    "color=black,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=black,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=black,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=black,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=black,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=black,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=black,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=black,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=black,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=black,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=black,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=black,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=blue,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=blue,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=blue,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=blue,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=blue,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=blue,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=blue,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=blue,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=blue,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=blue,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=blue,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=blue,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=brown,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=brown,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=brown,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=brown,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=brown,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=brown,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=brown,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=brown,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=brown,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=brown,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=brown,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=brown,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=cyan,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=cyan,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=cyan,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=cyan,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=cyan,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=cyan,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=cyan,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=cyan,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=cyan,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=cyan,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=cyan,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=cyan,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=gray,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=gray,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=gray,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=gray,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=gray,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=gray,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=gray,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=gray,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=gray,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=gray,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=gray,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=gray,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=green,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=green,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=green,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=green,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=green,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=green,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=green,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=green,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=green,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=green,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=green,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=green,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=light_blue,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=light_blue,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=light_blue,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=light_blue,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=light_blue,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=light_blue,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=light_blue,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=light_blue,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=light_blue,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=light_blue,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=light_blue,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=light_blue,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=light_gray,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=light_gray,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=light_gray,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=light_gray,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=light_gray,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=light_gray,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=light_gray,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=light_gray,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=light_gray,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=light_gray,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=light_gray,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=light_gray,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=lime,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=lime,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=lime,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=lime,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=lime,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=lime,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=lime,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=lime,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=lime,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=lime,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=lime,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=lime,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=magenta,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=magenta,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=magenta,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=magenta,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=magenta,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=magenta,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=magenta,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=magenta,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=magenta,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=magenta,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=magenta,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=magenta,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=none,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0",
+      "y": 90
+    },
+    "color=none,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0"
+    },
+    "color=none,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0",
+      "y": 180
+    },
+    "color=none,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0",
+      "y": 270
+    },
+    "color=none,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1",
+      "y": 90
+    },
+    "color=none,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1"
+    },
+    "color=none,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1",
+      "y": 180
+    },
+    "color=none,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1",
+      "y": 270
+    },
+    "color=none,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2",
+      "y": 90
+    },
+    "color=none,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2"
+    },
+    "color=none,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2",
+      "y": 180
+    },
+    "color=none,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2",
+      "y": 270
+    },
+    "color=orange,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=orange,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=orange,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=orange,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=orange,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=orange,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=orange,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=orange,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=orange,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=orange,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=orange,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=orange,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=pink,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=pink,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=pink,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=pink,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=pink,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=pink,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=pink,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=pink,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=pink,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=pink,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=pink,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=pink,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=purple,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=purple,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=purple,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=purple,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=purple,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=purple,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=purple,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=purple,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=purple,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=purple,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=purple,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=purple,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=red,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=red,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=red,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=red,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=red,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=red,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=red,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=red,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=red,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=red,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=red,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=red,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=white,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=white,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=white,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=white,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=white,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=white,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=white,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=white,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=white,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=white,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=white,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=white,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    },
+    "color=yellow,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 90
+    },
+    "color=yellow,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint"
+    },
+    "color=yellow,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 180
+    },
+    "color=yellow,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_0_tint",
+      "y": 270
+    },
+    "color=yellow,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 90
+    },
+    "color=yellow,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint"
+    },
+    "color=yellow,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 180
+    },
+    "color=yellow,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_1_tint",
+      "y": 270
+    },
+    "color=yellow,count=2,facing=east": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 90
+    },
+    "color=yellow,count=2,facing=north": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint"
+    },
+    "color=yellow,count=2,facing=south": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 180
+    },
+    "color=yellow,count=2,facing=west": {
+      "model": "fantasyfurniture_decorations:block/potion_bottles_2_tint",
+      "y": 270
+    }
+  }
+}

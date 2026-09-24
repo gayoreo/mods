@@ -1,0 +1,22 @@
+{
+  "name": "integrated_villages:oasis_village/fountain/fountain",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/fountain/oasis_village_fountain",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

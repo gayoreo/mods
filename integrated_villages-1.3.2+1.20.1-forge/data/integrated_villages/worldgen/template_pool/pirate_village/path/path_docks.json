@@ -1,0 +1,22 @@
+{
+  "name": "integrated_villages:pirate_village/path/path_docks",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:pirate_village/path/pirate_village_path_docks",
+        "processors": "integrated_villages:pirate_village_processor",
+        "projection": "terrain_matching",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 12,
+          "kernel_distance": 12
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

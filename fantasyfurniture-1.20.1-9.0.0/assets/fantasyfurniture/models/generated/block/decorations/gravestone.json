@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/gravestone",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "gravestone": "fantasyfurniture:block/models/decorations/gravestone",
+    "particle": "fantasyfurniture:block/particles/decorations/gravestone"
+  }
+}

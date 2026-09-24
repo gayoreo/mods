@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "fantasyfurniture_royal:item/door_double",
+    "tints": [
+      {
+        "type": "apexcore:dye_color"
+      }
+    ]
+  }
+}

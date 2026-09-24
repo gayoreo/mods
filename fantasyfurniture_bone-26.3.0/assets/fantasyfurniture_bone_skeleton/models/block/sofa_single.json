@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:block/sofa_single",
+	"textures": {
+		"sofa": "fantasyfurniture_bone_skeleton:block/sofa",
+		"particle": "fantasyfurniture_bone_skeleton:block/particle"
+	}
+}

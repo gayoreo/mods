@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:mossy_mounds/path/path_farmhouse",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mossy_mounds/path/mossy_mounds_path_farmhouse",
+        "processors": "integrated_villages:mossy_mounds_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

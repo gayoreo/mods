@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/bone/wither/shelf_center",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/bone_wither",
+    "shelf": "fantasyfurniture:block/models/bone/wither/shelf"
+  }
+}

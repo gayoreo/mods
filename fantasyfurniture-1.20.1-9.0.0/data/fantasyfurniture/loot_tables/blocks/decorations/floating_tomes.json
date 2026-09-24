@@ -1,0 +1,58 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fantasyfurniture:decorations/floating_tomes"
+        }
+      ],
+      "functions": [
+        {
+          "add": false,
+          "conditions": [
+            {
+              "block": "fantasyfurniture:decorations/floating_tomes",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "tomes": "0"
+              }
+            }
+          ],
+          "count": 1.0,
+          "function": "minecraft:set_count"
+        },
+        {
+          "add": false,
+          "conditions": [
+            {
+              "block": "fantasyfurniture:decorations/floating_tomes",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "tomes": "1"
+              }
+            }
+          ],
+          "count": 2.0,
+          "function": "minecraft:set_count"
+        },
+        {
+          "block": "fantasyfurniture:decorations/floating_tomes",
+          "function": "minecraft:copy_state",
+          "properties": [
+            "dye_color"
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "fantasyfurniture:blocks/decorations/floating_tomes"
+}

@@ -1,0 +1,46 @@
+{
+	"schemaVersion": 1,
+	"id": "immersivelanterns",
+	"name": "Immersive Lanterns",
+	"version": "1.0.6",
+	"description": "Adds dynamic lighting and Accessories support to lanterns, with physics!",
+	"authors": [
+		"Toni"
+	],
+	"contact": {
+		"sources": "https://github.com/txnimc/ImmersiveLanterns",
+		"issues": "https://github.com/txnimc/ImmersiveLanterns/issues"
+	},
+	"license": "Toni's MMC License",
+	"icon": "assets/immersivelanterns/textures/mod_logo.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"toni.immersivelanterns.ImmersiveLanterns"
+		],
+		"client": [
+			"toni.immersivelanterns.ImmersiveLanterns"
+		],
+		"fabric-datagen": [
+			"toni.immersivelanterns.foundation.data.ImmersiveLanternsDatagen"
+		]
+	},
+	"mixins": [
+		"mixins.immersivelanterns.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "[1.20.1]",
+		"fabric-api": "*",
+		"accessories": "*",
+		"txnilib": "*"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"modmenu.discord": "https://discord.gg/kS7auUeYmc"
+			}
+		}
+	},
+	"accessWidener": "immersivelanterns.accesswidener"
+}

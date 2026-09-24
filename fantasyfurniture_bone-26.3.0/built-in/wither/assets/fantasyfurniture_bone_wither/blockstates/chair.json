@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,multi_block_index=0": {
+      "model": "fantasyfurniture_bone_wither:block/chair_bottom",
+      "y": 90
+    },
+    "facing=east,multi_block_index=1": {
+      "model": "fantasyfurniture_bone_wither:block/chair_top",
+      "y": 90
+    },
+    "facing=north,multi_block_index=0": {
+      "model": "fantasyfurniture_bone_wither:block/chair_bottom"
+    },
+    "facing=north,multi_block_index=1": {
+      "model": "fantasyfurniture_bone_wither:block/chair_top"
+    },
+    "facing=south,multi_block_index=0": {
+      "model": "fantasyfurniture_bone_wither:block/chair_bottom",
+      "y": 180
+    },
+    "facing=south,multi_block_index=1": {
+      "model": "fantasyfurniture_bone_wither:block/chair_top",
+      "y": 180
+    },
+    "facing=west,multi_block_index=0": {
+      "model": "fantasyfurniture_bone_wither:block/chair_bottom",
+      "y": 270
+    },
+    "facing=west,multi_block_index=1": {
+      "model": "fantasyfurniture_bone_wither:block/chair_top",
+      "y": 270
+    }
+  }
+}

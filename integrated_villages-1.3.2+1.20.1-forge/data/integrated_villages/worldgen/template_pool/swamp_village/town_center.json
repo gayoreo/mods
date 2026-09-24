@@ -1,0 +1,22 @@
+{
+  "name": "integrated_villages:swamp_village/town_center",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/swamp_village_town_center",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 5,
+          "kernel_distance": 9
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

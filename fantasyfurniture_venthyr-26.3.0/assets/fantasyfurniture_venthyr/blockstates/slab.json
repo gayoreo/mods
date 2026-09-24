@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fantasyfurniture_venthyr:block/slab"
+    },
+    "type=double": {
+      "model": "fantasyfurniture_venthyr:block/planks"
+    },
+    "type=top": {
+      "model": "fantasyfurniture_venthyr:block/slab_top"
+    }
+  }
+}

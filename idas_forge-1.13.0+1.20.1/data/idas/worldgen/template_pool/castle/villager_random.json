@@ -1,0 +1,40 @@
+{
+  "name": "idas:castle/castle_villager",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "element_type": "minecraft:empty_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "idas:castle/castle_villager",
+        "processors": "idas:castle_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:castle/castle_villager_baby",
+        "processors": "idas:castle_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:castle/castle_villager_nitwit",
+        "processors": "idas:castle_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

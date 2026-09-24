@@ -1,0 +1,15 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "com.github.llamalad7.mixinextras",
+        "artifact": "mixinextras-forge"
+      },
+      "version": {
+        "range": "[0.2.0-beta.7,)",
+        "artifactVersion": "0.2.0-beta.7"
+      },
+      "path": "META-INF/jars/mixinextras-forge-0.2.0-beta.7.jar"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#idas:collections/idassavannas",
+    "#idas:collections/idasfloral",
+    "#idas:collections/idasbirch_forests",
+    "#idas:collections/idasplains"
+  ]
+}

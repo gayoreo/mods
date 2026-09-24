@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/royal/oven",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "oven": "fantasyfurniture:block/models/royal/oven",
+    "particle": "fantasyfurniture:block/particles/royal"
+  }
+}

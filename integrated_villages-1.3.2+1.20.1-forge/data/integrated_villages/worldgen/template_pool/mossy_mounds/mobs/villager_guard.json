@@ -1,0 +1,22 @@
+{
+  "name": "integrated_villages:mossy_mounds/mossy_mounds_villager_guard",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "element_type": "minecraft:empty_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "integrated_villages:mossy_mounds/mobs/mossy_mounds_villager_guard",
+        "processors": "integrated_villages:mossy_mounds_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

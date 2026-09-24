@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:block/lockbox",
+	"textures": {
+		"lockbox": "fantasyfurniture_bone_wither:block/lockbox",
+		"particle": "fantasyfurniture_bone_wither:block/particle"
+	}
+}

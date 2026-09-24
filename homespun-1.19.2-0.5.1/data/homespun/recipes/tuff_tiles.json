@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "x": {
+      "item": "minecraft:tuff"
+    }
+  },
+  "pattern": [
+    "xx",
+    "xx"
+  ],
+  "result": {
+    "count": 4,
+    "item": "homespun:tuff_tiles"
+  }
+}

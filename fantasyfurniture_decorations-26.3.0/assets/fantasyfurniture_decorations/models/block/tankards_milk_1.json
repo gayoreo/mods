@@ -1,0 +1,6 @@
+{
+  "parent": "fantasyfurniture_decorations:block/tankards_1",
+  "textures": {
+    "tankards": "fantasyfurniture_decorations:block/tankards_milk"
+  }
+}

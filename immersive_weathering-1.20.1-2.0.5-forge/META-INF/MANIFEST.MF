@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+MixinConfigs: immersive_weathering-common.mixins.json,immersive_weatheri
+ ng.mixins.json
+

@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": "#hapi:jungle",
+  "spawners": {
+    "type": "hybrid_aquatic:corydora",
+    "maxCount": 3,
+    "minCount": 1,
+    "weight": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:clockwork_village/tree_large_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:clockwork_village/path/clockwork_village_tree_large_bottom",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:block/decorations/bone_skeleton_skull_blossoms"
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:block/decorations/bone_skeleton_skull_blossoms"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:block/decorations/bone_skeleton_skull_blossoms"
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:block/decorations/bone_skeleton_skull_blossoms"
+    }
+  }
+}

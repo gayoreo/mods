@@ -1,0 +1,22 @@
+{
+  "name": "integrated_villages:pirate_village/pirate_village_villager_guard",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "projection": "rigid",
+        "element_type": "minecraft:empty_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:pirate_village/mobs/pirate_village_villager_guard",
+        "processors": "integrated_villages:pirate_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

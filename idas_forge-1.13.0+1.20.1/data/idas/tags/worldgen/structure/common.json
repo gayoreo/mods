@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "idas:wizard_tower",
+    "idas:enchantingtower",
+    "idas:castle",
+    "idas:brickhouse",
+    "idas:abandonedhouse",
+    "idas:bearclaw_inn",
+    "idas:hunters_cabin",
+    "idas:farmhouse",
+    "idas:witches_treestump",
+    "idas:hermits_hollow",
+    "idas:fishermans_lodge",
+    "idas:redhorn_guild",
+    "idas:beekeepers_house",
+    "idas:apothecary_abode",
+    "idas:treetop_tavern",
+    "idas:haunted_manor",
+    "idas:winter_wagon",
+    "idas:dig_site/dig_site",
+    "idas:dig_site/dig_site_desert",
+    "idas:botanist",
+    "idas:mason_house",
+    "idas:abandoned_vineyard",
+    "idas:desert_ruins",
+    "idas:ruined_church",
+    "idas:ruined_fort",
+    "idas:ruined_well",
+    "idas:the_log"
+  ]
+}

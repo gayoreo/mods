@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,presents=0": {
+      "model": "fantasyfurniture:generated/block/decorations/presents_stack_1_0",
+      "y": 90
+    },
+    "facing=east,presents=1": {
+      "model": "fantasyfurniture:generated/block/decorations/presents_stack_1_1",
+      "y": 90
+    },
+    "facing=north,presents=0": {
+      "model": "fantasyfurniture:generated/block/decorations/presents_stack_1_0"
+    },
+    "facing=north,presents=1": {
+      "model": "fantasyfurniture:generated/block/decorations/presents_stack_1_1"
+    },
+    "facing=south,presents=0": {
+      "model": "fantasyfurniture:generated/block/decorations/presents_stack_1_0",
+      "y": 180
+    },
+    "facing=south,presents=1": {
+      "model": "fantasyfurniture:generated/block/decorations/presents_stack_1_1",
+      "y": 180
+    },
+    "facing=west,presents=0": {
+      "model": "fantasyfurniture:generated/block/decorations/presents_stack_1_0",
+      "y": 270
+    },
+    "facing=west,presents=1": {
+      "model": "fantasyfurniture:generated/block/decorations/presents_stack_1_1",
+      "y": 270
+    }
+  }
+}

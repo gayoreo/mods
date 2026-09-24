@@ -1,0 +1,15 @@
+{
+  "name": "idas:collectors_museum/collectors_museum1",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:collectors_museum/collectors_museum1",
+        "processors": "idas:collectors_museum_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

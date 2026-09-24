@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture_decorations:block/food_1",
+  "textures": {
+    "food": "fantasyfurniture_decorations:block/food_3",
+    "particle": "fantasyfurniture_decorations:block/food_2_particle"
+  }
+}

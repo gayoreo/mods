@@ -1,0 +1,58 @@
+{
+  "name": "integrated_villages:kutcha_village/path/decor",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:kutcha_village/path/kutcha_village_path_flax",
+        "processors": "integrated_villages:kutcha_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:kutcha_village/path/kutcha_village_path_flowers",
+        "processors": "integrated_villages:kutcha_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:kutcha_village/path/kutcha_village_path_fodder",
+        "processors": "integrated_villages:kutcha_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:kutcha_village/path/kutcha_village_path_sugarcane",
+        "processors": "integrated_villages:kutcha_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:kutcha_village/path/kutcha_village_path_wagon",
+        "processors": "integrated_villages:kutcha_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 4,
+          "kernel_distance": 3
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

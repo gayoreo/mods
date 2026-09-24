@@ -1,0 +1,6 @@
+{
+  "parent": "fantasyfurniture_decorations:block/berry_basket",
+  "textures": {
+    "berry_basket": "fantasyfurniture_decorations:block/blueberry_basket"
+  }
+}

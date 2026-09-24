@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture_decorations:block/bone_pile_skeleton",
+  "textures": {
+    "bone_pile": "fantasyfurniture_decorations:block/bone_pile_wither",
+    "particle": "fantasyfurniture_decorations:block/bone_pile_wither_particle"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "mappings": {
+    "net/Gabou/projectatmosphere/mixin/WeatherStateMixin": {
+      "isRainingAt": "Lnet/minecraft/world/level/Level;m_46758_(Lnet/minecraft/core/BlockPos;)Z"
+    },
+    "net/Gabou/projectatmosphere/mixin/ServerLevelWeatherCycleMixin": {
+      "tickChunk": "Lnet/minecraft/server/level/ServerLevel;m_8714_(Lnet/minecraft/world/level/chunk/LevelChunk;I)V",
+      "advanceWeatherCycle": "Lnet/minecraft/server/level/ServerLevel;m_184096_()V"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/OptionsScreenMixin": {
+      "init": "Lnet/minecraft/client/gui/screens/OptionsScreen;m_7856_()V"
+    },
+    "net/Gabou/projectatmosphere/mixin/WeatherCommandMixin": {
+      "setRain": "Lnet/minecraft/server/commands/WeatherCommand;m_139177_(Lnet/minecraft/commands/CommandSourceStack;I)I",
+      "setClear": "Lnet/minecraft/server/commands/WeatherCommand;m_139172_(Lnet/minecraft/commands/CommandSourceStack;I)I",
+      "setThunder": "Lnet/minecraft/server/commands/WeatherCommand;m_139182_(Lnet/minecraft/commands/CommandSourceStack;I)I"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/MixinMinecraftLevelLifecycle": {
+      "setLevel": "Lnet/minecraft/client/Minecraft;m_91156_(Lnet/minecraft/client/multiplayer/ClientLevel;)V"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/MinecraftCrashHandlerMixin": {
+      "Lnet/minecraft/client/Minecraft;runTick(Z)V": "Lnet/minecraft/client/Minecraft;m_91383_(Z)V",
+      "delayCrashRaw": "Lnet/minecraft/client/Minecraft;m_231439_(Lnet/minecraft/CrashReport;)V",
+      "run": "Lnet/minecraft/client/Minecraft;m_91374_()V",
+      "delayCrash": "Lnet/minecraft/client/Minecraft;m_231412_(Lnet/minecraft/CrashReport;)V"
+    },
+    "net/Gabou/projectatmosphere/mixin/BiomeFreezingMixin": {
+      "shouldFreeze(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;Z)Z": "Lnet/minecraft/world/level/biome/Biome;m_47480_(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;Z)Z",
+      "shouldSnow(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z": "Lnet/minecraft/world/level/biome/Biome;m_47519_(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/particle/WindBentParticleEngineMixin": {
+      "tickParticle": "Lnet/minecraft/client/particle/ParticleEngine;m_107393_(Lnet/minecraft/client/particle/Particle;)V"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/BlendModeAccessor": {
+      "lastApplied": "f_85499_:Lcom/mojang/blaze3d/shaders/BlendMode;"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/LoadingScreenMixin": {
+      "render": "m_88315_(Lnet/minecraft/client/gui/GuiGraphics;IIF)V"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/MixinLevelRenderer": {
+      "tickRain": "Lnet/minecraft/client/renderer/LevelRenderer;m_109693_(Lnet/minecraft/client/Camera;)V",
+      "renderSnowAndRain": "Lnet/minecraft/client/renderer/LevelRenderer;m_109703_(Lnet/minecraft/client/renderer/LightTexture;FDDD)V",
+      "renderClouds": "Lnet/minecraft/client/renderer/LevelRenderer;m_253054_(Lcom/mojang/blaze3d/vertex/PoseStack;Lorg/joml/Matrix4f;FDDD)V"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/MixinGameRenderer": {
+      "resize": "Lnet/minecraft/client/renderer/GameRenderer;m_109097_(II)V",
+      "close": "Lnet/minecraft/client/renderer/GameRenderer;close()V"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/particle/ParticleMotionAccessor": {
+      "zd": "f_107217_:D",
+      "xd": "f_107215_:D",
+      "friction": "f_172258_:F"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/LoadingOverlayMixin": {
+      "render": "Lnet/minecraft/client/gui/screens/LoadingOverlay;m_88315_(Lnet/minecraft/client/gui/GuiGraphics;IIF)V"
+    },
+    "net/Gabou/projectatmosphere/mixin/ThrownTridentWeatherMixin": {
+      "Lnet/minecraft/world/level/Level;isThundering()Z": "Lnet/minecraft/world/level/Level;m_46470_()Z",
+      "onHitEntity": "Lnet/minecraft/world/entity/projectile/ThrownTrident;m_5790_(Lnet/minecraft/world/phys/EntityHitResult;)V"
+    },
+    "net/Gabou/projectatmosphere/mixin/client/ClientLevelWeatherMixin": {
+      "getRainLevel": "Lnet/minecraft/world/level/Level;m_46722_(F)F",
+      "getThunderLevel": "Lnet/minecraft/world/level/Level;m_46661_(F)F",
+      "isThundering": "Lnet/minecraft/world/level/Level;m_46470_()Z",
+      "isRaining": "Lnet/minecraft/world/level/Level;m_46471_()Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/Gabou/projectatmosphere/mixin/WeatherStateMixin": {
+        "isRainingAt": "Lnet/minecraft/world/level/Level;m_46758_(Lnet/minecraft/core/BlockPos;)Z"
+      },
+      "net/Gabou/projectatmosphere/mixin/ServerLevelWeatherCycleMixin": {
+        "tickChunk": "Lnet/minecraft/server/level/ServerLevel;m_8714_(Lnet/minecraft/world/level/chunk/LevelChunk;I)V",
+        "advanceWeatherCycle": "Lnet/minecraft/server/level/ServerLevel;m_184096_()V"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/OptionsScreenMixin": {
+        "init": "Lnet/minecraft/client/gui/screens/OptionsScreen;m_7856_()V"
+      },
+      "net/Gabou/projectatmosphere/mixin/WeatherCommandMixin": {
+        "setRain": "Lnet/minecraft/server/commands/WeatherCommand;m_139177_(Lnet/minecraft/commands/CommandSourceStack;I)I",
+        "setClear": "Lnet/minecraft/server/commands/WeatherCommand;m_139172_(Lnet/minecraft/commands/CommandSourceStack;I)I",
+        "setThunder": "Lnet/minecraft/server/commands/WeatherCommand;m_139182_(Lnet/minecraft/commands/CommandSourceStack;I)I"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/MixinMinecraftLevelLifecycle": {
+        "setLevel": "Lnet/minecraft/client/Minecraft;m_91156_(Lnet/minecraft/client/multiplayer/ClientLevel;)V"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/MinecraftCrashHandlerMixin": {
+        "Lnet/minecraft/client/Minecraft;runTick(Z)V": "Lnet/minecraft/client/Minecraft;m_91383_(Z)V",
+        "delayCrashRaw": "Lnet/minecraft/client/Minecraft;m_231439_(Lnet/minecraft/CrashReport;)V",
+        "run": "Lnet/minecraft/client/Minecraft;m_91374_()V",
+        "delayCrash": "Lnet/minecraft/client/Minecraft;m_231412_(Lnet/minecraft/CrashReport;)V"
+      },
+      "net/Gabou/projectatmosphere/mixin/BiomeFreezingMixin": {
+        "shouldFreeze(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;Z)Z": "Lnet/minecraft/world/level/biome/Biome;m_47480_(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;Z)Z",
+        "shouldSnow(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z": "Lnet/minecraft/world/level/biome/Biome;m_47519_(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/particle/WindBentParticleEngineMixin": {
+        "tickParticle": "Lnet/minecraft/client/particle/ParticleEngine;m_107393_(Lnet/minecraft/client/particle/Particle;)V"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/BlendModeAccessor": {
+        "lastApplied": "f_85499_:Lcom/mojang/blaze3d/shaders/BlendMode;"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/LoadingScreenMixin": {
+        "render": "m_88315_(Lnet/minecraft/client/gui/GuiGraphics;IIF)V"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/MixinLevelRenderer": {
+        "tickRain": "Lnet/minecraft/client/renderer/LevelRenderer;m_109693_(Lnet/minecraft/client/Camera;)V",
+        "renderSnowAndRain": "Lnet/minecraft/client/renderer/LevelRenderer;m_109703_(Lnet/minecraft/client/renderer/LightTexture;FDDD)V",
+        "renderClouds": "Lnet/minecraft/client/renderer/LevelRenderer;m_253054_(Lcom/mojang/blaze3d/vertex/PoseStack;Lorg/joml/Matrix4f;FDDD)V"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/MixinGameRenderer": {
+        "resize": "Lnet/minecraft/client/renderer/GameRenderer;m_109097_(II)V",
+        "close": "Lnet/minecraft/client/renderer/GameRenderer;close()V"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/particle/ParticleMotionAccessor": {
+        "zd": "f_107217_:D",
+        "xd": "f_107215_:D",
+        "friction": "f_172258_:F"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/LoadingOverlayMixin": {
+        "render": "Lnet/minecraft/client/gui/screens/LoadingOverlay;m_88315_(Lnet/minecraft/client/gui/GuiGraphics;IIF)V"
+      },
+      "net/Gabou/projectatmosphere/mixin/ThrownTridentWeatherMixin": {
+        "Lnet/minecraft/world/level/Level;isThundering()Z": "Lnet/minecraft/world/level/Level;m_46470_()Z",
+        "onHitEntity": "Lnet/minecraft/world/entity/projectile/ThrownTrident;m_5790_(Lnet/minecraft/world/phys/EntityHitResult;)V"
+      },
+      "net/Gabou/projectatmosphere/mixin/client/ClientLevelWeatherMixin": {
+        "getRainLevel": "Lnet/minecraft/world/level/Level;m_46722_(F)F",
+        "getThunderLevel": "Lnet/minecraft/world/level/Level;m_46661_(F)F",
+        "isThundering": "Lnet/minecraft/world/level/Level;m_46470_()Z",
+        "isRaining": "Lnet/minecraft/world/level/Level;m_46471_()Z"
+      }
+    }
+  }
+}

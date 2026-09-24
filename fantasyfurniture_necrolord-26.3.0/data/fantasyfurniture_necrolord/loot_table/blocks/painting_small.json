@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fantasyfurniture_necrolord:painting_small"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "fantasyfurniture_necrolord:blocks/painting_small"
+}

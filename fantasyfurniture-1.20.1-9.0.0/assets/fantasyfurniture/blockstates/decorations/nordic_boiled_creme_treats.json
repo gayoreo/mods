@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,treats=0": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_0",
+      "y": 90
+    },
+    "facing=east,treats=1": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_1",
+      "y": 90
+    },
+    "facing=east,treats=2": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_2",
+      "y": 90
+    },
+    "facing=north,treats=0": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_0"
+    },
+    "facing=north,treats=1": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_1"
+    },
+    "facing=north,treats=2": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_2"
+    },
+    "facing=south,treats=0": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_0",
+      "y": 180
+    },
+    "facing=south,treats=1": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_1",
+      "y": 180
+    },
+    "facing=south,treats=2": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_2",
+      "y": 180
+    },
+    "facing=west,treats=0": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_0",
+      "y": 270
+    },
+    "facing=west,treats=1": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_1",
+      "y": 270
+    },
+    "facing=west,treats=2": {
+      "model": "fantasyfurniture:generated/block/decorations/nordic_boiled_creme_treats_2",
+      "y": 270
+    }
+  }
+}

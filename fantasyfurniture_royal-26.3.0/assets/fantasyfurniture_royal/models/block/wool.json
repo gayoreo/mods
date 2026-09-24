@@ -1,0 +1,7 @@
+{
+  "parent": "apexcore:block/cube_all_tinted",
+  "textures": {
+    "all": "fantasyfurniture_royal:block/wool",
+    "all_tinted": "fantasyfurniture_royal:block/wool_tint"
+  }
+}

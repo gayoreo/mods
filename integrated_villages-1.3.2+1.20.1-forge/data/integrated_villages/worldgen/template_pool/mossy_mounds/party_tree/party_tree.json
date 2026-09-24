@@ -1,0 +1,22 @@
+{
+  "name": "integrated_villages:mossy_mounds/party_tree",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mossy_mounds/party_tree/mossy_mounds_party_tree",
+        "processors": "integrated_villages:mossy_mounds_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 30,
+          "kernel_distance": 35
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

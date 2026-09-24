@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture_bone_wither:block/wall_light",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture_bone_wither:block/wall_light"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture_bone_wither:block/wall_light",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture_bone_wither:block/wall_light",
+      "y": 270
+    }
+  }
+}

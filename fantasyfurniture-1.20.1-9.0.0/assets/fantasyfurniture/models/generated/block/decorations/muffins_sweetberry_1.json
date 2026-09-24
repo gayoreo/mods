@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/muffins_sweetberry_1",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "muffins_sweetberry": "fantasyfurniture:block/models/decorations/muffins_sweetberry",
+    "particle": "fantasyfurniture:block/particles/decorations/muffins_sweetberry"
+  }
+}

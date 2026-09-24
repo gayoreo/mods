@@ -1,0 +1,83 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 256,
+				"texture_height": 128,
+				"visible_bounds_width": 8,
+				"visible_bounds_height": 3,
+				"visible_bounds_offset": [0, 0.5, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 6, -3]
+				},
+				{
+					"name": "torso",
+					"parent": "body",
+					"pivot": [0, 6, -3],
+					"cubes": [
+						{"origin": [-10, 0, -19], "size": [20, 18, 31], "uv": [0, 0]},
+						{"origin": [-10, 0, -19], "size": [20, 18, 31], "inflate": 0.5, "uv": [102, 0]}
+					]
+				},
+				{
+					"name": "head",
+					"parent": "torso",
+					"pivot": [0, 10, -19],
+					"cubes": [
+						{"origin": [-6.5, 5, -29], "size": [13, 12, 10], "uv": [54, 66]},
+						{"origin": [-6.5, 5, -29], "size": [13, 12, 10], "inflate": 0.5, "uv": [156, 66]},
+						{"origin": [-4.5, 3, -32], "size": [9, 12, 6], "uv": [96, 88]}
+					]
+				},
+				{
+					"name": "torso_2",
+					"parent": "torso",
+					"pivot": [0, 12, 12],
+					"cubes": [
+						{"origin": [-6.5, 7, 12], "size": [13, 10, 14], "uv": [0, 66]},
+						{"origin": [-6.5, 7, 12], "size": [13, 10, 14], "inflate": 0.5, "uv": [100, 64]}
+					]
+				},
+				{
+					"name": "tail",
+					"parent": "torso_2",
+					"pivot": [0, 13.5, 26],
+					"cubes": [
+						{"origin": [-3.5, 10, 26], "size": [7, 7, 14], "uv": [54, 88]},
+						{"origin": [-3.5, 10, 26], "size": [7, 7, 14], "inflate": 0.5, "uv": [156, 88]}
+					]
+				},
+				{
+					"name": "paddle",
+					"parent": "tail",
+					"pivot": [0, 13, 40.5],
+					"cubes": [
+						{"origin": [-4.5, 14, 36], "size": [9, 1, 8], "uv": [0, 90]},
+						{"origin": [-14.5, 14.5, 33], "size": [29, 0, 17], "uv": [0, 49]}
+					]
+				},
+				{
+					"name": "left_fin",
+					"parent": "torso",
+					"pivot": [11, 0, -13.5],
+					"cubes": [
+						{"origin": [10, -10, -16], "size": [2, 16, 7], "uv": [0, 100]}
+					]
+				},
+				{
+					"name": "right_fin",
+					"parent": "torso",
+					"pivot": [-11, 0, -13.5],
+					"cubes": [
+						{"origin": [-12, -10, -16], "size": [2, 16, 7], "uv": [0, 100], "mirror": true}
+					]
+				}
+			]
+		}
+	]
+}

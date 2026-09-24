@@ -1,0 +1,381 @@
+{
+  "name": "integrated_villages:swamp_village/deco/deco",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 15,
+      "element": {
+        "projection": "rigid",
+        "element_type": "minecraft:empty_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_big_stone_pillar",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_post_deco",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_crop_beetroot",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_crop_carrot",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_crop_flax",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_crop_potato",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_crop_wheat",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_props_1",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_props_2",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_props_3",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_props_4",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_props_5",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_props_6",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_props_large_1",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_props_large_2",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_props_large_3",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_props_large_4",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_hut_pig",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_hut_sheep",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_platform_1",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_platform_2",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_platform_3",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/swamp_village_platform_4",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

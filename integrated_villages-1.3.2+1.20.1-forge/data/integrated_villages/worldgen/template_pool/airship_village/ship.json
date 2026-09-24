@@ -1,0 +1,33 @@
+{
+  "name": "integrated_villages:airship_village/ship",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:airship_village/ship/airship_village_farmhouse",
+        "processors": "integrated_villages:airship_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:airship_village/ship/airship_village_fletcher",
+        "processors": "integrated_villages:airship_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:airship_village/ship/airship_village_leatherworker",
+        "processors": "integrated_villages:airship_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

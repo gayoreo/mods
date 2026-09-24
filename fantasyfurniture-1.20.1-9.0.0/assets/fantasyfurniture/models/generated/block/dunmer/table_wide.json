@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/dunmer/table_wide",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/dunmer",
+    "table_wide": "fantasyfurniture:block/models/dunmer/table_wide"
+  }
+}

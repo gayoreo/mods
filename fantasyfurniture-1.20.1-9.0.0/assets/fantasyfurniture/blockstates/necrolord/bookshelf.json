@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:generated/block/necrolord/bookshelf",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:generated/block/necrolord/bookshelf"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:generated/block/necrolord/bookshelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:generated/block/necrolord/bookshelf",
+      "y": 270
+    }
+  }
+}

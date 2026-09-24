@@ -1,0 +1,19 @@
+{
+  "workstations": [
+    {
+      "required_mod": "minecraft",
+      "output_block": "minecraft:fletching_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "recruits",
+      "output_block": "recruits:bowman_block",
+      "weight": 1
+    },
+    {
+      "required_mod": "archers",
+      "output_block": "archers:archers_workbench",
+      "weight": 1
+    }
+  ]
+}

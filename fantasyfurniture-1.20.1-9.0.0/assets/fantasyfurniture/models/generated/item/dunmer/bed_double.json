@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture:item/dunmer/bed_double",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bed_double": "fantasyfurniture:block/models/dunmer/bed_double"
+  }
+}

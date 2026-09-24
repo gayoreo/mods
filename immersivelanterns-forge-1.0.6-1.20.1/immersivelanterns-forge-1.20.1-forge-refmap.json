@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "toni/immersivelanterns/foundation/mixin/ModelPartAccessor": {
+      "children": "f_104213_:Ljava/util/Map;",
+      "cubes": "f_104212_:Ljava/util/List;"
+    },
+    "toni/immersivelanterns/foundation/mixin/IrisIdMapUniformsMixin": {
+      "Lnet/minecraft/client/player/LocalPlayer;getItemInHand(Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/item/ItemStack;": "Lnet/minecraft/client/player/LocalPlayer;m_21120_(Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/item/ItemStack;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "toni/immersivelanterns/foundation/mixin/ModelPartAccessor": {
+        "children": "f_104213_:Ljava/util/Map;",
+        "cubes": "f_104212_:Ljava/util/List;"
+      },
+      "toni/immersivelanterns/foundation/mixin/IrisIdMapUniformsMixin": {
+        "Lnet/minecraft/client/player/LocalPlayer;getItemInHand(Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/item/ItemStack;": "Lnet/minecraft/client/player/LocalPlayer;m_21120_(Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/item/ItemStack;"
+      }
+    }
+  }
+}

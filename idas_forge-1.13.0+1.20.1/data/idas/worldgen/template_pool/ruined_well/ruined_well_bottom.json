@@ -1,0 +1,15 @@
+{
+  "name": "idas:ruined_well/ruined_well_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:ruined_well/ruined_well_bottom",
+        "processors": "idas:waterlogging_fix_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"sway": {
+			"loop": true,
+			"bones": {
+				"tentacles": {
+					"rotation": {
+						"vector": ["Math.sin(query.anim_time * 90)*2.5", 0, "Math.cos(query.anim_time * 90)*2.5"]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

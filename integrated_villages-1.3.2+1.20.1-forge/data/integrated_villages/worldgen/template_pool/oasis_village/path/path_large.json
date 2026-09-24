@@ -1,0 +1,94 @@
+{
+  "name": "integrated_villages:oasis_village/path/path_large",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_large1",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_large2",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_large3",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_large4",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_large5",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_large6",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_large7",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_large8",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_large9",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 15
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

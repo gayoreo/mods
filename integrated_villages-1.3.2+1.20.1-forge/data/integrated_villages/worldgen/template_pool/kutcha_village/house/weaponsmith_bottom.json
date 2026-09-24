@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:kutcha_village/weaponsmith_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:kutcha_village/house/kutcha_village_weaponsmith_bottom",
+        "processors": "integrated_villages:kutcha_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

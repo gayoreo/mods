@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,muffins=0": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_0",
+      "y": 90
+    },
+    "facing=east,muffins=1": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_1",
+      "y": 90
+    },
+    "facing=east,muffins=2": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_2",
+      "y": 90
+    },
+    "facing=north,muffins=0": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_0"
+    },
+    "facing=north,muffins=1": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_1"
+    },
+    "facing=north,muffins=2": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_2"
+    },
+    "facing=south,muffins=0": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_0",
+      "y": 180
+    },
+    "facing=south,muffins=1": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_1",
+      "y": 180
+    },
+    "facing=south,muffins=2": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_2",
+      "y": 180
+    },
+    "facing=west,muffins=0": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_0",
+      "y": 270
+    },
+    "facing=west,muffins=1": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_1",
+      "y": 270
+    },
+    "facing=west,muffins=2": {
+      "model": "fantasyfurniture:generated/block/decorations/muffins_blueberry_2",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fantasyfurniture_nordic:block/slab"
+    },
+    "type=double": {
+      "model": "fantasyfurniture_nordic:block/planks"
+    },
+    "type=top": {
+      "model": "fantasyfurniture_nordic:block/slab_top"
+    }
+  }
+}

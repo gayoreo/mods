@@ -1,0 +1,15 @@
+{
+  "name": "idas:dig_site/dig_site_stables_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:dig_site/dig_site_stables_bottom",
+        "processors": "idas:dig_site_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

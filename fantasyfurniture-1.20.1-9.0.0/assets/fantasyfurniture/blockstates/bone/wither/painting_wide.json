@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:generated/block/bone/wither/painting_wide",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:generated/block/bone/wither/painting_wide"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:generated/block/bone/wither/painting_wide",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:generated/block/bone/wither/painting_wide",
+      "y": 270
+    }
+  }
+}

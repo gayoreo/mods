@@ -1,0 +1,33 @@
+{
+  "name": "idas:archmages_tower/mob",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "location": "idas:archmages_tower/archmages_tower_witch",
+        "processors": "idas:archmages_tower_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "idas:archmages_tower/archmages_tower_vindicator",
+        "processors": "idas:archmages_tower_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:archmages_tower/archmages_tower_evoker",
+        "processors": "idas:archmages_tower_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

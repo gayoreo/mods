@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture_decorations:block/chalices_1_1",
+  "textures": {
+    "chalices": "fantasyfurniture_decorations:block/chalices_2",
+    "particle": "fantasyfurniture_decorations:block/chalices_2_particle"
+  }
+}

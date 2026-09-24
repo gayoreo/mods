@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:generated/block/decorations/berry_basket_sweetberry",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:generated/block/decorations/berry_basket_sweetberry"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:generated/block/decorations/berry_basket_sweetberry",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:generated/block/decorations/berry_basket_sweetberry",
+      "y": 270
+    }
+  }
+}

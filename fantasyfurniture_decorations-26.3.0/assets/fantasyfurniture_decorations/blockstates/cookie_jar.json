@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,fullness=empty": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar",
+      "y": 90
+    },
+    "facing=east,fullness=full": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar_full",
+      "y": 90
+    },
+    "facing=east,fullness=half": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar_half",
+      "y": 90
+    },
+    "facing=north,fullness=empty": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar"
+    },
+    "facing=north,fullness=full": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar_full"
+    },
+    "facing=north,fullness=half": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar_half"
+    },
+    "facing=south,fullness=empty": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar",
+      "y": 180
+    },
+    "facing=south,fullness=full": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar_full",
+      "y": 180
+    },
+    "facing=south,fullness=half": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar_half",
+      "y": 180
+    },
+    "facing=west,fullness=empty": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar",
+      "y": 270
+    },
+    "facing=west,fullness=full": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar_full",
+      "y": 270
+    },
+    "facing=west,fullness=half": {
+      "model": "fantasyfurniture_decorations:block/cookie_jar_half",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture_decorations:block/mushroom_stew_bowl",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture_decorations:block/mushroom_stew_bowl"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture_decorations:block/mushroom_stew_bowl",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture_decorations:block/mushroom_stew_bowl",
+      "y": 270
+    }
+  }
+}

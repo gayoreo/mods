@@ -1,0 +1,79 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 6, -2.5]
+				},
+				{
+					"name": "torso",
+					"parent": "body",
+					"pivot": [0, 6, -2.5],
+					"cubes": [
+						{"origin": [-6.5, 0, -13], "size": [13, 12, 21], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "head",
+					"parent": "torso",
+					"pivot": [0, 8, -13],
+					"cubes": [
+						{"origin": [-4.5, 4, -21], "size": [9, 8, 8], "uv": [36, 44]},
+						{"origin": [-3.5, 2, -22], "size": [7, 8, 4], "uv": [30, 60]}
+					]
+				},
+				{
+					"name": "left_fin",
+					"parent": "torso",
+					"pivot": [6.5, 5, -8.5],
+					"cubes": [
+						{"origin": [6.5, -5, -11], "size": [2, 11, 5], "uv": [52, 60]}
+					]
+				},
+				{
+					"name": "right_fin",
+					"parent": "torso",
+					"pivot": [-6.5, 5, -8.5],
+					"cubes": [
+						{"origin": [-8.5, -5, -11], "size": [2, 11, 5], "uv": [52, 60], "mirror": true}
+					]
+				},
+				{
+					"name": "torso_2",
+					"parent": "torso",
+					"pivot": [0, 8.5, 8],
+					"cubes": [
+						{"origin": [-4.5, 5, 8], "size": [9, 7, 9], "uv": [0, 44]}
+					]
+				},
+				{
+					"name": "tail",
+					"parent": "torso_2",
+					"pivot": [0, 9.5, 17],
+					"cubes": [
+						{"origin": [-2.5, 7, 17], "size": [5, 5, 10], "uv": [0, 60]}
+					]
+				},
+				{
+					"name": "paddle",
+					"parent": "tail",
+					"pivot": [0, 10.5, 25.5],
+					"cubes": [
+						{"origin": [-4.5, 10, 23], "size": [9, 1, 5], "uv": [60, 33]},
+						{"origin": [-9.5, 10.5, 20], "size": [19, 0, 11], "uv": [0, 33]}
+					]
+				}
+			]
+		}
+	]
+}

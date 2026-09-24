@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "connection=center,facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_center",
+      "y": 90
+    },
+    "connection=center,facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_center"
+    },
+    "connection=center,facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_center",
+      "y": 180
+    },
+    "connection=center,facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_center",
+      "y": 270
+    },
+    "connection=left,facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_left",
+      "y": 90
+    },
+    "connection=left,facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_left"
+    },
+    "connection=left,facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_left",
+      "y": 180
+    },
+    "connection=left,facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_left",
+      "y": 270
+    },
+    "connection=right,facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_right",
+      "y": 90
+    },
+    "connection=right,facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_right"
+    },
+    "connection=right,facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_right",
+      "y": 180
+    },
+    "connection=right,facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_right",
+      "y": 270
+    },
+    "connection=single,facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_single",
+      "y": 90
+    },
+    "connection=single,facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_single"
+    },
+    "connection=single,facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_single",
+      "y": 180
+    },
+    "connection=single,facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/shelf_single",
+      "y": 270
+    }
+  }
+}

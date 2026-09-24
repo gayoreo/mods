@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/snowballs_3",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/decorations/snowballs",
+    "snowballs": "fantasyfurniture:block/models/decorations/snowballs"
+  }
+}

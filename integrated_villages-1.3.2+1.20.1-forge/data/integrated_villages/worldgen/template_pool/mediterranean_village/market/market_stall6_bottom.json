@@ -1,0 +1,31 @@
+{
+  "name": "integrated_villages:pirate_village/market/market_stall6_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/market/mediterranean_village_market_stall6_bottom",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "rigid",
+        "condition": {
+          "type": "integrated_api:all_of",
+          "conditions": [
+            {
+              "type": "integrated_api:depth",
+              "max_possible_depth": 15
+            }
+          ]
+        },
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 15,
+          "kernel_distance": 20
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:swamp_village/path/path_straight",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/path/swamp_village_path_house",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

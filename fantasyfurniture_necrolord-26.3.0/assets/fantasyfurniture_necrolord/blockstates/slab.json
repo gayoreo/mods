@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fantasyfurniture_necrolord:block/slab"
+    },
+    "type=double": {
+      "model": "fantasyfurniture_necrolord:block/bricks"
+    },
+    "type=top": {
+      "model": "fantasyfurniture_necrolord:block/slab_top"
+    }
+  }
+}

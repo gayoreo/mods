@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture_necrolord:block/lockbox",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture_necrolord:block/lockbox"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture_necrolord:block/lockbox",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture_necrolord:block/lockbox",
+      "y": 270
+    }
+  }
+}

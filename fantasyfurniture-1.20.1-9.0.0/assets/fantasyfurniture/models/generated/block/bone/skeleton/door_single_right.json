@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/bone/skeleton/door_single_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "door_single": "fantasyfurniture:block/models/bone/skeleton/door_single",
+    "particle": "fantasyfurniture:block/particles/bone"
+  }
+}

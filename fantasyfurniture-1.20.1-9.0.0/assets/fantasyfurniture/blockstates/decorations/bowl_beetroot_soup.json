@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:generated/block/decorations/bowl_beetroot_soup",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:generated/block/decorations/bowl_beetroot_soup"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:generated/block/decorations/bowl_beetroot_soup",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:generated/block/decorations/bowl_beetroot_soup",
+      "y": 270
+    }
+  }
+}

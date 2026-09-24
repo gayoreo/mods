@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture_decorations:block/soul_gems_dark",
+  "textures": {
+    "particle": "fantasyfurniture_decorations:block/soul_gems_light_particle",
+    "soul_gems": "fantasyfurniture_decorations:block/soul_gems_light"
+  }
+}

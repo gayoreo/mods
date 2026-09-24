@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:marketstead_village/fletcher_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:marketstead_village/house/marketstead_village_fletcher_bottom",
+        "processors": "integrated_villages:marketstead_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "mappings": {
+    "net/conczin/immersive_furniture/mixin/client/LevelRendererMixin": {
+      "renderHitOutline(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/world/entity/Entity;DDDLnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V": "Lnet/minecraft/client/renderer/LevelRenderer;m_109637_(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/world/entity/Entity;DDDLnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V"
+    },
+    "net/conczin/immersive_furniture/mixin/client/TextureAtlasAccessor": {
+      "sprites": "f_118263_:Ljava/util/List;"
+    },
+    "net/conczin/immersive_furniture/mixin/LivingEntityMixin": {
+      "checkBedExists()Z": "Lnet/minecraft/world/entity/LivingEntity;m_21334_()Z",
+      "tick": "Lnet/minecraft/world/entity/LivingEntity;m_8119_()V",
+      "getBedOrientation()Lnet/minecraft/core/Direction;": "Lnet/minecraft/world/entity/LivingEntity;m_21259_()Lnet/minecraft/core/Direction;",
+      "setPosToBed(Lnet/minecraft/core/BlockPos;)V": "Lnet/minecraft/world/entity/LivingEntity;m_21080_(Lnet/minecraft/core/BlockPos;)V"
+    },
+    "net/conczin/immersive_furniture/mixin/client/DebugScreenOverlayMixin": {
+      "getGameInformation": "Lnet/minecraft/client/gui/components/DebugScreenOverlay;m_94075_()Ljava/util/List;"
+    },
+    "net/conczin/immersive_furniture/mixin/client/CameraMixin": {
+      "setup(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V": "Lnet/minecraft/client/Camera;m_90575_(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V"
+    },
+    "net/conczin/immersive_furniture/mixin/client/ItemModelShaperMixin": {
+      "getItemModel(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/client/resources/model/BakedModel;": "Lnet/minecraft/client/renderer/ItemModelShaper;m_109406_(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/client/resources/model/BakedModel;"
+    },
+    "net/conczin/immersive_furniture/mixin/client/ItemRendererMixin": {
+      "render(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;IILnet/minecraft/client/resources/model/BakedModel;)V": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115143_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;IILnet/minecraft/client/resources/model/BakedModel;)V"
+    },
+    "net/conczin/immersive_furniture/mixin/ItemStackMixin": {
+      "isSameItemSameTags": "Lnet/minecraft/world/item/ItemStack;m_150942_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)Z"
+    },
+    "net/conczin/immersive_furniture/mixin/client/LivingEntityRendererMixin": {
+      "Lnet/minecraft/world/entity/LivingEntity;getBedOrientation()Lnet/minecraft/core/Direction;": "Lnet/minecraft/world/entity/LivingEntity;m_21259_()Lnet/minecraft/core/Direction;",
+      "render(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7392_(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+    },
+    "net/conczin/immersive_furniture/mixin/client/BlockModelShaperMixin": {
+      "getBlockModel(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/client/resources/model/BakedModel;": "Lnet/minecraft/client/renderer/block/BlockModelShaper;m_110893_(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/client/resources/model/BakedModel;"
+    },
+    "net/conczin/immersive_furniture/mixin/client/ScreenMixin": {
+      "handleComponentClicked": "Lnet/minecraft/client/gui/screens/Screen;m_5561_(Lnet/minecraft/network/chat/Style;)Z"
+    },
+    "net/conczin/immersive_furniture/mixin/client/SpriteContentsAccessor": {
+      "byMipLevel": "f_243731_:[Lcom/mojang/blaze3d/platform/NativeImage;",
+      "getFrameCount": "m_245088_()I"
+    },
+    "net/conczin/immersive_furniture/mixin/client/MinecraftMixin": {
+      "setLevel(Lnet/minecraft/client/multiplayer/ClientLevel;)V": "Lnet/minecraft/client/Minecraft;m_91156_(Lnet/minecraft/client/multiplayer/ClientLevel;)V"
+    },
+    "net/conczin/immersive_furniture/mixin/client/SpriteLoaderMixin": {
+      "loadSprite": "Lnet/minecraft/client/renderer/texture/SpriteLoader;m_245083_(Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/server/packs/resources/Resource;)Lnet/minecraft/client/renderer/texture/SpriteContents;"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/conczin/immersive_furniture/mixin/client/LevelRendererMixin": {
+        "renderHitOutline(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/world/entity/Entity;DDDLnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V": "Lnet/minecraft/client/renderer/LevelRenderer;m_109637_(Lcom/mojang/blaze3d/vertex/PoseStack;Lcom/mojang/blaze3d/vertex/VertexConsumer;Lnet/minecraft/world/entity/Entity;DDDLnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)V"
+      },
+      "net/conczin/immersive_furniture/mixin/client/TextureAtlasAccessor": {
+        "sprites": "f_118263_:Ljava/util/List;"
+      },
+      "net/conczin/immersive_furniture/mixin/LivingEntityMixin": {
+        "checkBedExists()Z": "Lnet/minecraft/world/entity/LivingEntity;m_21334_()Z",
+        "tick": "Lnet/minecraft/world/entity/LivingEntity;m_8119_()V",
+        "getBedOrientation()Lnet/minecraft/core/Direction;": "Lnet/minecraft/world/entity/LivingEntity;m_21259_()Lnet/minecraft/core/Direction;",
+        "setPosToBed(Lnet/minecraft/core/BlockPos;)V": "Lnet/minecraft/world/entity/LivingEntity;m_21080_(Lnet/minecraft/core/BlockPos;)V"
+      },
+      "net/conczin/immersive_furniture/mixin/client/DebugScreenOverlayMixin": {
+        "getGameInformation": "Lnet/minecraft/client/gui/components/DebugScreenOverlay;m_94075_()Ljava/util/List;"
+      },
+      "net/conczin/immersive_furniture/mixin/client/CameraMixin": {
+        "setup(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V": "Lnet/minecraft/client/Camera;m_90575_(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V"
+      },
+      "net/conczin/immersive_furniture/mixin/client/ItemModelShaperMixin": {
+        "getItemModel(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/client/resources/model/BakedModel;": "Lnet/minecraft/client/renderer/ItemModelShaper;m_109406_(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/client/resources/model/BakedModel;"
+      },
+      "net/conczin/immersive_furniture/mixin/client/ItemRendererMixin": {
+        "render(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;IILnet/minecraft/client/resources/model/BakedModel;)V": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115143_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;IILnet/minecraft/client/resources/model/BakedModel;)V"
+      },
+      "net/conczin/immersive_furniture/mixin/ItemStackMixin": {
+        "isSameItemSameTags": "Lnet/minecraft/world/item/ItemStack;m_150942_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)Z"
+      },
+      "net/conczin/immersive_furniture/mixin/client/LivingEntityRendererMixin": {
+        "Lnet/minecraft/world/entity/LivingEntity;getBedOrientation()Lnet/minecraft/core/Direction;": "Lnet/minecraft/world/entity/LivingEntity;m_21259_()Lnet/minecraft/core/Direction;",
+        "render(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7392_(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+      },
+      "net/conczin/immersive_furniture/mixin/client/BlockModelShaperMixin": {
+        "getBlockModel(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/client/resources/model/BakedModel;": "Lnet/minecraft/client/renderer/block/BlockModelShaper;m_110893_(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/client/resources/model/BakedModel;"
+      },
+      "net/conczin/immersive_furniture/mixin/client/ScreenMixin": {
+        "handleComponentClicked": "Lnet/minecraft/client/gui/screens/Screen;m_5561_(Lnet/minecraft/network/chat/Style;)Z"
+      },
+      "net/conczin/immersive_furniture/mixin/client/SpriteContentsAccessor": {
+        "byMipLevel": "f_243731_:[Lcom/mojang/blaze3d/platform/NativeImage;",
+        "getFrameCount": "m_245088_()I"
+      },
+      "net/conczin/immersive_furniture/mixin/client/MinecraftMixin": {
+        "setLevel(Lnet/minecraft/client/multiplayer/ClientLevel;)V": "Lnet/minecraft/client/Minecraft;m_91156_(Lnet/minecraft/client/multiplayer/ClientLevel;)V"
+      },
+      "net/conczin/immersive_furniture/mixin/client/SpriteLoaderMixin": {
+        "loadSprite": "Lnet/minecraft/client/renderer/texture/SpriteLoader;m_245083_(Lnet/minecraft/resources/ResourceLocation;Lnet/minecraft/server/packs/resources/Resource;)Lnet/minecraft/client/renderer/texture/SpriteContents;"
+      }
+    }
+  }
+}

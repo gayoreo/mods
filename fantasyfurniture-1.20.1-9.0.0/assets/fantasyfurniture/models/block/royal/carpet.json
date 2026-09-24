@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture:block/dyeable/carpet",
+  "textures": {
+    "tint_wool": "fantasyfurniture:block/royal/wool_tint",
+    "wool": "fantasyfurniture:block/royal/wool"
+  }
+}

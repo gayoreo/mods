@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wall_hanging_sign",
+  "textures": {
+    "all": "fantasyfurniture_necrolord:block/hanging_sign",
+    "particle": "fantasyfurniture_necrolord:block/bricks"
+  }
+}

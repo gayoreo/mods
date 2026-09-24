@@ -1,0 +1,200 @@
+{
+  "mappings": {
+    "com/ordana/immersive_weathering/mixins/AttachedStemBlockMixin": {
+      "mayPlaceOn": "Lnet/minecraft/world/level/block/AttachedStemBlock;m_6266_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z"
+    },
+    "com/ordana/immersive_weathering/mixins/BeeMixin": {
+      "registerGoals": "Lnet/minecraft/world/entity/animal/Bee;m_8099_()V"
+    },
+    "com/ordana/immersive_weathering/mixins/BlocksMixin": {
+      "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/Block;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/Block;",
+      "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/IronBarsBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/IronBarsBlock;",
+      "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/MangrovePropaguleBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/MangrovePropaguleBlock;",
+      "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/SlabBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/SlabBlock;",
+      "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/WallBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/WallBlock;",
+      "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;Lnet/minecraft/world/level/block/state/properties/BlockSetType;)Lnet/minecraft/world/level/block/DoorBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;Lnet/minecraft/world/level/block/state/properties/BlockSetType;)Lnet/minecraft/world/level/block/DoorBlock;",
+      "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;Lnet/minecraft/world/level/block/state/properties/BlockSetType;)Lnet/minecraft/world/level/block/TrapDoorBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;Lnet/minecraft/world/level/block/state/properties/BlockSetType;)Lnet/minecraft/world/level/block/TrapDoorBlock;",
+      "(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/StairBlock;": "(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/StairBlock;",
+      "<clinit>": "Lnet/minecraft/world/level/block/Blocks;<clinit>()V"
+    },
+    "com/ordana/immersive_weathering/mixins/BubbleColumnMixin": {
+      "Lnet/minecraft/world/level/block/state/BlockState;is(Lnet/minecraft/world/level/block/Block;)Z": "Lnet/minecraft/world/level/block/state/BlockState;m_60713_(Lnet/minecraft/world/level/block/Block;)Z",
+      "canSurvive": "Lnet/minecraft/world/level/block/BubbleColumnBlock;m_7898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z",
+      "getColumnState": "Lnet/minecraft/world/level/block/BubbleColumnBlock;m_152717_(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/state/BlockState;"
+    },
+    "com/ordana/immersive_weathering/mixins/BushBlockMixin": {
+      "mayPlaceOn": "Lnet/minecraft/world/level/block/BushBlock;m_6266_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z"
+    },
+    "com/ordana/immersive_weathering/mixins/CampfireMixin": {
+      "isSmokeSource": "Lnet/minecraft/world/level/block/CampfireBlock;m_51323_(Lnet/minecraft/world/level/block/state/BlockState;)Z"
+    },
+    "com/ordana/immersive_weathering/mixins/CropBlockMixin": {
+      "Lnet/minecraft/world/level/block/state/BlockState;is(Lnet/minecraft/world/level/block/Block;)Z": "Lnet/minecraft/world/level/block/state/BlockState;m_60713_(Lnet/minecraft/world/level/block/Block;)Z",
+      "getGrowthSpeed": "Lnet/minecraft/world/level/block/CropBlock;m_52272_(Lnet/minecraft/world/level/block/Block;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)F",
+      "mayPlaceOn": "Lnet/minecraft/world/level/block/CropBlock;m_6266_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z"
+    },
+    "com/ordana/immersive_weathering/mixins/EatBlockGoalMixin": {
+      "Lnet/minecraft/world/level/block/state/BlockState;is(Lnet/minecraft/world/level/block/Block;)Z": "Lnet/minecraft/world/level/block/state/BlockState;m_60713_(Lnet/minecraft/world/level/block/Block;)Z",
+      "canUse": "Lnet/minecraft/world/entity/ai/goal/EatBlockGoal;m_8036_()Z",
+      "tick": "Lnet/minecraft/world/entity/ai/goal/EatBlockGoal;m_8037_()V"
+    },
+    "com/ordana/immersive_weathering/mixins/FireMixin": {
+      "Lnet/minecraft/server/level/ServerLevel;removeBlock(Lnet/minecraft/core/BlockPos;Z)Z": "Lnet/minecraft/server/level/ServerLevel;m_7471_(Lnet/minecraft/core/BlockPos;Z)Z",
+      "getIgniteOdds(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)I": "Lnet/minecraft/world/level/block/FireBlock;m_221156_(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)I",
+      "tick": "Lnet/minecraft/world/level/block/FireBlock;m_213897_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+    },
+    "com/ordana/immersive_weathering/mixins/GrassBlockMixin": {
+      "Lnet/minecraft/server/level/ServerLevel;setBlockAndUpdate(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Z": "Lnet/minecraft/server/level/ServerLevel;m_46597_(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Z",
+      "Lnet/minecraft/world/level/block/state/BlockState;is(Lnet/minecraft/world/level/block/Block;)Z": "Lnet/minecraft/world/level/block/state/BlockState;m_60713_(Lnet/minecraft/world/level/block/Block;)Z",
+      "randomTick": "Lnet/minecraft/world/level/block/SpreadingSnowyDirtBlock;m_213898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+    },
+    "com/ordana/immersive_weathering/mixins/LeavesMixin": {
+      "Lnet/minecraft/server/level/ServerLevel;removeBlock(Lnet/minecraft/core/BlockPos;Z)Z": "Lnet/minecraft/server/level/ServerLevel;m_7471_(Lnet/minecraft/core/BlockPos;Z)Z",
+      "randomTick": "Lnet/minecraft/world/level/block/LeavesBlock;m_213898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+    },
+    "com/ordana/immersive_weathering/mixins/LiquidBlockMixin": {
+      "shouldSpreadLiquid": "Lnet/minecraft/world/level/block/LiquidBlock;m_54696_(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Z"
+    },
+    "com/ordana/immersive_weathering/mixins/MudBlockHitboxMixin": {
+      "getCollisionShape": "Lnet/minecraft/world/level/block/MudBlock;m_5939_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape;"
+    },
+    "com/ordana/immersive_weathering/mixins/RabbitEatGoalMixin": {
+      "Lnet/minecraft/world/level/LevelReader;getBlockState(Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;": "Lnet/minecraft/world/level/LevelReader;m_8055_(Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;",
+      "isValidTarget": "Lnet/minecraft/world/entity/animal/Rabbit$RaidGardenGoal;m_6465_(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z",
+      "net/minecraft/world/entity/animal/Rabbit$RaidGardenGoal": "net/minecraft/world/entity/animal/Rabbit$RaidGardenGoal"
+    },
+    "com/ordana/immersive_weathering/mixins/RabbitMixin": {
+      "Lnet/minecraft/world/item/crafting/Ingredient;of([Lnet/minecraft/world/level/ItemLike;)Lnet/minecraft/world/item/crafting/Ingredient;": "Lnet/minecraft/world/item/crafting/Ingredient;m_43929_([Lnet/minecraft/world/level/ItemLike;)Lnet/minecraft/world/item/crafting/Ingredient;",
+      "registerGoals": "Lnet/minecraft/world/entity/animal/Rabbit;m_8099_()V"
+    },
+    "com/ordana/immersive_weathering/mixins/ServerLevelMixin": {
+      "Lnet/minecraft/world/level/block/state/BlockState;getFluidState()Lnet/minecraft/world/level/material/FluidState;": "Lnet/minecraft/world/level/block/state/BlockState;m_60819_()Lnet/minecraft/world/level/material/FluidState;",
+      "tickChunk": "Lnet/minecraft/server/level/ServerLevel;m_8714_(Lnet/minecraft/world/level/chunk/LevelChunk;I)V"
+    },
+    "com/ordana/immersive_weathering/mixins/SnowLayerBlockMixin": {
+      "randomTick": "Lnet/minecraft/world/level/block/SnowLayerBlock;m_213898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+    },
+    "com/ordana/immersive_weathering/mixins/SnowballMixin": {
+      "onHit": "Lnet/minecraft/world/entity/projectile/Snowball;m_6532_(Lnet/minecraft/world/phys/HitResult;)V"
+    },
+    "com/ordana/immersive_weathering/mixins/StemBlockMixin": {
+      "mayPlaceOn": "Lnet/minecraft/world/level/block/StemBlock;m_6266_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z"
+    },
+    "com/ordana/immersive_weathering/mixins/SugarCaneBlockMixin": {
+      "canSurvive": "Lnet/minecraft/world/level/block/SugarCaneBlock;m_7898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z"
+    },
+    "com/ordana/immersive_weathering/mixins/SweetBerryBushMixin": {
+      "Lnet/minecraft/world/entity/Entity;hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z": "Lnet/minecraft/world/entity/Entity;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "entityInside": "Lnet/minecraft/world/level/block/SweetBerryBushBlock;m_7892_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/Entity;)V"
+    },
+    "com/ordana/immersive_weathering/mixins/accessors/BiomeAccessor": {
+      "getTemperature": "m_47505_(Lnet/minecraft/core/BlockPos;)F"
+    },
+    "com/ordana/immersive_weathering/mixins/accessors/IceInvoker": {
+      "melt": "m_54168_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;)V"
+    },
+    "com/ordana/immersive_weathering/mixins/accessors/RandomBlockMatchTestAccessor": {
+      "probability": "f_74260_:F"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/ordana/immersive_weathering/mixins/AttachedStemBlockMixin": {
+        "mayPlaceOn": "Lnet/minecraft/world/level/block/AttachedStemBlock;m_6266_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z"
+      },
+      "com/ordana/immersive_weathering/mixins/BeeMixin": {
+        "registerGoals": "Lnet/minecraft/world/entity/animal/Bee;m_8099_()V"
+      },
+      "com/ordana/immersive_weathering/mixins/BlocksMixin": {
+        "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/Block;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/Block;",
+        "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/IronBarsBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/IronBarsBlock;",
+        "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/MangrovePropaguleBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/MangrovePropaguleBlock;",
+        "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/SlabBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/SlabBlock;",
+        "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/WallBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/WallBlock;",
+        "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;Lnet/minecraft/world/level/block/state/properties/BlockSetType;)Lnet/minecraft/world/level/block/DoorBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;Lnet/minecraft/world/level/block/state/properties/BlockSetType;)Lnet/minecraft/world/level/block/DoorBlock;",
+        "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;Lnet/minecraft/world/level/block/state/properties/BlockSetType;)Lnet/minecraft/world/level/block/TrapDoorBlock;": "(Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;Lnet/minecraft/world/level/block/state/properties/BlockSetType;)Lnet/minecraft/world/level/block/TrapDoorBlock;",
+        "(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/StairBlock;": "(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;)Lnet/minecraft/world/level/block/StairBlock;",
+        "<clinit>": "Lnet/minecraft/world/level/block/Blocks;<clinit>()V"
+      },
+      "com/ordana/immersive_weathering/mixins/BubbleColumnMixin": {
+        "Lnet/minecraft/world/level/block/state/BlockState;is(Lnet/minecraft/world/level/block/Block;)Z": "Lnet/minecraft/world/level/block/state/BlockState;m_60713_(Lnet/minecraft/world/level/block/Block;)Z",
+        "canSurvive": "Lnet/minecraft/world/level/block/BubbleColumnBlock;m_7898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z",
+        "getColumnState": "Lnet/minecraft/world/level/block/BubbleColumnBlock;m_152717_(Lnet/minecraft/world/level/block/state/BlockState;)Lnet/minecraft/world/level/block/state/BlockState;"
+      },
+      "com/ordana/immersive_weathering/mixins/BushBlockMixin": {
+        "mayPlaceOn": "Lnet/minecraft/world/level/block/BushBlock;m_6266_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z"
+      },
+      "com/ordana/immersive_weathering/mixins/CampfireMixin": {
+        "isSmokeSource": "Lnet/minecraft/world/level/block/CampfireBlock;m_51323_(Lnet/minecraft/world/level/block/state/BlockState;)Z"
+      },
+      "com/ordana/immersive_weathering/mixins/CropBlockMixin": {
+        "Lnet/minecraft/world/level/block/state/BlockState;is(Lnet/minecraft/world/level/block/Block;)Z": "Lnet/minecraft/world/level/block/state/BlockState;m_60713_(Lnet/minecraft/world/level/block/Block;)Z",
+        "getGrowthSpeed": "Lnet/minecraft/world/level/block/CropBlock;m_52272_(Lnet/minecraft/world/level/block/Block;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)F",
+        "mayPlaceOn": "Lnet/minecraft/world/level/block/CropBlock;m_6266_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z"
+      },
+      "com/ordana/immersive_weathering/mixins/EatBlockGoalMixin": {
+        "Lnet/minecraft/world/level/block/state/BlockState;is(Lnet/minecraft/world/level/block/Block;)Z": "Lnet/minecraft/world/level/block/state/BlockState;m_60713_(Lnet/minecraft/world/level/block/Block;)Z",
+        "canUse": "Lnet/minecraft/world/entity/ai/goal/EatBlockGoal;m_8036_()Z",
+        "tick": "Lnet/minecraft/world/entity/ai/goal/EatBlockGoal;m_8037_()V"
+      },
+      "com/ordana/immersive_weathering/mixins/FireMixin": {
+        "Lnet/minecraft/server/level/ServerLevel;removeBlock(Lnet/minecraft/core/BlockPos;Z)Z": "Lnet/minecraft/server/level/ServerLevel;m_7471_(Lnet/minecraft/core/BlockPos;Z)Z",
+        "getIgniteOdds(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)I": "Lnet/minecraft/world/level/block/FireBlock;m_221156_(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)I",
+        "tick": "Lnet/minecraft/world/level/block/FireBlock;m_213897_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+      },
+      "com/ordana/immersive_weathering/mixins/GrassBlockMixin": {
+        "Lnet/minecraft/server/level/ServerLevel;setBlockAndUpdate(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Z": "Lnet/minecraft/server/level/ServerLevel;m_46597_(Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Z",
+        "Lnet/minecraft/world/level/block/state/BlockState;is(Lnet/minecraft/world/level/block/Block;)Z": "Lnet/minecraft/world/level/block/state/BlockState;m_60713_(Lnet/minecraft/world/level/block/Block;)Z",
+        "randomTick": "Lnet/minecraft/world/level/block/SpreadingSnowyDirtBlock;m_213898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+      },
+      "com/ordana/immersive_weathering/mixins/LeavesMixin": {
+        "Lnet/minecraft/server/level/ServerLevel;removeBlock(Lnet/minecraft/core/BlockPos;Z)Z": "Lnet/minecraft/server/level/ServerLevel;m_7471_(Lnet/minecraft/core/BlockPos;Z)Z",
+        "randomTick": "Lnet/minecraft/world/level/block/LeavesBlock;m_213898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+      },
+      "com/ordana/immersive_weathering/mixins/LiquidBlockMixin": {
+        "shouldSpreadLiquid": "Lnet/minecraft/world/level/block/LiquidBlock;m_54696_(Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/level/block/state/BlockState;)Z"
+      },
+      "com/ordana/immersive_weathering/mixins/MudBlockHitboxMixin": {
+        "getCollisionShape": "Lnet/minecraft/world/level/block/MudBlock;m_5939_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/phys/shapes/CollisionContext;)Lnet/minecraft/world/phys/shapes/VoxelShape;"
+      },
+      "com/ordana/immersive_weathering/mixins/RabbitEatGoalMixin": {
+        "Lnet/minecraft/world/level/LevelReader;getBlockState(Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;": "Lnet/minecraft/world/level/LevelReader;m_8055_(Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;",
+        "isValidTarget": "Lnet/minecraft/world/entity/animal/Rabbit$RaidGardenGoal;m_6465_(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z",
+        "net/minecraft/world/entity/animal/Rabbit$RaidGardenGoal": "net/minecraft/world/entity/animal/Rabbit$RaidGardenGoal"
+      },
+      "com/ordana/immersive_weathering/mixins/RabbitMixin": {
+        "Lnet/minecraft/world/item/crafting/Ingredient;of([Lnet/minecraft/world/level/ItemLike;)Lnet/minecraft/world/item/crafting/Ingredient;": "Lnet/minecraft/world/item/crafting/Ingredient;m_43929_([Lnet/minecraft/world/level/ItemLike;)Lnet/minecraft/world/item/crafting/Ingredient;",
+        "registerGoals": "Lnet/minecraft/world/entity/animal/Rabbit;m_8099_()V"
+      },
+      "com/ordana/immersive_weathering/mixins/ServerLevelMixin": {
+        "Lnet/minecraft/world/level/block/state/BlockState;getFluidState()Lnet/minecraft/world/level/material/FluidState;": "Lnet/minecraft/world/level/block/state/BlockState;m_60819_()Lnet/minecraft/world/level/material/FluidState;",
+        "tickChunk": "Lnet/minecraft/server/level/ServerLevel;m_8714_(Lnet/minecraft/world/level/chunk/LevelChunk;I)V"
+      },
+      "com/ordana/immersive_weathering/mixins/SnowLayerBlockMixin": {
+        "randomTick": "Lnet/minecraft/world/level/block/SnowLayerBlock;m_213898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+      },
+      "com/ordana/immersive_weathering/mixins/SnowballMixin": {
+        "onHit": "Lnet/minecraft/world/entity/projectile/Snowball;m_6532_(Lnet/minecraft/world/phys/HitResult;)V"
+      },
+      "com/ordana/immersive_weathering/mixins/StemBlockMixin": {
+        "mayPlaceOn": "Lnet/minecraft/world/level/block/StemBlock;m_6266_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z"
+      },
+      "com/ordana/immersive_weathering/mixins/SugarCaneBlockMixin": {
+        "canSurvive": "Lnet/minecraft/world/level/block/SugarCaneBlock;m_7898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z"
+      },
+      "com/ordana/immersive_weathering/mixins/SweetBerryBushMixin": {
+        "Lnet/minecraft/world/entity/Entity;hurt(Lnet/minecraft/world/damagesource/DamageSource;F)Z": "Lnet/minecraft/world/entity/Entity;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "entityInside": "Lnet/minecraft/world/level/block/SweetBerryBushBlock;m_7892_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/Entity;)V"
+      },
+      "com/ordana/immersive_weathering/mixins/accessors/BiomeAccessor": {
+        "getTemperature": "m_47505_(Lnet/minecraft/core/BlockPos;)F"
+      },
+      "com/ordana/immersive_weathering/mixins/accessors/IceInvoker": {
+        "melt": "m_54168_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;)V"
+      },
+      "com/ordana/immersive_weathering/mixins/accessors/RandomBlockMatchTestAccessor": {
+        "probability": "f_74260_:F"
+      }
+    }
+  }
+}

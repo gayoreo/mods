@@ -1,0 +1,15 @@
+{
+  "processors": [
+    {
+      "processor_type": "integrated_api:waterlogging_fix_processor"
+    },
+    {
+      "processor_type": "integrated_api:integrated_block_replace_processor",
+      "input_block" : "minecraft:purple_stained_glass_pane",
+      "required_mod" : "bountiful",
+      "output_block" : "bountiful:bountyboard",
+      "probability" : 1,
+      "otherwise_block": "minecraft:air"
+    }
+  ]
+}

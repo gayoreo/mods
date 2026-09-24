@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "com.craisinlord.integrated_villages.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "DisableVanillaVillagesMixin",
+    "LocateVillagesCommandMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8",
+  "refmap": "integrated_villages-common-refmap.json"
+}

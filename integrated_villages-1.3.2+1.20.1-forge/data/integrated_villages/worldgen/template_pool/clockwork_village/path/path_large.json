@@ -1,0 +1,69 @@
+{
+  "name": "integrated_villages:clockwork_village/path/path_large",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:clockwork_village/path/clockwork_village_path_large1",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:clockwork_village/path/clockwork_village_path_large2",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:clockwork_village/path/clockwork_village_path_large3",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:clockwork_village/path/clockwork_village_path_large4",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:clockwork_village/path/clockwork_village_path_large5",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:clockwork_village/path/clockwork_village_path_large6",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:clockwork_village/path/clockwork_village_path_large7",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

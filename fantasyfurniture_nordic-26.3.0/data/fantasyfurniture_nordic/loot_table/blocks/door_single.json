@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "condition": {
+            "type": "minecraft:match_block",
+            "blocks": "fantasyfurniture_nordic:door_single",
+            "state": {
+              "half": "lower"
+            }
+          },
+          "name": "fantasyfurniture_nordic:door_single"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "fantasyfurniture_nordic:blocks/door_single"
+}

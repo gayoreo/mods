@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/bone/skeleton/drawer",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "drawer": "fantasyfurniture:block/models/bone/skeleton/drawer",
+    "particle": "fantasyfurniture:block/particles/bone"
+  }
+}

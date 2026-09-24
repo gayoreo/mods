@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "condition": {
+            "type": "minecraft:match_block",
+            "blocks": "fantasyfurniture_royal:bed_single",
+            "state": {
+              "part": "head"
+            }
+          },
+          "name": "fantasyfurniture_royal:bed_single"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "fantasyfurniture_royal:blocks/bed_single"
+}

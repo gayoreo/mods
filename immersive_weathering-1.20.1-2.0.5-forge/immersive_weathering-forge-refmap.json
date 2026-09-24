@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "com/ordana/immersive_weathering/mixins/forge/AccessorBlockColor": {
+      "blockColors": "f_92571_:Ljava/util/Map;"
+    },
+    "com/ordana/immersive_weathering/mixins/forge/AccessorItemColor": {
+      "itemColors": "f_92674_:Ljava/util/Map;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/ordana/immersive_weathering/mixins/forge/AccessorBlockColor": {
+        "blockColors": "f_92571_:Ljava/util/Map;"
+      },
+      "com/ordana/immersive_weathering/mixins/forge/AccessorItemColor": {
+        "itemColors": "f_92674_:Ljava/util/Map;"
+      }
+    }
+  }
+}

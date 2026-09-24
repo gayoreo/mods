@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/venthyr/painting_wide",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "painting_wide": "fantasyfurniture:block/models/venthyr/painting_wide",
+    "particle": "fantasyfurniture:block/particles/venthyr"
+  }
+}

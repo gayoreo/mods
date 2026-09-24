@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture_decorations:block/food_0",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture_decorations:block/food_0"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture_decorations:block/food_0",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture_decorations:block/food_0",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "integrated_villages:swamp_village/deco/post_alone",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/deco/post_alone",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": false,
+          "beards": false,
+          "kernel_size": 1,
+          "kernel_distance": 1
+        },
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

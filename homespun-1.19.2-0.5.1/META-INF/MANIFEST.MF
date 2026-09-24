@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: homespun
+Specification-Vendor: homespunsareus
+Specification-Version: 1
+Implementation-Title: Homespun
+Implementation-Version: 1.19.2-0.5.1
+Implementation-Vendor: homespunsareus
+Implementation-Timestamp: 2023-05-23T20:20:12+0100
+

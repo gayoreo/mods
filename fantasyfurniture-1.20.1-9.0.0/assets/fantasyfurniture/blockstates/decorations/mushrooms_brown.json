@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,mushrooms=0": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_0",
+      "y": 90
+    },
+    "facing=east,mushrooms=1": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_1",
+      "y": 90
+    },
+    "facing=east,mushrooms=2": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_2",
+      "y": 90
+    },
+    "facing=north,mushrooms=0": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_0"
+    },
+    "facing=north,mushrooms=1": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_1"
+    },
+    "facing=north,mushrooms=2": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_2"
+    },
+    "facing=south,mushrooms=0": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_0",
+      "y": 180
+    },
+    "facing=south,mushrooms=1": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_1",
+      "y": 180
+    },
+    "facing=south,mushrooms=2": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_2",
+      "y": 180
+    },
+    "facing=west,mushrooms=0": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_0",
+      "y": 270
+    },
+    "facing=west,mushrooms=1": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_1",
+      "y": 270
+    },
+    "facing=west,mushrooms=2": {
+      "model": "fantasyfurniture:generated/block/decorations/mushrooms_brown_2",
+      "y": 270
+    }
+  }
+}

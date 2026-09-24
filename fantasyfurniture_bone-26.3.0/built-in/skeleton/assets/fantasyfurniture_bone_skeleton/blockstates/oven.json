@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/oven",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/oven"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/oven",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/oven",
+      "y": 270
+    }
+  }
+}

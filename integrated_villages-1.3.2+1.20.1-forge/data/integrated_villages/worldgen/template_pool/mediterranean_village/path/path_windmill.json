@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:mediterranean_village/path/path_windmill",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/path/mediterranean_village_path_windmill",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

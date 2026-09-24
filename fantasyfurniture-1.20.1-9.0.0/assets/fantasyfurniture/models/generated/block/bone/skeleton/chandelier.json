@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/bone/skeleton/chandelier",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "chandelier": "fantasyfurniture:block/models/bone/skeleton/chandelier",
+    "particle": "fantasyfurniture:block/particles/bone"
+  }
+}

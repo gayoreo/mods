@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#hapi:rivers",
+  "features": "hybrid_aquatic:water_lettuce",
+  "step": "vegetal_decoration"
+}

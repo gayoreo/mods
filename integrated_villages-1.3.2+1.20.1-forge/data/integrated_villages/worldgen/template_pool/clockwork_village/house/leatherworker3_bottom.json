@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:clockwork_village/leatherworker3_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:clockwork_village/house/clockwork_village_leatherworker3_bottom",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:block/door_single_bottom_open",
+	"textures": {
+		"door_single": "fantasyfurniture_bone_skeleton:block/door_single",
+		"particle": "fantasyfurniture_bone_skeleton:block/particle"
+	}
+}

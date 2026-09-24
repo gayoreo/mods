@@ -1,0 +1,121 @@
+license = "AllRightsReserved"
+issueTrackerURL = "https://github.com/ApexStudios-Dev/FantasyFurniture/issues"
+
+[[mods]]
+modId = "fantasyfurniture_bone"
+version = "${file.jarVersion}"
+displayName = "Fantasy's Furniture - Bone"
+credits = "Apex - Programming"
+authors = "ApexStudios"
+description = "Bone Furniture set for Fantasy's Furniture"
+bannerFile = "banner.png"
+iconFile = "icon.png"
+displayURL = "https://modrinth.com/project/fantasys-furniture-bone"
+
+[[dependencies.fantasyfurniture_bone]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.3,26.4)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.fantasyfurniture_bone]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.fantasyfurniture_bone]]
+modId = "apexcore"
+type = "required"
+versionRange = "[26.3,26.4)"
+[dependencies.fantasyfurniture_bone.mc-publish]
+modrinth = "xl3myxch"
+curseforge = "550778"
+[[dependencies.fantasyfurniture_bone]]
+modId = "fantasyfurniture"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+[dependencies.fantasyfurniture_bone.mc-publish]
+modrinth = "A0nfCqYw"
+curseforge = "579564"
+
+[[mods]]
+modId = "fantasyfurniture_bone_skeleton"
+version = "${file.jarVersion}"
+displayName = "Fantasy's Furniture - Skeleton Bone"
+credits = "Apex - Programming"
+authors = "ApexStudios"
+description = "Bone Furniture set for Fantasy's Furniture"
+bannerFile = "skeleton_banner.png"
+iconFile = "skeleton_icon.png"
+displayURL = "https://modrinth.com/project/fantasys-furniture-bone"
+
+[[dependencies.fantasyfurniture_bone_skeleton]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.3,26.4)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.fantasyfurniture_bone_skeleton]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.fantasyfurniture_bone_skeleton]]
+modId = "fantasyfurniture_bone"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+
+[[dependencies.fantasyfurniture_bone_skeleton]]
+modId = "apexcore"
+type = "required"
+versionRange = "[26.3,26.4)"
+[[dependencies.fantasyfurniture_bone_skeleton]]
+modId = "fantasyfurniture"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+
+[[mods]]
+modId = "fantasyfurniture_bone_wither"
+version = "${file.jarVersion}"
+displayName = "Fantasy's Furniture - Wither Bone"
+credits = "Apex - Programming"
+authors = "ApexStudios"
+description = "Wither Bone Furniture set for Fantasy's Furniture"
+bannerFile = "wither_banner.png"
+iconFile = "wither_icon.png"
+displayURL = "https://modrinth.com/project/fantasys-furniture-bone"
+
+[[dependencies.fantasyfurniture_bone_wither]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.fantasyfurniture_bone_wither]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.3,26.4)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.fantasyfurniture_bone_wither]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.fantasyfurniture_bone_wither]]
+modId = "apexcore"
+type = "required"
+versionRange = "[26.3,26.4)"
+[[dependencies.fantasyfurniture_bone_wither]]
+modId = "fantasyfurniture"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+[[dependencies.fantasyfurniture_bone_wither]]
+modId = "fantasyfurniture_bone"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "condition": {
+            "type": "minecraft:match_block",
+            "blocks": "fantasyfurniture_dunmer:door_double",
+            "state": {
+              "half": "lower"
+            }
+          },
+          "name": "fantasyfurniture_dunmer:door_double"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "fantasyfurniture_dunmer:blocks/door_double"
+}

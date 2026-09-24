@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/bone/wither/stool",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/bone_wither",
+    "stool": "fantasyfurniture:block/models/bone/wither/stool"
+  }
+}

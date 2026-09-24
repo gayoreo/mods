@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "fantasyfurniture_decorations:block/fairy_lights",
+    "tints": [
+      {
+        "type": "apexcore:dye_color"
+      }
+    ]
+  }
+}

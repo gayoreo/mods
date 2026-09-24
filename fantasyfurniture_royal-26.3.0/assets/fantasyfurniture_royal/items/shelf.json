@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "fantasyfurniture_royal:block/shelf_single",
+    "tints": [
+      {
+        "type": "apexcore:dye_color"
+      }
+    ]
+  }
+}

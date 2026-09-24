@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/nordic/shelf_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/nordic",
+    "shelf": "fantasyfurniture:block/models/nordic/shelf"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:tavern_village/tavern_village_light_left",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/path/tavern_village_light_left",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

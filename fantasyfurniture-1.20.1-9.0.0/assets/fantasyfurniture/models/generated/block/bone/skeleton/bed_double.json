@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/bone/skeleton/bed_double",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bed_double": "fantasyfurniture:block/models/bone/skeleton/bed_double",
+    "particle": "fantasyfurniture:block/particles/bone"
+  }
+}

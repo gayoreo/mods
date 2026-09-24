@@ -1,0 +1,88 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"floor_light": "fantasyfurniture_nordic:block/floor_light",
+		"particle": "fantasyfurniture_nordic:block/particle"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [6, 0, 6],
+			"to": [10, 2, 10],
+			"faces": {
+				"north": {"uv": [9, 3, 11, 4], "texture": "#floor_light"},
+				"east": {"uv": [10, 1.5, 12, 2.5], "texture": "#floor_light"},
+				"south": {"uv": [10, 4, 12, 5], "texture": "#floor_light"},
+				"west": {"uv": [10, 5, 12, 6], "texture": "#floor_light"},
+				"up": {"uv": [6, 2, 4, 0], "texture": "#floor_light"},
+				"down": {"uv": [6, 2, 4, 4], "texture": "#floor_light", "cullface": "down"}
+			}
+		},
+		{
+			"name": "post",
+			"from": [7, 2, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [0, 2, 1, 9], "texture": "#floor_light"},
+				"east": {"uv": [1, 2, 2, 9], "texture": "#floor_light"},
+				"south": {"uv": [2, 2, 3, 9], "texture": "#floor_light"},
+				"west": {"uv": [3, 2, 4, 9], "texture": "#floor_light"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -2.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, 10.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -4],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "bottom",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				0,
+				1,
+				{
+					"name": "candles",
+					"origin": [3.5, 26.75, 7.5],
+					"color": 0,
+					"children": []
+				}
+			]
+		}
+	]
+}

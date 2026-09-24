@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:oasis_village/fountain/fountain_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/fountain/oasis_village_fountain_bottom",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

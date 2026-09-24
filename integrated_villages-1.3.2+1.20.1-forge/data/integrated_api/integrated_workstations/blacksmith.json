@@ -1,0 +1,44 @@
+{
+  "workstations": [
+    {
+      "required_mod": "minecraft",
+      "output_block": "minecraft:smithing_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "minecraft",
+      "output_block": "minecraft:grindstone",
+      "weight": 1
+    },
+    {
+      "required_mod": "minecraft",
+      "output_block": "minecraft:blast_furnace",
+      "weight": 1
+    },
+    {
+      "required_mod": "morevillagers",
+      "output_block": "morevillagers:mining_bench",
+      "weight": 1
+    },
+    {
+      "required_mod": "morevillagers",
+      "output_block": "morevillagers:blueprint_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "new_villagers",
+      "output_block": "new_villagers:graze_bench",
+      "weight": 1
+    },
+    {
+      "required_mod": "immersiveengineering",
+      "output_block": "immersiveengineering:craftingtable",
+      "weight": 1
+    },
+    {
+      "required_mod": "dynamicvillage",
+      "output_block": "create:mechanical_drill",
+      "weight": 1
+    }
+  ]
+}

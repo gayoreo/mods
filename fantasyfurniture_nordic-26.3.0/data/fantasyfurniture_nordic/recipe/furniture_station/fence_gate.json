@@ -1,0 +1,10 @@
+{
+  "type": "fantasyfurniture:furniture_station",
+  "binding_agent": "#fantasyfurniture:binding_agent",
+  "group": "nordic",
+  "planks": "fantasyfurniture_nordic:planks",
+  "result": {
+    "id": "fantasyfurniture_nordic:fence_gate"
+  },
+  "wool": "fantasyfurniture_nordic:wool"
+}

@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "fantasyfurniture_decorations:block/chalices_3_2",
+    "tints": [
+      {
+        "type": "apexcore:dye_color"
+      }
+    ]
+  }
+}

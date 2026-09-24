@@ -1,0 +1,33 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "finsandtails:item/lower_bucket",
+    "layer1": "finsandtails:item/bucket_content/night_light_squid"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "finsandtails:variant": 0
+      },
+      "model": "finsandtails:item/night_light_squid_bucket"
+    },
+    {
+      "predicate": {
+        "finsandtails:variant": 1
+      },
+      "model": "finsandtails:item/night_light_squid_bucket_2"
+    },
+    {
+      "predicate": {
+        "finsandtails:variant": 2
+      },
+      "model": "finsandtails:item/night_light_squid_bucket_3"
+    },
+    {
+      "predicate": {
+        "finsandtails:variant": 3
+      },
+      "model": "finsandtails:item/night_light_squid_bucket_4"
+    }
+  ]
+}

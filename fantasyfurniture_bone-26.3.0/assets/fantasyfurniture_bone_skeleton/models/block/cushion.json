@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:block/cushion",
+	"textures": {
+		"cushion": "fantasyfurniture_bone_skeleton:block/cushion",
+		"particle": "fantasyfurniture_bone_skeleton:block/particle"
+	}
+}

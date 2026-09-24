@@ -1,0 +1,11 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "fantasyfurniture_royal:item/bench",
+    "tints": [
+      {
+        "type": "apexcore:dye_color"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "variants": {
+    "color=black,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=black,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=black,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=black,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=blue,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=blue,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=blue,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=blue,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=brown,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=brown,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=brown,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=brown,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=cyan,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=cyan,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=cyan,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=cyan,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=gray,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=gray,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=gray,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=gray,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=green,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=green,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=green,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=green,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=light_blue,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=light_blue,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=light_blue,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=light_blue,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=light_gray,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=light_gray,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=light_gray,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=light_gray,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=lime,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=lime,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=lime,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=lime,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=magenta,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=magenta,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=magenta,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=magenta,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=none,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights",
+      "y": 90
+    },
+    "color=none,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights"
+    },
+    "color=none,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights",
+      "y": 180
+    },
+    "color=none,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights",
+      "y": 270
+    },
+    "color=orange,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=orange,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=orange,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=orange,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=pink,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=pink,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=pink,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=pink,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=purple,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=purple,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=purple,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=purple,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=red,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=red,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=red,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=red,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=white,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=white,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=white,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=white,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    },
+    "color=yellow,facing=east": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 90
+    },
+    "color=yellow,facing=north": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint"
+    },
+    "color=yellow,facing=south": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 180
+    },
+    "color=yellow,facing=west": {
+      "model": "fantasyfurniture_decorations:block/fairy_lights_tint",
+      "y": 270
+    }
+  }
+}

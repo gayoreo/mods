@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fantasyfurniture_bone_wither:block/slab"
+    },
+    "type=double": {
+      "model": "fantasyfurniture_bone_wither:block/bricks"
+    },
+    "type=top": {
+      "model": "fantasyfurniture_bone_wither:block/slab_top"
+    }
+  }
+}

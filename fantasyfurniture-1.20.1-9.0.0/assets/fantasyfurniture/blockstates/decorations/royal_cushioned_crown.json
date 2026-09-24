@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:generated/block/decorations/royal_cushioned_crown",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:generated/block/decorations/royal_cushioned_crown"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:generated/block/decorations/royal_cushioned_crown",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:generated/block/decorations/royal_cushioned_crown",
+      "y": 270
+    }
+  }
+}

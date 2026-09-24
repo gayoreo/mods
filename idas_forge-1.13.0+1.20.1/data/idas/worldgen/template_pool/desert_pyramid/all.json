@@ -1,0 +1,195 @@
+{
+  "name": "idas:desert_pyramid/all",
+  "fallback": "idas:desert_pyramid/room",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_room1",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_room2",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_room3",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_room4",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_room5",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_room6",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_room7",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_room8",
+        "processors": "idas:waterlogging_fix_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_room9",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_hallway1",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_hallway2",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_hallway3",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_hallway4",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_hallway5",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_hallway6",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_staircase1",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_staircase2",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_intersection1",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_intersection2",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_intersection3",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "idas:desert_pyramid/desert_pyramid_intersection4",
+        "processors": "idas:desert_pyramid_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

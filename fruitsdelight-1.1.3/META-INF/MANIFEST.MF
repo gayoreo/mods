@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: fruitsdelight
+Specification-Vendor: xkmc
+Specification-Version: 1
+Implementation-Title: FruitsDelight
+Implementation-Version: 1.1.3
+Implementation-Vendor: xkmc
+Implementation-Timestamp: 2026-06-23T12:58:15+0800
+MixinConfigs: fruitsdelight.mixins.json
+

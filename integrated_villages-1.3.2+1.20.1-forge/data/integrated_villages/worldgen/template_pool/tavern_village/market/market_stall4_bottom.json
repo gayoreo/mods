@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:tavern_village/market/market_stall4_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:tavern_village/market/tavern_village_market_stall4_bottom",
+        "processors": "integrated_villages:tavern_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

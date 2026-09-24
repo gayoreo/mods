@@ -1,0 +1,24 @@
+{
+  "name": "idas:enchantingtower",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:enchantingtowers/ars_redenchantingtower",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:enchantingtowers/ars_blueenchantingtower",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

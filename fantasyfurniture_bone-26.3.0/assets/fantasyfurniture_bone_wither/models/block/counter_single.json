@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:block/counter_single",
+	"textures": {
+		"counter": "fantasyfurniture_bone_wither:block/counter",
+		"particle": "fantasyfurniture_bone_wither:block/particle"
+	}
+}

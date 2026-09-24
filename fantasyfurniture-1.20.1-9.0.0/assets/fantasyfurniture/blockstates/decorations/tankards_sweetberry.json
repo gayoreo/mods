@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,tankards=0": {
+      "model": "fantasyfurniture:generated/block/decorations/tankards_sweetberry_0",
+      "y": 90
+    },
+    "facing=east,tankards=1": {
+      "model": "fantasyfurniture:generated/block/decorations/tankards_sweetberry_1",
+      "y": 90
+    },
+    "facing=north,tankards=0": {
+      "model": "fantasyfurniture:generated/block/decorations/tankards_sweetberry_0"
+    },
+    "facing=north,tankards=1": {
+      "model": "fantasyfurniture:generated/block/decorations/tankards_sweetberry_1"
+    },
+    "facing=south,tankards=0": {
+      "model": "fantasyfurniture:generated/block/decorations/tankards_sweetberry_0",
+      "y": 180
+    },
+    "facing=south,tankards=1": {
+      "model": "fantasyfurniture:generated/block/decorations/tankards_sweetberry_1",
+      "y": 180
+    },
+    "facing=west,tankards=0": {
+      "model": "fantasyfurniture:generated/block/decorations/tankards_sweetberry_0",
+      "y": 270
+    },
+    "facing=west,tankards=1": {
+      "model": "fantasyfurniture:generated/block/decorations/tankards_sweetberry_1",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/book_stack_1",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "book_stack": "fantasyfurniture:block/models/decorations/book_stack",
+    "particle": "fantasyfurniture:block/particles/decorations/book_stack"
+  }
+}

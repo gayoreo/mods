@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Specification-Title: fantasyfurniture_necrolord
+Specification-Vendor: ApexStudios
+Specification-Version: 1
+Implementation-Title: fantasyfurniture_necrolord
+Implementation-Vendor: ApexStudios
+Implementation-Version: 26.3.0
+Implementation-Timestamp: 19-09-2026T20:20:14+0000
+Minecraft-Version: 26.3
+NeoForge-Version: 26.3.0.7-beta
+

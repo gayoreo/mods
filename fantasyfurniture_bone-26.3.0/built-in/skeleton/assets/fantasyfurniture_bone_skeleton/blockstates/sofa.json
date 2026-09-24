@@ -1,0 +1,94 @@
+{
+  "variants": {
+    "connection=center,facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_center",
+      "y": 90
+    },
+    "connection=center,facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_center"
+    },
+    "connection=center,facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_center",
+      "y": 180
+    },
+    "connection=center,facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_center",
+      "y": 270
+    },
+    "connection=corner_inner,facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_corner",
+      "y": 90
+    },
+    "connection=corner_inner,facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_corner"
+    },
+    "connection=corner_inner,facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_corner",
+      "y": 180
+    },
+    "connection=corner_inner,facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_corner",
+      "y": 270
+    },
+    "connection=corner_outer,facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_corner",
+      "y": 90
+    },
+    "connection=corner_outer,facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_corner"
+    },
+    "connection=corner_outer,facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_corner",
+      "y": 180
+    },
+    "connection=corner_outer,facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_corner",
+      "y": 270
+    },
+    "connection=left,facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_left",
+      "y": 90
+    },
+    "connection=left,facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_left"
+    },
+    "connection=left,facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_left",
+      "y": 180
+    },
+    "connection=left,facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_left",
+      "y": 270
+    },
+    "connection=right,facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_right",
+      "y": 90
+    },
+    "connection=right,facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_right"
+    },
+    "connection=right,facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_right",
+      "y": 180
+    },
+    "connection=right,facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_right",
+      "y": 270
+    },
+    "connection=single,facing=east": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_single",
+      "y": 90
+    },
+    "connection=single,facing=north": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_single"
+    },
+    "connection=single,facing=south": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_single",
+      "y": 180
+    },
+    "connection=single,facing=west": {
+      "model": "fantasyfurniture_bone_skeleton:block/sofa_single",
+      "y": 270
+    }
+  }
+}

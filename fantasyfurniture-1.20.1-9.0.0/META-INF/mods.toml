@@ -1,0 +1,53 @@
+modLoader="javafml"
+loaderVersion="[46,48)"
+license="GNU General Public License v3.0"
+issueTrackerURL="https://discord.apexstudios.dev/"
+
+[[mods]]
+	modId="fantasyfurniture"
+	version="${file.jarVersion}"
+	displayName="Fantasy's Furniture"
+	updateJSONURL="https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json"
+	displayURL="https://www.apexstudios.dev/fantasys-furniture"
+	logoFile="banner.png"
+	credits="Apex - Programming, FantasyGaming - Artist"
+	authors="ApexStudios"
+	description="Adds Fantasy-Themed Furniture & Decorational blocks to the game"
+
+[[dependencies.fantasyfurniture]]
+	modId="forge"
+	mandatory=true
+	versionRange="[46.0.0,48.0.0)"
+	ordering="AFTER"
+	side="BOTH"
+[[dependencies.fantasyfurniture]]
+	modId="minecraft"
+	mandatory=true
+	versionRange="[1.20,1.20.2)"
+	ordering="AFTER"
+	side="BOTH"
+[[dependencies.fantasyfurniture]]
+	modId="commonality"
+	mandatory=true
+	versionRange="[7.0.0,8.0.0)"
+	ordering="AFTER"
+	side="BOTH"
+[[dependencies.fantasyfurniture]]
+	modId="apexcore"
+	mandatory=true
+	embedded=true
+	versionRange="[10.0.0,11.0.0)"
+	ordering="AFTER"
+	side="BOTH"
+#[[dependencies.fantasyfurniture]]
+#	modId="jei"
+#	mandatory=false
+#	versionRange="[13.0.0.0,)"
+#	ordering="AFTER"
+#	side="BOTH"
+#[[dependencies.fantasyfurniture]]
+#	modId="ctm"
+#	mandatory=false
+#	versionRange="*" # ctm versions are funky, just allow all versions
+#	ordering="AFTER"
+#	side="BOTH"

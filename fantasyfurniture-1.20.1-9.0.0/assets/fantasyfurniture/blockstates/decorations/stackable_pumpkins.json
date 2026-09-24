@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,pumpkins=0": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_0",
+      "y": 90
+    },
+    "facing=east,pumpkins=1": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_1",
+      "y": 90
+    },
+    "facing=east,pumpkins=2": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_2",
+      "y": 90
+    },
+    "facing=north,pumpkins=0": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_0"
+    },
+    "facing=north,pumpkins=1": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_1"
+    },
+    "facing=north,pumpkins=2": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_2"
+    },
+    "facing=south,pumpkins=0": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_0",
+      "y": 180
+    },
+    "facing=south,pumpkins=1": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_1",
+      "y": 180
+    },
+    "facing=south,pumpkins=2": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_2",
+      "y": 180
+    },
+    "facing=west,pumpkins=0": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_0",
+      "y": 270
+    },
+    "facing=west,pumpkins=1": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_1",
+      "y": 270
+    },
+    "facing=west,pumpkins=2": {
+      "model": "fantasyfurniture:generated/block/decorations/stackable_pumpkins_2",
+      "y": 270
+    }
+  }
+}

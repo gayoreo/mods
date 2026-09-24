@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/venthyr/chest",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "chest": "fantasyfurniture:block/models/venthyr/chest",
+    "particle": "fantasyfurniture:block/particles/venthyr"
+  }
+}

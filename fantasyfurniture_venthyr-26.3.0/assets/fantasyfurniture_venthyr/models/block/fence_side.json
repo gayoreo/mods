@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "fantasyfurniture_venthyr:block/planks"
+  }
+}

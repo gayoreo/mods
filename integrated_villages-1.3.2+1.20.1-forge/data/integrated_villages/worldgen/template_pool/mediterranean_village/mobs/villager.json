@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:mediterranean_village/mediterranean_village_villager",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/mobs/mediterranean_village_villager",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

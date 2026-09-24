@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/stackable_pumpkins_2",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/decorations/stackable_pumpkins",
+    "stackable_pumpkins": "fantasyfurniture:block/models/decorations/stackable_pumpkins"
+  }
+}

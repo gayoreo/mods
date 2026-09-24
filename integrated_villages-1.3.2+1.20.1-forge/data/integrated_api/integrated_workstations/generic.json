@@ -1,0 +1,124 @@
+{
+  "workstations": [
+    {
+      "required_mod": "minecraft",
+      "output_block": "minecraft:composter",
+      "weight": 1
+    },
+    {
+      "required_mod": "domestic_innovation",
+      "output_block": "domestic_innovation:pet_bed_white",
+      "weight": 1
+    },
+    {
+      "required_mod": "simplycats",
+      "output_block": "simplycats:shelter_book",
+      "weight": 1
+    },
+    {
+      "required_mod": "morevillagers",
+      "output_block": "morevillagers:woodworking_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "morevillagers",
+      "output_block": "morevillagers:gardening_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "sawmill",
+      "output_block": "sawmill:sawmill",
+      "weight": 1
+    },
+    {
+      "required_mod": "vinery",
+      "output_block": "vinery:apple_press",
+      "weight": 1
+    },
+    {
+      "required_mod": "brewery",
+      "output_block": "brewery:bar_counter",
+      "weight": 1
+    },
+    {
+      "required_mod": "cloudstorage",
+      "output_block": "cloudstorage:balloon_stand",
+      "weight": 1
+    },
+    {
+      "required_mod": "betterarcheology",
+      "output_block": "betterarcheology:archeology_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "new_villagers",
+      "output_block": "new_villagers:archeology_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "new_villagers",
+      "output_block": "new_villagers:lumberjack_woodwork_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "recruits",
+      "output_block": "recruits:recruit_block",
+      "weight": 1
+    },
+    {
+      "required_mod": "recruits",
+      "output_block": "recruits:recruit_shield_block",
+      "weight": 1
+    },
+    {
+      "required_mod": "wares",
+      "output_block": "wares:delivery_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "easel_does_it",
+      "output_block": "easel_does_it:easel",
+      "weight": 1
+    },
+    {
+      "required_mod": "rogues",
+      "output_block": "rogues:arms_workbench",
+      "weight": 1
+    },
+    {
+      "required_mod": "jewelry",
+      "output_block": "jewelry:jewelers_kit",
+      "weight": 1
+    },
+    {
+      "required_mod": "zetter",
+      "output_block": "zetter:artist_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "scguns",
+      "output_block": "scguns:gun_bench",
+      "weight": 1
+    },
+    {
+      "required_mod": "rats",
+      "output_block": "rats:trash_can",
+      "weight": 1
+    },
+    {
+      "required_mod": "dynamicvillage",
+      "output_block": "create:schematic_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "dynamicvillage",
+      "output_block": "create:item_drain",
+      "weight": 1
+    },
+    {
+      "required_mod": "cobblemon",
+      "output_block": "cobblemon:healing_machine",
+      "weight": 1
+    }
+  ]
+}

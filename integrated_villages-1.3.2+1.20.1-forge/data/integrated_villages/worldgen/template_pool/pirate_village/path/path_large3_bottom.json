@@ -1,0 +1,18 @@
+{
+  "name": "integrated_villages:pirate_village/pirate_village_path_large3_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:pirate_village/path/pirate_village_path_large3_bottom",
+        "processors": "integrated_villages:pirate_village_processor",
+        "projection": "rigid",
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:none"
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

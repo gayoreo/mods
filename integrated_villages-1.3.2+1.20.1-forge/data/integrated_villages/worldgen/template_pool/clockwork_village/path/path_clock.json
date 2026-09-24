@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:clockwork_village/path/path_clock",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:clockwork_village/path/clockwork_village_path_clock",
+        "processors": "integrated_villages:clockwork_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

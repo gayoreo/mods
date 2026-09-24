@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_hanging_sign_rot_2",
+  "textures": {
+    "all": "fantasyfurniture_venthyr:block/hanging_sign",
+    "particle": "fantasyfurniture_venthyr:block/planks"
+  }
+}

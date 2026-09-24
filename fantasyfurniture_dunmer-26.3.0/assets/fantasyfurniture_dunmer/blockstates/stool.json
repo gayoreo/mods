@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture_dunmer:block/stool",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture_dunmer:block/stool"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture_dunmer:block/stool",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture_dunmer:block/stool",
+      "y": 270
+    }
+  }
+}

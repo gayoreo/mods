@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "xyz/apex/forge/fantasyfurniture/mixin/client/LivingRendererMixin": {
+      "Lcom/mojang/blaze3d/vertex/PoseStack;mulPose(Lorg/joml/Quaternionf;)V": "Lcom/mojang/blaze3d/vertex/PoseStack;m_252781_(Lorg/joml/Quaternionf;)V",
+      "setupRotations": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7523_(Lnet/minecraft/world/entity/LivingEntity;Lcom/mojang/blaze3d/vertex/PoseStack;FFF)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "xyz/apex/forge/fantasyfurniture/mixin/client/LivingRendererMixin": {
+        "Lcom/mojang/blaze3d/vertex/PoseStack;mulPose(Lorg/joml/Quaternionf;)V": "Lcom/mojang/blaze3d/vertex/PoseStack;m_252781_(Lorg/joml/Quaternionf;)V",
+        "setupRotations": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7523_(Lnet/minecraft/world/entity/LivingEntity;Lcom/mojang/blaze3d/vertex/PoseStack;FFF)V"
+      }
+    }
+  }
+}

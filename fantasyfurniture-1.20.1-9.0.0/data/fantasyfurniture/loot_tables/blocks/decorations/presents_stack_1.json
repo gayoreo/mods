@@ -1,0 +1,51 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fantasyfurniture:decorations/presents_stack_1"
+        }
+      ],
+      "functions": [
+        {
+          "add": false,
+          "conditions": [
+            {
+              "block": "fantasyfurniture:decorations/presents_stack_1",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "presents": "0"
+              }
+            }
+          ],
+          "count": 1.0,
+          "function": "minecraft:set_count"
+        },
+        {
+          "add": false,
+          "conditions": [
+            {
+              "block": "fantasyfurniture:decorations/presents_stack_1",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "presents": "1"
+              }
+            }
+          ],
+          "count": 2.0,
+          "function": "minecraft:set_count"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "fantasyfurniture:blocks/decorations/presents_stack_1"
+}

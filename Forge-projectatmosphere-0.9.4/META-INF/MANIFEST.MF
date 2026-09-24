@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: projectatmosphere
+Specification-Vendor: Gabou
+Specification-Version: 1
+Implementation-Title: project-atmosphere
+Implementation-Version: 0.9.4
+Implementation-Vendor: Gabou
+Implementation-Timestamp: 2026-09-15T10:41:34-0400
+MixinConfigs: projectatmosphere.mixins.json
+

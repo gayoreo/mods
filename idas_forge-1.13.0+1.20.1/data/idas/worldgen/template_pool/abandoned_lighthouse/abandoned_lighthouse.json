@@ -1,0 +1,15 @@
+{
+  "name": "idas:abandoned_lighthouse/abandoned_lighthouse",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "idas:abandoned_lighthouse/abandoned_lighthouse",
+        "processors": "idas:waterlogging_fix_processor",
+        "projection": "rigid",
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "integrated_villages:pirate_village/market",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "required_mod": "sawmill",
+      "element": {
+        "location": "integrated_villages:pirate_village/market/pirate_village_market_stall_sawmill",
+        "processors": "integrated_villages:pirate_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

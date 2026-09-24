@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "neoforge:ingredient_type": "neoforge:difference",
+    "base": "#minecraft:stone_crafting_materials",
+    "subtracted": "#fantasyfurniture:furniture_bricks"
+  },
+  "result": {
+    "id": "fantasyfurniture_bone_wither:bricks"
+  }
+}

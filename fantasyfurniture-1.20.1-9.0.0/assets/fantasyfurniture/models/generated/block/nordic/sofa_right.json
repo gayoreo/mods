@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/nordic/sofa_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/nordic",
+    "sofa": "fantasyfurniture:block/models/nordic/sofa"
+  }
+}

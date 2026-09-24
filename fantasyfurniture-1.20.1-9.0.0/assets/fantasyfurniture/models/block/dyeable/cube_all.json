@@ -1,0 +1,18 @@
+{
+  "parent": "fantasyfurniture:block/dyeable/cube",
+  "textures": {
+    "down": "#all",
+    "east": "#all",
+    "north": "#all",
+    "particle": "#tint_all",
+    "south": "#all",
+    "tint_down": "#tint_all",
+    "tint_east": "#tint_all",
+    "tint_north": "#tint_all",
+    "tint_south": "#tint_all",
+    "tint_up": "#tint_all",
+    "tint_west": "#tint_all",
+    "up": "#all",
+    "west": "#all"
+  }
+}

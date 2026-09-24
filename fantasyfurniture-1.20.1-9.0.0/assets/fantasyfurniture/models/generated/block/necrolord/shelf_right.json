@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/necrolord/shelf_right",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/necrolord",
+    "shelf": "fantasyfurniture:block/models/necrolord/shelf"
+  }
+}

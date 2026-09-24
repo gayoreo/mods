@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "fantasyfurniture_nordic:block/planks",
+    "side": "fantasyfurniture_nordic:block/planks",
+    "top": "fantasyfurniture_nordic:block/planks"
+  }
+}

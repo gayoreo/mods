@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:generated/block/bone/skeleton/dresser",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:generated/block/bone/skeleton/dresser"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:generated/block/bone/skeleton/dresser",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:generated/block/bone/skeleton/dresser",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:block/stool",
+	"textures": {
+		"stool": "fantasyfurniture_bone_skeleton:block/stool",
+		"particle": "fantasyfurniture_bone_skeleton:block/particle"
+	}
+}

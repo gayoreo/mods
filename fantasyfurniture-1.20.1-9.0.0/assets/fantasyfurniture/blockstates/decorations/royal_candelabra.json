@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture:generated/block/decorations/royal_candelabra",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture:generated/block/decorations/royal_candelabra"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture:generated/block/decorations/royal_candelabra",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture:generated/block/decorations/royal_candelabra",
+      "y": 270
+    }
+  }
+}

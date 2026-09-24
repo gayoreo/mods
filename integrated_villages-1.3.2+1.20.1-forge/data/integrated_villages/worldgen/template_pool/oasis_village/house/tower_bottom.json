@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:oasis_village/tower_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/house/oasis_village_tower_bottom",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

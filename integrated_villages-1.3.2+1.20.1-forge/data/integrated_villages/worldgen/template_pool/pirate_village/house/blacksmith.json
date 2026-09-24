@@ -1,0 +1,44 @@
+{
+  "name": "integrated_villages:pirate_village/blacksmith",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:pirate_village/house/pirate_village_blacksmith",
+        "processors": "integrated_villages:pirate_village_processor",
+        "projection": "rigid",
+        "modifiers": [
+          {
+            "condition": {
+              "type": "integrated_api:piece_in_range",
+              "pieces": [
+                "integrated_villages:pirate_village/house/pirate_village_blacksmith"
+              ],
+              "above_range": 5,
+              "horizontal_range": 60,
+              "below_range": 5
+            },
+            "target_selector": {
+              "type": "integrated_api:self"
+            },
+            "actions": [
+              {
+                "type": "integrated_api:transform",
+                "output": ["integrated_villages:pirate_village/house/pirate_village_observatory"]
+              }
+            ]
+          }
+        ],
+        "enhanced_terrain_adaptation": {
+          "type": "integrated_api:custom",
+          "carves": true,
+          "beards": true,
+          "kernel_size": 35,
+          "kernel_distance": 35
+        },
+        "element_type": "integrated_api:integrated_api_single_pool_element"
+      }
+    }
+  ]
+}

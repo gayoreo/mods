@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=east,lit=false,multi_block_index=0": {
+      "model": "fantasyfurniture_dunmer:block/oven_left",
+      "y": 90
+    },
+    "facing=east,lit=false,multi_block_index=1": {
+      "model": "fantasyfurniture_dunmer:block/oven_right",
+      "y": 90
+    },
+    "facing=east,lit=true,multi_block_index=0": {
+      "model": "fantasyfurniture_dunmer:block/oven_lit_left",
+      "y": 90
+    },
+    "facing=east,lit=true,multi_block_index=1": {
+      "model": "fantasyfurniture_dunmer:block/oven_lit_right",
+      "y": 90
+    },
+    "facing=north,lit=false,multi_block_index=0": {
+      "model": "fantasyfurniture_dunmer:block/oven_left"
+    },
+    "facing=north,lit=false,multi_block_index=1": {
+      "model": "fantasyfurniture_dunmer:block/oven_right"
+    },
+    "facing=north,lit=true,multi_block_index=0": {
+      "model": "fantasyfurniture_dunmer:block/oven_lit_left"
+    },
+    "facing=north,lit=true,multi_block_index=1": {
+      "model": "fantasyfurniture_dunmer:block/oven_lit_right"
+    },
+    "facing=south,lit=false,multi_block_index=0": {
+      "model": "fantasyfurniture_dunmer:block/oven_left",
+      "y": 180
+    },
+    "facing=south,lit=false,multi_block_index=1": {
+      "model": "fantasyfurniture_dunmer:block/oven_right",
+      "y": 180
+    },
+    "facing=south,lit=true,multi_block_index=0": {
+      "model": "fantasyfurniture_dunmer:block/oven_lit_left",
+      "y": 180
+    },
+    "facing=south,lit=true,multi_block_index=1": {
+      "model": "fantasyfurniture_dunmer:block/oven_lit_right",
+      "y": 180
+    },
+    "facing=west,lit=false,multi_block_index=0": {
+      "model": "fantasyfurniture_dunmer:block/oven_left",
+      "y": 270
+    },
+    "facing=west,lit=false,multi_block_index=1": {
+      "model": "fantasyfurniture_dunmer:block/oven_right",
+      "y": 270
+    },
+    "facing=west,lit=true,multi_block_index=0": {
+      "model": "fantasyfurniture_dunmer:block/oven_lit_left",
+      "y": 270
+    },
+    "facing=west,lit=true,multi_block_index=1": {
+      "model": "fantasyfurniture_dunmer:block/oven_lit_right",
+      "y": 270
+    }
+  }
+}

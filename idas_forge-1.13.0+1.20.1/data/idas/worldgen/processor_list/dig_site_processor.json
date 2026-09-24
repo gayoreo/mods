@@ -1,0 +1,57 @@
+{
+  "processors": [
+    {
+      "rules": [
+        {
+          "output_state": {
+            "Name": "minecraft:suspicious_sand"
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "idas:archeology/suspicious_sand_dig_site"
+          },
+          "input_predicate": {
+            "block": "minecraft:suspicious_sand",
+            "probability": 1,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        }
+      ],
+      "processor_type": "minecraft:rule"
+    },
+    {
+      "rules": [
+        {
+          "output_state": {
+            "Name": "minecraft:suspicious_gravel"
+          },
+          "block_entity_modifier": {
+            "type": "minecraft:append_loot",
+            "loot_table": "idas:archeology/suspicious_gravel_dig_site"
+          },
+          "input_predicate": {
+            "block": "minecraft:suspicious_gravel",
+            "probability": 1,
+            "predicate_type": "minecraft:random_block_match"
+          },
+          "location_predicate": {
+            "predicate_type": "minecraft:always_true"
+          }
+        }
+      ],
+      "processor_type": "minecraft:rule"
+    },
+    {
+      "processor_type": "idas:waterlogging_fix_processor"
+    },
+    {
+      "processor_type": "integrated_api:tick_blocks_processor",
+      "blocks_to_tick": [
+        "minecraft:dispenser"
+      ]
+    }
+  ]
+}

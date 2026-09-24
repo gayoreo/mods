@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "facing=east,part=foot": {
+      "model": "fantasyfurniture_bone_wither:block/bed_single_bottom",
+      "y": 270
+    },
+    "facing=east,part=head": {
+      "model": "fantasyfurniture_bone_wither:block/bed_single_top",
+      "y": 270
+    },
+    "facing=north,part=foot": {
+      "model": "fantasyfurniture_bone_wither:block/bed_single_bottom",
+      "y": 180
+    },
+    "facing=north,part=head": {
+      "model": "fantasyfurniture_bone_wither:block/bed_single_top",
+      "y": 180
+    },
+    "facing=south,part=foot": {
+      "model": "fantasyfurniture_bone_wither:block/bed_single_bottom"
+    },
+    "facing=south,part=head": {
+      "model": "fantasyfurniture_bone_wither:block/bed_single_top"
+    },
+    "facing=west,part=foot": {
+      "model": "fantasyfurniture_bone_wither:block/bed_single_bottom",
+      "y": 90
+    },
+    "facing=west,part=head": {
+      "model": "fantasyfurniture_bone_wither:block/bed_single_top",
+      "y": 90
+    }
+  }
+}

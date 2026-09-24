@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture_decorations:block/bone_pile_skeleton",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture_decorations:block/bone_pile_skeleton"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture_decorations:block/bone_pile_skeleton",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture_decorations:block/bone_pile_skeleton",
+      "y": 270
+    }
+  }
+}

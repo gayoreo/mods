@@ -1,0 +1,72 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "fantasyfurniture:decorations/royal_chalices"
+        }
+      ],
+      "functions": [
+        {
+          "add": false,
+          "conditions": [
+            {
+              "block": "fantasyfurniture:decorations/royal_chalices",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "chalices": "0"
+              }
+            }
+          ],
+          "count": 1.0,
+          "function": "minecraft:set_count"
+        },
+        {
+          "add": false,
+          "conditions": [
+            {
+              "block": "fantasyfurniture:decorations/royal_chalices",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "chalices": "1"
+              }
+            }
+          ],
+          "count": 2.0,
+          "function": "minecraft:set_count"
+        },
+        {
+          "add": false,
+          "conditions": [
+            {
+              "block": "fantasyfurniture:decorations/royal_chalices",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "chalices": "2"
+              }
+            }
+          ],
+          "count": 3.0,
+          "function": "minecraft:set_count"
+        },
+        {
+          "block": "fantasyfurniture:decorations/royal_chalices",
+          "function": "minecraft:copy_state",
+          "properties": [
+            "dye_color"
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "fantasyfurniture:blocks/decorations/royal_chalices"
+}

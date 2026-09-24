@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "fantasyfurniture_royal:item/door_double_tint",
+    "layer1": "fantasyfurniture_royal:item/door_double"
+  }
+}

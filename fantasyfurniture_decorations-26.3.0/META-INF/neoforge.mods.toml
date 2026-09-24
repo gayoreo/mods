@@ -1,0 +1,44 @@
+license = "AllRightsReserved"
+issueTrackerURL = "https://github.com/ApexStudios-Dev/FantasyFurniture/issues"
+
+[[mods]]
+modId = "fantasyfurniture_decorations"
+version = "${file.jarVersion}"
+displayName = "Fantasy's Furniture - Decorations"
+credits = "Apex - Programming"
+authors = "ApexStudios"
+description = "Decorations module for Fantasy's Furniture"
+bannerFile = "banner.png"
+iconFile = "icon.png"
+displayURL = "https://modrinth.com/project/fantasys-furniture-decorations"
+
+[[dependencies.fantasyfurniture_decorations]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.3,26.4)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.fantasyfurniture_decorations]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.fantasyfurniture_decorations]]
+modId = "apexcore"
+type = "required"
+versionRange = "[26.3,26.4)"
+[dependencies.fantasyfurniture_decorations.mc-publish]
+modrinth = "xl3myxch"
+curseforge = "550778"
+[[dependencies.fantasyfurniture_decorations]]
+modId = "fantasyfurniture"
+type = "required"
+versionRange = "[26.3-alpha,26.4)"
+[dependencies.fantasyfurniture_decorations.mc-publish]
+modrinth = "A0nfCqYw"
+curseforge = "579564"
+
+[[accessTransformers]]
+file="META-INF/accesstransformer.cfg"

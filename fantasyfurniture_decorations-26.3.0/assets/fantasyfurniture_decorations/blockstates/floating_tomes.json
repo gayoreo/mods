@@ -1,0 +1,484 @@
+{
+  "variants": {
+    "color=black,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=black,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=black,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=black,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=black,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=black,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=black,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=black,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=blue,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=blue,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=blue,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=blue,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=blue,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=blue,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=blue,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=blue,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=brown,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=brown,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=brown,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=brown,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=brown,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=brown,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=brown,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=brown,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=cyan,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=cyan,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=cyan,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=cyan,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=cyan,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=cyan,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=cyan,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=cyan,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=gray,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=gray,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=gray,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=gray,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=gray,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=gray,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=gray,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=gray,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=green,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=green,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=green,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=green,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=green,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=green,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=green,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=green,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=light_blue,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=light_blue,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=light_blue,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=light_blue,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=light_blue,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=light_blue,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=light_blue,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=light_blue,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=light_gray,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=light_gray,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=light_gray,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=light_gray,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=light_gray,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=light_gray,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=light_gray,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=light_gray,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=lime,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=lime,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=lime,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=lime,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=lime,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=lime,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=lime,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=lime,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=magenta,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=magenta,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=magenta,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=magenta,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=magenta,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=magenta,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=magenta,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=magenta,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=orange,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=orange,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=orange,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=orange,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=orange,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=orange,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=orange,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=orange,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=pink,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=pink,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=pink,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=pink,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=pink,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=pink,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=pink,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=pink,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=purple,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=purple,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=purple,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=purple,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=purple,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=purple,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=purple,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=purple,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=red,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=red,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=red,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=red,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=red,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=red,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=red,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=red,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=white,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=white,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=white,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=white,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=white,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=white,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=white,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=white,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    },
+    "color=yellow,count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 90
+    },
+    "color=yellow,count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0"
+    },
+    "color=yellow,count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 180
+    },
+    "color=yellow,count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_0",
+      "y": 270
+    },
+    "color=yellow,count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 90
+    },
+    "color=yellow,count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1"
+    },
+    "color=yellow,count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 180
+    },
+    "color=yellow,count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/floating_tomes_1",
+      "y": 270
+    }
+  }
+}

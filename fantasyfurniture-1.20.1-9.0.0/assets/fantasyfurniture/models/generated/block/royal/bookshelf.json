@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/royal/bookshelf",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "bookshelf": "fantasyfurniture:block/models/royal/bookshelf",
+    "particle": "fantasyfurniture:block/particles/royal"
+  }
+}

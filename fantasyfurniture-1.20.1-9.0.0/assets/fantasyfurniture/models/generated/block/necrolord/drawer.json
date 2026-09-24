@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/necrolord/drawer",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "drawer": "fantasyfurniture:block/models/necrolord/drawer",
+    "particle": "fantasyfurniture:block/particles/necrolord"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,potions=0": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_0",
+      "y": 90
+    },
+    "facing=east,potions=1": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_1",
+      "y": 90
+    },
+    "facing=east,potions=2": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_2",
+      "y": 90
+    },
+    "facing=north,potions=0": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_0"
+    },
+    "facing=north,potions=1": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_1"
+    },
+    "facing=north,potions=2": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_2"
+    },
+    "facing=south,potions=0": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_0",
+      "y": 180
+    },
+    "facing=south,potions=1": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_1",
+      "y": 180
+    },
+    "facing=south,potions=2": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_2",
+      "y": 180
+    },
+    "facing=west,potions=0": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_0",
+      "y": 270
+    },
+    "facing=west,potions=1": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_1",
+      "y": 270
+    },
+    "facing=west,potions=2": {
+      "model": "fantasyfurniture:generated/block/decorations/potion_bottles_dyeable_2",
+      "y": 270
+    }
+  }
+}

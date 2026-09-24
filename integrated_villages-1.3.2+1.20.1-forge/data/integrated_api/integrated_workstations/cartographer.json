@@ -1,0 +1,19 @@
+{
+  "workstations": [
+    {
+      "required_mod": "minecraft",
+      "output_block": "minecraft:cartography_table",
+      "weight": 1
+    },
+    {
+      "required_mod": "morevillagers",
+      "output_block": "morevillagers:hunting_post",
+      "weight": 1
+    },
+    {
+      "required_mod": "morevillagers",
+      "output_block": "morevillagers:oceanography_table",
+      "weight": 1
+    }
+  ]
+}

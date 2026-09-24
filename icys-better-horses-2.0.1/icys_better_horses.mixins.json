@@ -1,0 +1,51 @@
+{
+	"required": true,
+	"minVersion": "0.8.5",
+	"package": "icy.betterhorses.net.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "icys_better_horses.refmap.json",
+	"mixins": [
+		"AbstractChestedHorseCreativeTamingMixin",
+		"AbstractHorseAccessor",
+		"AbstractHorseMixin",
+		"AnimalMixin",
+		"EntityAccessor",
+		"EntityMixin",
+		"EntitySlowBlockMixin",
+		"EquineBreedingMixin",
+		"HorseAccessor",
+		"HorseCreativeTamingMixin",
+		"HorseFinalizeSpawnMixin",
+		"HorseInventoryMenuMixin",
+		"LeafPassthroughMixin",
+		"LivingEntityMixin",
+		"MapItemMixin",
+		"MobCartPassengerMixin",
+		"MobNameTagBondMixin",
+		"MoveControlStepMixin",
+		"PanicGoalMixin",
+		"PlayerHurtMixin",
+		"PowderSnowBlockMixin",
+		"SlotAccessor",
+		"SpawnPlacementsAccessor",
+		"AbstractMountInventoryMenuMixin"
+	],
+	"client": [
+		"AbstractContainerScreenAccessor",
+		"AbstractContainerScreenMixin",
+		"AbstractHorseRendererMixin",
+		"CameraMixin",
+		"HorseInventoryScreenMixin",
+		"HorseModelAccessor",
+		"HorseModelMixin",
+		"KeyboardInputMixin",
+		"LivingEntityRendererMixin",
+		"LivingEntityRendererRiderMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

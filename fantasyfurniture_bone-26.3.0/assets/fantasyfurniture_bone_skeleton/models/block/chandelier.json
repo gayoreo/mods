@@ -1,0 +1,7 @@
+{
+	"parent": "fantasyfurniture_bone:block/chandelier",
+	"textures": {
+		"chandelier": "fantasyfurniture_bone_skeleton:block/chandelier",
+		"particle": "fantasyfurniture_bone_skeleton:block/particle"
+	}
+}

@@ -1,0 +1,76 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"particle": "fantasyfurniture_necrolord:block/particle",
+		"table_combined": "fantasyfurniture_necrolord:block/table_combined"
+	},
+	"elements": [
+		{
+			"name": "beam_6",
+			"from": [0, 14, 13],
+			"to": [16, 16, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, -8]},
+			"faces": {
+				"south": {"uv": [10.5, 1.5, 14.5, 2], "texture": "#table_combined"},
+				"up": {"uv": [6.5, 11, 2.5, 10.5], "rotation": 180, "texture": "#table_combined", "cullface": "up"},
+				"down": {"uv": [14.5, 2.5, 10.5, 3], "rotation": 180, "texture": "#table_combined"}
+			}
+		},
+		{
+			"name": "top",
+			"from": [0, 14, 0],
+			"to": [16, 16, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 15, -8]},
+			"faces": {
+				"up": {"uv": [7.25, 4, 4, 0], "rotation": 90, "texture": "#table_combined", "cullface": "up"},
+				"down": {"uv": [7.25, 0, 4, 4], "rotation": 270, "texture": "#table_combined"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -2.25, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"head": {
+			"translation": [0, 10.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -4],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "table_new",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

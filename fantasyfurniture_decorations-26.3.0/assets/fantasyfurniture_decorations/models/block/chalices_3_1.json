@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture_decorations:block/chalices_0_1",
+  "textures": {
+    "cup": "fantasyfurniture_decorations:block/chalices_3_particle",
+    "fluid": "fantasyfurniture_decorations:block/chalices_3_tint",
+    "particle": "fantasyfurniture_decorations:block/chalices_3_particle"
+  }
+}

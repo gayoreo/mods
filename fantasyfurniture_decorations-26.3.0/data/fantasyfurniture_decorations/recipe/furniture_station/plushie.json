@@ -1,0 +1,8 @@
+{
+  "type": "fantasyfurniture:furniture_station",
+  "binding_agent": "#fantasyfurniture:binding_agent",
+  "planks": "#c:dyes",
+  "result": {
+    "id": "fantasyfurniture_decorations:plushie"
+  }
+}

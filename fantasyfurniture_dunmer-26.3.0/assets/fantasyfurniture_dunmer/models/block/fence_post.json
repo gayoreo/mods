@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "fantasyfurniture_dunmer:block/planks"
+  }
+}

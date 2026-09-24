@@ -1,0 +1,34 @@
+{
+  "variants": {
+    "count=0,facing=east": {
+      "model": "fantasyfurniture_decorations:block/tankards_honeymead_0",
+      "y": 90
+    },
+    "count=0,facing=north": {
+      "model": "fantasyfurniture_decorations:block/tankards_honeymead_0"
+    },
+    "count=0,facing=south": {
+      "model": "fantasyfurniture_decorations:block/tankards_honeymead_0",
+      "y": 180
+    },
+    "count=0,facing=west": {
+      "model": "fantasyfurniture_decorations:block/tankards_honeymead_0",
+      "y": 270
+    },
+    "count=1,facing=east": {
+      "model": "fantasyfurniture_decorations:block/tankards_honeymead_1",
+      "y": 90
+    },
+    "count=1,facing=north": {
+      "model": "fantasyfurniture_decorations:block/tankards_honeymead_1"
+    },
+    "count=1,facing=south": {
+      "model": "fantasyfurniture_decorations:block/tankards_honeymead_1",
+      "y": 180
+    },
+    "count=1,facing=west": {
+      "model": "fantasyfurniture_decorations:block/tankards_honeymead_1",
+      "y": 270
+    }
+  }
+}

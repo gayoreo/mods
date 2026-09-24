@@ -1,0 +1,78 @@
+{
+  "name": "integrated_villages:mediterranean_village/path/path",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/path/mediterranean_village_path_house1",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/path/mediterranean_village_path_house2",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/path/mediterranean_village_path_house3",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/path/mediterranean_village_path_house5",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/path/mediterranean_village_path_farmhouse1",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/path/mediterranean_village_path_farmhouse2",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/path/mediterranean_village_path_library",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mediterranean_village/path/mediterranean_village_path_well",
+        "processors": "integrated_villages:mediterranean_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

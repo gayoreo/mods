@@ -1,0 +1,7 @@
+{
+  "parent": "apexcore:block/carpet_tinted",
+  "textures": {
+    "wool": "fantasyfurniture_royal:block/wool",
+    "wool_tinted": "fantasyfurniture_royal:block/wool_tint"
+  }
+}

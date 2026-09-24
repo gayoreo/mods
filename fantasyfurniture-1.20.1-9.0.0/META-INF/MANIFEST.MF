@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: Fantasy's Furniture-1.20.1
+Specification-Vendor: ApexStudios
+Specification-Version: 9.0.0
+Implementation-Title: Fantasy's Furniture
+Implementation-Version: 9.0.0
+Implementation-Vendor: ApexStudios
+Implementation-Timestamp: 2023-08-13T05:36:00+0100
+MixinConfigs: fantasyfurniture.mixins.json
+

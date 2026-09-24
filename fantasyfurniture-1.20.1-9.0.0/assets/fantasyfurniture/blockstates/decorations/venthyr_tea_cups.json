@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "facing=east,tea_cups=0": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_0",
+      "y": 90
+    },
+    "facing=east,tea_cups=1": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_1",
+      "y": 90
+    },
+    "facing=east,tea_cups=2": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_2",
+      "y": 90
+    },
+    "facing=north,tea_cups=0": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_0"
+    },
+    "facing=north,tea_cups=1": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_1"
+    },
+    "facing=north,tea_cups=2": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_2"
+    },
+    "facing=south,tea_cups=0": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_0",
+      "y": 180
+    },
+    "facing=south,tea_cups=1": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_1",
+      "y": 180
+    },
+    "facing=south,tea_cups=2": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_2",
+      "y": 180
+    },
+    "facing=west,tea_cups=0": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_0",
+      "y": 270
+    },
+    "facing=west,tea_cups=1": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_1",
+      "y": 270
+    },
+    "facing=west,tea_cups=2": {
+      "model": "fantasyfurniture:generated/block/decorations/venthyr_tea_cups_2",
+      "y": 270
+    }
+  }
+}

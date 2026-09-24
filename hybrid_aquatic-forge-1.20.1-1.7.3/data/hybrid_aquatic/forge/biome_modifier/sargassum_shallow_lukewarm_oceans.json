@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#hapi:shallow_lukewarm_oceans",
+  "features": "hybrid_aquatic:sargassum",
+  "step": "vegetal_decoration"
+}

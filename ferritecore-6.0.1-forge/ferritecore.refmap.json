@@ -1,0 +1,144 @@
+{
+  "mappings": {
+    "malte0811/ferritecore/mixin/blockstatecache/DiscreteVSAccess": {
+      "zSize": "f_82783_:I",
+      "ySize": "f_82782_:I",
+      "xSize": "f_82781_:I"
+    },
+    "malte0811/ferritecore/mixin/blockstatecache/BitSetDVSAccess": {
+      "zMin": "f_82583_:I",
+      "yMin": "f_82582_:I",
+      "zMax": "f_82586_:I",
+      "yMax": "f_82585_:I",
+      "storage": "f_82580_:Ljava/util/BitSet;",
+      "xMax": "f_82584_:I",
+      "xMin": "f_82581_:I"
+    },
+    "malte0811/ferritecore/mixin/blockstatecache/ArrayVSAccess": {
+      "zs": "f_82565_:Lit/unimi/dsi/fastutil/doubles/DoubleList;",
+      "ys": "f_82564_:Lit/unimi/dsi/fastutil/doubles/DoubleList;",
+      "xs": "f_82563_:Lit/unimi/dsi/fastutil/doubles/DoubleList;"
+    },
+    "malte0811/ferritecore/mixin/blockstatecache/BlockStateBaseMixin": {
+      "initCache": "Lnet/minecraft/world/level/block/state/BlockBehaviour$BlockStateBase;m_60611_()V"
+    },
+    "malte0811/ferritecore/mixin/blockstatecache/VoxelShapeAccess": {
+      "shape": "f_83211_:Lnet/minecraft/world/phys/shapes/DiscreteVoxelShape;",
+      "faces": "f_83212_:[Lnet/minecraft/world/phys/shapes/VoxelShape;"
+    },
+    "malte0811/ferritecore/mixin/dedupbakedquad/SimpleModelBuilderMixin": {
+      "addCulledFace": "Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;m_119530_(Lnet/minecraft/core/Direction;Lnet/minecraft/client/renderer/block/model/BakedQuad;)Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;",
+      "addUnculledFace": "Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;m_119526_(Lnet/minecraft/client/renderer/block/model/BakedQuad;)Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;"
+    },
+    "malte0811/ferritecore/mixin/mrl/ModelResourceLocationMixin": {
+      "<init>(Lnet/minecraft/resources/ResourceLocation;Ljava/lang/String;)V": "Lnet/minecraft/client/resources/model/ModelResourceLocation;<init>(Lnet/minecraft/resources/ResourceLocation;Ljava/lang/String;)V"
+    },
+    "malte0811/ferritecore/mixin/dedupmultipart/MixinMultipartBuilder": {
+      "build": "Lnet/minecraft/client/resources/model/MultiPartBakedModel$Builder;m_119476_()Lnet/minecraft/client/resources/model/BakedModel;"
+    },
+    "malte0811/ferritecore/mixin/mrl/ResourceLocationAccess": {
+      "path": "f_135805_:Ljava/lang/String;",
+      "namespace": "f_135804_:Ljava/lang/String;"
+    },
+    "malte0811/ferritecore/mixin/blockstatecache/SubShapeAccess": {
+      "endZ": "f_83188_:I",
+      "parent": "f_83182_:Lnet/minecraft/world/phys/shapes/DiscreteVoxelShape;",
+      "endY": "f_83187_:I",
+      "endX": "f_83186_:I",
+      "startZ": "f_83185_:I",
+      "startY": "f_83184_:I",
+      "startX": "f_83183_:I"
+    },
+    "malte0811/ferritecore/mixin/blockstatecache/SliceShapeAccess": {
+      "delegate": "f_83168_:Lnet/minecraft/world/phys/shapes/VoxelShape;",
+      "axis": "f_83169_:Lnet/minecraft/core/Direction$Axis;"
+    },
+    "malte0811/ferritecore/mixin/threaddetec/PalettedContainerMixin": {
+      "<init>(Lnet/minecraft/core/IdMap;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;Lnet/minecraft/world/level/chunk/PalettedContainer$Configuration;Lnet/minecraft/util/BitStorage;Ljava/util/List;)V": "Lnet/minecraft/world/level/chunk/PalettedContainer;<init>(Lnet/minecraft/core/IdMap;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;Lnet/minecraft/world/level/chunk/PalettedContainer$Configuration;Lnet/minecraft/util/BitStorage;Ljava/util/List;)V",
+      "<init>(Lnet/minecraft/core/IdMap;Ljava/lang/Object;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;)V": "Lnet/minecraft/world/level/chunk/PalettedContainer;<init>(Lnet/minecraft/core/IdMap;Ljava/lang/Object;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;)V",
+      "<init>(Lnet/minecraft/core/IdMap;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;Lnet/minecraft/world/level/chunk/PalettedContainer$Data;)V": "Lnet/minecraft/world/level/chunk/PalettedContainer;<init>(Lnet/minecraft/core/IdMap;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;Lnet/minecraft/world/level/chunk/PalettedContainer$Data;)V"
+    },
+    "malte0811/ferritecore/mixin/fastmap/FastMapStateHolderMixin": {
+      "setValue": "Lnet/minecraft/world/level/block/state/StateHolder;m_61124_(Lnet/minecraft/world/level/block/state/properties/Property;Ljava/lang/Comparable;)Ljava/lang/Object;",
+      "trySetValue": "Lnet/minecraft/world/level/block/state/StateHolder;m_263224_(Lnet/minecraft/world/level/block/state/properties/Property;Ljava/lang/Comparable;)Ljava/lang/Object;"
+    },
+    "malte0811/ferritecore/mixin/blockstatecache/BlockStateCacheMixin": {
+      "net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase$Cache": "net/minecraft/world/level/block/state/BlockBehaviour$BlockStateBase$Cache"
+    },
+    "malte0811/ferritecore/mixin/dedupbakedquad/BakedQuadAccess": {
+      "vertices": "f_111292_:[I"
+    }
+  },
+  "data": {
+    "searge": {
+      "malte0811/ferritecore/mixin/blockstatecache/DiscreteVSAccess": {
+        "zSize": "f_82783_:I",
+        "ySize": "f_82782_:I",
+        "xSize": "f_82781_:I"
+      },
+      "malte0811/ferritecore/mixin/blockstatecache/BitSetDVSAccess": {
+        "zMin": "f_82583_:I",
+        "yMin": "f_82582_:I",
+        "zMax": "f_82586_:I",
+        "yMax": "f_82585_:I",
+        "storage": "f_82580_:Ljava/util/BitSet;",
+        "xMax": "f_82584_:I",
+        "xMin": "f_82581_:I"
+      },
+      "malte0811/ferritecore/mixin/blockstatecache/ArrayVSAccess": {
+        "zs": "f_82565_:Lit/unimi/dsi/fastutil/doubles/DoubleList;",
+        "ys": "f_82564_:Lit/unimi/dsi/fastutil/doubles/DoubleList;",
+        "xs": "f_82563_:Lit/unimi/dsi/fastutil/doubles/DoubleList;"
+      },
+      "malte0811/ferritecore/mixin/blockstatecache/BlockStateBaseMixin": {
+        "initCache": "Lnet/minecraft/world/level/block/state/BlockBehaviour$BlockStateBase;m_60611_()V"
+      },
+      "malte0811/ferritecore/mixin/blockstatecache/VoxelShapeAccess": {
+        "shape": "f_83211_:Lnet/minecraft/world/phys/shapes/DiscreteVoxelShape;",
+        "faces": "f_83212_:[Lnet/minecraft/world/phys/shapes/VoxelShape;"
+      },
+      "malte0811/ferritecore/mixin/dedupbakedquad/SimpleModelBuilderMixin": {
+        "addCulledFace": "Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;m_119530_(Lnet/minecraft/core/Direction;Lnet/minecraft/client/renderer/block/model/BakedQuad;)Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;",
+        "addUnculledFace": "Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;m_119526_(Lnet/minecraft/client/renderer/block/model/BakedQuad;)Lnet/minecraft/client/resources/model/SimpleBakedModel$Builder;"
+      },
+      "malte0811/ferritecore/mixin/mrl/ModelResourceLocationMixin": {
+        "<init>(Lnet/minecraft/resources/ResourceLocation;Ljava/lang/String;)V": "Lnet/minecraft/client/resources/model/ModelResourceLocation;<init>(Lnet/minecraft/resources/ResourceLocation;Ljava/lang/String;)V"
+      },
+      "malte0811/ferritecore/mixin/dedupmultipart/MixinMultipartBuilder": {
+        "build": "Lnet/minecraft/client/resources/model/MultiPartBakedModel$Builder;m_119476_()Lnet/minecraft/client/resources/model/BakedModel;"
+      },
+      "malte0811/ferritecore/mixin/mrl/ResourceLocationAccess": {
+        "path": "f_135805_:Ljava/lang/String;",
+        "namespace": "f_135804_:Ljava/lang/String;"
+      },
+      "malte0811/ferritecore/mixin/blockstatecache/SubShapeAccess": {
+        "endZ": "f_83188_:I",
+        "parent": "f_83182_:Lnet/minecraft/world/phys/shapes/DiscreteVoxelShape;",
+        "endY": "f_83187_:I",
+        "endX": "f_83186_:I",
+        "startZ": "f_83185_:I",
+        "startY": "f_83184_:I",
+        "startX": "f_83183_:I"
+      },
+      "malte0811/ferritecore/mixin/blockstatecache/SliceShapeAccess": {
+        "delegate": "f_83168_:Lnet/minecraft/world/phys/shapes/VoxelShape;",
+        "axis": "f_83169_:Lnet/minecraft/core/Direction$Axis;"
+      },
+      "malte0811/ferritecore/mixin/threaddetec/PalettedContainerMixin": {
+        "<init>(Lnet/minecraft/core/IdMap;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;Lnet/minecraft/world/level/chunk/PalettedContainer$Configuration;Lnet/minecraft/util/BitStorage;Ljava/util/List;)V": "Lnet/minecraft/world/level/chunk/PalettedContainer;<init>(Lnet/minecraft/core/IdMap;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;Lnet/minecraft/world/level/chunk/PalettedContainer$Configuration;Lnet/minecraft/util/BitStorage;Ljava/util/List;)V",
+        "<init>(Lnet/minecraft/core/IdMap;Ljava/lang/Object;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;)V": "Lnet/minecraft/world/level/chunk/PalettedContainer;<init>(Lnet/minecraft/core/IdMap;Ljava/lang/Object;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;)V",
+        "<init>(Lnet/minecraft/core/IdMap;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;Lnet/minecraft/world/level/chunk/PalettedContainer$Data;)V": "Lnet/minecraft/world/level/chunk/PalettedContainer;<init>(Lnet/minecraft/core/IdMap;Lnet/minecraft/world/level/chunk/PalettedContainer$Strategy;Lnet/minecraft/world/level/chunk/PalettedContainer$Data;)V"
+      },
+      "malte0811/ferritecore/mixin/fastmap/FastMapStateHolderMixin": {
+        "setValue": "Lnet/minecraft/world/level/block/state/StateHolder;m_61124_(Lnet/minecraft/world/level/block/state/properties/Property;Ljava/lang/Comparable;)Ljava/lang/Object;",
+        "trySetValue": "Lnet/minecraft/world/level/block/state/StateHolder;m_263224_(Lnet/minecraft/world/level/block/state/properties/Property;Ljava/lang/Comparable;)Ljava/lang/Object;"
+      },
+      "malte0811/ferritecore/mixin/blockstatecache/BlockStateCacheMixin": {
+        "net.minecraft.world.level.block.state.BlockBehaviour$BlockStateBase$Cache": "net/minecraft/world/level/block/state/BlockBehaviour$BlockStateBase$Cache"
+      },
+      "malte0811/ferritecore/mixin/dedupbakedquad/BakedQuadAccess": {
+        "vertices": "f_111292_:[I"
+      }
+    }
+  }
+}

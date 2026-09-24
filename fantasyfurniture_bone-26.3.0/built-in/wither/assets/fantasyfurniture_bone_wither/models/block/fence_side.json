@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "fantasyfurniture_bone_wither:block/bricks"
+  }
+}

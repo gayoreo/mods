@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture_decorations:block/presents_1",
+  "textures": {
+    "particle": "fantasyfurniture_decorations:block/presents_tint_particle",
+    "presents": "fantasyfurniture_decorations:block/presents_tint"
+  }
+}

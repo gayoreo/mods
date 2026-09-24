@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_sign_rot_0",
+  "textures": {
+    "all": "fantasyfurniture_necrolord:block/sign",
+    "particle": "fantasyfurniture_necrolord:block/bricks"
+  }
+}

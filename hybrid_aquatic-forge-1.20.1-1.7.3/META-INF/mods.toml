@@ -1,0 +1,59 @@
+modLoader = "kotlinforforge"
+
+loaderVersion = "[4,)"
+license = "ARR"
+issueTrackerURL="https://github.com/hybridlabs/hybrid-aquatic/issues"
+
+[[mods]]
+modId = "hybrid_aquatic"
+version = "1.7.3"
+displayName = "Hybrid Aquatic"
+displayURL="https://hybridlabs.net/"
+logoFile = "hybrid_aquatic.png"
+credits = '''MysticKoko, Aqua, Andante, Eggo, Ragno, murphy slaw, AyaanDB'''
+authors = "Hybrid Labs"
+description = '''A mod that enhances Minecraft's aquatic environments'''
+
+[[dependencies.hybrid_aquatic]]
+modId = "forge"
+mandatory = true
+versionRange = "[47.4.10,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.hybrid_aquatic]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1, 1.22)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.hybrid_aquatic]]
+modId = "geckolib"
+mandatory = true
+versionRange = "[4.7.4,)"
+side = "BOTH"
+
+[[dependencies.hybrid_aquatic]]
+modId = "biolith"
+mandatory = true
+versionRange = "[1.0.1-alpha.1,)"
+side = "BOTH"
+
+[[dependencies.hybrid_aquatic]]
+modId = "curios"
+mandatory = true
+versionRange = "[5.9.1+1.20.1,)"
+side = "BOTH"
+
+[[dependencies.hybrid_aquatic]]
+modId = "lithostitched"
+mandatory = true
+versionRange = "[1.4.11,)"
+side = "BOTH"
+
+[[dependencies.hybrid_aquatic]]
+modId = "hapi"
+mandatory = true
+versionRange = "[1.1.2,)"
+side = "BOTH"

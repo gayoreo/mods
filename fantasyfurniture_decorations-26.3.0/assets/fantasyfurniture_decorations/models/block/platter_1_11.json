@@ -1,0 +1,7 @@
+{
+  "parent": "fantasyfurniture_decorations:block/platter_0_11",
+  "textures": {
+    "particle": "fantasyfurniture_decorations:block/platter_1_particle",
+    "platter": "fantasyfurniture_decorations:block/platter_1"
+  }
+}

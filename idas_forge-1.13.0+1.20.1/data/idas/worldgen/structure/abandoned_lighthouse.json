@@ -1,0 +1,19 @@
+{
+  "type": "integrated_api:generic_structure",
+  "start_pool": "idas:abandoned_lighthouse/abandoned_lighthouse",
+  "size": 1,
+  "biomes": "#idas:has_structure/beaches",
+  "step": "surface_structures",
+  "enhanced_terrain_adaptation": {
+    "type": "integrated_api:custom",
+    "carves": true,
+    "beards": true,
+    "kernel_size": 12,
+    "kernel_distance": 12
+  },
+  "project_start_to_heightmap": "WORLD_SURFACE_WG",
+  "start_height": {
+    "absolute": 0
+  },
+  "spawn_overrides": {}
+}

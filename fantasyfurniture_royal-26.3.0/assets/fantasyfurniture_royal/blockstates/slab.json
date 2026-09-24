@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "fantasyfurniture_royal:block/slab"
+    },
+    "type=double": {
+      "model": "fantasyfurniture_royal:block/bricks"
+    },
+    "type=top": {
+      "model": "fantasyfurniture_royal:block/slab_top"
+    }
+  }
+}

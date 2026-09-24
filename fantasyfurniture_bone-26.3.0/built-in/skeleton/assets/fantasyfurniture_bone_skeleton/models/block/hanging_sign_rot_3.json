@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_hanging_sign_rot_3",
+  "textures": {
+    "all": "fantasyfurniture_bone_skeleton:block/hanging_sign",
+    "particle": "fantasyfurniture_bone_skeleton:block/bricks"
+  }
+}

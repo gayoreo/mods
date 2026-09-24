@@ -1,0 +1,15 @@
+{
+  "name": "integrated_villages:oasis_village/path_large9_bottom",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:oasis_village/path/oasis_village_path_large9_bottom",
+        "processors": "integrated_villages:oasis_village_processor",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

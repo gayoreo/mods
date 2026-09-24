@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture_decorations:block/bolts_of_cloth",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture_decorations:block/bolts_of_cloth"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture_decorations:block/bolts_of_cloth",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture_decorations:block/bolts_of_cloth",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,53 @@
+modLoader = "javafml"
+loaderVersion="[1,)"
+license="Toni's MMC License"
+showAsResourcePack=false
+
+issueTrackerURL = "https://github.com/txnimc/ImmersiveLanterns/issues"
+
+[[mods]]
+modId="immersivelanterns"
+version="1.0.6"
+displayName="Immersive Lanterns"
+authors="Toni"
+description="Adds dynamic lighting and Accessories support to lanterns, with physics!"
+logoFile="assets/immersivelanterns/textures/mod_logo.png"
+displayURL = "https://github.com/txnimc/ImmersiveLanterns/"
+
+[[mixins]]
+config = "mixins.immersivelanterns.json"
+
+[[dependencies."immersivelanterns"]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies."immersivelanterns"]]
+modId="txnilib"
+mandatory=true
+versionRange="*"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies."immersivelanterns"]]
+modId="accessories"
+mandatory=false
+versionRange="*"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies."immersivelanterns"]]
+modId="curios"
+mandatory=false
+versionRange="*"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies."immersivelanterns"]]
+modId="sodiumdynamiclights"
+mandatory=true
+versionRange="*"
+ordering="NONE"
+side="CLIENT"

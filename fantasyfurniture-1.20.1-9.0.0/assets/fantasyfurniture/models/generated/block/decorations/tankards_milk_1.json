@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/tankards_milk_1",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/decorations/tankards",
+    "tankards_milk": "fantasyfurniture:block/models/decorations/tankards_milk"
+  }
+}

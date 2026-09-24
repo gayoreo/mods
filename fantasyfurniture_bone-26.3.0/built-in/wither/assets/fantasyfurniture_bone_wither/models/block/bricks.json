@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fantasyfurniture_bone_wither:block/bricks"
+  }
+}

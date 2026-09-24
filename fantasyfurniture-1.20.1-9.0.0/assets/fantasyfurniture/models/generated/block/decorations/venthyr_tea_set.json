@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/decorations/venthyr_tea_set",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "particle": "fantasyfurniture:block/particles/decorations/venthyr",
+    "venthyr_tea_set": "fantasyfurniture:block/models/decorations/venthyr_tea_set"
+  }
+}

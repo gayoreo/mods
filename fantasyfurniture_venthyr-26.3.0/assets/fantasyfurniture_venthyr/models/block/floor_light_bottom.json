@@ -1,0 +1,81 @@
+{
+	"texture_size": [64, 64],
+	"textures": {
+		"floor_light": "fantasyfurniture_venthyr:block/floor_light",
+		"particle": "fantasyfurniture_venthyr:block/particle"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [6, 0, 6],
+			"to": [10, 2, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [5.75, 1.5, 6.75, 2], "texture": "#floor_light"},
+				"east": {"uv": [5.75, 3.25, 6.75, 3.75], "texture": "#floor_light"},
+				"south": {"uv": [5.75, 3.75, 6.75, 4.25], "texture": "#floor_light"},
+				"west": {"uv": [5.75, 4.25, 6.75, 4.75], "texture": "#floor_light"},
+				"up": {"uv": [3, 1, 2, 0], "texture": "#floor_light"},
+				"down": {"uv": [3, 1, 2, 2], "texture": "#floor_light", "cullface": "down"}
+			}
+		},
+		{
+			"name": "post_1",
+			"from": [7, 2, 7],
+			"to": [9, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 7]},
+			"faces": {
+				"north": {"uv": [0, 1, 0.5, 4.5], "texture": "#floor_light"},
+				"east": {"uv": [0.5, 1, 1, 4.5], "texture": "#floor_light"},
+				"south": {"uv": [1, 1, 1.5, 4.5], "texture": "#floor_light"},
+				"west": {"uv": [1.5, 1, 2, 4.5], "texture": "#floor_light"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -2.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"translation": [0, 10.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -4],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "bottom",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

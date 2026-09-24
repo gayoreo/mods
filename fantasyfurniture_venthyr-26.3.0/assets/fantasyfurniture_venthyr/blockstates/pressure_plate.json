@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "fantasyfurniture_venthyr:block/pressure_plate"
+    },
+    "powered=true": {
+      "model": "fantasyfurniture_venthyr:block/pressure_plate_down"
+    }
+  }
+}

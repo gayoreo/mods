@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "fantasyfurniture_decorations:block/paper_stack",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "fantasyfurniture_decorations:block/paper_stack"
+    },
+    "facing=south": {
+      "model": "fantasyfurniture_decorations:block/paper_stack",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "fantasyfurniture_decorations:block/paper_stack",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "integrated_villages:mossy_mounds/path/path_tree",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mossy_mounds/path/mossy_mounds_path_tree1",
+        "processors": "integrated_villages:mossy_mounds_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:mossy_mounds/path/mossy_mounds_path_tree2",
+        "processors": "integrated_villages:mossy_mounds_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

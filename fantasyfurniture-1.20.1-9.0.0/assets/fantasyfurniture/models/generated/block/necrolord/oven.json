@@ -1,0 +1,8 @@
+{
+  "parent": "fantasyfurniture:block/necrolord/oven",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "oven": "fantasyfurniture:block/models/necrolord/oven",
+    "particle": "fantasyfurniture:block/particles/necrolord"
+  }
+}

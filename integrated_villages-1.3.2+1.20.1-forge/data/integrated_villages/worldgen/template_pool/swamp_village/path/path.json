@@ -1,0 +1,69 @@
+{
+  "name": "integrated_villages:swamp_village/path/path",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 5,
+      "element": {
+        "location": "integrated_villages:swamp_village/path/swamp_village_path_1",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "integrated_villages:swamp_village/path/swamp_village_path_house",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "integrated_villages:swamp_village/path/swamp_village_path_corner",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "integrated_villages:swamp_village/path/swamp_village_path_tjunction",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "integrated_villages:swamp_village/path/swamp_village_path_xjunction",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:swamp_village/path/swamp_village_path_end1",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "location": "integrated_villages:swamp_village/path/swamp_village_path_end2",
+        "processors": "integrated_villages:swamp_village_processor",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
