@@ -1,0 +1,40 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MPL-2.0"
+issueTrackerURL = "https://github.com/Fuzss/cutthrough/issues"
+
+[[mods]]
+modId = "cutthrough"
+displayName = "Cut Through"
+description = "Cleanly swing through transparent blocks like tall grass to hit mobs without breaking said block."
+version = "8.0.2"
+authors = "Fuzs"
+logoFile = "mod_banner.png"
+logoBlur = false
+displayURL = "https://github.com/Fuzss/cutthrough"
+updateJSONURL = "https://raw.githubusercontent.com/Fuzss/modresources/main/update/cutthrough.json"
+displayTest = "MATCH_VERSION"
+
+[[dependencies.cutthrough]]
+modId = "forge"
+mandatory = true
+versionRange = "[47.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.cutthrough]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.cutthrough]]
+modId = "puzzleslib"
+mandatory = true
+versionRange = "[8.0.12,)"
+ordering = "NONE"
+side = "BOTH"
+
+[modproperties.cutthrough]
+catalogueImageIcon = "mod_logo.png"

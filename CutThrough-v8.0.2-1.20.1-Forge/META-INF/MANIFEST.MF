@@ -1,0 +1,81 @@
+Manifest-Version: 1.0
+Specification-Title: Cut Through
+Specification-Version: 8.0.2
+Specification-Vendor: Fuzs
+Implementation-Title: Cut Through
+Implementation-Version: 8.0.2
+Implementation-Vendor: Fuzs
+Implementation-Timestamp: 2024-02-26T14:32:18+0100
+Implementation-Timestamp-Milli: 1708954338606
+Implementation-URL: https://github.com/Fuzss/cutthrough
+Built-On-Java: 17.0.10+7-LTS (Amazon.com Inc.)
+Built-On-Minecraft: 1.20.1
+MixinConfigs: cutthrough.common.mixins.json
+
+Name: LICENSE-ASSETS.md
+SHA-256-Digest: dSklC0KsHTHJJHbGfEc/8fh+pcEeHk8UOpTDuk8N/YM=
+
+Name: fuzs/cutthrough/client/core/ClientAbstractions.class
+SHA-256-Digest: coYfI82tR1aUJoehtde8svLyNRVADXQ4W0YdrtcXEuc=
+
+Name: fuzs/cutthrough/CutThroughForge.class
+SHA-256-Digest: rGbMEQy7fHbeos4QywMxjC2Ti6CIVjMtaA4MGQ38Hx4=
+
+Name: META-INF/services/fuzs.cutthrough.client.core.ClientAbstractions
+SHA-256-Digest: B7w9L97aPZCHjr7kJC3SiJuy99msu6EaK0Aw01s88GM=
+
+Name: fuzs/cutthrough/mixin/ModMixinConfigPlugin.class
+SHA-256-Digest: ShT8mQYSmr//eFiARWfa7IvOJgagwG9gZbotJZIMkNU=
+
+Name: cutthrough.common.mixins.json
+SHA-256-Digest: hgD+fvt3uGVO7BQRejhqjpaYtDaYEn9OjkjcXKZwdbw=
+
+Name: cutthrough.refmap.json
+SHA-256-Digest: JAHUoDMNy7uPDXrGSxhn3uCvYXZqXr9cXiGRNBZGm64=
+
+Name: fuzs/cutthrough/config/ClientConfig.class
+SHA-256-Digest: MJIFaeHIkBJ+RmMNGhCWckRRmyC5VN5CkRNDpyCRkkQ=
+
+Name: mod_logo.png
+SHA-256-Digest: 8tEROQUNS0rFpTopMA5qQFU6xT7T7CPHceaHu+60dBo=
+
+Name: META-INF/mods.toml
+SHA-256-Digest: hzdM9YJdl2aF5PTJpX9qsqhU+0LGpsraw8fGPuK/OCI=
+
+Name: pack.mcmeta
+SHA-256-Digest: rPtA5xg72GDBaWKfw7N+ipWrmTj9pCCWE8xRcc92t9U=
+
+Name: fuzs/cutthrough/client/helper/GameRendererPickHelper.class
+SHA-256-Digest: lv8wrubcx0wR1Kq9fuGRsS7bKxJISs9akDvJI3ZNdfE=
+
+Name: CHANGELOG.md
+SHA-256-Digest: CAfQJYTNRbsnqWBKzfF65v5hmFW5X2aetZOogM2kp4U=
+
+Name: fuzs/cutthrough/mixin/client/accessor/MultiPlayerGameModeAccessor.
+ class
+SHA-256-Digest: GR7djWfDSp1vTc+PHKKiBSiMitljcJeDDycX+1t1VWQ=
+
+Name: META-INF/jarjar/metadata.json
+SHA-256-Digest: viA/41GGre0aBivMrltfsBwWRzzf0NeWcnytCqPH9TY=
+
+Name: mod_banner.png
+SHA-256-Digest: qNwVIMAZDwAVSwyd8vSmIREU0HCRDq0nnEe/YUjGr3g=
+
+Name: fuzs/cutthrough/CutThrough.class
+SHA-256-Digest: LaT7aDKjDr9GNFZP+JcPmCFULlp3VDsYh6YKYP9EWpg=
+
+Name: fuzs/cutthrough/client/core/ForgeClientAbstractions.class
+SHA-256-Digest: 0PvC8YSe4uy6Hank1mwSI6lwuujlbANo3PBQIyn8U30=
+
+Name: fuzs/cutthrough/client/CutThroughForgeClient.class
+SHA-256-Digest: B6Zdf4NICDwUD2yghJcXfmyySxi5DuozYaCKsOruihs=
+
+Name: LICENSE.md
+SHA-256-Digest: HyVuytGSiAUQ6ErWBHTqt1iSGHhLmlC8fO7jTCuR8dU=
+
+Name: fuzs/cutthrough/client/CutThroughClient.class
+SHA-256-Digest: UoHLEPi2Tvq7X4/JBGB9X/1QXYjUSEns0JDZ1Bbv/eY=
+
+Name: fuzs/cutthrough/mixin/client/GameRendererMixin.class
+SHA-256-Digest: wBlfBSz7ZmGJw9FtCOSbnBEQ/PHUjr+3n/LpgEh+K9s=
+
