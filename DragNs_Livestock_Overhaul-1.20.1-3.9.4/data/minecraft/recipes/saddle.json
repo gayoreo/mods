@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "tag": "dragnlivestock:crafting_metal_nuggets"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "A A",
+    "B B"
+  ],
+  "result": {
+    "item": "minecraft:saddle"
+  },
+  "show_notification": true
+}

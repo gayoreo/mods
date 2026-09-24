@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "alchemists_garden:toxic_cap"
+    },
+    "2": {
+      "item": "minecraft:emerald"
+    },
+    "4": {
+      "item": "alchemists_garden:golden_ring"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:resistance_ring",
+    "count": 1
+  }
+}

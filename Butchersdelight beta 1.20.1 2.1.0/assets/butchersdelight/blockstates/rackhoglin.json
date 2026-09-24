@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchersdelight:block/rackhoglin"
+    },
+    "facing=east": {
+      "model": "butchersdelight:block/rackhoglin",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchersdelight:block/rackhoglin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchersdelight:block/rackhoglin",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "butchersdelightfoods:cooked_goat_loin",
+    "butchersdelightfoods:cooked_llama_loin",
+    "butchersdelightfoods:cooked_llama_ribs",
+    "butchersdelightfoods:cookedsheepshank",
+    "butchersdelightfoods:cooked_goat_rack",
+    "butchersdelightfoods:cooked_llama_leg",
+    "butchersdelightfoods:cookedsheeprack",
+    "butchersdelightfoods:cooked_sheeploin",
+    "butchersdelightfoods:cooked_goat_shank"
+  ]
+}

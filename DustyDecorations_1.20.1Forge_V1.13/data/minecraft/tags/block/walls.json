@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "dustydecorations:smooth_stone_brick_wall",
+    "dustydecorations:snowy_stone_bricks_wall",
+    "dustydecorations:snowy_cobblestone_wall",
+    "dustydecorations:smooth_seastone_wall",
+    "dustydecorations:seastone_brick_wall"
+  ]
+}

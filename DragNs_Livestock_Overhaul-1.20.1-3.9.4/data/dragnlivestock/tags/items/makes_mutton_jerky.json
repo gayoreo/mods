@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:mutton",
+    "dragnlivestock:llama",
+    "dragnlivestock:chevon",
+
+    {
+      "id": "tfc:food/mutton",
+      "required": false
+    },
+
+    {
+      "id": "tfc:food/chevon",
+      "required": false
+    },
+
+    {
+      "id": "tfc:food/llama",
+      "required": false
+    },
+
+    {
+      "id": "tfc:food/alpaca",
+      "required": false
+    }
+  ]
+}

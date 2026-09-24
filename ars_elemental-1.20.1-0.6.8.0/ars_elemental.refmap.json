@@ -1,0 +1,64 @@
+{
+  "mappings": {
+    "alexthw/ars_elemental/mixin/ItemEntityMixin": {
+      "Lnet/minecraft/world/entity/item/ItemEntity;isInvulnerableTo(Lnet/minecraft/world/damagesource/DamageSource;)Z": "Lnet/minecraft/world/entity/item/ItemEntity;m_6673_(Lnet/minecraft/world/damagesource/DamageSource;)Z",
+      "hurt": "Lnet/minecraft/world/entity/item/ItemEntity;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z"
+    },
+    "alexthw/ars_elemental/mixin/FoxInvoker": {
+      "trusts": "m_28529_(Ljava/util/UUID;)Z",
+      "addTrustedUUID": "m_28515_(Ljava/util/UUID;)V"
+    },
+    "alexthw/ars_elemental/mixin/SpellBookMixin": {
+      "appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V": "Lcom/hollingsworth/arsnouveau/common/items/SpellBook;m_7373_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V"
+    },
+    "alexthw/ars_elemental/mixin/ZombieInvoker": {
+      "startUnderWaterConversion": "m_34278_(I)V"
+    },
+    "alexthw/ars_elemental/mixin/ServerLevelMixin": {
+      "tickChunk(Lnet/minecraft/world/level/chunk/LevelChunk;I)V": "Lnet/minecraft/server/level/ServerLevel;m_8714_(Lnet/minecraft/world/level/chunk/LevelChunk;I)V"
+    },
+    "alexthw/ars_elemental/mixin/LightningMixin": {
+      "Lnet/minecraft/world/entity/Entity;thunderHit(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/LightningBolt;)V": "Lnet/minecraft/world/entity/Entity;m_8038_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/LightningBolt;)V",
+      "tick": "Lcom/hollingsworth/arsnouveau/common/entity/LightningEntity;m_8119_()V"
+    },
+    "alexthw/ars_elemental/mixin/PotionBrewingMixin": {
+      "addMix": "m_43513_(Lnet/minecraft/world/item/alchemy/Potion;Lnet/minecraft/world/item/Item;Lnet/minecraft/world/item/alchemy/Potion;)V"
+    },
+    "alexthw/ars_elemental/mixin/EntityRenderDispatcherMixin": {
+      "Lnet/minecraft/client/renderer/entity/EntityRenderer;render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V": "Lnet/minecraft/client/renderer/entity/EntityRenderer;m_7392_(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V",
+      "render": "Lnet/minecraft/client/renderer/entity/EntityRenderDispatcher;m_114384_(Lnet/minecraft/world/entity/Entity;DDDFFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "alexthw/ars_elemental/mixin/ItemEntityMixin": {
+        "Lnet/minecraft/world/entity/item/ItemEntity;isInvulnerableTo(Lnet/minecraft/world/damagesource/DamageSource;)Z": "Lnet/minecraft/world/entity/item/ItemEntity;m_6673_(Lnet/minecraft/world/damagesource/DamageSource;)Z",
+        "hurt": "Lnet/minecraft/world/entity/item/ItemEntity;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z"
+      },
+      "alexthw/ars_elemental/mixin/FoxInvoker": {
+        "trusts": "m_28529_(Ljava/util/UUID;)Z",
+        "addTrustedUUID": "m_28515_(Ljava/util/UUID;)V"
+      },
+      "alexthw/ars_elemental/mixin/SpellBookMixin": {
+        "appendHoverText(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V": "Lcom/hollingsworth/arsnouveau/common/items/SpellBook;m_7373_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V"
+      },
+      "alexthw/ars_elemental/mixin/ZombieInvoker": {
+        "startUnderWaterConversion": "m_34278_(I)V"
+      },
+      "alexthw/ars_elemental/mixin/ServerLevelMixin": {
+        "tickChunk(Lnet/minecraft/world/level/chunk/LevelChunk;I)V": "Lnet/minecraft/server/level/ServerLevel;m_8714_(Lnet/minecraft/world/level/chunk/LevelChunk;I)V"
+      },
+      "alexthw/ars_elemental/mixin/LightningMixin": {
+        "Lnet/minecraft/world/entity/Entity;thunderHit(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/LightningBolt;)V": "Lnet/minecraft/world/entity/Entity;m_8038_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/LightningBolt;)V",
+        "tick": "Lcom/hollingsworth/arsnouveau/common/entity/LightningEntity;m_8119_()V"
+      },
+      "alexthw/ars_elemental/mixin/PotionBrewingMixin": {
+        "addMix": "m_43513_(Lnet/minecraft/world/item/alchemy/Potion;Lnet/minecraft/world/item/Item;Lnet/minecraft/world/item/alchemy/Potion;)V"
+      },
+      "alexthw/ars_elemental/mixin/EntityRenderDispatcherMixin": {
+        "Lnet/minecraft/client/renderer/entity/EntityRenderer;render(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V": "Lnet/minecraft/client/renderer/entity/EntityRenderer;m_7392_(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V",
+        "render": "Lnet/minecraft/client/renderer/entity/EntityRenderDispatcher;m_114384_(Lnet/minecraft/world/entity/Entity;DDDFFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+      }
+    }
+  }
+}

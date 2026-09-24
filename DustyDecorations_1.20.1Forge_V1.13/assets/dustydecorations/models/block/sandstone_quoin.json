@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/sandstone_quoin_brick",
+  "textures": {
+    "all": "minecraft:block/sandstone_top",
+    "particle": "minecraft:block/sandstone_top",
+    "0": "dustydecorations:block/sandstone_quoin"
+  },
+  "render_type": "solid"
+}

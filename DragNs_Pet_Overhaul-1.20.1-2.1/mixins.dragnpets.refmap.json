@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "com/dragn0007/dragnpets/mixin/OCowMixin": {
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_8099_()V"
+    },
+    "com/dragn0007/dragnpets/mixin/CreeperMixin": {
+      "registerGoals": "Lnet/minecraft/world/entity/monster/Creeper;m_8099_()V"
+    },
+    "com/dragn0007/dragnpets/mixin/PowderSnowBlockMixin": {
+      "canEntityWalkOnPowderSnow": "Lnet/minecraft/world/level/block/PowderSnowBlock;m_154255_(Lnet/minecraft/world/entity/Entity;)Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/dragn0007/dragnpets/mixin/OCowMixin": {
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_8099_()V"
+      },
+      "com/dragn0007/dragnpets/mixin/CreeperMixin": {
+        "registerGoals": "Lnet/minecraft/world/entity/monster/Creeper;m_8099_()V"
+      },
+      "com/dragn0007/dragnpets/mixin/PowderSnowBlockMixin": {
+        "canEntityWalkOnPowderSnow": "Lnet/minecraft/world/level/block/PowderSnowBlock;m_154255_(Lnet/minecraft/world/entity/Entity;)Z"
+      }
+    }
+  }
+}

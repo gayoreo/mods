@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:beef",
+
+    {
+      "id": "tfc:food/beef",
+      "required": false
+    }
+  ]
+}

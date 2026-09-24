@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "alchemists_garden:chrysite_cobweb",
+    "alchemists_garden:brick_fireplace",
+    "alchemists_garden:mixed_soil_pot",
+    "alchemists_garden:dirt_brick",
+    "alchemists_garden:dirt_brick_stairs",
+    "alchemists_garden:dirt_brick_slab",
+    "alchemists_garden:dirt_brick_wall",
+    "alchemists_garden:webby_cobblestone",
+    "alchemists_garden:webby_cobblestone_stairs",
+    "alchemists_garden:webby_cobblestone_slab",
+    "alchemists_garden:webby_cobblestone_wall",
+    "alchemists_garden:turned_on_brick_fireplace",
+    "alchemists_garden:overgrown_urn",
+    "alchemists_garden:webby_urn"
+  ]
+}

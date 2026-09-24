@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/pickle_barrel",
+  "textures": {
+    "all": "dustydecorations:block/seapicklebarrel",
+    "particle": "dustydecorations:block/seapicklebarrel",
+    "0": "dustydecorations:block/seapicklebarrel"
+  },
+  "render_type": "solid"
+}

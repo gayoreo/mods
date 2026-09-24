@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:stone",
+    "#minecraft:dirt",
+    "#forge:cobblestone",
+    "#minecraft:valid_spawn"
+  ]
+}

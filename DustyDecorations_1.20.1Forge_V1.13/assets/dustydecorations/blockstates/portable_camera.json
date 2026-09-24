@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/portable_camera"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/portable_camera",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/portable_camera",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/portable_camera",
+      "y": 270
+    }
+  }
+}

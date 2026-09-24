@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/burlapawning",
+  "textures": {
+    "all": "dustydecorations:block/burlapawning",
+    "particle": "dustydecorations:block/burlapawning",
+    "0": "dustydecorations:block/burlapawning"
+  },
+  "render_type": "cutout_mipped"
+}

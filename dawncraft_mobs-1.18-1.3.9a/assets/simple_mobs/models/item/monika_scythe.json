@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/scythe",
+  "textures": {
+    "1": "simple_mobs:blocks/scythe",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

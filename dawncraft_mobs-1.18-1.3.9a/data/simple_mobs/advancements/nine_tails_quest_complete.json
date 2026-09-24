@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "nine_tails_quest_complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:adventure/root"
+}

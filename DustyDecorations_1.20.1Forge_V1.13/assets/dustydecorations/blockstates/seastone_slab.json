@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dustydecorations:block/seastone_slab"
+    },
+    "type=top": {
+      "model": "dustydecorations:block/seastone_slab_top"
+    },
+    "type=double": {
+      "model": "dustydecorations:block/seastone_slab_full"
+    }
+  }
+}

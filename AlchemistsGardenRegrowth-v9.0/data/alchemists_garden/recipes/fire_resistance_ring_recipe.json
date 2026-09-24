@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blaze_powder"
+    },
+    "1": {
+      "item": "alchemists_garden:ember_weed"
+    },
+    "2": {
+      "item": "minecraft:blaze_powder"
+    },
+    "4": {
+      "item": "alchemists_garden:golden_ring"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:fire_resistance_ring",
+    "count": 1
+  }
+}

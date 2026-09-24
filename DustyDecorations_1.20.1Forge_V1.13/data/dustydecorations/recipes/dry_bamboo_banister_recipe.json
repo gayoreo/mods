@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "drybamboobanisterdd",
+  "category": "building",
+  "pattern": [
+    "aba",
+    " a ",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bamboo_fence"
+    },
+    "b": {
+      "tag": "c:ropes"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:dry_bamboo_banister",
+    "count": 8
+  }
+}

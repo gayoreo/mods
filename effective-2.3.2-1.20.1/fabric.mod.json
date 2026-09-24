@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "id": "effective",
+  "version": "2.3.2-1.20.1",
+  "name": "Effective",
+  "description": "Client-side mod designed to improve Minecraft\u0027s ambience through particles, visual effects and sounds",
+  "authors": [
+    "doctor4t",
+    "Pyrofab"
+  ],
+  "contact": {
+    "homepage": "https://doctor4t.ladysnake.org",
+    "sources": "https://github.com/Ladysnake/Effective",
+    "issues": "https://github.com/Ladysnake/Effective/issues"
+  },
+  "license": "ARR",
+  "icon": "assets/effective/effective.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "org.ladysnake.effective.core.Effective",
+      "org.ladysnake.effective.ambience.EffectiveAmbience",
+      "org.ladysnake.effective.cosmetics.EffectiveCosmetics"
+    ],
+    "modmenu": [
+      "org.ladysnake.effective.core.compat.EffectiveModMenuCompat"
+    ]
+  },
+  "mixins": [
+    "effective_core.mixins.json",
+    "effective_ambience.mixins.json",
+    "effective_cosmetics.mixins.json"
+  ],
+  "accessWidener": "effective.accesswidener",
+  "depends": {
+    "fabricloader": "\u003e\u003d0.15.11",
+    "minecraft": "~1.20.1",
+    "java": "\u003e\u003d17",
+    "fabric-api": "*",
+    "midnightlib": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/accessors-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/base-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/blocks-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/cardinal-components-base-5.2.2.jar"
+    },
+    {
+      "file": "META-INF/jars/cardinal-components-entity-5.2.2.jar"
+    },
+    {
+      "file": "META-INF/jars/cardinal-components-world-5.2.2.jar"
+    },
+    {
+      "file": "META-INF/jars/config-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/core-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/data-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/entity-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/extensions-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/items-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/lazy_registration-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/lodestone-1.20.1-1.6.2.3f-fabric.jar"
+    },
+    {
+      "file": "META-INF/jars/midnightlib-1.4.1-fabric.jar"
+    },
+    {
+      "file": "META-INF/jars/models-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/model_generators-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/networking-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/satin-api-1.14.0.jar"
+    },
+    {
+      "file": "META-INF/jars/tags-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/tool_actions-2.3.4+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/transfer-2.3.4+1.20.1.jar"
+    }
+  ]
+}

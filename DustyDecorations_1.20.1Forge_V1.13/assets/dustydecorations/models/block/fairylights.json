@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/fairylights",
+  "textures": {
+    "all": "dustydecorations:block/fairylights",
+    "particle": "dustydecorations:block/fairylights",
+    "0": "dustydecorations:block/fairylights"
+  },
+  "render_type": "cutout_mipped"
+}

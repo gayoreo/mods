@@ -1,0 +1,30 @@
+{
+    "name": "钢锯",
+    "icon": "butchery:iron_hacksaw",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:iron_hacksaw",
+            "link_recipe": true,
+            "title": "钢锯",
+            "text": "部分坚硬生物（例如铁傀儡）无法用剁肉刀屠宰，必须使用§d钢§d锯§0。$(br2)使用方式与剁肉刀处理普通生物一致，手持钢锯右键对应尸体即可。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:bonehacksawrecipe",
+            "recipe2": "butchery:ironhacksawrecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:goldhacksawrecipe",
+            "recipe2": "butchery:diamondhacksawrecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:netheritehacksawrecipe"
+        }
+    ]
+}

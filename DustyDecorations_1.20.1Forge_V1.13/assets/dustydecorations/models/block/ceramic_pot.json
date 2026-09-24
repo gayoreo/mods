@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/ceramicpotone",
+  "textures": {
+    "all": "dustydecorations:block/pottery",
+    "particle": "dustydecorations:block/pottery",
+    "0": "dustydecorations:block/pottery"
+  },
+  "render_type": "solid"
+}

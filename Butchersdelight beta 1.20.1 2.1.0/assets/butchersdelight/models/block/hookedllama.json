@@ -1,0 +1,10 @@
+{
+  "parent": "butchersdelight:custom/hookedllama",
+  "textures": {
+    "all": "butchersdelight:block/iconhooked_llama",
+    "particle": "butchersdelight:block/llama_white",
+    "0": "butchersdelight:block/llama_white",
+    "1": "butchersdelight:block/hook"
+  },
+  "render_type": "cutout_mipped"
+}

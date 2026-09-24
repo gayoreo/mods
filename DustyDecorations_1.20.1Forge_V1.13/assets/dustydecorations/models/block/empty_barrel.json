@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/empty_barrel",
+  "textures": {
+    "all": "minecraft:block/barrel_side",
+    "particle": "minecraft:block/barrel_side",
+    "0": "dustydecorations:block/empty_barrel"
+  },
+  "render_type": "solid"
+}

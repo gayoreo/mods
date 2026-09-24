@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "alchemists_garden:block/toxiccap",
+    "particle": "alchemists_garden:block/toxiccap"
+  },
+  "render_type": "cutout"
+}

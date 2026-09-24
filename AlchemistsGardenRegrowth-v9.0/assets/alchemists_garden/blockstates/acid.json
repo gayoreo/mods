@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "alchemists_garden:block/acid"
+    },
+    "type=top": {
+      "model": "alchemists_garden:block/acid_top"
+    },
+    "type=double": {
+      "model": "alchemists_garden:block/acid_full"
+    }
+  }
+}

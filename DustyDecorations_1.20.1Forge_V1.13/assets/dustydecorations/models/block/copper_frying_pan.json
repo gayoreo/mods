@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/copper_frying_pan",
+  "textures": {
+    "all": "dustydecorations:block/copperfryingpan",
+    "particle": "dustydecorations:block/copperfryingpan",
+    "0": "dustydecorations:block/copperfryingpan"
+  },
+  "render_type": "solid"
+}

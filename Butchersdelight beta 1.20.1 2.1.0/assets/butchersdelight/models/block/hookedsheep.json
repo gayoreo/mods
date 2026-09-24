@@ -1,0 +1,10 @@
+{
+  "parent": "butchersdelight:custom/hookedsheep_",
+  "textures": {
+    "all": "butchersdelight:block/hookedsheep",
+    "particle": "butchersdelight:block/dead_sheep",
+    "1": "butchersdelight:block/dead_sheep",
+    "2": "butchersdelight:block/hook"
+  },
+  "render_type": "cutout_mipped"
+}

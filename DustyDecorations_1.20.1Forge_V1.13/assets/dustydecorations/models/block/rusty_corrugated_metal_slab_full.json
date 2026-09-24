@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "dustydecorations:block/corrugated_metal",
+    "bottom": "dustydecorations:block/corrugated_metal",
+    "top": "dustydecorations:block/corrugated_metal",
+    "side": "dustydecorations:block/corrugated_metal"
+  },
+  "render_type": "solid"
+}

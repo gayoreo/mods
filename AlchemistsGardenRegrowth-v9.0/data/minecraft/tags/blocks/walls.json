@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "alchemists_garden:webby_cobblestone_wall",
+    "alchemists_garden:burrow_bricks_wall",
+    "alchemists_garden:dirt_brick_wall"
+  ]
+}

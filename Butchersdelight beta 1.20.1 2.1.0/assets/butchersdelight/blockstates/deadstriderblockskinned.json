@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchersdelight:block/deadstriderblockskinned"
+    },
+    "facing=east": {
+      "model": "butchersdelight:block/deadstriderblockskinned",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchersdelight:block/deadstriderblockskinned",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchersdelight:block/deadstriderblockskinned",
+      "y": 270
+    }
+  }
+}

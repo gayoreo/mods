@@ -1,0 +1,19 @@
+{
+    "minVersion": "0.8.0",
+    "compatibilityLevel": "JAVA_25",
+    "required": true,
+    "package": "fuzs.fallingleavesplus.common.mixin",
+    "client": [
+        "client.ClientLevelMixin",
+        "client.LeavesBlockMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    },
+    "overwrites": {
+        "requireAnnotations": true
+    },
+    "mixinextras": {
+        "minVersion": "0.5.0"
+    }
+}

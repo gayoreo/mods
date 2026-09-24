@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:porkchop",
+    "butchersdelightfoods:porkloin",
+    "butchersdelightfoods:porkribs",
+    "butchersdelightfoods:ham"
+  ]
+}

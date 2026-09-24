@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "clutteredpaper",
+  "category": "building",
+  "pattern": [
+    "  a",
+    "a  ",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:scattered_paper_base",
+    "count": 3
+  }
+}

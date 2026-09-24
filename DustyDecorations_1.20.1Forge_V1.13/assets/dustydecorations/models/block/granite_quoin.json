@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/granite_quoin_brick",
+  "textures": {
+    "all": "minecraft:block/polished_granite",
+    "particle": "minecraft:block/polished_granite",
+    "0": "dustydecorations:block/polished_granite_quoin_bricks"
+  },
+  "render_type": "solid"
+}

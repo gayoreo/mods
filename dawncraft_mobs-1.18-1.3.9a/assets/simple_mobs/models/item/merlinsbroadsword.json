@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/merlinsbroadsword",
+  "textures": {
+    "0": "simple_mobs:blocks/merlinsword",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "barrelglowberries",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glow_berries"
+    },
+    "b": {
+      "item": "minecraft:barrel"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:glowberries_barrel",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+// 1.20.1	2024-08-27T11:54:27.1935142	Tags for minecraft:entity_type mod id alekiships
+6271298ce2e7c2e8a937afbc26b44ac9aeadbc24 data/alekiships/tags/entity_types/compartments.json
+22cb8a3599ccac5fa9b9ce670367db0b8fbf3fdf data/alekiships/tags/entity_types/rowboats.json
+7829c224d8be286ae4ad1f43c4d031287ff317e5 data/alekiships/tags/entity_types/sloops.json
+2921259fb13e2afb134ce0e2d488424142a17384 data/alekiships/tags/entity_types/vehicle_helpers.json
+ea8099854420b0691c4dce31cce5c1aa329aeec3 data/carryon/tags/entity_types/entity_blacklist.json

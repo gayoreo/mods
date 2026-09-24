@@ -1,0 +1,274 @@
+{
+  "mappings": {
+    "com/dragn0007/dragnloextras/mixin/FarmGoatMixin": {
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/farm_goat/FarmGoat;m_8119_()V",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/farm_goat/FarmGoat;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OChickenMixin": {
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/chicken/OChicken;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OPigMixin": {
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/pig/OPig;m_8119_()V",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/pig/OPig;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OOcelotMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "mobInteract": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_6071_(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;",
+      "tick": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "hurt": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "registerGoals": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OSheepMixin": {
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/sheep/OSheep;m_8119_()V",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/sheep/OSheep;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OCamelMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "canMate": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_7848_(Lnet/minecraft/world/entity/animal/Animal;)Z",
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "hurt": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/CaribouMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "canMate": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_7848_(Lnet/minecraft/world/entity/animal/Animal;)Z",
+      "getBreedOffspring": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_142606_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob;",
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "hurt": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OHorseMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "canMate": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_7848_(Lnet/minecraft/world/entity/animal/Animal;)Z",
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "hurt": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/UnicornMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/unicorn/Unicorn;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/unicorn/Unicorn;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/unicorn/Unicorn;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/unicorn/Unicorn;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/ODonkeyMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "canMate": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_7848_(Lnet/minecraft/world/entity/animal/Animal;)Z",
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "hurt": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OGoatMixin": {
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/goat/OGoat;m_8119_()V",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/goat/OGoat;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OWolfMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "mobInteract": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_6071_(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;",
+      "tick": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "hurt": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "registerGoals": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OLlamaMixin": {
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/llama/OLlama;m_8119_()V",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/llama/OLlama;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OMuleMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "hurt": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OCatMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "mobInteract": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_6071_(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;",
+      "getBreedOffspring": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_142606_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob;",
+      "tick": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "hurt": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "registerGoals": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/ORabbitMixin": {
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/rabbit/ORabbit;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/OCowMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "mobInteract": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_6071_(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;",
+      "getBreedOffspring": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_142606_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob;",
+      "tick": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/compat/wildhorse/mixin/EquusFerusMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "canMate": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_7848_(Lnet/minecraft/world/entity/animal/Animal;)Z",
+      "tick": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "hurt": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "registerGoals": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_8099_()V"
+    },
+    "com/dragn0007/dragnloextras/mixin/ODogMixin": {
+      "addAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "finalizeSpawn": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+      "mobInteract": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_6071_(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;",
+      "getBreedOffspring": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_142606_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob;",
+      "tick": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_8119_()V",
+      "readAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "hurt": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+      "registerGoals": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_8099_()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/dragn0007/dragnloextras/mixin/FarmGoatMixin": {
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/farm_goat/FarmGoat;m_8119_()V",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/farm_goat/FarmGoat;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OChickenMixin": {
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/chicken/OChicken;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OPigMixin": {
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/pig/OPig;m_8119_()V",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/pig/OPig;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OOcelotMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "mobInteract": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_6071_(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;",
+        "tick": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "hurt": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "registerGoals": "Lcom/dragn0007/dragnpets/entities/ocelot/OOcelot;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OSheepMixin": {
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/sheep/OSheep;m_8119_()V",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/sheep/OSheep;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OCamelMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "canMate": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_7848_(Lnet/minecraft/world/entity/animal/Animal;)Z",
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "hurt": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/camel/OCamel;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/CaribouMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "canMate": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_7848_(Lnet/minecraft/world/entity/animal/Animal;)Z",
+        "getBreedOffspring": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_142606_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob;",
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "hurt": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/caribou/Caribou;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OHorseMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "canMate": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_7848_(Lnet/minecraft/world/entity/animal/Animal;)Z",
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "hurt": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/horse/OHorse;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/UnicornMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/unicorn/Unicorn;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/unicorn/Unicorn;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/unicorn/Unicorn;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/unicorn/Unicorn;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/ODonkeyMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "canMate": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_7848_(Lnet/minecraft/world/entity/animal/Animal;)Z",
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "hurt": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/donkey/ODonkey;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OGoatMixin": {
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/goat/OGoat;m_8119_()V",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/goat/OGoat;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OWolfMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "mobInteract": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_6071_(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;",
+        "tick": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "hurt": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "registerGoals": "Lcom/dragn0007/dragnpets/entities/wolf/OWolf;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OLlamaMixin": {
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/llama/OLlama;m_8119_()V",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/llama/OLlama;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OMuleMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "hurt": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/mule/OMule;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OCatMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "mobInteract": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_6071_(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;",
+        "getBreedOffspring": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_142606_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob;",
+        "tick": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "hurt": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "registerGoals": "Lcom/dragn0007/dragnpets/entities/cat/OCat;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/ORabbitMixin": {
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/rabbit/ORabbit;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/OCowMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "mobInteract": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_6071_(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;",
+        "getBreedOffspring": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_142606_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob;",
+        "tick": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "registerGoals": "Lcom/dragn0007/dragnlivestock/entities/cow/OCow;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/compat/wildhorse/mixin/EquusFerusMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "canMate": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_7848_(Lnet/minecraft/world/entity/animal/Animal;)Z",
+        "tick": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "hurt": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "registerGoals": "Lcom/dragn0007/wildhorse/entity/equus_ferus/EquusFerus;m_8099_()V"
+      },
+      "com/dragn0007/dragnloextras/mixin/ODogMixin": {
+        "addAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "finalizeSpawn": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;",
+        "mobInteract": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_6071_(Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;",
+        "getBreedOffspring": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_142606_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/world/entity/AgeableMob;)Lnet/minecraft/world/entity/AgeableMob;",
+        "tick": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_8119_()V",
+        "readAdditionalSaveData": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "hurt": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_6469_(Lnet/minecraft/world/damagesource/DamageSource;F)Z",
+        "registerGoals": "Lcom/dragn0007/dragnpets/entities/dog/ODog;m_8099_()V"
+      }
+    }
+  }
+}

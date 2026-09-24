@@ -1,0 +1,16 @@
+{
+    "name": "唤魔者套装",
+    "icon": "butchery:evoker_robes_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:evoker_robes_chestplate",
+            "link_recipe": true,
+            "title": "唤魔者套装",
+            "text": "屠宰唤魔者可获得唤魔者套装，该套装仅为装饰用途。$(br2)可在合成台将其与剁肉刀或剥皮刀组合进行回收。"
+        }
+    ]
+}

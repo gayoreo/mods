@@ -1,0 +1,16 @@
+{
+  "type": "caupona:food",
+  "heal": 3,
+  "item": {
+    "item": "minecraft:pumpkin"
+  },
+  "items": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "minecraft:carved_pumpkin"
+    }
+  ],
+  "sat": 0.6
+}

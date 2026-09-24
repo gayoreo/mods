@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:santas_sack"
+    },
+    "title": {
+      "translate": "advancements.trade_with_festive_gnome_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.trade_with_festive_gnome_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "trade_with_festive_gnome_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "alchemists_garden:interact_with_festive_gnome_advancement"
+}

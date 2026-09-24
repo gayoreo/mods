@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchersdelight:block/roaster_sheep"
+    },
+    "facing=east": {
+      "model": "butchersdelight:block/roaster_sheep",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchersdelight:block/roaster_sheep",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchersdelight:block/roaster_sheep",
+      "y": 270
+    }
+  }
+}

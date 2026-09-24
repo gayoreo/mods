@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "seastonebrickslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:seastone_bricks"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:seastone_brick_slab",
+    "count": 6
+  }
+}

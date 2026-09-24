@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "burlapstairs",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:burlap"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:burlap_stairs",
+    "count": 4
+  }
+}

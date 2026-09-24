@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/knife_and_cutting_board",
+  "textures": {
+    "all": "dustydecorations:block/cutting_board",
+    "particle": "dustydecorations:block/cutting_board",
+    "0": "dustydecorations:block/cutting_board",
+    "1": "dustydecorations:block/wedged_knife"
+  },
+  "render_type": "cutout"
+}

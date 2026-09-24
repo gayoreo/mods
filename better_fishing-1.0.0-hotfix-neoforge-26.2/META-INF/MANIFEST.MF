@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Better Fishing
+Specification-Vendor: Henrique Almeida
+Specification-Version: 
+Implementation-Title: neoforge
+Implementation-Version: 
+Implementation-Vendor: Henrique Almeida
+Built-On-Minecraft: 26.2
+

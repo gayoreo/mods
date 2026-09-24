@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/poster6",
+  "textures": {
+    "all": "dustydecorations:block/poster6",
+    "particle": "dustydecorations:block/poster6",
+    "0": "dustydecorations:block/poster6"
+  },
+  "render_type": "cutout"
+}

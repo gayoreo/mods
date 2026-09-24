@@ -1,0 +1,75 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.mjolnir_thrown.spin": {
+			"animation_length": 6,
+			"bones": {
+				"animate": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"6.0": {
+							"vector": [0, 7200, 0]
+						}
+					}
+				}
+			}
+		},
+		"animation.mjolnir_thrown.drop": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 0.66667,
+			"bones": {
+				"animate": {
+					"rotation": {
+						"0.0": {
+							"vector": [50, 0, 0]
+						},
+						"0.3333": {
+							"vector": [87.5, 0, 0]
+						}
+					},
+					"position": {
+						"0.0": {
+							"vector": [0, 15, 0]
+						},
+						"0.3333": {
+							"vector": [0, 8.1, 0]
+						}
+					},
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1]
+						},
+						"0.1667": {
+							"vector": [1.3, 1.3, 1.3]
+						},
+						"0.3333": {
+							"vector": [1, 1, 1]
+						}
+					}
+				}
+			}
+		},
+		"animation.mjolnir_thrown.dropped": {
+			"animation_length": 0.04167,
+			"bones": {
+				"animate": {
+					"rotation": {
+						"vector": [87.5, 0, 0]
+					},
+					"position": {
+						"vector": [0, 8.1, 0]
+					},
+					"scale": {
+						"vector": [1, 1, 1]
+					}
+				}
+			}
+		},
+		"animation.mjolnir_thrown.idle": {
+			"loop": true
+		}
+	},
+	"geckolib_format_version": 2
+}

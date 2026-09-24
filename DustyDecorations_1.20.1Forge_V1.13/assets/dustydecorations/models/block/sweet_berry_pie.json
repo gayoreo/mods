@@ -1,0 +1,11 @@
+{
+  "parent": "dustydecorations:custom/berry_pie_whole",
+  "textures": {
+    "all": "dustydecorations:block/berry_lattice_pie_side",
+    "particle": "dustydecorations:block/berry_lattice_pie_side",
+    "berry_lattice_pie_side": "dustydecorations:block/berry_lattice_pie_side",
+    "berry_lattice_pie_top": "dustydecorations:block/berry_lattice_pie_top",
+    "berry_lattice_pie_bottom": "dustydecorations:block/berry_lattice_pie_bottom"
+  },
+  "render_type": "cutout_mipped"
+}

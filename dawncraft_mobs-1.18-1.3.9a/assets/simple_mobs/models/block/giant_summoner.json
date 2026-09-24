@@ -1,0 +1,8 @@
+{
+  "parent": "simple_mobs:custom/giant_summoner",
+  "textures": {
+    "all": "simple_mobs:blocks/giant_summoner",
+    "particle": "simple_mobs:blocks/giant_summoner",
+    "missing": "simple_mobs:blocks/giant_summoner"
+  }
+}

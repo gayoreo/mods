@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "1": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "2": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "3": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "4": {
+      "item": "alchemists_garden:mortar_and_pestle"
+    },
+    "5": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "6": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "7": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "8": {
+      "item": "minecraft:brown_mushroom"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:spores",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "corrugatedmetal",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "bcb",
+    "cbc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:water_bucket"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:rusty_corrugated_metal_block",
+    "count": 6
+  }
+}

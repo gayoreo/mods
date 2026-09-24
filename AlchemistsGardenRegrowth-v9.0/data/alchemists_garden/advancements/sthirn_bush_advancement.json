@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:sthirn_bush"
+    },
+    "title": {
+      "translate": "advancements.sthirn_bush_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.sthirn_bush_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "sthirn_bush_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:sthirn_bush"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:alchemists_garden_base"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "butchersdelight:custom/dead_pig",
+  "textures": {
+    "all": "butchersdelight:block/deadpigicon",
+    "particle": "butchersdelight:block/dead_pig",
+    "0": "butchersdelight:block/dead_pig"
+  },
+  "render_type": "cutout_mipped"
+}

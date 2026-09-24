@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_right_open",
+  "textures": {
+    "particle": "dustydecorations:block/n64iwoodendoorbottom",
+    "bottom": "dustydecorations:block/n64iwoodendoorbottom",
+    "top": "dustydecorations:block/n64iwoodendoortop"
+  },
+  "render_type": "solid"
+}

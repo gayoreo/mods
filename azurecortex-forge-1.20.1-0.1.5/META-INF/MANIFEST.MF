@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: AzureCortex
+Specification-Vendor: AzureDoom
+Specification-Version: 0.1.5
+Implementation-Title: forge
+Implementation-Version: 0.1.5
+Implementation-Vendor: AzureDoom
+Built-On-Minecraft: 1.20.1
+MixinConfigs: azurecortex.forge.mixins.json
+

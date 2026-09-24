@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "corrugatedmetalgrate",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:corrugated_metal"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:corrugated_metal_grate",
+    "count": 4
+  }
+}

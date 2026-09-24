@@ -1,0 +1,28 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "com.github.llamalad7.mixinextras",
+        "artifact": "mixinextras-forge"
+      },
+      "version": {
+        "range": "[0.2.0-beta.8,)",
+        "artifactVersion": "0.2.0-beta.8"
+      },
+      "path": "META-INF/jarjar/mixinextras-forge-0.2.0-beta.8.jar",
+      "isObfuscated": false
+    },
+    {
+      "identifier": {
+        "group": "software.bernie.geckolib",
+        "artifact": "geckolib-forge-1.20.1"
+      },
+      "version": {
+        "range": "[4.0,)",
+        "artifactVersion": "4.4.4"
+      },
+      "path": "META-INF/jarjar/geckolib-forge-1.20.1-4.4.4.jar",
+      "isObfuscated": false
+    }
+  ]
+}

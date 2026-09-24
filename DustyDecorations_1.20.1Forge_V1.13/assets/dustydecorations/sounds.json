@@ -1,0 +1,193 @@
+{
+  "corrugateddooropen": {
+    "subtitle": "subtitles.corrugateddooropen",
+    "sounds": [
+      {
+        "name": "dustydecorations:metaldooropen",
+        "stream": false
+      }
+    ]
+  },
+  "corrugateddoorclose": {
+    "subtitle": "subtitles.corrugateddoorclose",
+    "sounds": [
+      {
+        "name": "dustydecorations:metaldoorclose",
+        "stream": false
+      }
+    ]
+  },
+  "cash_register": {
+    "subtitle": "subtitles.cash_register",
+    "sounds": [
+      {
+        "name": "dustydecorations:cashregister2",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:cashregister1",
+        "stream": false
+      }
+    ]
+  },
+  "lightturnon": {
+    "subtitle": "subtitles.lightturnon",
+    "sounds": [
+      {
+        "name": "dustydecorations:lightturnon3",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:lightturnon2",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:lightturnon1",
+        "stream": false
+      }
+    ]
+  },
+  "lightburnout": {
+    "subtitle": "subtitles.lightburnout",
+    "sounds": [
+      {
+        "name": "dustydecorations:lightburnout2",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:lightburnout1",
+        "stream": false
+      }
+    ]
+  },
+  "lightwhitenoise": {
+    "subtitle": "subtitles.lightwhitenoise",
+    "sounds": [
+      {
+        "name": "dustydecorations:copperlightwhitenoise",
+        "stream": false
+      }
+    ]
+  },
+  "camerashoot": {
+    "subtitle": "subtitles.camerashoot",
+    "sounds": [
+      {
+        "name": "dustydecorations:camerashoot",
+        "stream": false
+      }
+    ]
+  },
+  "filmreelstart": {
+    "subtitle": "subtitles.filmreelstart",
+    "sounds": [
+      {
+        "name": "dustydecorations:filmcameraroll",
+        "stream": false
+      }
+    ]
+  },
+  "filmplay": {
+    "subtitle": "subtitles.filmplay",
+    "sounds": [
+      {
+        "name": "dustydecorations:filmreelplaying",
+        "stream": false
+      }
+    ]
+  },
+  "filmrollends": {
+    "subtitle": "subtitles.filmrollends",
+    "sounds": [
+      {
+        "name": "dustydecorations:filmreelend",
+        "stream": false
+      }
+    ]
+  },
+  "lamplighton": {
+    "subtitle": "subtitles.lamplighton",
+    "sounds": [
+      {
+        "name": "dustydecorations:tablelamplightsound",
+        "stream": false
+      }
+    ]
+  },
+  "nautilus_chimes": {
+    "subtitle": "subtitles.nautilus_chimes",
+    "sounds": [
+      {
+        "name": "dustydecorations:nautiluschime5",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:nautiluschime4",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:nautiluschime3",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:nautiluschime2",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:nautiluschime1",
+        "stream": false
+      }
+    ]
+  },
+  "snowystonebreak": {
+    "subtitle": "subtitles.snowystonebreak",
+    "sounds": [
+      {
+        "name": "dustydecorations:snowystonedig4",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:snowystonedig3",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:snowystonedig2",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:snowystonedig1",
+        "stream": false
+      }
+    ]
+  },
+  "snowy_stone_hit": {
+    "subtitle": "subtitles.snowy_stone_hit",
+    "sounds": [
+      {
+        "name": "dustydecorations:snowystonehit4",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:snowystonehit3",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:snowystonehit2",
+        "stream": false
+      },
+      {
+        "name": "dustydecorations:snowystonehit1",
+        "stream": false
+      }
+    ]
+  },
+  "doorknock": {
+    "subtitle": "subtitles.doorknock",
+    "sounds": [
+      {
+        "name": "dustydecorations:doorknockersound",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "alchemists_garden:yeti_antler"
+    },
+    "2": {
+      "item": "alchemists_garden:glittering_spores"
+    },
+    "4": {
+      "item": "alchemists_garden:baby_yeti_staff"
+    },
+    "5": {
+      "item": "alchemists_garden:yeti_antler"
+    },
+    "6": {
+      "item": "alchemists_garden:baby_yeti_staff"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:yeti_staff",
+    "count": 1
+  }
+}

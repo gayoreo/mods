@@ -1,0 +1,8 @@
+{
+  "parent": "simple_mobs:custom/blackmarket_sign",
+  "textures": {
+    "all": "simple_mobs:blocks/blackmarket_sign",
+    "particle": "simple_mobs:blocks/blackmarket_sign",
+    "0": "simple_mobs:blocks/blackmarket_sign"
+  }
+}

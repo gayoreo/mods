@@ -1,0 +1,6 @@
+{
+  "parent": "dustydecorations:displaysettings/moviecamerageckodisplaysettings",
+  "textures": {
+    "particle": "dustydecorations:block/filmcameralit"
+  }
+}

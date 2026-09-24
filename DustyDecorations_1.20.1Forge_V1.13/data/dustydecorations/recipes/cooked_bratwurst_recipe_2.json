@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "group": "bratwurst",
+  "category": "food",
+  "experience": 4,
+  "cookingtime": 80,
+  "ingredient": {
+    "item": "dustydecorations:raw_bratwurst"
+  },
+  "result": "dustydecorations:cooked_bratwurst"
+}

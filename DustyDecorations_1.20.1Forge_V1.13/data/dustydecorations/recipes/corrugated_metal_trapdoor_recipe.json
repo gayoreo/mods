@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "corrugatedtrapdoor",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:corrugated_metal"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:corrugated_metal_trapdoor",
+    "count": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "simple_mobs:distant_land",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "simple_mobs:blackstone_plains",
+      "lakes": false,
+      "features": false,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 2
+        },
+        {
+          "block": "simple_mobs:hardened_blackstone",
+          "height": 64
+        }
+      ],
+      "structure_overrides": []
+    }
+  }
+}

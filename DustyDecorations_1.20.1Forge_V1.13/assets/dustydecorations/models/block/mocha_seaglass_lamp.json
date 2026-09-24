@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/sglmocha",
+  "textures": {
+    "all": "dustydecorations:block/sglmocha",
+    "particle": "dustydecorations:block/sglmocha",
+    "0": "dustydecorations:block/sglmocha",
+    "missing": "dustydecorations:block/sglmocha"
+  },
+  "render_type": "translucent"
+}

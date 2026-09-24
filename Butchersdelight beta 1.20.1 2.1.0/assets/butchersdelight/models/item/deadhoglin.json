@@ -1,0 +1,8 @@
+{
+  "parent": "butchersdelight:custom/dead_hoglin",
+  "textures": {
+    "0": "butchersdelight:block/hoglin",
+    "missing": "butchersdelight:block/hoglin",
+    "particle": "butchersdelight:item/i_hog"
+  }
+}

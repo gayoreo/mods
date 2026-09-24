@@ -1,0 +1,16 @@
+{
+    "name": "掠夺者套装",
+    "icon": "butchery:pillager_armor_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:pillager_armor_chestplate",
+            "link_recipe": true,
+            "title": "掠夺者套装",
+            "text": "屠宰掠夺者可获得掠夺者套装，该套装主要为装饰用途。$(br2)可在合成台将其与剁肉刀或剥皮刀组合进行回收。$(br2)与其他套装不同，掠夺者套装拥有特殊效果：能迷惑掠夺者，使其将你视为同类而不会主动攻击，但对卫道士与唤魔者无效。"
+        }
+    ]
+}

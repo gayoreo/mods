@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/sentinel_sword",
+  "textures": {
+    "1": "simple_mobs:blocks/sentinel_sword",
+    "particle": "simple_mobs:items/gem_sword_item"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:creep_orchid_bundle"
+    },
+    "title": {
+      "translate": "advancements.creep_orchid_bundle_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.creep_orchid_bundle_advancement.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "creep_orchid_bundle_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:creep_orchid_bundle"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:creep_orchid_advancement"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "burlapcarpet",
+  "category": "building",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:burlap"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:burlap_carpet",
+    "count": 4
+  }
+}

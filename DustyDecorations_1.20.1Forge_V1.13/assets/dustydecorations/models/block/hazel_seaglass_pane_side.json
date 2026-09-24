@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "dustydecorations:block/coldseaglass4",
+    "edge": "dustydecorations:block/coldseaglass4",
+    "pane": "dustydecorations:block/coldseaglass4"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,30 @@
+{
+    "name": "碎壳锤",
+    "icon": "butchery:iron_hammer",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:iron_hammer",
+            "link_recipe": true,
+            "title": "碎壳锤",
+            "text": "部分生物尸体拥有坚硬外壳或甲壳结构，剁肉刀无法破开。$(br2)这时就需要§d碎壳锤§0，依靠冲击力敲碎外壳。$(br2)针对海龟、潜影贝这类生物，手持碎壳锤右键尸体即可剥离外壳。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:bonehammerrecipe",
+            "recipe2": "butchery:ironhammerrecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:goldhammerrecipe",
+            "recipe2": "butchery:diamondhammerrecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:netheritehammerrecipe"
+        }
+    ]
+}

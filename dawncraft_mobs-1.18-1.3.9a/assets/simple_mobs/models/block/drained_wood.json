@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simple_mobs:blocks/drained_top",
+    "up": "simple_mobs:blocks/drained_top",
+    "north": "simple_mobs:blocks/drained_side",
+    "east": "simple_mobs:blocks/drained_side",
+    "south": "simple_mobs:blocks/drained_side",
+    "west": "simple_mobs:blocks/drained_side",
+    "particle": "simple_mobs:blocks/drained_wood"
+  }
+}

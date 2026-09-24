@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:mortar_and_pestle"
+    },
+    "title": {
+      "translate": "advancements.craft_mortar_and_pestle_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.craft_mortar_and_pestle_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "craft_mortar_and_pestle_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:mortar_and_pestle"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:obtaining_leather_glove_advancement"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "caupona:brick_hypocaust_firebox"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "caupona:blocks/brick_hypocaust_firebox"
+}

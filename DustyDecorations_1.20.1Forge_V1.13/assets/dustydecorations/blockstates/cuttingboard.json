@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/cuttingboard"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/cuttingboard",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/cuttingboard",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/cuttingboard",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "mappings": {
+    "me/pepperbell/continuity/client/mixin/AtlasLoaderMixin": {
+      "<init>(Ljava/util/List;)V": "Lnet/minecraft/class_7947;<init>(Ljava/util/List;)V",
+      "loadSources(Lnet/minecraft/resource/ResourceManager;)Ljava/util/List;": "Lnet/minecraft/class_7947;method_47667(Lnet/minecraft/class_3300;)Ljava/util/List;"
+    },
+    "me/pepperbell/continuity/client/mixin/BakedModelManagerMixin": {
+      "bake(Lnet/minecraft/util/profiler/Profiler;Ljava/util/Map;Lnet/minecraft/client/render/model/ModelLoader;)Lnet/minecraft/client/render/model/BakedModelManager$BakingResult;": "Lnet/minecraft/class_1092;method_45883(Lnet/minecraft/class_3695;Ljava/util/Map;Lnet/minecraft/class_1088;)Lnet/minecraft/class_1092$class_7779;",
+      "reload(Lnet/minecraft/resource/ResourceReloader$Synchronizer;Lnet/minecraft/resource/ResourceManager;Lnet/minecraft/util/profiler/Profiler;Lnet/minecraft/util/profiler/Profiler;Ljava/util/concurrent/Executor;Ljava/util/concurrent/Executor;)Ljava/util/concurrent/CompletableFuture;": "Lnet/minecraft/class_1092;method_25931(Lnet/minecraft/class_3302$class_4045;Lnet/minecraft/class_3300;Lnet/minecraft/class_3695;Lnet/minecraft/class_3695;Ljava/util/concurrent/Executor;Ljava/util/concurrent/Executor;)Ljava/util/concurrent/CompletableFuture;",
+      "upload(Lnet/minecraft/client/render/model/BakedModelManager$BakingResult;Lnet/minecraft/util/profiler/Profiler;)V": "Lnet/minecraft/class_1092;method_18179(Lnet/minecraft/class_1092$class_7779;Lnet/minecraft/class_3695;)V"
+    },
+    "me/pepperbell/continuity/client/mixin/BlockModelsMixin": {
+      "setModels(Ljava/util/Map;)V": "Lnet/minecraft/class_773;method_45784(Ljava/util/Map;)V"
+    },
+    "me/pepperbell/continuity/client/mixin/FallingBlockEntityRendererMixin": {
+      "Lnet/minecraft/client/render/block/BlockModelRenderer;render(Lnet/minecraft/world/BlockRenderView;Lnet/minecraft/client/render/model/BakedModel;Lnet/minecraft/block/BlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumer;ZLnet/minecraft/util/math/random/Random;JI)V": "Lnet/minecraft/class_778;method_3374(Lnet/minecraft/class_1920;Lnet/minecraft/class_1087;Lnet/minecraft/class_2680;Lnet/minecraft/class_2338;Lnet/minecraft/class_4587;Lnet/minecraft/class_4588;ZLnet/minecraft/class_5819;JI)V",
+      "render(Lnet/minecraft/entity/FallingBlockEntity;FFLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;I)V": "Lnet/minecraft/class_901;method_3965(Lnet/minecraft/class_1540;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+    },
+    "me/pepperbell/continuity/client/mixin/IdentifierMixin": {
+      "isPathValid(Ljava/lang/String;)Z": "Lnet/minecraft/class_2960;method_20208(Ljava/lang/String;)Z"
+    },
+    "me/pepperbell/continuity/client/mixin/LifecycledResourceManagerImplMixin": {
+      "<init>(Lnet/minecraft/resource/ResourceType;Ljava/util/List;)V": "Lnet/minecraft/class_6861;<init>(Lnet/minecraft/class_3264;Ljava/util/List;)V",
+      "getAllResources(Lnet/minecraft/util/Identifier;)Ljava/util/List;": "Lnet/minecraft/class_6861;method_14489(Lnet/minecraft/class_2960;)Ljava/util/List;",
+      "getResource(Lnet/minecraft/util/Identifier;)Ljava/util/Optional;": "Lnet/minecraft/class_6861;method_14486(Lnet/minecraft/class_2960;)Ljava/util/Optional;"
+    },
+    "me/pepperbell/continuity/client/mixin/NamespaceResourceManagerMixin": {
+      "getMetadataPath(Lnet/minecraft/util/Identifier;)Lnet/minecraft/util/Identifier;": "Lnet/minecraft/class_3294;method_14473(Lnet/minecraft/class_2960;)Lnet/minecraft/class_2960;"
+    },
+    "me/pepperbell/continuity/client/mixin/PistonBlockEntityRendererMixin": {
+      "Lnet/minecraft/client/render/block/BlockModelRenderer;disableBrightnessCache()V": "Lnet/minecraft/class_778;method_20545()V",
+      "Lnet/minecraft/client/render/block/BlockModelRenderer;enableBrightnessCache()V": "Lnet/minecraft/class_778;method_20544()V",
+      "render(Lnet/minecraft/block/entity/PistonBlockEntity;FLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;II)V": "Lnet/minecraft/class_835;method_3576(Lnet/minecraft/class_2669;FLnet/minecraft/class_4587;Lnet/minecraft/class_4597;II)V"
+    },
+    "me/pepperbell/continuity/client/mixin/ReloadableResourceManagerImplAccessor": {
+      "activeManager": "field_36391:Lnet/minecraft/class_6860;"
+    },
+    "me/pepperbell/continuity/client/mixin/RenderLayersMixin": {
+      "getBlockLayer(Lnet/minecraft/block/BlockState;)Lnet/minecraft/client/render/RenderLayer;": "Lnet/minecraft/class_4696;method_23679(Lnet/minecraft/class_2680;)Lnet/minecraft/class_1921;",
+      "getMovingBlockLayer(Lnet/minecraft/block/BlockState;)Lnet/minecraft/client/render/RenderLayer;": "Lnet/minecraft/class_4696;method_29359(Lnet/minecraft/class_2680;)Lnet/minecraft/class_1921;"
+    },
+    "me/pepperbell/continuity/client/mixin/SpriteLoaderMixin": {
+      "load(Lnet/minecraft/resource/ResourceManager;Lnet/minecraft/util/Identifier;ILjava/util/concurrent/Executor;)Ljava/util/concurrent/CompletableFuture;": "Lnet/minecraft/class_7766;method_47661(Lnet/minecraft/class_3300;Lnet/minecraft/class_2960;ILjava/util/concurrent/Executor;)Ljava/util/concurrent/CompletableFuture;",
+      "stitch(Ljava/util/List;ILjava/util/concurrent/Executor;)Lnet/minecraft/client/texture/SpriteLoader$StitchResult;": "Lnet/minecraft/class_7766;method_47663(Ljava/util/List;ILjava/util/concurrent/Executor;)Lnet/minecraft/class_7766$class_7767;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "me/pepperbell/continuity/client/mixin/AtlasLoaderMixin": {
+        "<init>(Ljava/util/List;)V": "Lnet/minecraft/class_7947;<init>(Ljava/util/List;)V",
+        "loadSources(Lnet/minecraft/resource/ResourceManager;)Ljava/util/List;": "Lnet/minecraft/class_7947;method_47667(Lnet/minecraft/class_3300;)Ljava/util/List;"
+      },
+      "me/pepperbell/continuity/client/mixin/BakedModelManagerMixin": {
+        "bake(Lnet/minecraft/util/profiler/Profiler;Ljava/util/Map;Lnet/minecraft/client/render/model/ModelLoader;)Lnet/minecraft/client/render/model/BakedModelManager$BakingResult;": "Lnet/minecraft/class_1092;method_45883(Lnet/minecraft/class_3695;Ljava/util/Map;Lnet/minecraft/class_1088;)Lnet/minecraft/class_1092$class_7779;",
+        "reload(Lnet/minecraft/resource/ResourceReloader$Synchronizer;Lnet/minecraft/resource/ResourceManager;Lnet/minecraft/util/profiler/Profiler;Lnet/minecraft/util/profiler/Profiler;Ljava/util/concurrent/Executor;Ljava/util/concurrent/Executor;)Ljava/util/concurrent/CompletableFuture;": "Lnet/minecraft/class_1092;method_25931(Lnet/minecraft/class_3302$class_4045;Lnet/minecraft/class_3300;Lnet/minecraft/class_3695;Lnet/minecraft/class_3695;Ljava/util/concurrent/Executor;Ljava/util/concurrent/Executor;)Ljava/util/concurrent/CompletableFuture;",
+        "upload(Lnet/minecraft/client/render/model/BakedModelManager$BakingResult;Lnet/minecraft/util/profiler/Profiler;)V": "Lnet/minecraft/class_1092;method_18179(Lnet/minecraft/class_1092$class_7779;Lnet/minecraft/class_3695;)V"
+      },
+      "me/pepperbell/continuity/client/mixin/BlockModelsMixin": {
+        "setModels(Ljava/util/Map;)V": "Lnet/minecraft/class_773;method_45784(Ljava/util/Map;)V"
+      },
+      "me/pepperbell/continuity/client/mixin/FallingBlockEntityRendererMixin": {
+        "Lnet/minecraft/client/render/block/BlockModelRenderer;render(Lnet/minecraft/world/BlockRenderView;Lnet/minecraft/client/render/model/BakedModel;Lnet/minecraft/block/BlockState;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumer;ZLnet/minecraft/util/math/random/Random;JI)V": "Lnet/minecraft/class_778;method_3374(Lnet/minecraft/class_1920;Lnet/minecraft/class_1087;Lnet/minecraft/class_2680;Lnet/minecraft/class_2338;Lnet/minecraft/class_4587;Lnet/minecraft/class_4588;ZLnet/minecraft/class_5819;JI)V",
+        "render(Lnet/minecraft/entity/FallingBlockEntity;FFLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;I)V": "Lnet/minecraft/class_901;method_3965(Lnet/minecraft/class_1540;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+      },
+      "me/pepperbell/continuity/client/mixin/IdentifierMixin": {
+        "isPathValid(Ljava/lang/String;)Z": "Lnet/minecraft/class_2960;method_20208(Ljava/lang/String;)Z"
+      },
+      "me/pepperbell/continuity/client/mixin/LifecycledResourceManagerImplMixin": {
+        "<init>(Lnet/minecraft/resource/ResourceType;Ljava/util/List;)V": "Lnet/minecraft/class_6861;<init>(Lnet/minecraft/class_3264;Ljava/util/List;)V",
+        "getAllResources(Lnet/minecraft/util/Identifier;)Ljava/util/List;": "Lnet/minecraft/class_6861;method_14489(Lnet/minecraft/class_2960;)Ljava/util/List;",
+        "getResource(Lnet/minecraft/util/Identifier;)Ljava/util/Optional;": "Lnet/minecraft/class_6861;method_14486(Lnet/minecraft/class_2960;)Ljava/util/Optional;"
+      },
+      "me/pepperbell/continuity/client/mixin/NamespaceResourceManagerMixin": {
+        "getMetadataPath(Lnet/minecraft/util/Identifier;)Lnet/minecraft/util/Identifier;": "Lnet/minecraft/class_3294;method_14473(Lnet/minecraft/class_2960;)Lnet/minecraft/class_2960;"
+      },
+      "me/pepperbell/continuity/client/mixin/PistonBlockEntityRendererMixin": {
+        "Lnet/minecraft/client/render/block/BlockModelRenderer;disableBrightnessCache()V": "Lnet/minecraft/class_778;method_20545()V",
+        "Lnet/minecraft/client/render/block/BlockModelRenderer;enableBrightnessCache()V": "Lnet/minecraft/class_778;method_20544()V",
+        "render(Lnet/minecraft/block/entity/PistonBlockEntity;FLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;II)V": "Lnet/minecraft/class_835;method_3576(Lnet/minecraft/class_2669;FLnet/minecraft/class_4587;Lnet/minecraft/class_4597;II)V"
+      },
+      "me/pepperbell/continuity/client/mixin/ReloadableResourceManagerImplAccessor": {
+        "activeManager": "field_36391:Lnet/minecraft/class_6860;"
+      },
+      "me/pepperbell/continuity/client/mixin/RenderLayersMixin": {
+        "getBlockLayer(Lnet/minecraft/block/BlockState;)Lnet/minecraft/client/render/RenderLayer;": "Lnet/minecraft/class_4696;method_23679(Lnet/minecraft/class_2680;)Lnet/minecraft/class_1921;",
+        "getMovingBlockLayer(Lnet/minecraft/block/BlockState;)Lnet/minecraft/client/render/RenderLayer;": "Lnet/minecraft/class_4696;method_29359(Lnet/minecraft/class_2680;)Lnet/minecraft/class_1921;"
+      },
+      "me/pepperbell/continuity/client/mixin/SpriteLoaderMixin": {
+        "load(Lnet/minecraft/resource/ResourceManager;Lnet/minecraft/util/Identifier;ILjava/util/concurrent/Executor;)Ljava/util/concurrent/CompletableFuture;": "Lnet/minecraft/class_7766;method_47661(Lnet/minecraft/class_3300;Lnet/minecraft/class_2960;ILjava/util/concurrent/Executor;)Ljava/util/concurrent/CompletableFuture;",
+        "stitch(Ljava/util/List;ILjava/util/concurrent/Executor;)Lnet/minecraft/client/texture/SpriteLoader$StitchResult;": "Lnet/minecraft/class_7766;method_47663(Ljava/util/List;ILjava/util/concurrent/Executor;)Lnet/minecraft/class_7766$class_7767;"
+      }
+    }
+  }
+}

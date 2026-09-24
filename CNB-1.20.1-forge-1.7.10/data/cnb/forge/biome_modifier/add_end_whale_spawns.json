@@ -1,0 +1,15 @@
+{
+  "type": "cnb:add_costed_spawns",
+  "entityType": "cnb:end_whale",
+  "spawns": [
+    {
+      "biomes": "#forge:is_end",
+      "category": "creature",
+      "weight": 40,
+      "min": 3,
+      "max": 8,
+      "cost": 3.0,
+      "budget": 6.0
+    }
+  ]
+}

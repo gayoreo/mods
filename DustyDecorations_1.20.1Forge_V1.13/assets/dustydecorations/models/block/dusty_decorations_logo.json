@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/icon_apple_barrel",
+  "textures": {
+    "all": "dustydecorations:block/dustydecoricon",
+    "particle": "dustydecorations:block/dustydecoricon",
+    "0": "dustydecorations:block/dustydecoricon"
+  },
+  "render_type": "solid"
+}

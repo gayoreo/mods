@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/plushmakena",
+  "textures": {
+    "all": "dustydecorations:block/makenaplush",
+    "particle": "dustydecorations:block/makenaplush",
+    "0": "dustydecorations:block/makenaplush"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,34 @@
+{
+	"name": "地暖和浴池",
+	"icon": "caupona:opus_incertum_hypocaust_firebox",
+	"category": "caupona:intro",
+	"sortnum": 46,
+	"pages": [
+		{
+			"type": "text",
+			"text": "地暖是一种集中供暖系统，热量从热源导入系统的中心方块（地暖炉膛），并向四周通过地暖隔层扩散。"
+		},
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/opus_incertum_hypocaust_firebox"
+		},
+		{
+			"type": "crafting",
+			"recipe": "caupona:crafting/opus_incertum_caliduct",
+			"text": "地暖炉膛和地暖隔层的材料与$(l:intro/kitchen_materials)厨房设施$(/l)的材料类似，唯独缺少夯土干砌石版本，因为这种材料不适合可能需要与热水接触、且中空的地暖系统结构。"
+		},
+		{
+			"type": "text",
+			"text": "在建造地暖系统时，炉膛需要和（成片的）地暖隔层方块水平方向上相连，下方需要提供源源不断的热源（$(l:intro/stove)灶台$(/l)或$(l:worldgen/volcanic_fumarole)火山喷气孔$(/l)），一个地暖系统可以由多个炉膛同时供热，但是供热范围不会叠加，因此建造大型地暖系统时需要进行规划。"
+		},
+		{
+			"type": "text",
+			"text": "有热量流经的地暖隔层会加热上方最近一层的水方块，使其成为浴池水，散发出一些蒸汽粒子。与浴池水接触能持续不断地获取经验值，不过这一过程相当缓慢。一个工作中的炉膛方块大致可以加热9×9水平范围内的水。"
+		},
+		{
+			"type": "image",
+			"images": ["caupona:textures/gui/entries/bath.png"],
+			"text": "地暖和浴池的一种可行布置方式示例"
+		}
+	]
+}

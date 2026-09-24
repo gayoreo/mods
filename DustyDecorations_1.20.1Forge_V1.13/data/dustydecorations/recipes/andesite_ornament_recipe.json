@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "andesiteornament",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:polished_andesite"
+    },
+    "b": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:andesite_mural",
+    "count": 1
+  }
+}

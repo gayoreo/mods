@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alchemists_garden:mortar_and_pestle"
+    },
+    {
+      "item": "alchemists_garden:ember_weed"
+    }
+  ],
+  "result": {
+    "item": "minecraft:blaze_powder",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/winter_reef"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/winter_reef",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/winter_reef",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/winter_reef",
+      "y": 270
+    }
+  }
+}

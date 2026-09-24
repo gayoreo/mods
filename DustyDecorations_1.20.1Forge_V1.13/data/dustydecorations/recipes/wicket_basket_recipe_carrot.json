@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wickerbasketrecipe",
+  "category": "building",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:carrot"
+    },
+    "b": {
+      "item": "dustydecorations:wicker_basket"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:carrot_wicker_basket",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+﻿{
+    "modmenu.nameTranslation.better_fishing":  "Better Fishing",
+    "screen.better_fishing.catch.title":  "釣果",
+    "screen.better_fishing.catch.collect":  "魚を取る",
+    "screen.better_fishing.catch.release":  "魚を放す",
+    "hud.better_fishing.tension":  "ラインの張力",
+    "hud.better_fishing.progress":  "捕獲進行度",
+    "message.better_fishing.too_close_to_hook":  "魚を怖がらせています。釣り針から6ブロック以上離れると魚を掛けられます。",
+    "screen.better_fishing.options.title":  "Better Fishing",
+    "screen.better_fishing.options.difficulty":  "釣りの難易度",
+    "screen.better_fishing.options.difficulty.normal":  "難しい",
+    "screen.better_fishing.options.difficulty.easy":  "簡単",
+    "screen.better_fishing.options.selected":  "%s: 選択中",
+    "key.categories.better_fishing":  "Better Fishing",
+    "key.better_fishing.open_options":  "Better Fishing メニューを開く",
+    "screen.better_fishing.options.difficulty_button":  "難易度: %s",
+    "screen.better_fishing.options.line_sound_button":  "ライン音: %s",
+    "screen.better_fishing.options.catch_sound_button":  "捕獲音: %s",
+    "screen.better_fishing.options.spooked_warning_button":  "魚の警告: %s"
+}

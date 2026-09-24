@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/giant_chain",
+  "textures": {
+    "all": "dustydecorations:block/giant_chain",
+    "particle": "dustydecorations:block/giant_chain",
+    "0": "dustydecorations:block/giant_chain"
+  },
+  "render_type": "solid"
+}

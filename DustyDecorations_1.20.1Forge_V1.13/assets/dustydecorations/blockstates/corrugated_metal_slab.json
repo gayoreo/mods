@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dustydecorations:block/corrugated_metal_slab"
+    },
+    "type=top": {
+      "model": "dustydecorations:block/corrugated_metal_slab_top"
+    },
+    "type=double": {
+      "model": "dustydecorations:block/corrugated_metal_slab_full"
+    }
+  }
+}

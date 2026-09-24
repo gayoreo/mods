@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dustydecorations:item/n64door2"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,527 @@
+{
+    "model": "epicfight:entity/biped_old_texture",
+    "armature": "epicfight:entity/biped",
+    "renderer": "minecraft:zombie",
+    "isHumanoid": true,
+    "faction": "neutral",
+    "attributes": {
+        "impact": 0.5,
+        "armor_negation": 0,
+        "max_strikes": 2,
+        "chasing_speed": 1,
+        "scale": 1,
+        "max_stamina": 30,
+        "stamina_regan_multiply": 1,
+        "stamina_regan_delay": 20,
+        "has_stun_reduction": true,
+        "max_stun_shield": 0,
+        "stun_shield_regan_multiply": 1,
+        "stun_shield_regan_delay": 30,
+        "stamina_lose_multiply": 1
+    },
+    "humanoid_weapon_motions": [
+        {
+            "weapon_categories": [
+                "sword"
+            ],
+            "style": "common",
+            "livingmotions": {
+                "idle": "epicfight:biped/living/hold_liechtenauer",
+                "walk": "epicfight:biped/living/walk_liechtenauer",
+                "chase": "epicfight:biped/living/walk_liechtenauer"
+            }
+        }
+    ],
+    "custom_guard_motion": [
+        {
+            "weapon_categories": [
+                "longsword",
+                "tachi",
+                "sword"
+            ],
+            "style": "common",
+            "guard": "indestructible:guard/guard_longsword",
+            "stamina_cost_multiply": 1.5,
+            "can_block_projectile": true
+        }
+    ],
+    "default_livingmotions": {
+        "idle": "epicfight:biped/living/idle",
+        "walk": "epicfight:biped/living/walk",
+        "chase": "epicfight:biped/living/walk",
+        "mount": "epicfight:biped/living/mount",
+        "fall": "epicfight:biped/living/fall",
+        "death": "epicfight:biped/living/death"
+    },
+    "stun_animations": {
+        "short": "epicfight:biped/combat/hit_short",
+        "long": "epicfight:biped/combat/hit_long",
+        "knockdown": "epicfight:biped/combat/knockdown",
+        "fall": "epicfight:biped/living/landing"
+    },
+    "combat_behavior": [
+        {
+            "weapon_categories": [
+                "sword"
+            ],
+            "style": "common",
+            "behavior_series": [
+                {
+                    "weight": 20,
+                    "cooldown": 100,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "animation": "wom:biped/combat/herrscher_auto_1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "animation": "wom:biped/combat/herrscher_auto_2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "animation": "epicfight:biped/skill/sweeping_edge"
+                        }
+                    ]
+                },
+                {
+                    "weight": 20,
+                    "cooldown": 100,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "play_speed": 0.75,
+                            "animation": "epicfight:biped/combat/longsword_liechtenauer_auto1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "play_speed": 0.75,
+                            "animation": "epicfight:biped/combat/longsword_liechtenauer_auto2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "play_speed": 0.75,
+                            "animation": "epicfight:biped/combat/longsword_liechtenauer_auto3"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 7
+                                },
+                                {
+                                    "predicate": "within_angle_horizontal",
+                                    "min": -30,
+                                    "max": 30
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "animation": "wom:biped/combat/herrscher_auto_3"
+                        }
+                    ]
+                },
+                {
+                    "weight": 20,
+                    "cooldown": 100,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 1,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "animation": "epicfight:biped/skill/roll_backward"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 1,
+                                    "max": 15
+                                },
+                                {
+                                    "predicate": "within_angle_horizontal",
+                                    "min": -30,
+                                    "max": 30
+                                }
+                            ],
+                            "stamina": 1,
+                            "convert_time": 1.5,	
+                            "play_speed": 2.5,							
+                            "animation": "wom:biped/combat/ruine_comet"
+                        }
+                    ]
+                },
+                {
+                    "weight": 2,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 60,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 3,
+                                    "max": 8
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "animation": "epicfight:biped/skill/roll_forward"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 2,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "play_speed": 1.5,
+                            "animation": "falchionmoveset:biped/falchion/falchion_auto2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 2,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "animation": "falchionmoveset:biped/falchion/falchion_backward"
+                        }
+                    ]
+                },
+                {
+                    "weight": 2,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 60,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                }
+                            ],
+                            "animation": "epicfight:biped/skill/roll_forward"
+                        }
+                    ]
+                },
+                {
+                    "weight": 20,
+                    "canBeInterrupted": false,
+                    "looping": false,
+					"cooldown": 200,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "animation": "epicfight:biped/combat/tachi_auto1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "animation": "epicfight:biped/combat/tachi_auto2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "play_speed": 1.5,
+                            "animation": "epicfight:biped/combat/sword_auto1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "play_speed": 1.5,
+                            "animation": "epicfight:biped/combat/sword_auto2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "animation": "epicfight:biped/skill/rushing_tempo1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "animation": "epicfight:biped/skill/rushing_tempo2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 3
+                                },
+                                {
+                                    "predicate": "stamina",
+                                    "stamina": 3,
+                                    "comparator": "less_ratio"
+                                }
+                            ],
+                            "stamina": 1,
+                            "play_speed": 1.5,
+                            "animation": "epicfight:biped/skill/rushing_tempo3"
+                        }
+                    ]
+                },
+                {
+                    "weight": 1.5,
+                    "cooldown": 140,
+                    "canBeInterrupted": true,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                }
+                            ],
+                            "guard": 100,
+                            "counter": "indestructible:guard/counter",
+                            "counter_cost": 0,
+                            "counter_chance": 0,
+                            "counter_speed": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

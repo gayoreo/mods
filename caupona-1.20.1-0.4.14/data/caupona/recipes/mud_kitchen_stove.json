@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:dirt"
+    },
+    "S": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "pattern": [
+    "DDD",
+    "SSS",
+    "S S"
+  ],
+  "result": {
+    "item": "caupona:mud_kitchen_stove"
+  },
+  "show_notification": true
+}

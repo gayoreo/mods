@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/chiseled_andesite_ornament",
+  "textures": {
+    "all": "dustydecorations:block/chiseled_andesite_ornament",
+    "particle": "dustydecorations:block/chiseled_andesite_ornament",
+    "0": "dustydecorations:block/chiseled_andesite_ornament",
+    "1": "minecraft:block/polished_andesite"
+  },
+  "render_type": "solid"
+}

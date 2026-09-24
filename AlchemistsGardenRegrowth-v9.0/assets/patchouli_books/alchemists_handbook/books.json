@@ -1,0 +1,7 @@
+{
+    "name": "Alchemist's Handbook",
+    "landing_text": "The beginner's way into the magical world.",
+    "version": 1,
+    "creative_tab": "alchemists_garden:alchemists_garden",
+    "use_resource_pack": true
+}

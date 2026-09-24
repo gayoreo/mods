@@ -1,0 +1,10 @@
+{
+  "parent": "butchersdelight:custom/hookedllamap2_2",
+  "textures": {
+    "all": "butchersdelight:block/hookedllamap2_2",
+    "particle": "butchersdelight:block/llamaskinned",
+    "0": "butchersdelight:block/llamanaked",
+    "1": "butchersdelight:block/hook"
+  },
+  "render_type": "cutout_mipped"
+}

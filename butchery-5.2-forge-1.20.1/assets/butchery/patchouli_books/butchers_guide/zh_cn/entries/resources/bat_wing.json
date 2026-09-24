@@ -1,0 +1,16 @@
+{
+    "name": "蝙蝠翅膀",
+    "icon": "butchery:bat_wing",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:bat_wing",
+            "link_recipe": true,
+            "title": "蝙蝠翅膀",
+            "text": "屠宰蝙蝠可获得蝙蝠翅膀。将其与粗制药水酿造，即可获得缓降药水。"
+        }
+    ]
+}

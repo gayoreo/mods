@@ -1,0 +1,249 @@
+{
+  "format_version": "1.9.0",
+  "credit": "Made with Blockbench",
+  "parent": "wraped_meat_1",
+  "ambientocclusion": false,
+  "texture_size": [
+    64,
+    64
+  ],
+  "elements": [
+    {
+      "name": "package",
+      "from": [
+        4,
+        0,
+        3
+      ],
+      "to": [
+        12,
+        6,
+        13
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "y",
+        "origin": [
+          8,
+          0.125,
+          7.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            2.75,
+            2,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            2.25,
+            2.75,
+            4.75,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2,
+            2.75,
+            0,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4.75,
+            2.75,
+            2.25,
+            4.25
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            2,
+            2.5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            2.25,
+            0,
+            4.25,
+            2.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "rope",
+      "from": [
+        5,
+        6.25,
+        6
+      ],
+      "to": [
+        10,
+        6.25,
+        8
+      ],
+      "rotation": {
+        "angle": -22.5,
+        "axis": "y",
+        "origin": [
+          8,
+          0.125,
+          7.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            12.5,
+            1.5,
+            12.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            5.5,
+            12.5,
+            6,
+            12.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            1.5,
+            12.5,
+            0,
+            12.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            6,
+            12.5,
+            5.5,
+            12.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            0,
+            4.5,
+            1.25,
+            5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0,
+            4.5,
+            1.25,
+            5
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        1.5,
+        0
+      ],
+      "scale": [
+        0.6,
+        0.6,
+        0.6
+      ]
+    },
+    "gui": {
+      "rotation": [
+        32,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3.25,
+        0
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "wrapped_meat_1",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "color": 0,
+      "children": [
+        {
+          "name": "WrappedMeat",
+          "origin": [
+            8,
+            4.625,
+            7.5
+          ],
+          "color": 0,
+          "children": [
+            0,
+            1
+          ]
+        }
+      ]
+    }
+  ]
+}

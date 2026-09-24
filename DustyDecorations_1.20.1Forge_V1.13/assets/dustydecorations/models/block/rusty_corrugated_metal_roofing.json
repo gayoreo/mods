@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/corrugated_metal_awning",
+  "textures": {
+    "all": "dustydecorations:block/corrugated_metal",
+    "particle": "dustydecorations:block/corrugated_metal",
+    "0": "dustydecorations:block/corrugated_metal_awning"
+  },
+  "render_type": "solid"
+}

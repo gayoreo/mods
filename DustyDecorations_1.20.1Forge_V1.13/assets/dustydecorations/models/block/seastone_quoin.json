@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/seastone_quoin_brick",
+  "textures": {
+    "all": "dustydecorations:block/seastonetop",
+    "particle": "dustydecorations:block/seastonetop",
+    "0": "dustydecorations:block/seastone_quoin"
+  },
+  "render_type": "solid"
+}

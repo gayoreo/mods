@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "potsnpans",
+  "category": "building",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:cooking_pot"
+    },
+    "b": {
+      "item": "dustydecorations:frying_pan"
+    },
+    "c": {
+      "item": "dustydecorations:copper_frying_pan"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:pots_and_pans",
+    "count": 6
+  }
+}

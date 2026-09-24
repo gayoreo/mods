@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shoddycopperlight",
+  "category": "building",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:shoddy_copper_light",
+    "count": 8
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/small_glass_buoys",
+  "textures": {
+    "all": "dustydecorations:block/small_glass_buoys",
+    "particle": "dustydecorations:block/small_glass_buoys",
+    "0": "dustydecorations:block/small_glass_buoys"
+  },
+  "render_type": "translucent"
+}

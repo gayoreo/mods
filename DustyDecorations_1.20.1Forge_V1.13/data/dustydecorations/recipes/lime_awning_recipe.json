@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "woolawningdusty",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lime_wool"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:lime_wool_awning",
+    "count": 3
+  }
+}

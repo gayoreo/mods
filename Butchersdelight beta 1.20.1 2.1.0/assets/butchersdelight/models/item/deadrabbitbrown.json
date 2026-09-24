@@ -1,0 +1,7 @@
+{
+  "parent": "butchersdelight:custom/dead_rabbit_brown",
+  "textures": {
+    "0": "butchersdelight:block/rabbitbrown",
+    "particle": "butchersdelight:item/rabbit_base"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "simple_mobs:custom/riversofblood",
+  "textures": {
+    "0": "simple_mobs:blocks/riversofblood",
+    "1": "simple_mobs:blocks/animated_blood",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

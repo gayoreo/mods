@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/carved_beetroot_two",
+  "textures": {
+    "all": "dustydecorations:block/carved_beetroot",
+    "particle": "dustydecorations:block/carved_beetroot",
+    "0": "dustydecorations:block/carved_beetroot"
+  },
+  "render_type": "cutout_mipped"
+}

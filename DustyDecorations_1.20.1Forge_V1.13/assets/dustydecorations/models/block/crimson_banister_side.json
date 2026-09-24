@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "dustydecorations:block/crimsonbanister",
+    "edge": "dustydecorations:block/crimsonbanistertop",
+    "pane": "dustydecorations:block/crimsonbanister"
+  },
+  "render_type": "cutout_mipped"
+}

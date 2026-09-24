@@ -1,0 +1,20 @@
+{
+    "multipart": [
+        {
+            "when": { "north": "true" },
+            "apply": { "model": "dawnoftimebuilder:block/persian/persian_emblem" }
+        },
+        {
+            "when": { "east": "true" },
+            "apply": { "model": "dawnoftimebuilder:block/persian/persian_emblem", "y": 90 }
+        },
+        {
+            "when": { "south": "true" },
+            "apply": { "model": "dawnoftimebuilder:block/persian/persian_emblem", "y": 180 }
+        },
+        {
+            "when": { "west": "true" },
+            "apply": { "model": "dawnoftimebuilder:block/persian/persian_emblem", "y": 270 }
+        }
+    ]
+}

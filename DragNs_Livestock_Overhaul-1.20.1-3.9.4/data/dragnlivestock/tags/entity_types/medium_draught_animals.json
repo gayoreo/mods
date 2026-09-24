@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "dragnlivestock:o_donkey",
+    "dragnlivestock:o_mule",
+    "dragnlivestock:caribou",
+
+    {
+      "id": "permafrost:quagga",
+      "required": false
+    },
+    {
+      "id": "permafrost:dinofelis",
+      "required": false
+    },
+    {
+      "id": "swemaddendum:mule",
+      "required": false
+    },
+    {
+      "id": "swemaddendum:donkey",
+      "required": false
+    }
+  ]
+}

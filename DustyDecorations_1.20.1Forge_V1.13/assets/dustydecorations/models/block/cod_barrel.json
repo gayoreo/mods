@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/cod_barrel",
+  "textures": {
+    "all": "dustydecorations:block/cod_barrel",
+    "particle": "dustydecorations:block/cod_barrel",
+    "0": "dustydecorations:block/cod_barrel"
+  },
+  "render_type": "solid"
+}

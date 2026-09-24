@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dustyrope",
+  "category": "building",
+  "pattern": [
+    "ab",
+    "ba",
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:rope",
+    "count": 8
+  }
+}

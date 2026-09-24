@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dustydecorations:block/snowmenwallpaper",
+    "particle": "dustydecorations:block/snowmenwallpaper"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,34 @@
+{
+  "mappings": {
+    "com/cgessinger/creaturesandbeasts/mixin/MixinEntity": {
+      "positionRider(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/entity/Entity$MoveFunction;)V": "Lnet/minecraft/world/entity/Entity;m_19956_(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/entity/Entity$MoveFunction;)V",
+      "turn": "Lnet/minecraft/world/entity/Entity;m_19884_(DD)V"
+    },
+    "com/cgessinger/creaturesandbeasts/mixin/MixinLivingEntityRenderer": {
+      "setupRotations(Lnet/minecraft/world/entity/LivingEntity;Lcom/mojang/blaze3d/vertex/PoseStack;FFF)V": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7523_(Lnet/minecraft/world/entity/LivingEntity;Lcom/mojang/blaze3d/vertex/PoseStack;FFF)V",
+      "Lnet/minecraft/world/entity/LivingEntity;getVehicle()Lnet/minecraft/world/entity/Entity;": "Lnet/minecraft/world/entity/LivingEntity;m_20202_()Lnet/minecraft/world/entity/Entity;",
+      "render(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7392_(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+    },
+    "com/cgessinger/creaturesandbeasts/mixin/MixinItemStack": {
+      "Lnet/minecraft/world/item/ItemStack;setPopTime(I)V": "Lnet/minecraft/world/item/ItemStack;m_41754_(I)V",
+      "copy": "Lnet/minecraft/world/item/ItemStack;m_41777_()Lnet/minecraft/world/item/ItemStack;"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/cgessinger/creaturesandbeasts/mixin/MixinEntity": {
+        "positionRider(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/entity/Entity$MoveFunction;)V": "Lnet/minecraft/world/entity/Entity;m_19956_(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/entity/Entity$MoveFunction;)V",
+        "turn": "Lnet/minecraft/world/entity/Entity;m_19884_(DD)V"
+      },
+      "com/cgessinger/creaturesandbeasts/mixin/MixinLivingEntityRenderer": {
+        "setupRotations(Lnet/minecraft/world/entity/LivingEntity;Lcom/mojang/blaze3d/vertex/PoseStack;FFF)V": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7523_(Lnet/minecraft/world/entity/LivingEntity;Lcom/mojang/blaze3d/vertex/PoseStack;FFF)V",
+        "Lnet/minecraft/world/entity/LivingEntity;getVehicle()Lnet/minecraft/world/entity/Entity;": "Lnet/minecraft/world/entity/LivingEntity;m_20202_()Lnet/minecraft/world/entity/Entity;",
+        "render(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7392_(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+      },
+      "com/cgessinger/creaturesandbeasts/mixin/MixinItemStack": {
+        "Lnet/minecraft/world/item/ItemStack;setPopTime(I)V": "Lnet/minecraft/world/item/ItemStack;m_41754_(I)V",
+        "copy": "Lnet/minecraft/world/item/ItemStack;m_41777_()Lnet/minecraft/world/item/ItemStack;"
+      }
+    }
+  }
+}

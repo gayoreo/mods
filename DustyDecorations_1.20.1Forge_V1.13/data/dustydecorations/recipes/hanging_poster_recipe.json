@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hangingposter",
+  "category": "building",
+  "pattern": [
+    " a",
+    "bb",
+    "bb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:tripwire_hook"
+    },
+    "b": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:poster_decor",
+    "count": 1
+  }
+}

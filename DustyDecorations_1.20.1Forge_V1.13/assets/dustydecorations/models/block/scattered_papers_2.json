@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/scattered_paper1",
+  "textures": {
+    "all": "dustydecorations:block/scattered_paper",
+    "particle": "dustydecorations:block/scattered_paper",
+    "0": "dustydecorations:block/scattered_paper1"
+  },
+  "render_type": "cutout"
+}

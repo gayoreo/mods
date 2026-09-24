@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "camera",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "bbb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:portable_camera"
+    },
+    "b": {
+      "item": "minecraft:mangrove_fence"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:camera",
+    "count": 1
+  }
+}

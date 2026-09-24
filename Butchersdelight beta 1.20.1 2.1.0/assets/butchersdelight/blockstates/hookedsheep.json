@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchersdelight:block/hookedsheep"
+    },
+    "facing=east": {
+      "model": "butchersdelight:block/hookedsheep",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchersdelight:block/hookedsheep",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchersdelight:block/hookedsheep",
+      "y": 270
+    }
+  }
+}

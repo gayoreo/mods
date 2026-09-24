@@ -1,0 +1,20 @@
+{
+    "name": "挂钩",
+    "icon": "butchery:hook",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:hook",
+            "link_recipe": true,
+            "title": "挂钩",
+            "text": "§d挂钩§0是屠宰尸体的§m必备§r工具（你也可以用吊绳）。$(br2)需要使用它悬挂尸体，才能进行放血并开启屠宰流程。$(br2)挂钩可放置在方块侧面或底部，也能安装在横向铁链上。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:hookrecipe"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "displayedoars",
+  "category": "building",
+  "pattern": [
+    "a a",
+    " b ",
+    "c c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wooden_shovel"
+    },
+    "b": {
+      "item": "dustydecorations:rope"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:displayed_oars",
+    "count": 1
+  }
+}

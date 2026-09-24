@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/plushefe",
+  "textures": {
+    "all": "dustydecorations:block/efeplush",
+    "particle": "dustydecorations:block/efeplush",
+    "0": "dustydecorations:block/efeplush"
+  },
+  "render_type": "cutout"
+}

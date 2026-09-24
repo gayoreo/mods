@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 500,
+  "ingredient": {
+    "item": "simple_mobs:firedragon_heart"
+  },
+  "result": "simple_mobs:fire_dragon_essence"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cold_ocean",
+    "deep_cold_ocean",
+    "deep_frozen_ocean",
+    "deep_lukewarm_ocean",
+    "frozen_ocean",
+    "lukewarm_ocean",
+    "warm_ocean",
+    "desert",
+    "mangrove_swamp",
+    "swamp",
+    "stony_shore",
+    "beach",
+    "snowy_beach"
+  ],
+  "features": "dustydecorations:deepslate_embedded_fish_fossil",
+  "step": "underground_ores"
+}

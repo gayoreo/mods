@@ -1,0 +1,252 @@
+{
+  "mappings": {
+    "org/ladysnake/effective/ambience/mixin/AmbienceClientWorldMixin": {
+      "tick": "Lnet/minecraft/class_638;method_8441(Ljava/util/function/BooleanSupplier;)V"
+    },
+    "org/ladysnake/effective/core/mixin/ParticleSpawningClientWorldMixin": {
+      "Lnet/minecraft/world/biome/Biome;getParticleConfig()Ljava/util/Optional;": "Lnet/minecraft/class_1959;method_24378()Ljava/util/Optional;",
+      "randomBlockDisplayTick": "Lnet/minecraft/class_638;method_2943(IIIILnet/minecraft/class_5819;Lnet/minecraft/class_2248;Lnet/minecraft/class_2338$class_2339;)V"
+    },
+    "org/ladysnake/effective/core/mixin/RandomDisplayTickBlockMixin": {
+      "randomDisplayTick": "Lnet/minecraft/class_2248;method_9496(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "org/ladysnake/effective/core/mixin/allays/AllayPositionTracker": {
+      "tick": "Lnet/minecraft/class_7298;method_5773()V"
+    },
+    "org/ladysnake/effective/core/mixin/allays/AllayTrailRenderer": {
+      "render(Lnet/minecraft/entity/LivingEntity;FFLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;I)V": "Lnet/minecraft/class_922;method_4054(Lnet/minecraft/class_1309;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+    },
+    "org/ladysnake/effective/core/mixin/allays/GoldenAllayTextureSwapper": {
+      "getTexture(Lnet/minecraft/entity/passive/AllayEntity;)Lnet/minecraft/util/Identifier;": "Lnet/minecraft/class_7310;method_42744(Lnet/minecraft/class_7298;)Lnet/minecraft/class_2960;"
+    },
+    "org/ladysnake/effective/core/mixin/chest_bubbles/UnderwaterChestRandomOpener": {
+      "clientTick": "Lnet/minecraft/class_2595;method_31670(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_2595;)V"
+    },
+    "org/ladysnake/effective/core/mixin/chest_bubbles/UnderwaterEnderChestRandomOpener": {
+      "clientTick": "Lnet/minecraft/class_2611;method_31689(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_2611;)V"
+    },
+    "org/ladysnake/effective/core/mixin/chest_bubbles/UnderwaterOpenChestBubbleSpawner": {
+      "clientTick": "Lnet/minecraft/class_2595;method_31670(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_2595;)V"
+    },
+    "org/ladysnake/effective/core/mixin/chest_bubbles/UnderwaterOpenEnderChestBubbleSpawner": {
+      "clientTick": "Lnet/minecraft/class_2611;method_31689(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_2611;)V"
+    },
+    "org/ladysnake/effective/core/mixin/choruspetals/BrokenChorusFlowerPetalSpawner": {
+      "addBlockBreakParticles": "Lnet/minecraft/class_702;method_3046(Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V"
+    },
+    "org/ladysnake/effective/core/mixin/feedbacking/FeedbackingParryFireballEffect": {
+      "attack": "Lnet/minecraft/class_1657;method_7324(Lnet/minecraft/class_1297;)V"
+    },
+    "org/ladysnake/effective/core/mixin/fireballs/DragonBreathRendererSwapper": {
+      "Lnet/minecraft/world/World;addImportantParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8494(Lnet/minecraft/class_2394;DDDDDD)V",
+      "tick": "Lnet/minecraft/class_1295;method_5773()V"
+    },
+    "org/ladysnake/effective/core/mixin/fireballs/DragonFireballRendererSwapper": {
+      "render(Lnet/minecraft/entity/projectile/DragonFireballEntity;FFLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;I)V": "Lnet/minecraft/class_891;method_3906(Lnet/minecraft/class_1670;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+    },
+    "org/ladysnake/effective/core/mixin/fireballs/FireballRendererSwapper": {
+      "render": "Lnet/minecraft/class_953;method_3936(Lnet/minecraft/class_1297;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+    },
+    "org/ladysnake/effective/core/mixin/fireballs/FireballSmokeDisabler": {
+      "Lnet/minecraft/world/World;addParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8406(Lnet/minecraft/class_2394;DDDDDD)V",
+      "tick": "Lnet/minecraft/class_1668;method_5773()V"
+    },
+    "org/ladysnake/effective/core/mixin/fireballs/FireballVisualFireDisabler": {
+      "doesRenderOnFire": "Lnet/minecraft/class_1297;method_5862()Z"
+    },
+    "org/ladysnake/effective/core/mixin/fireballs/LandingFlamingRendererSwapper": {
+      "Lnet/minecraft/world/World;addParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8406(Lnet/minecraft/class_2394;DDDDDD)V",
+      "clientTick": "Lnet/minecraft/class_1518;method_6853()V"
+    },
+    "org/ladysnake/effective/core/mixin/fireballs/SittingFlamingRendererSwapper": {
+      "Lnet/minecraft/world/World;addParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8406(Lnet/minecraft/class_2394;DDDDDD)V",
+      "clientTick": "Lnet/minecraft/class_1523;method_6853()V"
+    },
+    "org/ladysnake/effective/core/mixin/glowsquids/GlowsquidParticleEffectSwapper": {
+      "Lnet/minecraft/world/World;addParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8406(Lnet/minecraft/class_2394;DDDDDD)V",
+      "tickMovement": "Lnet/minecraft/class_5776;method_6007()V"
+    },
+    "org/ladysnake/effective/core/mixin/glowsquids/HypnotizingGlowSquidsAdder": {
+      "setupTransforms(Lnet/minecraft/entity/passive/SquidEntity;Lnet/minecraft/client/util/math/MatrixStack;FFF)V": "Lnet/minecraft/class_951;method_4126(Lnet/minecraft/class_1477;Lnet/minecraft/class_4587;FFF)V"
+    },
+    "org/ladysnake/effective/core/mixin/glowsquids/JebGlowSquidRainbowRenderer": {
+      "getRenderLayer": "Lnet/minecraft/class_922;method_24302(Lnet/minecraft/class_1309;ZZZ)Lnet/minecraft/class_1921;"
+    },
+    "org/ladysnake/effective/core/mixin/glowsquids/RainbowShaderRenderLayerSwapper": {
+      "Lnet/minecraft/client/render/VertexConsumerProvider;getBuffer(Lnet/minecraft/client/render/RenderLayer;)Lnet/minecraft/client/render/VertexConsumer;": "Lnet/minecraft/class_4597;getBuffer(Lnet/minecraft/class_1921;)Lnet/minecraft/class_4588;",
+      "renderModel": "Lnet/minecraft/class_3887;method_23199(Lnet/minecraft/class_583;Lnet/minecraft/class_2960;Lnet/minecraft/class_4587;Lnet/minecraft/class_4597;ILnet/minecraft/class_1309;FFF)V"
+    },
+    "org/ladysnake/effective/core/mixin/screenshake/EnderDragonRoarScreenshakeAdder": {
+      "clientTick": "Lnet/minecraft/class_1520;method_6853()V"
+    },
+    "org/ladysnake/effective/core/mixin/screenshake/RavagerRoarScreenshakeAdder": {
+      "roar": "Lnet/minecraft/class_1584;method_7071()V"
+    },
+    "org/ladysnake/effective/core/mixin/screenshake/SonicBoomScreenshakeAdder": {
+      "keepRunning(Lnet/minecraft/server/world/ServerWorld;Lnet/minecraft/entity/mob/WardenEntity;J)V": "Lnet/minecraft/class_7396;method_43268(Lnet/minecraft/class_3218;Lnet/minecraft/class_7260;J)V"
+    },
+    "org/ladysnake/effective/core/mixin/screenshake/WardenRoarScreenshakeAdder": {
+      "tick": "Lnet/minecraft/class_7260;method_5773()V"
+    },
+    "org/ladysnake/effective/core/mixin/sculk/SculkBlockDustSpawner": {
+      "randomDisplayTick": "Lnet/minecraft/class_2248;method_9496(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+    },
+    "org/ladysnake/effective/core/mixin/spectral_arrows/SpectralArrowEmissiveEnforcer": {
+      "getBlockLight": "Lnet/minecraft/class_897;method_24087(Lnet/minecraft/class_1297;Lnet/minecraft/class_2338;)I"
+    },
+    "org/ladysnake/effective/core/mixin/spectral_arrows/SpectralArrowPositionTrackerAndParticleRemover": {
+      "Lnet/minecraft/world/World;addParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8406(Lnet/minecraft/class_2394;DDDDDD)V",
+      "tick": "Lnet/minecraft/class_1679;method_5773()V"
+    },
+    "org/ladysnake/effective/core/mixin/spectral_arrows/SpectralArrowTrailRenderer": {
+      "render(Lnet/minecraft/entity/projectile/PersistentProjectileEntity;FFLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;I)V": "Lnet/minecraft/class_876;method_3875(Lnet/minecraft/class_1665;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+    },
+    "org/ladysnake/effective/core/mixin/water/EntitySplashMixin": {
+      "onSwimmingStart": "Lnet/minecraft/class_1297;method_5746()V"
+    },
+    "org/ladysnake/effective/core/mixin/water/RippleAndFlowingWaterSplashesSpawner": {
+      "randomDisplayTick": "Lnet/minecraft/class_3621;method_15776(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_3610;Lnet/minecraft/class_5819;)V"
+    },
+    "org/ladysnake/effective/core/mixin/water/WaterfallCloudSpawner": {
+      "setBlockState(Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;II)Z": "Lnet/minecraft/class_1937;method_30092(Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;II)Z"
+    },
+    "org/ladysnake/effective/core/mixin/water/WaterfallGeneratorAdder": {
+      "render": "Lnet/minecraft/class_775;method_3347(Lnet/minecraft/class_1920;Lnet/minecraft/class_2338;Lnet/minecraft/class_4588;Lnet/minecraft/class_2680;Lnet/minecraft/class_3610;)V"
+    },
+    "org/ladysnake/effective/core/mixin/water/WaterfallGeneratorTicker": {
+      "getStateForNeighborUpdate": "Lnet/minecraft/class_4970;method_9559(Lnet/minecraft/class_2680;Lnet/minecraft/class_2350;Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;)Lnet/minecraft/class_2680;"
+    },
+    "org/ladysnake/effective/core/mixin/water/integration/sodium/SodiumWaterfallGeneratorAdder": {
+      "render": "Lme/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer;render(Lme/jellysquid/mods/sodium/client/world/WorldSlice;Lnet/minecraft/class_3610;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;Lme/jellysquid/mods/sodium/client/render/chunk/compile/ChunkBuildBuffers;)V"
+    },
+    "org/ladysnake/effective/cosmetics/mixin/AuraAndPetSpawner": {
+      "tick": "Lnet/minecraft/class_1657;method_5773()V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "org/ladysnake/effective/ambience/mixin/AmbienceClientWorldMixin": {
+        "tick": "Lnet/minecraft/class_638;method_8441(Ljava/util/function/BooleanSupplier;)V"
+      },
+      "org/ladysnake/effective/core/mixin/ParticleSpawningClientWorldMixin": {
+        "Lnet/minecraft/world/biome/Biome;getParticleConfig()Ljava/util/Optional;": "Lnet/minecraft/class_1959;method_24378()Ljava/util/Optional;",
+        "randomBlockDisplayTick": "Lnet/minecraft/class_638;method_2943(IIIILnet/minecraft/class_5819;Lnet/minecraft/class_2248;Lnet/minecraft/class_2338$class_2339;)V"
+      },
+      "org/ladysnake/effective/core/mixin/RandomDisplayTickBlockMixin": {
+        "randomDisplayTick": "Lnet/minecraft/class_2248;method_9496(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "org/ladysnake/effective/core/mixin/allays/AllayPositionTracker": {
+        "tick": "Lnet/minecraft/class_7298;method_5773()V"
+      },
+      "org/ladysnake/effective/core/mixin/allays/AllayTrailRenderer": {
+        "render(Lnet/minecraft/entity/LivingEntity;FFLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;I)V": "Lnet/minecraft/class_922;method_4054(Lnet/minecraft/class_1309;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+      },
+      "org/ladysnake/effective/core/mixin/allays/GoldenAllayTextureSwapper": {
+        "getTexture(Lnet/minecraft/entity/passive/AllayEntity;)Lnet/minecraft/util/Identifier;": "Lnet/minecraft/class_7310;method_42744(Lnet/minecraft/class_7298;)Lnet/minecraft/class_2960;"
+      },
+      "org/ladysnake/effective/core/mixin/chest_bubbles/UnderwaterChestRandomOpener": {
+        "clientTick": "Lnet/minecraft/class_2595;method_31670(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_2595;)V"
+      },
+      "org/ladysnake/effective/core/mixin/chest_bubbles/UnderwaterEnderChestRandomOpener": {
+        "clientTick": "Lnet/minecraft/class_2611;method_31689(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_2611;)V"
+      },
+      "org/ladysnake/effective/core/mixin/chest_bubbles/UnderwaterOpenChestBubbleSpawner": {
+        "clientTick": "Lnet/minecraft/class_2595;method_31670(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_2595;)V"
+      },
+      "org/ladysnake/effective/core/mixin/chest_bubbles/UnderwaterOpenEnderChestBubbleSpawner": {
+        "clientTick": "Lnet/minecraft/class_2611;method_31689(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;Lnet/minecraft/class_2611;)V"
+      },
+      "org/ladysnake/effective/core/mixin/choruspetals/BrokenChorusFlowerPetalSpawner": {
+        "addBlockBreakParticles": "Lnet/minecraft/class_702;method_3046(Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;)V"
+      },
+      "org/ladysnake/effective/core/mixin/feedbacking/FeedbackingParryFireballEffect": {
+        "attack": "Lnet/minecraft/class_1657;method_7324(Lnet/minecraft/class_1297;)V"
+      },
+      "org/ladysnake/effective/core/mixin/fireballs/DragonBreathRendererSwapper": {
+        "Lnet/minecraft/world/World;addImportantParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8494(Lnet/minecraft/class_2394;DDDDDD)V",
+        "tick": "Lnet/minecraft/class_1295;method_5773()V"
+      },
+      "org/ladysnake/effective/core/mixin/fireballs/DragonFireballRendererSwapper": {
+        "render(Lnet/minecraft/entity/projectile/DragonFireballEntity;FFLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;I)V": "Lnet/minecraft/class_891;method_3906(Lnet/minecraft/class_1670;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+      },
+      "org/ladysnake/effective/core/mixin/fireballs/FireballRendererSwapper": {
+        "render": "Lnet/minecraft/class_953;method_3936(Lnet/minecraft/class_1297;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+      },
+      "org/ladysnake/effective/core/mixin/fireballs/FireballSmokeDisabler": {
+        "Lnet/minecraft/world/World;addParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8406(Lnet/minecraft/class_2394;DDDDDD)V",
+        "tick": "Lnet/minecraft/class_1668;method_5773()V"
+      },
+      "org/ladysnake/effective/core/mixin/fireballs/FireballVisualFireDisabler": {
+        "doesRenderOnFire": "Lnet/minecraft/class_1297;method_5862()Z"
+      },
+      "org/ladysnake/effective/core/mixin/fireballs/LandingFlamingRendererSwapper": {
+        "Lnet/minecraft/world/World;addParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8406(Lnet/minecraft/class_2394;DDDDDD)V",
+        "clientTick": "Lnet/minecraft/class_1518;method_6853()V"
+      },
+      "org/ladysnake/effective/core/mixin/fireballs/SittingFlamingRendererSwapper": {
+        "Lnet/minecraft/world/World;addParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8406(Lnet/minecraft/class_2394;DDDDDD)V",
+        "clientTick": "Lnet/minecraft/class_1523;method_6853()V"
+      },
+      "org/ladysnake/effective/core/mixin/glowsquids/GlowsquidParticleEffectSwapper": {
+        "Lnet/minecraft/world/World;addParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8406(Lnet/minecraft/class_2394;DDDDDD)V",
+        "tickMovement": "Lnet/minecraft/class_5776;method_6007()V"
+      },
+      "org/ladysnake/effective/core/mixin/glowsquids/HypnotizingGlowSquidsAdder": {
+        "setupTransforms(Lnet/minecraft/entity/passive/SquidEntity;Lnet/minecraft/client/util/math/MatrixStack;FFF)V": "Lnet/minecraft/class_951;method_4126(Lnet/minecraft/class_1477;Lnet/minecraft/class_4587;FFF)V"
+      },
+      "org/ladysnake/effective/core/mixin/glowsquids/JebGlowSquidRainbowRenderer": {
+        "getRenderLayer": "Lnet/minecraft/class_922;method_24302(Lnet/minecraft/class_1309;ZZZ)Lnet/minecraft/class_1921;"
+      },
+      "org/ladysnake/effective/core/mixin/glowsquids/RainbowShaderRenderLayerSwapper": {
+        "Lnet/minecraft/client/render/VertexConsumerProvider;getBuffer(Lnet/minecraft/client/render/RenderLayer;)Lnet/minecraft/client/render/VertexConsumer;": "Lnet/minecraft/class_4597;getBuffer(Lnet/minecraft/class_1921;)Lnet/minecraft/class_4588;",
+        "renderModel": "Lnet/minecraft/class_3887;method_23199(Lnet/minecraft/class_583;Lnet/minecraft/class_2960;Lnet/minecraft/class_4587;Lnet/minecraft/class_4597;ILnet/minecraft/class_1309;FFF)V"
+      },
+      "org/ladysnake/effective/core/mixin/screenshake/EnderDragonRoarScreenshakeAdder": {
+        "clientTick": "Lnet/minecraft/class_1520;method_6853()V"
+      },
+      "org/ladysnake/effective/core/mixin/screenshake/RavagerRoarScreenshakeAdder": {
+        "roar": "Lnet/minecraft/class_1584;method_7071()V"
+      },
+      "org/ladysnake/effective/core/mixin/screenshake/SonicBoomScreenshakeAdder": {
+        "keepRunning(Lnet/minecraft/server/world/ServerWorld;Lnet/minecraft/entity/mob/WardenEntity;J)V": "Lnet/minecraft/class_7396;method_43268(Lnet/minecraft/class_3218;Lnet/minecraft/class_7260;J)V"
+      },
+      "org/ladysnake/effective/core/mixin/screenshake/WardenRoarScreenshakeAdder": {
+        "tick": "Lnet/minecraft/class_7260;method_5773()V"
+      },
+      "org/ladysnake/effective/core/mixin/sculk/SculkBlockDustSpawner": {
+        "randomDisplayTick": "Lnet/minecraft/class_2248;method_9496(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_5819;)V"
+      },
+      "org/ladysnake/effective/core/mixin/spectral_arrows/SpectralArrowEmissiveEnforcer": {
+        "getBlockLight": "Lnet/minecraft/class_897;method_24087(Lnet/minecraft/class_1297;Lnet/minecraft/class_2338;)I"
+      },
+      "org/ladysnake/effective/core/mixin/spectral_arrows/SpectralArrowPositionTrackerAndParticleRemover": {
+        "Lnet/minecraft/world/World;addParticle(Lnet/minecraft/particle/ParticleEffect;DDDDDD)V": "Lnet/minecraft/class_1937;method_8406(Lnet/minecraft/class_2394;DDDDDD)V",
+        "tick": "Lnet/minecraft/class_1679;method_5773()V"
+      },
+      "org/ladysnake/effective/core/mixin/spectral_arrows/SpectralArrowTrailRenderer": {
+        "render(Lnet/minecraft/entity/projectile/PersistentProjectileEntity;FFLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;I)V": "Lnet/minecraft/class_876;method_3875(Lnet/minecraft/class_1665;FFLnet/minecraft/class_4587;Lnet/minecraft/class_4597;I)V"
+      },
+      "org/ladysnake/effective/core/mixin/water/EntitySplashMixin": {
+        "onSwimmingStart": "Lnet/minecraft/class_1297;method_5746()V"
+      },
+      "org/ladysnake/effective/core/mixin/water/RippleAndFlowingWaterSplashesSpawner": {
+        "randomDisplayTick": "Lnet/minecraft/class_3621;method_15776(Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_3610;Lnet/minecraft/class_5819;)V"
+      },
+      "org/ladysnake/effective/core/mixin/water/WaterfallCloudSpawner": {
+        "setBlockState(Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/BlockState;II)Z": "Lnet/minecraft/class_1937;method_30092(Lnet/minecraft/class_2338;Lnet/minecraft/class_2680;II)Z"
+      },
+      "org/ladysnake/effective/core/mixin/water/WaterfallGeneratorAdder": {
+        "render": "Lnet/minecraft/class_775;method_3347(Lnet/minecraft/class_1920;Lnet/minecraft/class_2338;Lnet/minecraft/class_4588;Lnet/minecraft/class_2680;Lnet/minecraft/class_3610;)V"
+      },
+      "org/ladysnake/effective/core/mixin/water/WaterfallGeneratorTicker": {
+        "getStateForNeighborUpdate": "Lnet/minecraft/class_4970;method_9559(Lnet/minecraft/class_2680;Lnet/minecraft/class_2350;Lnet/minecraft/class_2680;Lnet/minecraft/class_1936;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;)Lnet/minecraft/class_2680;"
+      },
+      "org/ladysnake/effective/core/mixin/water/integration/sodium/SodiumWaterfallGeneratorAdder": {
+        "render": "Lme/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer;render(Lme/jellysquid/mods/sodium/client/world/WorldSlice;Lnet/minecraft/class_3610;Lnet/minecraft/class_2338;Lnet/minecraft/class_2338;Lme/jellysquid/mods/sodium/client/render/chunk/compile/ChunkBuildBuffers;)V"
+      },
+      "org/ladysnake/effective/cosmetics/mixin/AuraAndPetSpawner": {
+        "tick": "Lnet/minecraft/class_1657;method_5773()V"
+      }
+    }
+  }
+}

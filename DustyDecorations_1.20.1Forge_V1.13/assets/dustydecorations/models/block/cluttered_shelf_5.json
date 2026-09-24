@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/cluttered_shelf5",
+  "textures": {
+    "all": "dustydecorations:block/cluttered_shelf_items4",
+    "particle": "dustydecorations:block/cluttered_shelf_items4",
+    "0": "dustydecorations:block/cluttered_shelf",
+    "1": "dustydecorations:block/cluttered_shelf_items5"
+  },
+  "render_type": "cutout"
+}

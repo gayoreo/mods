@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wintergarland",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "cac"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:spruce_leaves"
+    },
+    "b": {
+      "tag": "c:ropes"
+    },
+    "c": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:winter_garland",
+    "count": 9
+  }
+}

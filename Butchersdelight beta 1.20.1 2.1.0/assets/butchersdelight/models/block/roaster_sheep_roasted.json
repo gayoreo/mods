@@ -1,0 +1,11 @@
+{
+  "parent": "butchersdelight:custom/roastedsheep",
+  "textures": {
+    "all": "butchersdelight:block/roastedsheep",
+    "particle": "butchersdelight:block/dead_sheep_roasted",
+    "0": "butchersdelight:block/oak_log",
+    "1": "butchersdelight:block/stripped_oak_log",
+    "2": "butchersdelight:block/dead_sheep_roasted"
+  },
+  "render_type": "solid"
+}

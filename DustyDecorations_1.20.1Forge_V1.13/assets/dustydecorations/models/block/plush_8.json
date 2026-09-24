@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/plushsunny",
+  "textures": {
+    "all": "dustydecorations:block/sunnyplush",
+    "particle": "dustydecorations:block/sunnyplush",
+    "0": "dustydecorations:block/sunnyplush"
+  },
+  "render_type": "cutout"
+}

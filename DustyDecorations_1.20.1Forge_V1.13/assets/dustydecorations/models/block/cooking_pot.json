@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/cooking_pot",
+  "textures": {
+    "all": "dustydecorations:block/cooking_pot",
+    "particle": "dustydecorations:block/cooking_pot",
+    "0": "dustydecorations:block/cooking_pot"
+  },
+  "render_type": "solid"
+}

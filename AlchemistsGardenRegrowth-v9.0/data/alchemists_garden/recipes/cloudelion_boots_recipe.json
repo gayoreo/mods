@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:shulker_shell"
+    },
+    "3": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "4": {
+      "item": "minecraft:iron_boots"
+    },
+    "5": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "6": {
+      "item": "alchemists_garden:cloudelion"
+    },
+    "8": {
+      "item": "alchemists_garden:cloudelion"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:cloudelion_boots_boots",
+    "count": 1
+  }
+}

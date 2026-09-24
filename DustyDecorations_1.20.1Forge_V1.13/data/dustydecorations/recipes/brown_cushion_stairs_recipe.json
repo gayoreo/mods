@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "browncushionstairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:brown_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:brown_cushion_stairs",
+    "count": 6
+  }
+}

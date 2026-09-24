@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "beetrootscarecrowrecipe",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:burlap"
+    },
+    "b": {
+      "item": "dustydecorations:carved_beet"
+    },
+    "c": {
+      "item": "minecraft:wheat"
+    },
+    "d": {
+      "tag": "minecraft:wool"
+    },
+    "e": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:beetroot_scarewcrow",
+    "count": 1
+  }
+}

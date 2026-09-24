@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "alchemists_garden:block/acidball",
+    "top": "alchemists_garden:block/acidball",
+    "side": "alchemists_garden:block/acidball"
+  },
+  "render_type": "solid"
+}

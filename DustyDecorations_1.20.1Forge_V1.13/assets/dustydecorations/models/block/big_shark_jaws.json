@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/bigsharkjaws",
+  "textures": {
+    "all": "dustydecorations:block/smallsharkjaws",
+    "particle": "dustydecorations:block/smallsharkjaws",
+    "sharkjaws": "dustydecorations:block/sharkjaws",
+    "sharkjawsreverse": "dustydecorations:block/sharkjawsreverse"
+  },
+  "render_type": "cutout"
+}

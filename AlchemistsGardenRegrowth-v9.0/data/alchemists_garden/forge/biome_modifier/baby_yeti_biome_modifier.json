@@ -1,0 +1,16 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "snowy_plains",
+    "ice_spikes",
+    "snowy_slopes",
+    "snowy_taiga",
+    "snowy_beach"
+  ],
+  "spawners": {
+    "type": "alchemists_garden:baby_yeti",
+    "weight": 16,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

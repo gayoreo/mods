@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "simple_mobs:imp_scale"
+    },
+    "1": {
+      "item": "simple_mobs:imp_scale"
+    },
+    "2": {
+      "item": "simple_mobs:imp_scale"
+    },
+    "3": {
+      "item": "simple_mobs:imp_scale"
+    },
+    "4": {
+      "item": "minecraft:lapis_block"
+    },
+    "5": {
+      "item": "simple_mobs:imp_scale"
+    },
+    "6": {
+      "item": "simple_mobs:imp_scale"
+    },
+    "7": {
+      "item": "simple_mobs:imp_scale"
+    },
+    "8": {
+      "item": "simple_mobs:imp_scale"
+    }
+  },
+  "result": {
+    "item": "simple_mobs:imp_guard_creator",
+    "count": 1
+  }
+}

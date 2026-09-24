@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/moviecamerainnactive",
+  "textures": {
+    "all": "dustydecorations:block/moviecamera",
+    "particle": "dustydecorations:block/moviecamera",
+    "0": "dustydecorations:block/moviecamera"
+  },
+  "render_type": "cutout"
+}

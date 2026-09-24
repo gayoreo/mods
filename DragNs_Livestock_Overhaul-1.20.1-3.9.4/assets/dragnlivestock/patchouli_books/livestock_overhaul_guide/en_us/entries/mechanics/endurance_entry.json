@@ -1,0 +1,11 @@
+{
+  "name": "Endurance & Sprinting",
+  "icon": "minecraft:saddle",
+  "category": "dragnlivestock:mechanics_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Equines, such as Horses, Mules, and Donkeys have Sprint Modifiers. A horse's breed determines how long it can run at full speed. You can see how much sprint your horse has left via the Sprint HUD to the right of your hotbar."
+    }
+  ]
+}

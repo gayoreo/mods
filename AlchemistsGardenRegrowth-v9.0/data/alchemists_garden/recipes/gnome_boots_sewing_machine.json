@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "2": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "3": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    },
+    "4": {
+      "item": "alchemists_garden:gnomish_sewing_machine"
+    },
+    "5": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    },
+    "6": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    },
+    "8": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:gnome_boots_boots",
+    "count": 1
+  }
+}

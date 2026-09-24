@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "alchemists_garden:glow_fungus",
+  "step": "vegetal_decoration"
+}

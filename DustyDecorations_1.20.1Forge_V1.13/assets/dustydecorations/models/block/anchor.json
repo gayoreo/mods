@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/anchor",
+  "textures": {
+    "all": "dustydecorations:block/anchor",
+    "particle": "dustydecorations:block/anchor",
+    "0": "dustydecorations:block/anchor"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sea_glass_pane",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:scarlett_seaglass"
+    },
+    {
+      "item": "dustydecorations:scarlett_seaglass"
+    }
+  ],
+  "result": {
+    "item": "dustydecorations:scarlett_seaglass_pane",
+    "count": 4
+  }
+}

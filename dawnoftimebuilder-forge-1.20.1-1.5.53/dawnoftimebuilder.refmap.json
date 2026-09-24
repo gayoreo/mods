@@ -1,0 +1,32 @@
+{
+  "mappings": {
+    "org/dawnoftime/dawnoftime/mixin/impl/client/CreativeInventoryMixin": {
+      "init": "Lnet/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen;m_7856_()V",
+      "selectTab": "Lnet/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen;m_98560_(Lnet/minecraft/world/item/CreativeModeTab;)V",
+      "mouseScrolled": "Lnet/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen;m_6050_(DDD)Z",
+      "render": "Lnet/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen;m_88315_(Lnet/minecraft/client/gui/GuiGraphics;IIF)V"
+    },
+    "org/dawnoftime/dawnoftime/mixin/impl/BucketItemAccessor": {
+      "content": "f_40687_:Lnet/minecraft/world/level/material/Fluid;"
+    },
+    "org/dawnoftime/dawnoftime/mixin/impl/MixinStateDefinitionBuilder": {
+      "add": "Lnet/minecraft/world/level/block/state/StateDefinition$Builder;m_61104_([Lnet/minecraft/world/level/block/state/properties/Property;)Lnet/minecraft/world/level/block/state/StateDefinition$Builder;"
+    }
+  },
+  "data": {
+    "searge": {
+      "org/dawnoftime/dawnoftime/mixin/impl/client/CreativeInventoryMixin": {
+        "init": "Lnet/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen;m_7856_()V",
+        "selectTab": "Lnet/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen;m_98560_(Lnet/minecraft/world/item/CreativeModeTab;)V",
+        "mouseScrolled": "Lnet/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen;m_6050_(DDD)Z",
+        "render": "Lnet/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen;m_88315_(Lnet/minecraft/client/gui/GuiGraphics;IIF)V"
+      },
+      "org/dawnoftime/dawnoftime/mixin/impl/BucketItemAccessor": {
+        "content": "f_40687_:Lnet/minecraft/world/level/material/Fluid;"
+      },
+      "org/dawnoftime/dawnoftime/mixin/impl/MixinStateDefinitionBuilder": {
+        "add": "Lnet/minecraft/world/level/block/state/StateDefinition$Builder;m_61104_([Lnet/minecraft/world/level/block/state/properties/Property;)Lnet/minecraft/world/level/block/state/StateDefinition$Builder;"
+      }
+    }
+  }
+}

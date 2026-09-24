@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "simple_mobs:cavefragment"
+    },
+    {
+      "item": "simple_mobs:cavefragment"
+    },
+    {
+      "item": "simple_mobs:cavefragment"
+    }
+  ],
+  "result": {
+    "item": "simple_mobs:largecavefragment",
+    "count": 1
+  }
+}

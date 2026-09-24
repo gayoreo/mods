@@ -1,0 +1,7 @@
+{
+  "type": "caupona:cooking",
+  "density": 0.0,
+  "output": "caupona:dilute_soup",
+  "priority": -2,
+  "time": 200
+}

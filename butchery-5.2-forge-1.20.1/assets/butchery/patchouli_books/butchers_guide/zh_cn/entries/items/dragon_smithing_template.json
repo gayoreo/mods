@@ -1,0 +1,20 @@
+{
+    "name": "龙纹锻造模板",
+    "icon": "butchery:dragon_smithing_template",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 10,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:dragon_smithing_template",
+            "link_recipe": true,
+            "title": "龙纹锻造模板",
+            "text": "§d龙纹锻造模板§0是将下界合金护甲升级为$(l:butchery:equipment/dragon_scale_armor)龙鳞护甲$()的必备材料。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:dragonsmithingtemplaterecipe"
+        }
+    ]
+}

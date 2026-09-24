@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Specification-Title: cold_sweat
+Specification-Vendor: Mikul
+Specification-Version: 1
+Implementation-Title: coldsweat
+Implementation-Version: 2.4.3.2
+Implementation-Vendor: Mikul
+Implementation-Timestamp: 2026-09-17T17:57:19-0400
+TweakerClass: org.spongepowered.asm.launch.MixinTweaker
+TweakOrder: 0
+MixinConfigs: cold_sweat.mixin.json
+

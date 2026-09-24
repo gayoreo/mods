@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "booksdusty",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:books",
+    "count": 2
+  }
+}

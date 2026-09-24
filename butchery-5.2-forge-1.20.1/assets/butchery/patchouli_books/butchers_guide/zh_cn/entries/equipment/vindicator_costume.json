@@ -1,0 +1,16 @@
+{
+    "name": "卫道士套装",
+    "icon": "butchery:vindicatorarmor_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:vindicatorarmor_chestplate",
+            "link_recipe": true,
+            "title": "卫道士套装",
+            "text": "屠宰卫道士可获得卫道士套装，该套装仅为装饰用途。$(br2)可在合成台将其与剁肉刀或剥皮刀组合进行回收。"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorativebowl",
+  "category": "building",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:decorative_bowl",
+    "count": 1
+  }
+}

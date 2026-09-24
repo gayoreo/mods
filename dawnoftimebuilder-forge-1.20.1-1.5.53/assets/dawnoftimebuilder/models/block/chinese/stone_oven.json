@@ -1,0 +1,210 @@
+{
+	"format_version": "1.9.0",
+	"ambientocclusion": true,
+	"render_type": "minecraft:cutout",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "dawnoftimebuilder:block/stone_oven",
+		"particle": "dawnoftimebuilder:block/stone_oven"
+	},
+	"elements": [
+		{
+			"name": "Backwall",
+			"from": [4, 0, 12],
+			"to": [12, 16, 16],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, -3, 12]},
+			"faces": {
+				"north": {"uv": [5, 4, 7, 8], "texture": "#1"},
+				"south": {"uv": [1, 4, 3, 8], "texture": "#1"},
+				"up": {"uv": [12, 13, 10, 12], "texture": "#1"},
+				"down": {"uv": [7, 4.25, 5, 5.25], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Frontwall",
+			"from": [4, 11, 1],
+			"to": [12, 16, 4],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 0]},
+			"faces": {
+				"north": {"uv": [3, 11.5, 5, 12.75], "texture": "#1"},
+				"up": {"uv": [15, 13.75, 13, 13], "texture": "#1"},
+				"down": {"uv": [4, 10.75, 6, 10], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Bottom",
+			"from": [4, 0, 0],
+			"to": [12, 1, 12],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, -3]},
+			"faces": {
+				"north": {"uv": [10, 14, 12, 14.25], "texture": "#1"},
+				"up": {"uv": [6, 10.75, 4, 7.75], "texture": "#1"},
+				"down": {"uv": [10, 1, 8, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Leftwall",
+			"from": [12, 0, 0],
+			"to": [16, 16, 16],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 0, 0]},
+			"faces": {
+				"north": {"uv": [10.5, 8, 11.5, 12], "texture": "#1"},
+				"east": {"uv": [0, 4, 4, 8], "texture": "#1"},
+				"south": {"uv": [11, 0, 12, 4], "texture": "#1"},
+				"west": {"uv": [4, 4, 8, 8], "texture": "#1"},
+				"up": {"uv": [6, 14.5, 7, 10.5], "texture": "#1"},
+				"down": {"uv": [9, 11.5, 8, 15.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Leftwall",
+			"from": [0, 0, 0],
+			"to": [4, 16, 16],
+			"shade": true,
+			"faces": {
+				"north": {"uv": [10.5, 8, 11.5, 12], "texture": "#1"},
+				"east": {"uv": [8, 4, 4, 8], "texture": "#1"},
+				"south": {"uv": [10, 0, 11, 4], "texture": "#1"},
+				"west": {"uv": [4, 4, 0, 8], "texture": "#1"},
+				"up": {"uv": [7, 14.5, 6, 10.5], "texture": "#1"},
+				"down": {"uv": [9, 11.5, 8, 15.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Log",
+			"from": [4, 1, 4],
+			"to": [8, 5, 12],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 1, 4]},
+			"faces": {
+				"north": {"uv": [14, 1, 15, 2], "texture": "#1"},
+				"up": {"uv": [13, 3, 15, 4], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Log",
+			"from": [8, 5, 4],
+			"to": [12, 9, 12],
+			"shade": true,
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8, 5, 4]},
+			"faces": {
+				"north": {"uv": [14, 1, 15, 2], "texture": "#1"},
+				"west": {"uv": [13, 3, 15, 4], "texture": "#1"},
+				"up": {"uv": [13, 3, 15, 4], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Log",
+			"from": [8, 1, 4],
+			"to": [12, 5, 12],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 4]},
+			"faces": {
+				"north": {"uv": [13, 1, 14, 2], "texture": "#1"},
+				"up": {"uv": [13, 2, 15, 3], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Metaltop",
+			"from": [4, 14, 4],
+			"to": [12, 16, 12],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 14, 4]},
+			"faces": {
+				"up": {"uv": [8.25, 4.25, 10.25, 6.25], "texture": "#1"},
+				"down": {"uv": [8.25, 4.25, 10.25, 6.25], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Metaltop",
+			"from": [3, 15, 3],
+			"to": [4, 18, 13],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 14, 4]},
+			"faces": {
+				"north": {"uv": [12, 0, 12.25, 0.75], "texture": "#1"},
+				"east": {"uv": [12, 0, 14.5, 0.75], "texture": "#1"},
+				"south": {"uv": [12, 0, 12.25, 0.75], "texture": "#1"},
+				"west": {"uv": [12, 0, 14.5, 0.75], "texture": "#1"},
+				"up": {"uv": [12, 0, 14.5, 0.25], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Metaltop",
+			"from": [12, 15, 3],
+			"to": [13, 18, 13],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 14, 4]},
+			"faces": {
+				"north": {"uv": [12, 0, 12.25, 0.75], "texture": "#1"},
+				"east": {"uv": [12, 0, 14.5, 0.75], "texture": "#1"},
+				"south": {"uv": [12, 0, 12.25, 0.75], "texture": "#1"},
+				"west": {"uv": [12, 0, 14.5, 0.75], "texture": "#1"},
+				"up": {"uv": [12, 0, 14.5, 0.25], "rotation": 90, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Metaltop",
+			"from": [4, 15, 3],
+			"to": [12, 18, 4],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 14, 4]},
+			"faces": {
+				"north": {"uv": [12.25, 0, 14.25, 0.75], "texture": "#1"},
+				"south": {"uv": [12.25, 0, 14.25, 0.75], "texture": "#1"},
+				"up": {"uv": [12.25, 0, 14.25, 0.25], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Metaltop",
+			"from": [4, 15, 12],
+			"to": [12, 18, 13],
+			"shade": true,
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 14, 13]},
+			"faces": {
+				"north": {"uv": [12.25, 0, 14.25, 0.75], "texture": "#1"},
+				"south": {"uv": [12.25, 0, 14.25, 0.75], "texture": "#1"},
+				"up": {"uv": [12.25, 0, 14.25, 0.25], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, -0.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, -0.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, -135, 0],
+			"translation": [0, -0.05, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"on_shelf": {
+			"rotation": [180, 0, 180]
+		}
+	}
+}

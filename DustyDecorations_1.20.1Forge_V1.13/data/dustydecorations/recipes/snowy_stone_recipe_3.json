@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "snowystone",
+  "count": 1,
+  "ingredient": {
+    "item": "dustydecorations:snowy_stone_bricks"
+  },
+  "result": "dustydecorations:snowy_stone_bricks_wall"
+}

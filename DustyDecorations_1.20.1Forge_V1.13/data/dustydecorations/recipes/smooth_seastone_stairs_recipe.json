@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "smoothseastonestairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:smooth_seastone"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:smooth_seastone_stairs",
+    "count": 6
+  }
+}

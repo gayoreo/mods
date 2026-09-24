@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/beetroot_barrel",
+  "textures": {
+    "all": "dustydecorations:block/beetroot_barrel",
+    "particle": "dustydecorations:block/beetroot_barrel",
+    "0": "dustydecorations:block/beetroot_barrel"
+  },
+  "render_type": "solid"
+}

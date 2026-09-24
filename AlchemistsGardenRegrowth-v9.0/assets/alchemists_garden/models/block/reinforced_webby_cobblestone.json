@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alchemists_garden:block/cobblestone",
+    "up": "alchemists_garden:block/cobblestone",
+    "north": "alchemists_garden:block/cobblestone",
+    "east": "alchemists_garden:block/cobblestone",
+    "south": "alchemists_garden:block/cobblestone",
+    "west": "alchemists_garden:block/cobblestone",
+    "particle": "alchemists_garden:block/cobblestone"
+  },
+  "render_type": "solid"
+}

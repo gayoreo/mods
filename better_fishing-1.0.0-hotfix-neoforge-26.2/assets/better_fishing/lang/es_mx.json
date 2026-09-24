@@ -1,0 +1,20 @@
+﻿{
+    "modmenu.nameTranslation.better_fishing":  "Better Fishing",
+    "screen.better_fishing.catch.title":  "Captura",
+    "screen.better_fishing.catch.collect":  "Tomar el pez",
+    "screen.better_fishing.catch.release":  "Soltar el pez",
+    "hud.better_fishing.tension":  "Tension de la linea",
+    "hud.better_fishing.progress":  "Progreso de captura",
+    "message.better_fishing.too_close_to_hook":  "Estás espantando a los peces. Aléjate al menos 6 bloques del anzuelo para poder pescar uno.",
+    "screen.better_fishing.options.title":  "Better Fishing",
+    "screen.better_fishing.options.difficulty":  "Dificultad de pesca",
+    "screen.better_fishing.options.difficulty.normal":  "Difícil",
+    "screen.better_fishing.options.difficulty.easy":  "Fácil",
+    "screen.better_fishing.options.selected":  "%s: seleccionado",
+    "key.categories.better_fishing":  "Better Fishing",
+    "key.better_fishing.open_options":  "Abrir menú de Better Fishing",
+    "screen.better_fishing.options.difficulty_button":  "Dificultad: %s",
+    "screen.better_fishing.options.line_sound_button":  "Sonido de línea: %s",
+    "screen.better_fishing.options.catch_sound_button":  "Sonido de captura: %s",
+    "screen.better_fishing.options.spooked_warning_button":  "Aviso de peces: %s"
+}

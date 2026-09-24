@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "knight_rober_quest_complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:adventure/root"
+}

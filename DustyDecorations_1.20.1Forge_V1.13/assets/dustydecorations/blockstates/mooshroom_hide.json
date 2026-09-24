@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/mooshroom_hide"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/mooshroom_hide",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/mooshroom_hide",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/mooshroom_hide",
+      "y": 270
+    }
+  }
+}

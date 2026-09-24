@@ -1,0 +1,13 @@
+{
+  "type": "caupona:frying",
+  "allow": [
+    {
+      "type": "forge:raw_beef",
+      "cond": "mainly"
+    }
+  ],
+  "ingredientPerDish": 2.0,
+  "output": "caupona:sauteed_beef",
+  "priority": 128,
+  "time": 200
+}

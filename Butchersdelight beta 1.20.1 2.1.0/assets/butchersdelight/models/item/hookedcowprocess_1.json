@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "butchersdelight:item/i_hookedcowskinned"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: entity_player_compat
+Specification-Vendor: Entity Player Compat Contributors
+Specification-Version: 1
+Implementation-Title: forge
+Implementation-Version: 2.2.1
+Implementation-Vendor: Entity Player Compat Contributors
+MixinConfigs: entity_player_compat.mixins.json
+

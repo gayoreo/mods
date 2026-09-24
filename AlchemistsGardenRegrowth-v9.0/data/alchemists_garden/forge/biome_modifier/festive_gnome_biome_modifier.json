@@ -1,0 +1,16 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "snowy_plains",
+    "ice_spikes",
+    "snowy_slopes",
+    "snowy_taiga",
+    "snowy_beach"
+  ],
+  "spawners": {
+    "type": "alchemists_garden:festive_gnome",
+    "weight": 5,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/fishinglures5",
+  "textures": {
+    "all": "dustydecorations:block/luredisplay5",
+    "particle": "dustydecorations:block/luredisplay5",
+    "LureDisplay5": "dustydecorations:block/luredisplay5",
+    "trans": "dustydecorations:block/transparent"
+  },
+  "render_type": "cutout"
+}

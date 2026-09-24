@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/summon_bell",
+  "textures": {
+    "1": "simple_mobs:blocks/summoning_bell",
+    "particle": "simple_mobs:items/summoning_bell_item"
+  }
+}

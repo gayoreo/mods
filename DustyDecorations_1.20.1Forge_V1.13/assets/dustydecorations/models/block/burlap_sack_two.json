@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/burlapsactwo",
+  "textures": {
+    "all": "dustydecorations:block/burlapsackstack",
+    "particle": "dustydecorations:block/burlapsackstack",
+    "0": "dustydecorations:block/burlapsackstack",
+    "missing": "dustydecorations:block/burlapsackstack"
+  },
+  "render_type": "cutout_mipped"
+}

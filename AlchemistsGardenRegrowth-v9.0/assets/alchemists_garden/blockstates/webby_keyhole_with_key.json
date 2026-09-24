@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "alchemists_garden:block/webby_keyhole_with_key"
+    },
+    "facing=east": {
+      "model": "alchemists_garden:block/webby_keyhole_with_key",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "alchemists_garden:block/webby_keyhole_with_key",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "alchemists_garden:block/webby_keyhole_with_key",
+      "y": 270
+    }
+  }
+}

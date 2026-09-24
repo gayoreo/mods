@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/lightning_naginata",
+  "textures": {
+    "0": "simple_mobs:blocks/lightning_nagi",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

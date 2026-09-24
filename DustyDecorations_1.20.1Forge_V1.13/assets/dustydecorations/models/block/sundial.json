@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/sundial",
+  "textures": {
+    "all": "dustydecorations:block/sundial",
+    "particle": "dustydecorations:block/sundial",
+    "0": "dustydecorations:block/sundial"
+  },
+  "render_type": "cutout"
+}

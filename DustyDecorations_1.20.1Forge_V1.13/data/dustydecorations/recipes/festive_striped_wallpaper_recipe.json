@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "foreststripedpaper",
+  "category": "building",
+  "pattern": [
+    "ab ",
+    "aca",
+    " da"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    },
+    "b": {
+      "item": "minecraft:sugar"
+    },
+    "c": {
+      "item": "minecraft:green_wool"
+    },
+    "d": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:festive_striped_wallpaper",
+    "count": 16
+  }
+}

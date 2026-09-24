@@ -1,0 +1,9 @@
+{
+  "parent": "butchersdelight:custom/deadgoatblock",
+  "textures": {
+    "all": "butchersdelight:block/deadgoat",
+    "particle": "butchersdelight:block/goat",
+    "0": "butchersdelight:block/goat"
+  },
+  "render_type": "cutout_mipped"
+}

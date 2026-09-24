@@ -1,0 +1,10 @@
+{
+  "parent": "alchemists_garden:custom/urnmodel",
+  "textures": {
+    "all": "alchemists_garden:block/webbyurn1",
+    "particle": "alchemists_garden:block/webbyurn1",
+    "0": "alchemists_garden:block/webbyurn1",
+    "1": "alchemists_garden:block/webbyurn2"
+  },
+  "render_type": "cutout"
+}

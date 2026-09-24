@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/hanging_sausages",
+  "textures": {
+    "all": "dustydecorations:block/hanging_sausages",
+    "particle": "dustydecorations:block/hanging_sausages",
+    "0": "dustydecorations:block/hanging_sausages"
+  },
+  "render_type": "cutout"
+}

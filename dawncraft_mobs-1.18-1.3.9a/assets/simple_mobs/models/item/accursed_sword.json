@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/accursed_sword",
+  "textures": {
+    "0": "simple_mobs:blocks/accursed_sword",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchersdelight:block/hokedhoglin"
+    },
+    "facing=east": {
+      "model": "butchersdelight:block/hokedhoglin",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchersdelight:block/hokedhoglin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchersdelight:block/hokedhoglin",
+      "y": 270
+    }
+  }
+}

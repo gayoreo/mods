@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alchemists_garden:energy_ball"
+    },
+    {
+      "item": "alchemists_garden:philosophers_stone"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 1
+  }
+}

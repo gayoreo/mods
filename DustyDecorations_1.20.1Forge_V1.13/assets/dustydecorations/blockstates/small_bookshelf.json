@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/small_bookshelf"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/small_bookshelf",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/small_bookshelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/small_bookshelf",
+      "y": 270
+    }
+  }
+}

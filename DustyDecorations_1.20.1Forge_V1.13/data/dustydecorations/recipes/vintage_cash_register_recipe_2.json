@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "vintagecashregister",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "eee"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_nugget"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "dustydecorations:gold_coins"
+    },
+    "d": {
+      "item": "minecraft:comparator"
+    },
+    "e": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:vintage_cash_register",
+    "count": 1
+  }
+}

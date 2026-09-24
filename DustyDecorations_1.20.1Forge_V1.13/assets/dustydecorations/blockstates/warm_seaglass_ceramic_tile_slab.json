@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dustydecorations:block/warm_seaglass_ceramic_tile_slab"
+    },
+    "type=top": {
+      "model": "dustydecorations:block/warm_seaglass_ceramic_tile_slab_top"
+    },
+    "type=double": {
+      "model": "dustydecorations:block/warm_seaglass_ceramic_tile_slab_full"
+    }
+  }
+}

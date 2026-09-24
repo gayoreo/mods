@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/cow_hide_rug"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/cow_hide_rug",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/cow_hide_rug",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/cow_hide_rug",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stellarwallpaperrecipe",
+  "category": "building",
+  "pattern": [
+    "ab ",
+    "aca",
+    " ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    },
+    "b": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "c": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:stellar_wallpaper",
+    "count": 16
+  }
+}

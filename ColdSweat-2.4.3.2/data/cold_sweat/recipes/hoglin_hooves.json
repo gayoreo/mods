@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "   ",
+    "H H",
+    "H H"
+  ],
+  "key":
+  {
+    "H":
+    {
+      "tag": "forge:leather/hoglin"
+    }
+  },
+  "result":
+  {
+    "item": "cold_sweat:hoglin_boots",
+    "count": 1
+  }
+}

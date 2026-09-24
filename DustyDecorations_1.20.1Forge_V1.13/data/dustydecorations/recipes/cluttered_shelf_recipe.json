@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "clutteredbookshelf",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:jars"
+    },
+    "b": {
+      "item": "dustydecorations:small_shelf_block"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:cluttered_shelf",
+    "count": 9
+  }
+}

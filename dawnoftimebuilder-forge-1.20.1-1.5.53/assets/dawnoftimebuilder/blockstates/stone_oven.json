@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,lit=false": { "model": "dawnoftimebuilder:block/chinese/stone_oven" },
+        "facing=east,lit=false":  { "model": "dawnoftimebuilder:block/chinese/stone_oven", "y": 90 },
+        "facing=south,lit=false": { "model": "dawnoftimebuilder:block/chinese/stone_oven", "y": 180 },
+        "facing=west,lit=false":  { "model": "dawnoftimebuilder:block/chinese/stone_oven", "y": 270 },
+        "facing=north,lit=true":  { "model": "dawnoftimebuilder:block/chinese/stone_oven_lit" },
+        "facing=east,lit=true":   { "model": "dawnoftimebuilder:block/chinese/stone_oven_lit", "y": 90 },
+        "facing=south,lit=true":  { "model": "dawnoftimebuilder:block/chinese/stone_oven_lit", "y": 180 },
+        "facing=west,lit=true":   { "model": "dawnoftimebuilder:block/chinese/stone_oven_lit", "y": 270 }
+    }
+}

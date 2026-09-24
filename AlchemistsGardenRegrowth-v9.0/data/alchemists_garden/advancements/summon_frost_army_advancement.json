@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:yeti_antler_horn"
+    },
+    "title": {
+      "translate": "advancements.summon_frost_army_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.summon_frost_army_advancement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "summon_frost_army_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "alchemists_garden:interact_with_festive_gnome_advancement"
+}

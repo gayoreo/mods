@@ -1,0 +1,13 @@
+{
+  "type": "caupona:frying",
+  "allow": [
+    {
+      "type": "caupona:meats/meat",
+      "cond": "mainly"
+    }
+  ],
+  "ingredientPerDish": 2.0,
+  "output": "caupona:sauteed_meat",
+  "priority": 64,
+  "time": 200
+}

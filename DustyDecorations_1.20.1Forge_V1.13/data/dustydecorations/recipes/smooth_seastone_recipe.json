@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "smoothseastone",
+  "category": "blocks",
+  "experience": 1,
+  "cookingtime": 70,
+  "ingredient": {
+    "item": "dustydecorations:seastone"
+  },
+  "result": "dustydecorations:smooth_seastone"
+}

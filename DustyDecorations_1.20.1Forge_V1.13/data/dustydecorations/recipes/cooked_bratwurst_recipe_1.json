@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "bratwurst",
+  "category": "food",
+  "experience": 4,
+  "cookingtime": 125,
+  "ingredient": {
+    "item": "dustydecorations:raw_bratwurst"
+  },
+  "result": "dustydecorations:cooked_bratwurst"
+}

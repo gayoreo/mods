@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: Antique Atlas
+Specification-Vendor: Stereowalker
+Specification-Version: 1
+Implementation-Title: AntiqueAtlas2
+Implementation-Version: unspecified
+Implementation-Vendor: Stereowalker
+MixinConfigs: antiqueatlas.mixins.json
+Implementation-Timestamp: 2025-08-04T22:49:48+0100
+

@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/diorite_quoin_brick",
+  "textures": {
+    "all": "minecraft:block/polished_diorite",
+    "particle": "minecraft:block/polished_diorite",
+    "0": "dustydecorations:block/polished_diorite_quoin_bricks"
+  },
+  "render_type": "solid"
+}

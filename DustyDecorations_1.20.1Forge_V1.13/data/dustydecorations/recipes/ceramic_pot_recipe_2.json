@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ceramicpot",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:decorated_pot"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:ceramic_pot",
+    "count": 8
+  }
+}

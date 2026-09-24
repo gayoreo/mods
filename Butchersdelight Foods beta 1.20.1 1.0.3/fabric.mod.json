@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "butchersdelightfoods",
+  "version": "1.20.1 1.0.1",
+  "name": "ButchersDelightfoods",
+  "description": "A food mod for butcher´s delight",
+  "authors": [
+    "Onuadan, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/butchers-delight",
+    "sources": ""
+  },
+  "license": "MIT License",
+  "icon": "assets/butchersdelightfoods/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.butchersdelightfoods.ButchersdelightfoodsMod"
+    ],
+    "client": [
+      "net.mcreator.butchersdelightfoods.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "butchersdelightfoods.mixins.json"
+  ]
+}

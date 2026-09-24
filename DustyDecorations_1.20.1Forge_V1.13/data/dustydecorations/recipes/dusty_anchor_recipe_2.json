@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "dustychain",
+  "category": "building",
+  "pattern": [
+    " a ",
+    " b ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:chain"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "dustydecorations:rusty_corrugated_metal_block"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:anchor",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nautiluswindchime",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "bcb",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "tag": "c:ropes"
+    },
+    "b": {
+      "tag": "dustydecorations:seaglass_fragment"
+    },
+    "c": {
+      "item": "dustydecorations:small_nautilus_shell"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:nautilus_wind_chime",
+    "count": 1
+  }
+}

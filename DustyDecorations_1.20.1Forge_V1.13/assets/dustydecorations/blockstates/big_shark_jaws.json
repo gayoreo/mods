@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/big_shark_jaws"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/big_shark_jaws",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/big_shark_jaws",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/big_shark_jaws",
+      "y": 270
+    }
+  }
+}

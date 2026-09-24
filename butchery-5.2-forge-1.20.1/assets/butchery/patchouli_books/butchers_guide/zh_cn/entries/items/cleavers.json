@@ -1,0 +1,30 @@
+{
+    "name": "剁肉刀",
+    "icon": "butchery:iron_cleaver",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:iron_cleaver",
+            "link_recipe": true,
+            "title": "剁肉刀",
+            "text": "§d剁肉刀§0用于获取生物尸体、给尸体放血以及屠宰尸体。$(br2)和原版工具类似，共有五种材质：骨头、铁、金、钻石与下界合金。$(br2)除§d下界合金剁肉刀§0外，其余功能一致；$(br2)只有§d下界合金剁肉刀§0可以获取并屠宰BOSS生物的尸体。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:bonecleaverrecipe",
+            "recipe2": "butchery:ironcleaverrecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:goldcleaverrecipe",
+            "recipe2": "butchery:diamondcleaverrecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:netheritecleaverrecipe"
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "dustydecorations:block/burlap",
+    "bottom": "dustydecorations:block/burlap",
+    "top": "dustydecorations:block/burlap",
+    "side": "dustydecorations:block/burlap"
+  },
+  "render_type": "solid"
+}

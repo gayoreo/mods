@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "particle": "dustydecorations:block/royalrailing",
+    "edge": "dustydecorations:block/n64banister",
+    "pane": "dustydecorations:block/royalrailing"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "butchersdelight:custom/roastedgoat",
+  "textures": {
+    "all": "butchersdelight:block/roastedgoat",
+    "particle": "butchersdelight:block/goatroasted",
+    "0": "butchersdelight:block/oak_log",
+    "1": "butchersdelight:block/stripped_oak_log",
+    "3": "butchersdelight:block/goatroasted"
+  },
+  "render_type": "cutout_mipped"
+}

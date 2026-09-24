@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/andesite_mural"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/andesite_mural",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/andesite_mural",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/andesite_mural",
+      "y": 270
+    }
+  }
+}

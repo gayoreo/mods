@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: AzureLib
+Specification-Vendor: AzureDoom
+Specification-Version: 3.1.12
+Implementation-Title: neo
+Implementation-Version: 3.1.12
+Implementation-Vendor: AzureDoom
+Built-On-Minecraft: 1.20.1
+MixinConfigs: azurelib.mixins.json,azurelib.forge.mixins.json
+

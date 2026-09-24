@@ -1,0 +1,20 @@
+﻿{
+    "modmenu.nameTranslation.better_fishing":  "Better Fishing",
+    "screen.better_fishing.catch.title":  "渔获",
+    "screen.better_fishing.catch.collect":  "收下鱼",
+    "screen.better_fishing.catch.release":  "放生鱼",
+    "hud.better_fishing.tension":  "鱼线张力",
+    "hud.better_fishing.progress":  "捕获进度",
+    "message.better_fishing.too_close_to_hook":  "你正在惊吓鱼群。请离鱼钩至少 6 格，才能钓到鱼。",
+    "screen.better_fishing.options.title":  "Better Fishing",
+    "screen.better_fishing.options.difficulty":  "钓鱼难度",
+    "screen.better_fishing.options.difficulty.normal":  "困难",
+    "screen.better_fishing.options.difficulty.easy":  "简单",
+    "screen.better_fishing.options.selected":  "%s：已选择",
+    "key.categories.better_fishing":  "Better Fishing",
+    "key.better_fishing.open_options":  "打开 Better Fishing 菜单",
+    "screen.better_fishing.options.difficulty_button":  "难度：%s",
+    "screen.better_fishing.options.line_sound_button":  "鱼线声音：%s",
+    "screen.better_fishing.options.catch_sound_button":  "捕获声音：%s",
+    "screen.better_fishing.options.spooked_warning_button":  "鱼群警告：%s"
+}

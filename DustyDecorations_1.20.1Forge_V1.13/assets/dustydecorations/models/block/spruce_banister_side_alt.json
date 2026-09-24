@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "particle": "dustydecorations:block/banisterspruce",
+    "edge": "dustydecorations:block/banistersprucetop",
+    "pane": "dustydecorations:block/banisterspruce"
+  },
+  "render_type": "cutout_mipped"
+}

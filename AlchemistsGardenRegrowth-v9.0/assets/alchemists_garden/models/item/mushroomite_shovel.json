@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "alchemists_garden:item/mushroomite_shovel"
+  }
+}

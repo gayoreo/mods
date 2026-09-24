@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "barrelcod",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cod"
+    },
+    "b": {
+      "item": "minecraft:barrel"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:cod_barrel",
+    "count": 1
+  }
+}

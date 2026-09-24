@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "largeshelfrecipe",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:birch_planks"
+    },
+    "b": {
+      "item": "dustydecorations:small_shelf_block"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:birch_large_shelf",
+    "count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "alchemists_garden:bezoar_stone"
+  },
+  "addition": {
+    "item": "alchemists_garden:spider_queen_eye"
+  },
+  "result": {
+    "item": "alchemists_garden:purplish_bezoar_stone"
+  }
+}

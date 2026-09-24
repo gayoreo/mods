@@ -1,0 +1,6 @@
+{
+    "name": "装备",
+    "description": "了解屠宰模组新增的护甲与装饰类物品的全部信息。",
+    "icon": "butchery:turtle_shell_armor_chestplate",
+    "sortnum": 3
+}

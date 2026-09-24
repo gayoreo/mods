@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sea_window_pane",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:liquorice_sea_window"
+    },
+    {
+      "item": "dustydecorations:liquorice_sea_window"
+    }
+  ],
+  "result": {
+    "item": "dustydecorations:liquorice_sea_window_pane",
+    "count": 4
+  }
+}

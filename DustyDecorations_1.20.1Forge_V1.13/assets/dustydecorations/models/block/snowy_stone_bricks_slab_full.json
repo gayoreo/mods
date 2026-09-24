@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "dustydecorations:block/snowy_stone_bricks",
+    "bottom": "dustydecorations:block/snowy_stone_bricks",
+    "top": "dustydecorations:block/snowy_stone_bricks",
+    "side": "dustydecorations:block/snowy_stone_bricks"
+  },
+  "render_type": "solid"
+}

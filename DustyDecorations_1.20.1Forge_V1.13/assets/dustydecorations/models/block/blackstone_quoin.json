@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/blackstone_quoin_brick",
+  "textures": {
+    "all": "minecraft:block/polished_blackstone_bricks",
+    "particle": "minecraft:block/polished_blackstone_bricks",
+    "0": "dustydecorations:block/polished_blackstone_quoin_brick"
+  },
+  "render_type": "solid"
+}

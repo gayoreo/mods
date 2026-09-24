@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "plaincushionslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:plain_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:plain_cushion_slab",
+    "count": 6
+  }
+}

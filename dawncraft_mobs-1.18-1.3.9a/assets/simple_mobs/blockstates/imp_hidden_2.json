@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "simple_mobs:block/imp_hidden_2"
+    },
+    "facing=east": {
+      "model": "simple_mobs:block/imp_hidden_2",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "simple_mobs:block/imp_hidden_2",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "simple_mobs:block/imp_hidden_2",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "simple_mobs:block/imp_hidden_2",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "simple_mobs:block/imp_hidden_2",
+      "x": 90
+    }
+  }
+}

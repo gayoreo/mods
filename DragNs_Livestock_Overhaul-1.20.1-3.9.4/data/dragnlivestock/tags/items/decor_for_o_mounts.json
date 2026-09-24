@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#dragnlivestock:carpet_blankets",
+    "#dragnlivestock:medieval_blankets",
+    "#dragnlivestock:modern_blankets",
+    "#dragnlivestock:racing_blankets",
+    "#dragnlivestock:western_blankets",
+    "#dragnlivestock:special_blankets"
+  ]
+}

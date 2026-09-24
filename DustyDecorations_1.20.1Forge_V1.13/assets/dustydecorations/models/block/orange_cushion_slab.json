@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "dustydecorations:block/orangecushion",
+    "bottom": "dustydecorations:block/orangecushion",
+    "top": "dustydecorations:block/orangecushion",
+    "side": "dustydecorations:block/orangecushion"
+  },
+  "render_type": "solid"
+}

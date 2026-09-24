@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sundial",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:smooth_basalt"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:sundial",
+    "count": 3
+  }
+}

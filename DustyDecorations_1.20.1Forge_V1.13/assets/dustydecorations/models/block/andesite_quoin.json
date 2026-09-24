@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/andesite_quoin_brick",
+  "textures": {
+    "all": "minecraft:block/polished_andesite",
+    "particle": "minecraft:block/polished_andesite",
+    "0": "dustydecorations:block/polished_andesite_quoin_bricks"
+  },
+  "render_type": "solid"
+}

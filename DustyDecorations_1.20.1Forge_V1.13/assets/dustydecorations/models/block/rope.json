@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/rope",
+  "textures": {
+    "all": "dustydecorations:block/rope",
+    "particle": "dustydecorations:block/rope",
+    "0": "dustydecorations:block/rope"
+  },
+  "render_type": "cutout"
+}

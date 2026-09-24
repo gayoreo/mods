@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "sentinel_knight_quest_complete": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:adventure/root"
+}

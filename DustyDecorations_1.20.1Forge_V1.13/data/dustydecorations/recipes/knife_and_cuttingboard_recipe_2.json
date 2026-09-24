@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "knifeandcuttingboardrecipe",
+  "category": "building",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:cuttingboard"
+    },
+    "b": {
+      "item": "dustydecorations:wedged_cleaver"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:knife_and_cutting_board",
+    "count": 1
+  }
+}

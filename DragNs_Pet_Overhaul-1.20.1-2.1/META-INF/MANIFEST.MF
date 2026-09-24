@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: dragnpets
+Specification-Vendor: DragN0007
+Specification-Version: 1
+Implementation-Title: Livestock_Overhaul_Pets_Addon
+Implementation-Version: 1.20.1-2.1
+Implementation-Vendor: DragN0007
+Implementation-Timestamp: 2026-05-22T14:29:53-0500
+MixinConfigs: mixins.dragnpets.json
+

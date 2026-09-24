@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:gnomes_brew"
+    },
+    "title": {
+      "translate": "advancements.obtain_gnomes_brew_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.obtain_gnomes_brew_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "obtain_gnomes_brew_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:gnomes_brew"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:defeating_gnome"
+}

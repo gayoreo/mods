@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/mangrove_shelf",
+  "textures": {
+    "all": "minecraft:block/mangrove_planks",
+    "particle": "minecraft:block/mangrove_planks",
+    "0": "minecraft:block/mangrove_planks"
+  },
+  "render_type": "solid"
+}

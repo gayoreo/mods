@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cushioncyan",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:plain_cushion"
+    },
+    "b": {
+      "item": "minecraft:cyan_dye"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:cyan_cushion",
+    "count": 8
+  }
+}

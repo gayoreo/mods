@@ -1,0 +1,17 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "caupona:block/wolfberry_log"
+			}
+		},
+		{
+			"when": {
+				"fully_foliaged": "true"
+			},
+			"apply": {
+				"model": "caupona:block/wolfberry_branches"
+			}
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "alchemists_garden:block/embergrass",
+    "particle": "alchemists_garden:block/embergrass"
+  },
+  "render_type": "cutout"
+}

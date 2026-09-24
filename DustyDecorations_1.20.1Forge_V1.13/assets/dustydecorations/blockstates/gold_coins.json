@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/gold_coins"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/gold_coins",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/gold_coins",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/gold_coins",
+      "y": 270
+    }
+  }
+}

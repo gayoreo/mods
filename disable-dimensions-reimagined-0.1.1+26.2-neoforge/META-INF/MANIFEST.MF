@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: Disable Dimensions Reimagined
+Specification-Vendor: nwrenger
+Specification-Version: 0.1.1+26.2
+Implementation-Title: neoforge
+Implementation-Version: 0.1.1+26.2
+Implementation-Vendor: nwrenger
+Built-On-Minecraft: 26.2
+

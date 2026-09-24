@@ -1,0 +1,16 @@
+{
+    "name": "蹄",
+    "icon": "butchery:hoof",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:hoof",
+            "link_recipe": true,
+            "title": "蹄",
+            "text": "蹄可放入$(l:butchery:blocks/pestle_and_mortar)研钵与杵$()中研磨，获得粘液球。"
+        }
+    ]
+}

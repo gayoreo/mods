@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "alchemists_garden:block/coarse",
+    "top": "alchemists_garden:block/coarse",
+    "side": "alchemists_garden:block/coarse"
+  },
+  "render_type": "solid"
+}

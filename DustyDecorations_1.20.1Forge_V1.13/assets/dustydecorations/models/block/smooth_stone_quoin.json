@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/smooth_stone_quoin_brick",
+  "textures": {
+    "all": "dustydecorations:block/smooth_stone_brick",
+    "particle": "dustydecorations:block/smooth_stone_brick",
+    "0": "dustydecorations:block/smoothstone_quoin"
+  },
+  "render_type": "solid"
+}

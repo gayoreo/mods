@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "snowflakewallpaper",
+  "category": "building",
+  "pattern": [
+    "ab ",
+    "aca",
+    " ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    },
+    "b": {
+      "item": "minecraft:snowball"
+    },
+    "c": {
+      "item": "minecraft:cyan_wool"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:snowflake_wallpaper",
+    "count": 16
+  }
+}

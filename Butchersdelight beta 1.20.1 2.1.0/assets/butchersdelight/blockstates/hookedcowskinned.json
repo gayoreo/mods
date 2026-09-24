@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchersdelight:block/hookedcowskinned"
+    },
+    "facing=east": {
+      "model": "butchersdelight:block/hookedcowskinned",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchersdelight:block/hookedcowskinned",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchersdelight:block/hookedcowskinned",
+      "y": 270
+    }
+  }
+}

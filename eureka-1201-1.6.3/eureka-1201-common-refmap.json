@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "org/valkyrienskies/eureka/mixin/client/PlayerEntityModelMixin": {
+      "setupAnim(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V": "Lnet/minecraft/client/model/PlayerModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "org/valkyrienskies/eureka/mixin/client/PlayerEntityModelMixin": {
+        "setupAnim(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V": "Lnet/minecraft/client/model/PlayerModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+      }
+    }
+  }
+}

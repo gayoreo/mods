@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "regalwallpaper",
+  "category": "building",
+  "pattern": [
+    "ab ",
+    "aca",
+    " da"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    },
+    "b": {
+      "tag": "minecraft:small_flowers"
+    },
+    "c": {
+      "item": "minecraft:red_wool"
+    },
+    "d": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:regal_wallpaper",
+    "count": 16
+  }
+}

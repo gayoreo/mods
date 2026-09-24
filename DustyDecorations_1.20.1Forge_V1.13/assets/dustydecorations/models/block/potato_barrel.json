@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/potato_barrel",
+  "textures": {
+    "all": "dustydecorations:block/potato_barrel",
+    "particle": "dustydecorations:block/potato_barrel",
+    "0": "dustydecorations:block/potato_barrel"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,26 @@
+modLoader = "javafml" #mandatory
+loaderVersion = ">=2" #mandatory
+license = "ARR" # Review your options at https://choosealicense.com/.
+[[mods]] #mandatory
+modId = "better_fishing" #mandatory
+version = "1.0.0-hotfix" #mandatory
+displayName = "Better Fishing" #mandatory
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional (see https://docs.neoforged.net/docs/misc/updatechecker/)
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional (displayed in the mod UI)
+credits="" #optional
+authors = "Henrique Almeida" #optional
+description = '''Better Fishing.''' #mandatory (Supports multiline text)
+[[mixins]]
+config = "better_fishing.mixins.json"
+[[dependencies.better_fishing]] #optional
+modId = "neoforge" #mandatory
+type="required" #mandatory (Can be one of "required", "optional", "incompatible" or "discouraged")
+versionRange = "[26.2.0.6-beta,)" #mandatory
+ordering = "NONE" # The order that this dependency should load in relation to your mod, required to be either 'BEFORE' or 'AFTER' if the dependency is not mandatory
+side = "CLIENT" # Side this dependency is applied on - 'BOTH', 'CLIENT' or 'SERVER'
+[[dependencies.better_fishing]]
+modId = "minecraft"
+type="required" #mandatory (Can be one of "required", "optional", "incompatible" or "discouraged")
+versionRange = "[26.2,26.2]"
+ordering = "NONE"
+side = "CLIENT"

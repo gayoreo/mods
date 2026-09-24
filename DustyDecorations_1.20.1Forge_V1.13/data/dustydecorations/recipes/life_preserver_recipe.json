@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lifepreserver",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "tag": "minecraft:wool"
+    },
+    "c": {
+      "tag": "c:ropes"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:life_preserver",
+    "count": 1
+  }
+}

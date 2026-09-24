@@ -1,0 +1,9 @@
+{
+  "parent": "butchersdelight:custom/dead_llama_skinned_block",
+  "textures": {
+    "all": "butchersdelight:block/iconllama_base",
+    "particle": "butchersdelight:block/llama_white",
+    "0": "butchersdelight:block/llamanaked"
+  },
+  "render_type": "cutout_mipped"
+}

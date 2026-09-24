@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/plushnoor",
+  "textures": {
+    "all": "dustydecorations:block/noorplush",
+    "particle": "dustydecorations:block/noorplush",
+    "0": "dustydecorations:block/noorplush"
+  },
+  "render_type": "cutout"
+}

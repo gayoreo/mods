@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/fall_garland3",
+  "textures": {
+    "all": "dustydecorations:block/fall_garland1",
+    "particle": "dustydecorations:block/fall_garland1",
+    "0": "dustydecorations:block/fall_garland3"
+  },
+  "render_type": "cutout_mipped"
+}

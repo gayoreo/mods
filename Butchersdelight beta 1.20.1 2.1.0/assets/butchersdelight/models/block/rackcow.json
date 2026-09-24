@@ -1,0 +1,11 @@
+{
+  "parent": "butchersdelight:custom/leather_shelfcowhide",
+  "textures": {
+    "all": "butchersdelight:block/leather_shelfcowhide",
+    "particle": "butchersdelight:block/oak_log",
+    "0": "butchersdelight:block/oak_log",
+    "1": "butchersdelight:block/stripped_oak_log",
+    "2": "butchersdelight:block/leathercow"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "O-Sheep",
+  "icon": "minecraft:white_wool",
+  "category": "dragnlivestock:animals_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "O-Sheep drop wool, meat, and bones. They can also be sheared, and milked for sheep cheese. Some sheep, such as Hair breeds, drop leather instead of wool."
+    }
+  ]
+}

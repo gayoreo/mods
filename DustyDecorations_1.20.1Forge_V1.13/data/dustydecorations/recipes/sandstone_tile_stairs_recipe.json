@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "sandstonetilestairsdustydecor",
+  "count": 1,
+  "ingredient": {
+    "item": "dustydecorations:sandstone_tile"
+  },
+  "result": "dustydecorations:sandstone_tile_stairs"
+}

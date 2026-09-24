@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "simple_mobs:shade_mane"
+    },
+    {
+      "item": "simple_mobs:blighted_meat"
+    }
+  ],
+  "result": {
+    "item": "simple_mobs:occult_lump",
+    "count": 1
+  }
+}

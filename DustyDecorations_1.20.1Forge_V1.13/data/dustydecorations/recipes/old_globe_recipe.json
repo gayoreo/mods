@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "oldgloberecipe",
+  "category": "building",
+  "pattern": [
+    " a",
+    "bc",
+    " b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:filled_map"
+    },
+    "b": {
+      "item": "minecraft:copper_ingot"
+    },
+    "c": {
+      "item": "minecraft:blue_wool"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:small_globe",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "smoothseastoneslab",
+  "count": 2,
+  "ingredient": {
+    "item": "dustydecorations:seastone"
+  },
+  "result": "dustydecorations:smooth_seastone_slab"
+}

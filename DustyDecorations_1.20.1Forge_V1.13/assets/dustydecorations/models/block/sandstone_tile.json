@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dustydecorations:block/sandstonefloortile",
+    "particle": "dustydecorations:block/sandstonefloortile"
+  },
+  "render_type": "solid"
+}

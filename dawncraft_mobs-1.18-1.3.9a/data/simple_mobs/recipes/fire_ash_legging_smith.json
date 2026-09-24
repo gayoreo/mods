@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_leggings"
+  },
+  "addition": {
+    "item": "simple_mobs:fire_dragon_essence"
+  },
+  "result": {
+    "item": "simple_mobs:dragonash_armor_fire_leggings"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "caupona:frying",
+  "allow": [
+    {
+      "type": "caupona:vegetables/greens",
+      "cond": "mainly"
+    }
+  ],
+  "ingredientPerDish": 2.0,
+  "output": "caupona:sauteed_greens",
+  "priority": 128,
+  "time": 200
+}

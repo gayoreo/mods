@@ -1,0 +1,9 @@
+{
+  "parent": "butchersdelight:custom/dead_cow_skinned_2",
+  "textures": {
+    "all": "butchersdelight:block/dead_cow_skinned_2",
+    "particle": "butchersdelight:block/dead_sheep_skinned",
+    "0": "butchersdelight:block/dead_cow_naked"
+  },
+  "render_type": "cutout_mipped"
+}

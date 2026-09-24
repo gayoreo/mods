@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "graycushionslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:gray_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:gray_cushion_slab",
+    "count": 6
+  }
+}

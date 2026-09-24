@@ -1,0 +1,21 @@
+{"type": "sword", 
+ "attributes": 
+    {"common": 
+       {"impact": 3.0, 
+        "armor_negation": 4.0, 
+         "max_strikes": 6}
+    },
+  "collider": {
+        "number": 4,
+        "center": [
+            0.0,
+            0.0,
+            -0.5
+        ],
+        "size": [
+            0.4,
+            0.4,
+            1.6
+    ]
+  }
+}

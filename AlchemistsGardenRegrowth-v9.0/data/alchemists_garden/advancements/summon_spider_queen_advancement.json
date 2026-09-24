@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:spider_queen_eye"
+    },
+    "title": {
+      "translate": "advancements.summon_spider_queen_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.summon_spider_queen_advancement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "summon_spider_queen_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "alchemists_garden:obtaining_kings_shovel_advancement"
+}

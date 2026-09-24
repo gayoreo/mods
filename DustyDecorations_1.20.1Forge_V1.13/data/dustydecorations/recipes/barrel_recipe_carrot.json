@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "carrotbarrel",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:carrot"
+    },
+    "b": {
+      "item": "minecraft:barrel"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:carrot_barrel",
+    "count": 1
+  }
+}

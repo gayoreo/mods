@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/sglteal",
+  "textures": {
+    "all": "dustydecorations:block/sglteal",
+    "particle": "dustydecorations:block/sglteal",
+    "0": "dustydecorations:block/sglteal",
+    "missing": "dustydecorations:block/sglteal"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "badlands",
+    "taiga",
+    "old_growth_pine_taiga",
+    "plains",
+    "wooded_badlands",
+    "desert",
+    "eroded_badlands",
+    "old_growth_spruce_taiga"
+  ],
+  "features": "alchemists_garden:brambleroot",
+  "step": "vegetal_decoration"
+}

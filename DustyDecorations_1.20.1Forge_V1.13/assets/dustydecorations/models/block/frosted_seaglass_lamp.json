@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/glmosaic",
+  "textures": {
+    "all": "dustydecorations:block/glmosaic",
+    "particle": "dustydecorations:block/glmosaic",
+    "0": "dustydecorations:block/glmosaic",
+    "missing": "dustydecorations:block/glmosaic"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "dustydecorations:block/banistermangrove",
+    "edge": "dustydecorations:block/banistermangrovetop",
+    "pane": "dustydecorations:block/banistermangrove"
+  },
+  "render_type": "cutout_mipped"
+}

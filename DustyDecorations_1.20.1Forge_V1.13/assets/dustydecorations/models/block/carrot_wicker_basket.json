@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/wicker_basket_carrot",
+  "textures": {
+    "all": "dustydecorations:block/carrot_barrel",
+    "particle": "dustydecorations:block/carrot_barrel",
+    "0": "dustydecorations:block/wicker_basket_new",
+    "1": "dustydecorations:block/basket_carrot"
+  },
+  "render_type": "cutout_mipped"
+}

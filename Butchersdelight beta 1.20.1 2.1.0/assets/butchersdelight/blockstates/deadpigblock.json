@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "butchersdelight:block/deadpigblock"
+    },
+    "facing=east": {
+      "model": "butchersdelight:block/deadpigblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "butchersdelight:block/deadpigblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "butchersdelight:block/deadpigblock",
+      "y": 270
+    }
+  }
+}

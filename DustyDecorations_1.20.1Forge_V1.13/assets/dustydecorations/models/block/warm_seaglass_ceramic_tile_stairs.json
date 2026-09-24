@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "dustydecorations:block/warmseaglassceramictile",
+    "bottom": "dustydecorations:block/warmseaglassceramictile",
+    "top": "dustydecorations:block/warmseaglassceramictile",
+    "side": "dustydecorations:block/warmseaglassceramictile"
+  },
+  "render_type": "solid"
+}

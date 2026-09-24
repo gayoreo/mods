@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 12",
+    " 45",
+    "6  "
+  ],
+  "key": {
+    "1": {
+      "item": "alchemists_garden:chrysite_string"
+    },
+    "2": {
+      "item": "alchemists_garden:spider_egg"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "alchemists_garden:spider_queen_eye"
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:spiderling_staff",
+    "count": 1
+  }
+}

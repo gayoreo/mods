@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/hanging_knives",
+  "textures": {
+    "all": "dustydecorations:block/wedged_knife",
+    "particle": "dustydecorations:block/wedged_knife",
+    "0": "dustydecorations:block/hanging_knives"
+  },
+  "render_type": "cutout"
+}

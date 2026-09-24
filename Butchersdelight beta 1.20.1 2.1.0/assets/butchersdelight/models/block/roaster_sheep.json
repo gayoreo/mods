@@ -1,0 +1,11 @@
+{
+  "parent": "butchersdelight:custom/roastersheep",
+  "textures": {
+    "all": "butchersdelight:block/roastersheep",
+    "particle": "butchersdelight:block/stripped_oak_log",
+    "0": "butchersdelight:block/oak_log",
+    "1": "butchersdelight:block/stripped_oak_log",
+    "2": "butchersdelight:block/dead_sheep"
+  },
+  "render_type": "cutout_mipped"
+}

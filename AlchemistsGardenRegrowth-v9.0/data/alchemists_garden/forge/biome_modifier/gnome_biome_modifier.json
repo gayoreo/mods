@@ -1,0 +1,19 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "old_growth_birch_forest",
+    "forest",
+    "sunflower_plains",
+    "dark_forest",
+    "plains",
+    "birch_forest",
+    "flower_forest",
+    "windswept_forest"
+  ],
+  "spawners": {
+    "type": "alchemists_garden:gnome",
+    "weight": 20,
+    "minCount": 1,
+    "maxCount": 4
+  }
+}

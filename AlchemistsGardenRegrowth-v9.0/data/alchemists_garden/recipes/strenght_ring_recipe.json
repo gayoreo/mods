@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "alchemists_garden:spider_egg_shell"
+    },
+    "1": {
+      "item": "alchemists_garden:spider_queen_eye"
+    },
+    "2": {
+      "item": "alchemists_garden:spider_egg_shell"
+    },
+    "4": {
+      "item": "alchemists_garden:golden_ring"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:strenght_ring",
+    "count": 1
+  }
+}

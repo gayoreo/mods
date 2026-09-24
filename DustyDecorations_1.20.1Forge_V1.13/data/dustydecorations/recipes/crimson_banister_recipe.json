@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crimsonbanister",
+  "category": "building",
+  "pattern": [
+    "aba",
+    " a ",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crimson_fence"
+    },
+    "b": {
+      "tag": "c:ropes"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:crimson_banister",
+    "count": 8
+  }
+}

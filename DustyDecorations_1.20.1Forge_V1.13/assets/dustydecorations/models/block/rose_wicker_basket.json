@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/wicker_basket_flowers_rose",
+  "textures": {
+    "all": "dustydecorations:block/wicker_basket_rose",
+    "particle": "dustydecorations:block/wicker_basket_rose",
+    "0": "dustydecorations:block/wicker_basket_rose"
+  },
+  "render_type": "cutout_mipped"
+}

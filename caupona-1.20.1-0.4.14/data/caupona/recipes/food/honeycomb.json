@@ -1,0 +1,13 @@
+{
+  "type": "caupona:food",
+  "heal": 2,
+  "item": {
+    "item": "minecraft:honeycomb"
+  },
+  "items": [
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "sat": 0.4
+}

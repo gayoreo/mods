@@ -1,0 +1,10 @@
+{
+  "parent": "builtin/entity",
+  "texture_size": [
+    32,
+    32
+  ],
+  "textures": {
+    "particle": "item/nautilus_windchime_cold"
+  }
+}

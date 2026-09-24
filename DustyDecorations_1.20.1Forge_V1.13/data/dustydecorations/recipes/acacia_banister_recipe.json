@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "acaciabanisterdd",
+  "category": "building",
+  "pattern": [
+    "aba",
+    " a ",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:acacia_fence"
+    },
+    "b": {
+      "tag": "c:ropes"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:acacia_banister",
+    "count": 8
+  }
+}

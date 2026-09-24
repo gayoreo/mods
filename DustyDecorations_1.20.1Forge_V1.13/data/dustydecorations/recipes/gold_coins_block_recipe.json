@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "goldcoinsblock",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:gold_coins"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:gold_coins_full",
+    "count": 1
+  }
+}

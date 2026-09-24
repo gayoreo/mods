@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "simple_mobs:karuta_helmet"
+    },
+    "title": {
+      "translate": "advancements.shoguns_reckoning.title"
+    },
+    "description": {
+      "translate": "advancements.shoguns_reckoning.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "shoguns_reckoning": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:adventure/root"
+}

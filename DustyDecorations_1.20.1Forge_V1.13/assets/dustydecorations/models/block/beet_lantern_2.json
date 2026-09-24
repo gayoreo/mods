@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/beet_o_lantern_two",
+  "textures": {
+    "all": "dustydecorations:block/beet_o_lanterns",
+    "particle": "dustydecorations:block/beet_o_lanterns",
+    "0": "dustydecorations:block/beet_o_lanterns"
+  },
+  "render_type": "cutout_mipped"
+}

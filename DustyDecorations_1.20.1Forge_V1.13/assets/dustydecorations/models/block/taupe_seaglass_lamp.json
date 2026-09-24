@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/sgltaupe",
+  "textures": {
+    "all": "dustydecorations:block/sgltaupe",
+    "particle": "dustydecorations:block/sgltaupe",
+    "0": "dustydecorations:block/sgltaupe",
+    "missing": "dustydecorations:block/sgltaupe"
+  },
+  "render_type": "translucent"
+}

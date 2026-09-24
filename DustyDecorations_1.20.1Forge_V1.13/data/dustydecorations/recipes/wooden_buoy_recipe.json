@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "woodenbuoy",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "tag": "c:ropes"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:wooden_buoy",
+    "count": 4
+  }
+}

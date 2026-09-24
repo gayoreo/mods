@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "corrugatedmetal",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:corrugated_metal",
+    "count": 6
+  }
+}

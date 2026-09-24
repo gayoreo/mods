@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:beef",
+    "minecraft:cooked_beef",
+    "minecraft:porkchop",
+    "minecraft:cooked_porkchop",
+    "minecraft:mutton",
+    "minecraft:cooked_mutton",
+    "minecraft:chicken",
+    "minecraft:cooked_chicken",
+    "minecraft:rabbit",
+    "minecraft:cooked_rabbit",
+    "dustydecorations:raw_bratwurst",
+    "dustydecorations:cooked_bratwurst",
+    "dustydecorations:bratwurst_dog"
+  ]
+}

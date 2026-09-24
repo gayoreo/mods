@@ -1,0 +1,17 @@
+// 1.20.1	2024-08-27T11:54:27.1845151	Recipes
+267ac752905989d998fc38864dd5447f7bc3fa98 data/alekiships/advancements/recipes/crafting/crafting/anchor.json
+c3a23840ee6323dba686b8af67c905f2357ec9f5 data/alekiships/advancements/recipes/crafting/crafting/cannon.json
+008675c4a1e17f77bbd352706d288f322b320aa4 data/alekiships/advancements/recipes/crafting/crafting/cannonball.json
+55d1c3f1b6785d773913212c14243941b0aae205 data/alekiships/advancements/recipes/crafting/crafting/cleat.json
+08e704217486cb40195a0be6f973957aada3c062 data/alekiships/advancements/recipes/crafting/crafting/oar.json
+0e6665af2bceea16b58d9f194bfcdb1dc649f48c data/alekiships/advancements/recipes/crafting/crafting/oarlock.json
+37cba9e55c667f31ce002c0c0791137a44b6c2dc data/alekiships/advancements/recipes/crafting/crafting/watercraft_frame_angled.json
+0cde9ed48446f8294070180e9011ff8803c41451 data/alekiships/advancements/recipes/crafting/crafting/watercraft_frame_flat.json
+ddef779f74965770a7708b1cbc0c3734bfb5291d data/alekiships/recipes/crafting/anchor.json
+857e5f983149078561a5cc5fc1bdfdaa3450f2f5 data/alekiships/recipes/crafting/cannon.json
+06fd301260a8796110d414c1e7f5d3b33974d8b3 data/alekiships/recipes/crafting/cannonball.json
+e9eda8db208a3ff46dd8ad672906cc04e7914136 data/alekiships/recipes/crafting/cleat.json
+2118ab284c0e59733405b39ae47e290daf5f316e data/alekiships/recipes/crafting/oar.json
+52f845afa21f69a92dcb3b1b643dad64c0b20416 data/alekiships/recipes/crafting/oarlock.json
+7c5c358fda14ddf6468b5637fc6a2f0be85ab96e data/alekiships/recipes/crafting/watercraft_frame_angled.json
+64396084710accd587892f54683d6efe1a562442 data/alekiships/recipes/crafting/watercraft_frame_flat.json

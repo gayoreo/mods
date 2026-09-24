@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "alchemists_garden:block/brambleroot",
+    "particle": "alchemists_garden:block/brambleroot"
+  },
+  "render_type": "cutout"
+}

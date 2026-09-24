@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:festive_gnome_hat_helmet"
+    },
+    "title": {
+      "translate": "advancements.interact_with_festive_gnome_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.interact_with_festive_gnome_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "interact_with_festive_gnome_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "alchemists_garden:craft_a_brick_fireplace"
+}

@@ -1,0 +1,20 @@
+﻿{
+    "modmenu.nameTranslation.better_fishing":  "Better Fishing",
+    "screen.better_fishing.catch.title":  "Peixe fisgado",
+    "screen.better_fishing.catch.collect":  "Pegar o peixe",
+    "screen.better_fishing.catch.release":  "Soltar o peixe",
+    "hud.better_fishing.tension":  "Tensão da linha",
+    "hud.better_fishing.progress":  "Progresso da captura",
+    "message.better_fishing.too_close_to_hook":  "Você está assustando os peixes. Afaste-se pelo menos 6 blocos do anzol para conseguir fisgar um.",
+    "screen.better_fishing.options.title":  "Better Fishing",
+    "screen.better_fishing.options.difficulty":  "Dificuldade da pesca",
+    "screen.better_fishing.options.difficulty.normal":  "Difícil",
+    "screen.better_fishing.options.difficulty.easy":  "Fácil",
+    "screen.better_fishing.options.selected":  "%s: selecionado",
+    "key.categories.better_fishing":  "Better Fishing",
+    "key.better_fishing.open_options":  "Abrir menu do Better Fishing",
+    "screen.better_fishing.options.difficulty_button":  "Dificuldade: %s",
+    "screen.better_fishing.options.line_sound_button":  "Som da linha: %s",
+    "screen.better_fishing.options.catch_sound_button":  "Som de captura: %s",
+    "screen.better_fishing.options.spooked_warning_button":  "Aviso dos peixes: %s"
+}

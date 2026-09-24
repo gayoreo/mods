@@ -1,0 +1,20 @@
+{
+    "name": "金属屠宰台",
+    "icon": "butchery:metal_butchers_table",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:metal_butchers_table",
+            "link_recipe": true,
+            "title": "金属屠宰台",
+            "text": "§d金属屠宰台§0与木质屠宰台功能类似，可放置已放血完毕的尸体进行屠宰加工。$(br2)进行屠宰§c并非必须§0使用此方块。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:metalbutcherstablerecipe"
+        }
+    ]
+}

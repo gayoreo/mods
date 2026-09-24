@@ -1,0 +1,341 @@
+{
+  "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+  "ambientocclusion": false,
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    }
+  },
+  "elements": [
+    {
+      "name": "Ink",
+      "from": [
+        2,
+        0,
+        2
+      ],
+      "to": [
+        9,
+        6,
+        9
+      ],
+      "faces": {
+        "north": {
+          "texture": "#InkNQuill",
+          "uv": [
+            0,
+            0,
+            7,
+            6
+          ]
+        },
+        "east": {
+          "texture": "#InkNQuill",
+          "uv": [
+            0,
+            0,
+            7,
+            6
+          ]
+        },
+        "south": {
+          "texture": "#InkNQuill",
+          "uv": [
+            0,
+            0,
+            7,
+            6
+          ]
+        },
+        "west": {
+          "texture": "#InkNQuill",
+          "uv": [
+            0,
+            0,
+            7,
+            6
+          ]
+        },
+        "up": {
+          "texture": "#InkNQuill",
+          "uv": [
+            7,
+            6,
+            14,
+            13
+          ]
+        },
+        "down": {
+          "texture": "#InkNQuill",
+          "uv": [
+            0,
+            6,
+            7,
+            13
+          ]
+        }
+      }
+    },
+    {
+      "name": "MidLid",
+      "from": [
+        4,
+        6,
+        4
+      ],
+      "to": [
+        7,
+        7,
+        7
+      ],
+      "faces": {
+        "north": {
+          "texture": "#InkNQuill",
+          "uv": [
+            10,
+            15,
+            13,
+            16
+          ]
+        },
+        "east": {
+          "texture": "#InkNQuill",
+          "uv": [
+            13,
+            15,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#InkNQuill",
+          "uv": [
+            11,
+            15,
+            14,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#InkNQuill",
+          "uv": [
+            13,
+            15,
+            16,
+            16
+          ]
+        }
+      }
+    },
+    {
+      "name": "Lid",
+      "from": [
+        3,
+        7,
+        3
+      ],
+      "to": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "texture": "#InkNQuill",
+          "uv": [
+            5,
+            14,
+            10,
+            15
+          ]
+        },
+        "east": {
+          "texture": "#InkNQuill",
+          "uv": [
+            5,
+            13,
+            10,
+            14
+          ]
+        },
+        "south": {
+          "texture": "#InkNQuill",
+          "uv": [
+            0,
+            15,
+            5,
+            16
+          ]
+        },
+        "west": {
+          "texture": "#InkNQuill",
+          "uv": [
+            5,
+            15,
+            10,
+            16
+          ]
+        },
+        "up": {
+          "texture": "#InkNQuill",
+          "uv": [
+            7,
+            1,
+            12,
+            6
+          ]
+        },
+        "down": {
+          "texture": "#InkNQuill",
+          "uv": [
+            11,
+            1,
+            16,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "name": "Feather",
+      "from": [
+        2,
+        8,
+        8
+      ],
+      "to": [
+        14,
+        20,
+        8
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": -45.0
+      },
+      "faces": {
+        "north": {
+          "texture": "#InkNQuillFeatherReverse",
+          "uv": [
+            4,
+            4,
+            16,
+            16
+          ]
+        },
+        "south": {
+          "texture": "#InkNQuillFeather",
+          "uv": [
+            4,
+            4,
+            16,
+            16
+          ]
+        }
+      }
+    }
+  ]
+}

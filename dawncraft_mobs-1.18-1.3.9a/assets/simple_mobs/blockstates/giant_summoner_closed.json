@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "simple_mobs:block/giant_summoner_closed"
+    },
+    "facing=east": {
+      "model": "simple_mobs:block/giant_summoner_closed",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "simple_mobs:block/giant_summoner_closed",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "simple_mobs:block/giant_summoner_closed",
+      "y": 270
+    }
+  }
+}

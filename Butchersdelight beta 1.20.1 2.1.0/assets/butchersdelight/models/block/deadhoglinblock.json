@@ -1,0 +1,10 @@
+{
+  "parent": "butchersdelight:custom/dead_hoglin_block",
+  "textures": {
+    "all": "butchersdelight:block/deadhoglinicon",
+    "particle": "butchersdelight:block/hoglin",
+    "0": "butchersdelight:block/hoglin",
+    "missing": "butchersdelight:block/hoglin"
+  },
+  "render_type": "cutout_mipped"
+}

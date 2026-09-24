@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/giant_anchor_1",
+  "textures": {
+    "all": "dustydecorations:block/giant_anchor_1",
+    "particle": "dustydecorations:block/giant_anchor_1",
+    "0": "dustydecorations:block/giant_anchor_1"
+  },
+  "render_type": "cutout_mipped"
+}

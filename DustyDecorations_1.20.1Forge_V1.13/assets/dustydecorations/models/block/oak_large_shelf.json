@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/oak_shelf",
+  "textures": {
+    "all": "minecraft:block/oak_planks",
+    "particle": "minecraft:block/oak_planks",
+    "0": "minecraft:block/oak_planks"
+  },
+  "render_type": "solid"
+}

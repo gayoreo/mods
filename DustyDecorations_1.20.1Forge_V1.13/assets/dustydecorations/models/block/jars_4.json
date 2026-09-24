@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/jars3",
+  "textures": {
+    "all": "dustydecorations:block/jars3",
+    "particle": "dustydecorations:block/jars3",
+    "0": "dustydecorations:block/jars3"
+  },
+  "render_type": "solid"
+}

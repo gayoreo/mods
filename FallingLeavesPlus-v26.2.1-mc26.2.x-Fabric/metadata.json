@@ -1,0 +1,62 @@
+{
+    "minecraft": "26.2",
+    "mod": {
+        "id": "fallingleavesplus",
+        "group": "fuzs.fallingleavesplus",
+        "name": "Falling Leaves Plus",
+        "version": "26.2.1",
+        "authors": [
+            "Fuzs"
+        ],
+        "description": "Beautiful tree-specific falling leaves with branches, acorns, cones, and more.",
+        "license": "MPL-2.0"
+    },
+    "dependencies": [
+        {
+            "name": "fabricapi",
+            "type": "required",
+            "platforms": [
+                "fabric"
+            ]
+        },
+        {
+            "name": "forgeconfigapiport",
+            "type": "required",
+            "platforms": [
+                "fabric"
+            ]
+        },
+        {
+            "name": "puzzleslib",
+            "type": "required",
+            "platforms": [
+                "fabric",
+                "neoforge"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "name": "curseforge",
+            "slug": "falling-leaves-plus",
+            "id": "1577351"
+        },
+        {
+            "name": "github",
+            "slug": "falling-leaves-plus"
+        },
+        {
+            "name": "modrinth",
+            "slug": "falling-leaves-plus",
+            "id": "PZyzzLjz"
+        }
+    ],
+    "environments": {
+        "client": "required",
+        "server": "unsupported"
+    },
+    "platforms": [
+        "fabric",
+        "neoforge"
+    ]
+}

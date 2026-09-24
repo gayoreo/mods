@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "dustydecorations:block/seastonetop",
+    "bottom": "dustydecorations:block/seastonetop",
+    "top": "dustydecorations:block/seastonetop",
+    "side": "dustydecorations:block/seastoneside"
+  },
+  "render_type": "solid"
+}

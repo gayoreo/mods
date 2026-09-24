@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01 ",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "0": {
+      "item": "simple_mobs:blossomseed"
+    },
+    "1": {
+      "item": "simple_mobs:blossomseed"
+    },
+    "3": {
+      "item": "simple_mobs:blossomseed"
+    },
+    "4": {
+      "item": "bloodandmadness:weapons/hunter_pistol"
+    },
+    "5": {
+      "item": "minecraft:spore_blossom"
+    },
+    "6": {
+      "item": "simple_mobs:blossomseed"
+    },
+    "7": {
+      "item": "simple_mobs:blossomseed"
+    }
+  },
+  "result": {
+    "item": "simple_mobs:seed_gun",
+    "count": 1
+  }
+}

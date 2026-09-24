@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/hangingpan_copper",
+  "textures": {
+    "all": "dustydecorations:block/copperfryingpan",
+    "particle": "dustydecorations:block/copperfryingpan",
+    "hanginggrip": "dustydecorations:block/hanginggrip",
+    "fryingpan": "dustydecorations:block/copperfryingpan"
+  },
+  "render_type": "solid"
+}

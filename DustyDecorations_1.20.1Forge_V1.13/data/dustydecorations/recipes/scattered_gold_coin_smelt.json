@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "group": "goldcoinpile",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 90,
+  "ingredient": {
+    "item": "dustydecorations:scattered_gold_coins"
+  },
+  "result": "minecraft:gold_nugget"
+}

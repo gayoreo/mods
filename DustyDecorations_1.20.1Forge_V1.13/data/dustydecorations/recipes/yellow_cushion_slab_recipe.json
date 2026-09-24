@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "yellowcushionslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:yellow_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:yellow_cushion_slab",
+    "count": 6
+  }
+}

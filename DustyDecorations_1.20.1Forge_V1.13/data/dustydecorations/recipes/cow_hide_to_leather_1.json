@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cowhidetoleather",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:cow_hide_rug"
+    }
+  },
+  "result": {
+    "item": "minecraft:leather",
+    "count": 5
+  }
+}

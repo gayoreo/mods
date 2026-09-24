@@ -1,0 +1,20 @@
+﻿{
+    "modmenu.nameTranslation.better_fishing":  "Better Fishing",
+    "screen.better_fishing.catch.title":  "Prise",
+    "screen.better_fishing.catch.collect":  "Prendre le poisson",
+    "screen.better_fishing.catch.release":  "Relacher le poisson",
+    "hud.better_fishing.tension":  "Tension de la ligne",
+    "hud.better_fishing.progress":  "Progression de capture",
+    "message.better_fishing.too_close_to_hook":  "Vous effrayez les poissons. Éloignez-vous d'au moins 6 blocs de l'hameçon pour en ferrer un.",
+    "screen.better_fishing.options.title":  "Better Fishing",
+    "screen.better_fishing.options.difficulty":  "Difficulté de pêche",
+    "screen.better_fishing.options.difficulty.normal":  "Difficile",
+    "screen.better_fishing.options.difficulty.easy":  "Facile",
+    "screen.better_fishing.options.selected":  "%s : sélectionné",
+    "key.categories.better_fishing":  "Better Fishing",
+    "key.better_fishing.open_options":  "Ouvrir le menu Better Fishing",
+    "screen.better_fishing.options.difficulty_button":  "Difficulté : %s",
+    "screen.better_fishing.options.line_sound_button":  "Son de ligne : %s",
+    "screen.better_fishing.options.catch_sound_button":  "Son de capture : %s",
+    "screen.better_fishing.options.spooked_warning_button":  "Alerte poissons : %s"
+}

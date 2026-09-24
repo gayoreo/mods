@@ -1,0 +1,26 @@
+{
+  "display": {
+    "background": "dustydecorations:textures/screens/corrugated_metal.png",
+    "icon": {
+      "item": "dustydecorations:dusty_decorations_logo"
+    },
+    "title": {
+      "translate": "advancements.welcome_to_dusty_decor.title"
+    },
+    "description": {
+      "translate": "advancements.welcome_to_dusty_decor.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "welcome_to_dusty_decor_0": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:overworld"
+      }
+    }
+  }
+}

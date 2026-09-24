@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "beach",
+  "features": "alchemists_garden:bubblis",
+  "step": "vegetal_decoration"
+}

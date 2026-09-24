@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "dustydecorations:block/coldseaglassceramictile",
+    "bottom": "dustydecorations:block/coldseaglassceramictile",
+    "top": "dustydecorations:block/coldseaglassceramictile",
+    "side": "dustydecorations:block/coldseaglassceramictile"
+  },
+  "render_type": "solid"
+}

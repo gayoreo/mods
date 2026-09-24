@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "dustydecorations:blocks/n_64_wooden_door",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dustydecorations:n_64_wooden_door",
+          "conditions": [
+            {
+              "block": "dustydecorations:n_64_wooden_door",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

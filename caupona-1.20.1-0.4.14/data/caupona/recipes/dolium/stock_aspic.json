@@ -1,0 +1,13 @@
+{
+  "type": "caupona:dolium",
+  "amount": 250,
+  "density": 0.25,
+  "fluid": "caupona:stock",
+  "items": [],
+  "keepInfo": true,
+  "output": {
+    "type": "forge:nbt",
+    "count": 1,
+    "item": "caupona:stock_aspic"
+  }
+}

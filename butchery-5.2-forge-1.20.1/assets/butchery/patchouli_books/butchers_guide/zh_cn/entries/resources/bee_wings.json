@@ -1,0 +1,16 @@
+{
+    "name": "蜜蜂翅膀",
+    "icon": "butchery:bee_wings",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:bee_wings",
+            "link_recipe": true,
+            "title": "蜜蜂翅膀",
+            "text": "屠宰蜜蜂可获得蜜蜂翅膀，将其与粗制药水酿造，即可制成缓降药水。"
+        }
+    ]
+}

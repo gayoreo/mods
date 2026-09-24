@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "forest",
+    "sunflower_plains",
+    "dark_forest",
+    "plains"
+  ],
+  "features": "alchemists_garden:spider_pit",
+  "step": "surface_structures"
+}

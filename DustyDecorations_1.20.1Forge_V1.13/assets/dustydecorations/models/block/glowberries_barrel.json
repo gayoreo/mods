@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/glow_berries_barrel",
+  "textures": {
+    "all": "dustydecorations:block/glow_berries_barrel",
+    "particle": "dustydecorations:block/glow_berries_barrel",
+    "0": "dustydecorations:block/glow_berries_barrel"
+  },
+  "render_type": "solid"
+}

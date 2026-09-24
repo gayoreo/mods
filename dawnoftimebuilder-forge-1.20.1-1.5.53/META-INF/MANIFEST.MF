@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Specification-Title: Dawn Of Time
+Specification-Vendor: Poulpinou & TheGoldenWorld
+Specification-Version: 1.5.53
+Implementation-Title: forge
+Implementation-Version: 1.5.53
+Implementation-Vendor: Poulpinou & TheGoldenWorld
+Built-On-Minecraft: 1.20.1
+MixinConfigs: dawnoftimebuilder.mixins.json,dawnoftimebuilder.forge.mixi
+ ns.json
+

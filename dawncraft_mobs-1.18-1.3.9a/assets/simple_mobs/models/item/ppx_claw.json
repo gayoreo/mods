@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/claw",
+  "textures": {
+    "0": "simple_mobs:blocks/claw",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

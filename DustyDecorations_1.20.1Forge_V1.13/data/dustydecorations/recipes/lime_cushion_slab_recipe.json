@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "limecushionslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:lime_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:lime_cushion_slab",
+    "count": 6
+  }
+}

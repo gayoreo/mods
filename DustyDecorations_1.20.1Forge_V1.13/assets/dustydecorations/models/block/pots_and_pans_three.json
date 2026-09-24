@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/potpanthree",
+  "textures": {
+    "all": "dustydecorations:block/pots_and_pans_stack",
+    "particle": "dustydecorations:block/pots_and_pans_stack",
+    "1": "dustydecorations:block/pots_and_pans_stack"
+  },
+  "render_type": "solid"
+}

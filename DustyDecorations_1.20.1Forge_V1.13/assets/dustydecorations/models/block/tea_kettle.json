@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/tea_kettle",
+  "textures": {
+    "all": "dustydecorations:block/t_teapot",
+    "particle": "dustydecorations:block/t_teapot",
+    "0": "dustydecorations:block/t_teapot"
+  },
+  "render_type": "cutout"
+}

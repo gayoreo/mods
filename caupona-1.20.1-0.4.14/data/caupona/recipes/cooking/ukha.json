@@ -1,0 +1,39 @@
+{
+  "type": "caupona:cooking",
+  "allow": [
+    {
+      "type": [
+        "caupona:seafood/fish",
+        "caupona:vegetables/roots"
+      ],
+      "cond": "half"
+    },
+    {
+      "type": "caupona:seafood/fish",
+      "cond": "contains"
+    },
+    {
+      "type": "caupona:vegetables/roots",
+      "cond": "contains"
+    }
+  ],
+  "base": [
+    {
+      "fluid": "caupona:nail_soup"
+    }
+  ],
+  "density": 0.75,
+  "deny": [
+    {
+      "type": "caupona:meats",
+      "cond": "contains"
+    },
+    {
+      "type": "caupona:cereals",
+      "cond": "contains"
+    }
+  ],
+  "output": "caupona:ukha",
+  "priority": 1088,
+  "time": 200
+}

@@ -1,0 +1,48 @@
+{
+  "type": "alchemists_garden:gnome_burrow",
+  "config": {
+    "size": 5,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:grass_block",
+            "Properties": {
+              "snowy": "false"
+            }
+          }
+        },
+        "state": {
+          "Name": "alchemists_garden:gnome_burrow"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dirt_path"
+          }
+        },
+        "state": {
+          "Name": "alchemists_garden:gnome_burrow"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:podzol",
+            "Properties": {
+              "snowy": "false"
+            }
+          }
+        },
+        "state": {
+          "Name": "alchemists_garden:gnome_burrow"
+        }
+      }
+    ]
+  }
+}

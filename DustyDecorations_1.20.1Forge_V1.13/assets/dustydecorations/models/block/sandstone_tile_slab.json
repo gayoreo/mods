@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "dustydecorations:block/sandstonefloortile",
+    "bottom": "dustydecorations:block/sandstonefloortile",
+    "top": "dustydecorations:block/sandstonefloortile",
+    "side": "dustydecorations:block/sandstonefloortile"
+  },
+  "render_type": "solid"
+}

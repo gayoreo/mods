@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alchemists_garden:block/dirtcoarse",
+    "up": "alchemists_garden:block/royalhole2",
+    "north": "alchemists_garden:block/dirtcoarse",
+    "east": "alchemists_garden:block/dirtcoarse",
+    "south": "alchemists_garden:block/dirtcoarse",
+    "west": "alchemists_garden:block/dirtcoarse",
+    "particle": "alchemists_garden:block/dirtcoarse"
+  },
+  "render_type": "solid"
+}

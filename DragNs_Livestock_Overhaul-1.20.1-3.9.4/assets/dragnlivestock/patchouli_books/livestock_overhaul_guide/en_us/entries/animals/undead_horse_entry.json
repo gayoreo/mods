@@ -1,0 +1,15 @@
+{
+  "name": "O-Undead Horse",
+  "icon": "minecraft:rotten_flesh",
+  "category": "dragnlivestock:animals_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "O-Undead Horses replace both Skeleton and Zombie horses. Occasionally, upon death, your O-Horse may turn undead. You can either let it rot, cure it with a Heart of the Sea, or keep it in whatever stage it's currently in with Coal."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Undead Horses come in multiple different stages and types. As each stage progresses, you have a chance to change your O-Horse's undead type by either taking it to the Nether, a cold biome, a desert, or keeping it in water."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{"type": "greatsword", 
+ "attributes": 
+    {"common": 
+       {"impact": 10.0, 
+        "armor_negation": 6.5, 
+         "max_strikes": 8}
+    },
+  "collider": {
+        "number": 4,
+        "center": [
+            0.0,
+            0.0,
+            -0.5
+        ],
+        "size": [
+            0.4,
+            0.4,
+            1.4
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "dustydecorations:custom/inknquill",
+  "textures": {
+    "all": "dustydecorations:block/inknquill",
+    "particle": "dustydecorations:block/inknquill",
+    "InkNQuillFeatherReverse": "dustydecorations:block/inknquillfeatherreverse",
+    "InkNQuillFeather": "dustydecorations:block/inknquillfeather",
+    "InkNQuill": "dustydecorations:block/inknquill"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_fence_gate_open",
+  "textures": {
+    "particle": "dustydecorations:block/metalfence",
+    "texture": "dustydecorations:block/metalfence"
+  },
+  "render_type": "solid"
+}

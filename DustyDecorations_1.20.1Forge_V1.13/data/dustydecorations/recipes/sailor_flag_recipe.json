@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sailorflag",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:rope"
+    },
+    "b": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:sailor_flag",
+    "count": 2
+  }
+}

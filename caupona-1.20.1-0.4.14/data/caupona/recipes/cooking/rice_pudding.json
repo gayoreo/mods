@@ -1,0 +1,18 @@
+{
+  "type": "caupona:cooking",
+  "allow": [
+    {
+      "type": "caupona:cereals/rice",
+      "cond": "half"
+    }
+  ],
+  "base": [
+    {
+      "fluid": "caupona:scalded_milk"
+    }
+  ],
+  "density": 0.25,
+  "output": "caupona:rice_pudding",
+  "priority": 64,
+  "time": 200
+}

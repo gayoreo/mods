@@ -1,0 +1,49 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.summonball": {
+			"loop": true,
+			"animation_length": 4,
+			"bones": {
+				"bone": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"4.0": {
+							"vector": [-360, 0, -360]
+						}
+					}
+				}
+			}
+		},
+		"animation.summonball.explosion": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 1.5,
+			"bones": {
+				"bone": {
+					"rotation": {
+						"1.375": {
+							"vector": [0, 0, 0]
+						},
+						"1.5": {
+							"vector": [-53.40144, 41.17474, -16.99379]
+						}
+					},
+					"scale": {
+						"0.0": {
+							"vector": [1, 1, 1]
+						},
+						"1.375": {
+							"vector": [0.6, 0.6, 0.6]
+						},
+						"1.5": {
+							"vector": [4, 4, 4]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

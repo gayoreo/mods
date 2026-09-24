@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "particle": "dustydecorations:block/mochawindow",
+    "edge": "dustydecorations:block/blank",
+    "pane": "dustydecorations:block/mochawindow"
+  },
+  "render_type": "translucent"
+}

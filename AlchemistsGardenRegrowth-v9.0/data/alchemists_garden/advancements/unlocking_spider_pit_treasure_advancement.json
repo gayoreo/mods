@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:spider_key"
+    },
+    "title": {
+      "translate": "advancements.unlocking_spider_pit_treasure_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.unlocking_spider_pit_treasure_advancement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "unlocking_spider_pit_treasure_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "alchemists_garden:summon_spider_queen_advancement"
+}

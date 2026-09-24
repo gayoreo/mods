@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/wedged_cleaver",
+  "textures": {
+    "all": "dustydecorations:block/wedged_cleaver",
+    "particle": "dustydecorations:block/wedged_cleaver",
+    "0": "dustydecorations:block/wedged_cleaver"
+  },
+  "render_type": "cutout"
+}

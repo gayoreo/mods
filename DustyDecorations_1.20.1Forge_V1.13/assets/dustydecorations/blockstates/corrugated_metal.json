@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "dustydecorations:block/corrugated_metal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "dustydecorations:block/corrugated_metal"
+    },
+    "axis=z": {
+      "model": "dustydecorations:block/corrugated_metal",
+      "x": 90
+    }
+  }
+}

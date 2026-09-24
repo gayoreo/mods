@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dustydecorations:block/burlap_slab"
+    },
+    "type=top": {
+      "model": "dustydecorations:block/burlap_slab_top"
+    },
+    "type=double": {
+      "model": "dustydecorations:block/burlap_slab_full"
+    }
+  }
+}

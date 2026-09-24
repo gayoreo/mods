@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/staff_of_destruction",
+  "textures": {
+    "1": "simple_mobs:blocks/staff_o_destruction",
+    "particle": "simple_mobs:items/staff_o_destruction_item"
+  }
+}

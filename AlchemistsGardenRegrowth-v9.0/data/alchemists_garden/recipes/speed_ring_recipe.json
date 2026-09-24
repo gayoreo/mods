@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "alchemists_garden:cloudelion"
+    },
+    "1": {
+      "item": "minecraft:feather"
+    },
+    "2": {
+      "item": "alchemists_garden:cloudelion"
+    },
+    "4": {
+      "item": "alchemists_garden:golden_ring"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:speed_ring",
+    "count": 1
+  }
+}

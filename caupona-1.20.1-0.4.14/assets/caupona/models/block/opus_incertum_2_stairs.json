@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/stairs",
+	"textures": {
+		"bottom": "caupona:block/opus_incertum_2",
+		"top": "caupona:block/opus_incertum_2",
+		"side": "caupona:block/opus_incertum_2"
+	}
+}

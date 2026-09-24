@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "snowyslabrecipewall",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:snowy_cobblestone"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:snowy_cobblestone_wall",
+    "count": 6
+  }
+}

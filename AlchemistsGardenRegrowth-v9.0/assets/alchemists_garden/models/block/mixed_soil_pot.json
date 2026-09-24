@@ -1,0 +1,11 @@
+{
+  "parent": "alchemists_garden:custom/mixedsoilpot",
+  "textures": {
+    "all": "alchemists_garden:block/mixedsoilpottexture1",
+    "particle": "alchemists_garden:block/mixedsoilpottexture1",
+    "0": "alchemists_garden:block/mixedsoilpottexture1",
+    "1": "alchemists_garden:block/mixedsoilblocktexture2",
+    "3": "alchemists_garden:block/mixedsoil"
+  },
+  "render_type": "cutout"
+}

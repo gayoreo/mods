@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dustydecorations:block/yellowcushion",
+    "particle": "dustydecorations:block/yellowcushion"
+  },
+  "render_type": "solid"
+}

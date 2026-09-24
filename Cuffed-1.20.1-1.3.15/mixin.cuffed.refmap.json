@@ -1,0 +1,100 @@
+{
+  "mappings": {
+    "com/lazrproductions/cuffed/mixin/EntityRendererMixin": {
+      "render": "Lnet/minecraft/client/renderer/entity/EntityRenderer;m_7392_(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+    },
+    "com/lazrproductions/cuffed/mixin/MouseHandlerMixin": {
+      "onPress": "Lnet/minecraft/client/MouseHandler;m_91530_(JIII)V",
+      "onScroll": "Lnet/minecraft/client/MouseHandler;m_91526_(JDD)V"
+    },
+    "com/lazrproductions/cuffed/mixin/LivingEntityMixin": {
+      "addAdditionalSaveData": "Lnet/minecraft/world/entity/LivingEntity;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "defineSynchedData": "Lnet/minecraft/world/entity/LivingEntity;m_8097_()V",
+      "tick": "Lnet/minecraft/world/entity/LivingEntity;m_8119_()V",
+      "readAdditionalSaveData": "Lnet/minecraft/world/entity/LivingEntity;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V"
+    },
+    "com/lazrproductions/cuffed/mixin/BundleItemMixin": {
+      "appendHoverText": "Lnet/minecraft/world/item/BundleItem;m_7373_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V"
+    },
+    "com/lazrproductions/cuffed/mixin/LocalPlayerMixin": {
+      "canStartSprinting": "Lnet/minecraft/client/player/LocalPlayer;m_264082_()Z"
+    },
+    "com/lazrproductions/cuffed/mixin/HumanoidModelMixin": {
+      "setupAnim": "Lnet/minecraft/client/model/HumanoidModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+    },
+    "com/lazrproductions/cuffed/mixin/ItemMixin": {
+      "appendHoverText": "Lnet/minecraft/world/item/Item;m_7373_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V"
+    },
+    "com/lazrproductions/cuffed/mixin/EntityMixin": {
+      "isControlledByLocalInstance": "Lnet/minecraft/world/entity/Entity;m_6109_()Z"
+    },
+    "com/lazrproductions/cuffed/mixin/KeyboardHandlerMixin": {
+      "keyPress": "Lnet/minecraft/client/KeyboardHandler;m_90893_(JIIII)V"
+    },
+    "com/lazrproductions/cuffed/mixin/PlayerMixin": {
+      "wantsToStopRiding": "Lnet/minecraft/world/entity/player/Player;m_36342_()Z",
+      "addAdditionalSaveData": "Lnet/minecraft/world/entity/player/Player;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+      "defineSynchedData": "Lnet/minecraft/world/entity/player/Player;m_8097_()V",
+      "getName": "Lnet/minecraft/world/entity/player/Player;m_7755_()Lnet/minecraft/network/chat/Component;",
+      "getDisplayName": "Lnet/minecraft/world/entity/player/Player;m_5446_()Lnet/minecraft/network/chat/Component;",
+      "tick": "Lnet/minecraft/world/entity/player/Player;m_8119_()V",
+      "readAdditionalSaveData": "Lnet/minecraft/world/entity/player/Player;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V"
+    },
+    "com/lazrproductions/cuffed/mixin/EffectRenderingInventoryScreenMixin": {
+      "getEffectName": "Lnet/minecraft/client/gui/screens/inventory/EffectRenderingInventoryScreen;m_194000_(Lnet/minecraft/world/effect/MobEffectInstance;)Lnet/minecraft/network/chat/Component;"
+    },
+    "com/lazrproductions/cuffed/mixin/ItemInHandRendererMixin": {
+      "renderArmWithItem": "Lnet/minecraft/client/renderer/ItemInHandRenderer;m_109371_(Lnet/minecraft/client/player/AbstractClientPlayer;FFLnet/minecraft/world/InteractionHand;FLnet/minecraft/world/item/ItemStack;FLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/lazrproductions/cuffed/mixin/EntityRendererMixin": {
+        "render": "Lnet/minecraft/client/renderer/entity/EntityRenderer;m_7392_(Lnet/minecraft/world/entity/Entity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+      },
+      "com/lazrproductions/cuffed/mixin/MouseHandlerMixin": {
+        "onPress": "Lnet/minecraft/client/MouseHandler;m_91530_(JIII)V",
+        "onScroll": "Lnet/minecraft/client/MouseHandler;m_91526_(JDD)V"
+      },
+      "com/lazrproductions/cuffed/mixin/LivingEntityMixin": {
+        "addAdditionalSaveData": "Lnet/minecraft/world/entity/LivingEntity;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "defineSynchedData": "Lnet/minecraft/world/entity/LivingEntity;m_8097_()V",
+        "tick": "Lnet/minecraft/world/entity/LivingEntity;m_8119_()V",
+        "readAdditionalSaveData": "Lnet/minecraft/world/entity/LivingEntity;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V"
+      },
+      "com/lazrproductions/cuffed/mixin/BundleItemMixin": {
+        "appendHoverText": "Lnet/minecraft/world/item/BundleItem;m_7373_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V"
+      },
+      "com/lazrproductions/cuffed/mixin/LocalPlayerMixin": {
+        "canStartSprinting": "Lnet/minecraft/client/player/LocalPlayer;m_264082_()Z"
+      },
+      "com/lazrproductions/cuffed/mixin/HumanoidModelMixin": {
+        "setupAnim": "Lnet/minecraft/client/model/HumanoidModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+      },
+      "com/lazrproductions/cuffed/mixin/ItemMixin": {
+        "appendHoverText": "Lnet/minecraft/world/item/Item;m_7373_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Ljava/util/List;Lnet/minecraft/world/item/TooltipFlag;)V"
+      },
+      "com/lazrproductions/cuffed/mixin/EntityMixin": {
+        "isControlledByLocalInstance": "Lnet/minecraft/world/entity/Entity;m_6109_()Z"
+      },
+      "com/lazrproductions/cuffed/mixin/KeyboardHandlerMixin": {
+        "keyPress": "Lnet/minecraft/client/KeyboardHandler;m_90893_(JIIII)V"
+      },
+      "com/lazrproductions/cuffed/mixin/PlayerMixin": {
+        "wantsToStopRiding": "Lnet/minecraft/world/entity/player/Player;m_36342_()Z",
+        "addAdditionalSaveData": "Lnet/minecraft/world/entity/player/Player;m_7380_(Lnet/minecraft/nbt/CompoundTag;)V",
+        "defineSynchedData": "Lnet/minecraft/world/entity/player/Player;m_8097_()V",
+        "getName": "Lnet/minecraft/world/entity/player/Player;m_7755_()Lnet/minecraft/network/chat/Component;",
+        "getDisplayName": "Lnet/minecraft/world/entity/player/Player;m_5446_()Lnet/minecraft/network/chat/Component;",
+        "tick": "Lnet/minecraft/world/entity/player/Player;m_8119_()V",
+        "readAdditionalSaveData": "Lnet/minecraft/world/entity/player/Player;m_7378_(Lnet/minecraft/nbt/CompoundTag;)V"
+      },
+      "com/lazrproductions/cuffed/mixin/EffectRenderingInventoryScreenMixin": {
+        "getEffectName": "Lnet/minecraft/client/gui/screens/inventory/EffectRenderingInventoryScreen;m_194000_(Lnet/minecraft/world/effect/MobEffectInstance;)Lnet/minecraft/network/chat/Component;"
+      },
+      "com/lazrproductions/cuffed/mixin/ItemInHandRendererMixin": {
+        "renderArmWithItem": "Lnet/minecraft/client/renderer/ItemInHandRenderer;m_109371_(Lnet/minecraft/client/player/AbstractClientPlayer;FFLnet/minecraft/world/InteractionHand;FLnet/minecraft/world/item/ItemStack;FLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+      }
+    }
+  }
+}

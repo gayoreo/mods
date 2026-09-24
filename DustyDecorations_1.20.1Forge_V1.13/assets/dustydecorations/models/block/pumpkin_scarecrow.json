@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/pumpkin_scarecrow",
+  "textures": {
+    "all": "dustydecorations:block/pumpkin_scarecrow",
+    "particle": "dustydecorations:block/pumpkin_scarecrow",
+    "0": "dustydecorations:block/pumpkin_scarecrow"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/cutting_board",
+  "textures": {
+    "all": "dustydecorations:block/cutting_board",
+    "particle": "dustydecorations:block/cutting_board",
+    "0": "dustydecorations:block/cutting_board"
+  },
+  "render_type": "solid"
+}

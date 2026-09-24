@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dustydecorations:block/soulwallpaper",
+    "particle": "dustydecorations:block/soulwallpaper"
+  },
+  "render_type": "solid"
+}

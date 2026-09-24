@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "bratwurstdog",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "item": "dustydecorations:cooked_bratwurst"
+    }
+  ],
+  "result": {
+    "item": "dustydecorations:bratwurst_dog",
+    "count": 1
+  }
+}

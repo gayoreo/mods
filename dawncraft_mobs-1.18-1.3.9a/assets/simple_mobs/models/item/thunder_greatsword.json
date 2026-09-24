@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/thunder_sword",
+  "textures": {
+    "missing": "simple_mobs:blocks/thunder_sword",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

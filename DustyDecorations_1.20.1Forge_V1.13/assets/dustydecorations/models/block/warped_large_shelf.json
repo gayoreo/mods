@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/warped_shelf",
+  "textures": {
+    "all": "minecraft:block/warped_planks",
+    "particle": "minecraft:block/warped_planks",
+    "0": "minecraft:block/warped_planks"
+  },
+  "render_type": "solid"
+}

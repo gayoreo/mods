@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:blood_rose"
+    },
+    "title": {
+      "translate": "advancements.obtain_blood_rose.title"
+    },
+    "description": {
+      "translate": "advancements.obtain_blood_rose.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "obtain_blood_rose": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:blood_rose"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:alchemists_garden_base"
+}

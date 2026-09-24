@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/life_preserver",
+  "textures": {
+    "all": "dustydecorations:block/life_preserver",
+    "particle": "dustydecorations:block/life_preserver",
+    "0": "dustydecorations:block/life_preserver"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:exaustum_flower"
+    },
+    "title": {
+      "translate": "advancements.obtaining_exaustum_allium.title"
+    },
+    "description": {
+      "translate": "advancements.obtaining_exaustum_allium.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "obtaining_exaustum_allium": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:exaustum_flower"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:alchemists_garden_base"
+}

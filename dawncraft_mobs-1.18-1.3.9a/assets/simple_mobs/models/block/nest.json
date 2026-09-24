@@ -1,0 +1,8 @@
+{
+  "parent": "simple_mobs:custom/nest",
+  "textures": {
+    "all": "simple_mobs:blocks/nest",
+    "particle": "simple_mobs:blocks/nest",
+    "1": "simple_mobs:blocks/nest"
+  }
+}

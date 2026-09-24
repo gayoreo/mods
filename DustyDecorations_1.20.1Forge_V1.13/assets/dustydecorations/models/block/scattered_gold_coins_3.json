@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/loosegoldcoins3",
+  "textures": {
+    "all": "dustydecorations:block/scattered_coins_3",
+    "particle": "dustydecorations:block/scattered_coins_3",
+    "LooseGoldCoins": "dustydecorations:block/scattered_coins_3",
+    "trans": "dustydecorations:block/transparent"
+  },
+  "render_type": "cutout"
+}

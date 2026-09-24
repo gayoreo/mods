@@ -1,0 +1,2 @@
+zone/moddev/mc/ironagefurniture/api/blocks/base/FurnitureBlock generateShapes (Lcom/google/common/collect/ImmutableList;)V var1
+zone/moddev/mc/ironagefurniture/api/blocks/base/LightHolder ActivateSconce (Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult; var1 var2 var3 var4 var5 var6

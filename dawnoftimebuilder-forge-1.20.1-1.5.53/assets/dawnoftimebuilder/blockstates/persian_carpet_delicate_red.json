@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "placed_face=up":    { "model": "dawnoftimebuilder:block/persian/persian_carpet_delicate_red" },
+        "placed_face=north": { "model": "dawnoftimebuilder:block/persian/persian_carpet_delicate_red_wall" },
+        "placed_face=east":  { "model": "dawnoftimebuilder:block/persian/persian_carpet_delicate_red_wall", "y": 90 },
+        "placed_face=south": { "model": "dawnoftimebuilder:block/persian/persian_carpet_delicate_red_wall", "y": 180 },
+        "placed_face=west":  { "model": "dawnoftimebuilder:block/persian/persian_carpet_delicate_red_wall", "y": 270 }
+    }
+}

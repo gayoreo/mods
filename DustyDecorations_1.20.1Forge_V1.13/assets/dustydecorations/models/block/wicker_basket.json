@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/wicker_basket_new",
+  "textures": {
+    "all": "dustydecorations:block/wicker_basket_new",
+    "particle": "dustydecorations:block/wicker_basket_new",
+    "0": "dustydecorations:block/wicker_basket_new"
+  },
+  "render_type": "cutout_mipped"
+}

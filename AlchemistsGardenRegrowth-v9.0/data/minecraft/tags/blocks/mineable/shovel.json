@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "alchemists_garden:mixed_soil",
+    "alchemists_garden:gnome_burrow",
+    "alchemists_garden:empty_gnome_burrow",
+    "alchemists_garden:royal_burrow",
+    "alchemists_garden:burrow_gate",
+    "alchemists_garden:burrow_wall",
+    "alchemists_garden:burrow_bricks_slab",
+    "alchemists_garden:burrow_bricks_stairs",
+    "alchemists_garden:burrow_bricks_wall"
+  ]
+}

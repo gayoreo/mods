@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/pumpkin_scarecrow"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/pumpkin_scarecrow",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/pumpkin_scarecrow",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/pumpkin_scarecrow",
+      "y": 270
+    }
+  }
+}

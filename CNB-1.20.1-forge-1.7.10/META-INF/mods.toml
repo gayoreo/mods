@@ -1,0 +1,48 @@
+modLoader="javafml"
+loaderVersion="[47]"
+license="LGPLv3"
+issueTrackerURL="https://github.com/nice-john/Creatures_And_Beasts-Forge/issues"
+[[mods]]
+modId="cnb"
+version="${file.jarVersion}"
+displayName="Creatures and Beasts: Unofficial Port"
+# updateJSONURL="http://myurl.me/"
+displayURL="https://github.com/CreaturesAndBeasts/Creatures_And_Beasts-Forge"
+logoFile="logo.png"
+credits="Credits to AzureDoom and Christian for contributions to the code"
+authors="Joosh, CGessinger, and HellionGames"
+description='''
+Creatures and Beasts is a vanilla-style creature mod which fills each biome with new mobs, from the plains of the overworld to the void of the end!
+'''
+[[dependencies.cnb]]
+    modId = "forge"
+    mandatory = true
+    versionRange = "[47.0.0,47.9.0]"
+    ordering = "NONE"
+    side = "BOTH"
+
+[[dependencies.cnb]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.cnb]]
+    modId="geckolib"
+    mandatory=true
+    versionRange="[4.0,4.9]"
+    ordering="BEFORE"
+    side="BOTH"
+
+# End Whale rider tilt + jitter-suppression mixin — disabled for now,
+# visually indistinguishable in playtesting. Re-enable by uncommenting the
+# block below AND adding MixinLivingEntityRenderer back to client[] in
+# creatures-and-beasts.mixins.json. Source files (MixinLivingEntityRenderer.java
+# + creatures-and-beasts.mixins.json) remain in place.
+# (Historical note: this block was completely missing on this branch and the
+# mixin config file was misnamed `creatures-and-beasts.mixins` without .json,
+# so the mixin had never actually been live before. Mirrors the NeoForge
+# 1.21.1 branch's "off but ready" pattern.)
+# [[mixins]]
+#     config = "creatures-and-beasts.mixins.json"

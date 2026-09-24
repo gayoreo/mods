@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sandstonetilestairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:sandstone_tile"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:sandstone_tile_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/bigmegalodontooth",
+  "textures": {
+    "all": "dustydecorations:block/megalodontooth",
+    "particle": "dustydecorations:block/megalodontooth",
+    "MegalodonTooth": "dustydecorations:block/megalodontooth",
+    "MegalodonToothReversed": "dustydecorations:block/megalodontoothreversed"
+  },
+  "render_type": "cutout"
+}

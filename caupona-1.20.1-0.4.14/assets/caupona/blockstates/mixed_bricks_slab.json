@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"type=bottom": {
+			"model": "caupona:block/mixed_bricks_slab"
+		},
+		"type=double": {
+			"model": "caupona:block/mixed_bricks"
+		},
+		"type=top": {
+			"model": "caupona:block/mixed_bricks_slab_top"
+		}
+	}
+}

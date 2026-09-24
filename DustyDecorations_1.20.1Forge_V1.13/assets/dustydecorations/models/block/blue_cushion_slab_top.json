@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "dustydecorations:block/bluecushion",
+    "bottom": "dustydecorations:block/bluecushion",
+    "top": "dustydecorations:block/bluecushion",
+    "side": "dustydecorations:block/bluecushion"
+  },
+  "render_type": "solid"
+}

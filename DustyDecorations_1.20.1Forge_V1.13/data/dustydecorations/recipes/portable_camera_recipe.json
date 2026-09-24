@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "portablecamera",
+  "category": "building",
+  "pattern": [
+    " ab",
+    "cde",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "item": "minecraft:spyglass"
+    },
+    "c": {
+      "item": "minecraft:stone_button"
+    },
+    "d": {
+      "item": "minecraft:gunpowder"
+    },
+    "e": {
+      "item": "minecraft:observer"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:portable_camera",
+    "count": 1
+  }
+}

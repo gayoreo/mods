@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "particle": "dustydecorations:block/banisteracacia",
+    "edge": "dustydecorations:block/banisteracaciatop",
+    "pane": "dustydecorations:block/banisteracacia"
+  },
+  "render_type": "cutout_mipped"
+}

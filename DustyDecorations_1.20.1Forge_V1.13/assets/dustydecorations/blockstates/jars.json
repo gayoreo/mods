@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/jars"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/jars",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/jars",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/jars",
+      "y": 270
+    }
+  }
+}

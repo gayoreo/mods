@@ -1,0 +1,11 @@
+{
+    "trail": {
+    	"color": [156, 42, 76],
+    	"begin_pos": [0.0, 0.1, -0.1],
+    	"end_pos": [0.0, -0.05, -3.8],
+    	"lifetime": 40,
+		"interpolations": 5,
+    	"texture_path": "simple_mobs:textures/particle/cloud_trail.png",
+    	"particle_type": "epicfight:swing_trail"
+    }
+}

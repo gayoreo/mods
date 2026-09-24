@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/door_top_left_open",
+	"textures": {
+		"top": "caupona:block/walnut_door_top",
+		"bottom": "caupona:block/walnut_door_bottom"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dustydecorations:block/deepembeddedfishfossil",
+    "particle": "dustydecorations:block/deepembeddedfishfossil"
+  },
+  "render_type": "solid"
+}

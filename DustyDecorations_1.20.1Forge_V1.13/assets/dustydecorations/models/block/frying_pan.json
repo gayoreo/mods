@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/frying_pan",
+  "textures": {
+    "all": "dustydecorations:block/frying_pan",
+    "particle": "dustydecorations:block/frying_pan",
+    "0": "dustydecorations:block/frying_pan"
+  },
+  "render_type": "solid"
+}

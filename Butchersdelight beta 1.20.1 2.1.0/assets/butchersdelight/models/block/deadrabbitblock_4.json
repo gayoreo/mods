@@ -1,0 +1,9 @@
+{
+  "parent": "butchersdelight:custom/dead_rabbit_gold",
+  "textures": {
+    "all": "butchersdelight:block/dead_rabbit_block4",
+    "particle": "butchersdelight:block/rabbitskinned",
+    "0": "butchersdelight:block/rabbitgold"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "iron_door_knocker",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    " b ",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:iron_door_knocker",
+    "count": 6
+  }
+}

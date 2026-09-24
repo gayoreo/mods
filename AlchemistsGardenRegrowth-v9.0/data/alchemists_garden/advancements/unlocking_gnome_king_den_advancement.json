@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:burrow_gate"
+    },
+    "title": {
+      "translate": "advancements.unlocking_gnome_king_den_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.unlocking_gnome_king_den_advancement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "unlocking_gnome_king_den_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "alchemists_garden:obtaining_gnome_king_den_key_advancement"
+}

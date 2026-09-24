@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/honeyjar2",
+  "textures": {
+    "all": "dustydecorations:block/honeyjar",
+    "particle": "dustydecorations:block/honeyjar",
+    "JuniperJelly": "dustydecorations:block/honeyjar"
+  },
+  "render_type": "solid"
+}

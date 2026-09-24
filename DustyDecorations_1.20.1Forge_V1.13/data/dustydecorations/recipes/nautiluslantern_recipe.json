@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "nautiluslantern",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:big_nautilus_shell"
+    },
+    "b": {
+      "item": "minecraft:lantern"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:nautilus_lantern",
+    "count": 1
+  }
+}

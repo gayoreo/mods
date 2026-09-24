@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/sglmint",
+  "textures": {
+    "all": "dustydecorations:block/sglmint",
+    "particle": "dustydecorations:block/sglmint",
+    "0": "dustydecorations:block/sglmint",
+    "missing": "dustydecorations:block/sglmint"
+  },
+  "render_type": "translucent"
+}

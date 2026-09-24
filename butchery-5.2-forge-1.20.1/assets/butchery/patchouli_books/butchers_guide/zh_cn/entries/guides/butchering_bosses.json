@@ -1,0 +1,20 @@
+{
+    "name": "屠宰BOSS生物",
+    "icon": "butchery:ender_dragon_carcass",
+    "category": "butchery:guides",
+    "read_by_default": true,
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:ender_dragon_carcass",
+            "link_recipe": true,
+            "title": "屠宰BOSS生物",
+            "text": "屠宰BOSS生物与普通生物略有区别，但大体流程相近。$(br2)由于它们体型巨大、重量惊人，无法被拾取，相信我...我已经试过了。$(br2)用$(l:butchery:items/cleavers)剁肉刀$()给予最后一击后，BOSS的尸体会掉落地面，远古守卫者的尸体则会漂浮。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "下一步十分简单，拿起你的剁肉刀直接屠宰即可！$(br2)但获取并屠宰BOSS尸体有一个前提条件：必须使用下界合金剁肉刀。"
+        }
+    ]
+}

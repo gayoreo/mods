@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/sunflower_wallpaper"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/sunflower_wallpaper",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/sunflower_wallpaper",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/sunflower_wallpaper",
+      "y": 270
+    }
+  }
+}

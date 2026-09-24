@@ -1,0 +1,23 @@
+{
+  "type": "caupona:dolium",
+  "amount": 0,
+  "container": {
+    "item": "minecraft:flower_pot"
+  },
+  "density": 0.0,
+  "items": [
+    {
+      "count": 4,
+      "item": {
+        "tag": "caupona:garum_fish"
+      }
+    }
+  ],
+  "keepInfo": false,
+  "output": {
+    "type": "forge:nbt",
+    "count": 1,
+    "item": "caupona:garum_spice_jar",
+    "nbt": "{Damage:0}"
+  }
+}

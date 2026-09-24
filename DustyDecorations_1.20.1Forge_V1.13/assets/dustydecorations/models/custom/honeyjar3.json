@@ -1,0 +1,335 @@
+{
+  "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+  "ambientocclusion": false,
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "head": {
+      "rotation": [
+        0,
+        180,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        315,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    }
+  },
+  "elements": [
+    {
+      "name": "Jelly1",
+      "from": [
+        9.5,
+        0,
+        5
+      ],
+      "to": [
+        14.5,
+        7,
+        10
+      ],
+      "faces": {
+        "north": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "east": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "south": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "west": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "up": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            11,
+            0,
+            16,
+            5
+          ]
+        },
+        "down": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            11,
+            5,
+            16,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "Jelly2",
+      "from": [
+        2,
+        0,
+        7
+      ],
+      "to": [
+        7,
+        7,
+        12
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": 45.0
+      },
+      "faces": {
+        "north": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "east": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "south": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "west": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "up": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            11,
+            0,
+            16,
+            5
+          ]
+        },
+        "down": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            11,
+            5,
+            16,
+            10
+          ]
+        }
+      }
+    },
+    {
+      "name": "Jelly3",
+      "from": [
+        2,
+        0,
+        6
+      ],
+      "to": [
+        7,
+        7,
+        11
+      ],
+      "rotation": {
+        "origin": [
+          8,
+          8,
+          8
+        ],
+        "axis": "y",
+        "angle": -45.0
+      },
+      "faces": {
+        "north": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "east": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "south": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "west": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            0,
+            0,
+            5,
+            7
+          ]
+        },
+        "up": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            11,
+            0,
+            16,
+            5
+          ]
+        },
+        "down": {
+          "texture": "#JuniperJelly",
+          "uv": [
+            11,
+            5,
+            16,
+            10
+          ]
+        }
+      }
+    }
+  ]
+}

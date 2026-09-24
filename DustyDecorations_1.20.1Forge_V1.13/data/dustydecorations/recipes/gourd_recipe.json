@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "gourds",
+  "category": "building",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:gourd",
+    "count": 3
+  }
+}

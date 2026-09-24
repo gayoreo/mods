@@ -1,0 +1,12 @@
+{
+  "parent": "simple_mobs:custom/puzzlemaster",
+  "textures": {
+    "all": "simple_mobs:blocks/quartz_pillar",
+    "particle": "simple_mobs:blocks/quartz_pillar",
+    "0": "simple_mobs:blocks/crying_obsidian",
+    "1": "simple_mobs:blocks/puzzlemaster",
+    "2": "simple_mobs:blocks/puzzlemaster",
+    "3": "simple_mobs:blocks/middleball",
+    "missing": "simple_mobs:blocks/puzzlemaster"
+  }
+}

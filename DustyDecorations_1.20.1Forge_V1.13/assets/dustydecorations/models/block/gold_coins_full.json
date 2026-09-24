@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dustydecorations:block/gold_coins_top",
+    "up": "dustydecorations:block/gold_coins_top",
+    "north": "dustydecorations:block/gold_coins",
+    "east": "dustydecorations:block/gold_coins",
+    "south": "dustydecorations:block/gold_coins",
+    "west": "dustydecorations:block/gold_coins",
+    "particle": "dustydecorations:block/gold_coins_top"
+  },
+  "render_type": "solid"
+}

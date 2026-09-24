@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/black_wool_awning",
+  "textures": {
+    "all": "dustydecorations:block/black_wool_awning",
+    "particle": "dustydecorations:block/black_wool_awning",
+    "0": "dustydecorations:block/black_wool_awning"
+  },
+  "render_type": "cutout_mipped"
+}

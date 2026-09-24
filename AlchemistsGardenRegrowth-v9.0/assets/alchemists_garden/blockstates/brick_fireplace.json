@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "alchemists_garden:block/brick_fireplace"
+    },
+    "facing=east": {
+      "model": "alchemists_garden:block/brick_fireplace",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "alchemists_garden:block/brick_fireplace",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "alchemists_garden:block/brick_fireplace",
+      "y": 270
+    }
+  }
+}

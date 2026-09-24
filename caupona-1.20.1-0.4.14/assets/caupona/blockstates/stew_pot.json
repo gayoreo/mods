@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "caupona:block/stew_pot",
+      "y": 90
+    },
+    "axis=z": {
+      "model": "caupona:block/stew_pot"
+    }
+  }
+}

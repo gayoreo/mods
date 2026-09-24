@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/displayedoars",
+  "textures": {
+    "all": "dustydecorations:block/displayedoars",
+    "particle": "dustydecorations:block/displayedoars",
+    "0": "dustydecorations:block/displayedoars"
+  },
+  "render_type": "solid"
+}

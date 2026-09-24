@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "dustydecorations:item/equineskullitem"
+  },
+  "render_type": "translucent"
+}

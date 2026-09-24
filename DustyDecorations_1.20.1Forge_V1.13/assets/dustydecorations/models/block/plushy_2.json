@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/plushalex",
+  "textures": {
+    "all": "dustydecorations:block/alexplush",
+    "particle": "dustydecorations:block/alexplush",
+    "0": "dustydecorations:block/alexplush"
+  },
+  "render_type": "cutout"
+}

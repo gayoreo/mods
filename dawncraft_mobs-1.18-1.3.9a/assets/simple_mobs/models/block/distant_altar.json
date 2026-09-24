@@ -1,0 +1,8 @@
+{
+  "parent": "simple_mobs:custom/distant_altar",
+  "textures": {
+    "all": "simple_mobs:blocks/distant_altar",
+    "particle": "simple_mobs:blocks/distant_altar",
+    "0": "simple_mobs:blocks/distant_altar"
+  }
+}

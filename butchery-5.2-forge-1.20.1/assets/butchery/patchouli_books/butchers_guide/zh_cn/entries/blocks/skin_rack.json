@@ -1,0 +1,24 @@
+{
+    "name": "鞣皮架",
+    "icon": "butchery:skin_rack",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:skin_rack",
+            "link_recipe": true,
+            "title": "鞣皮架",
+            "text": "§d鞣皮架§0可将兽皮鞣制成皮革。$(br2)使用方法：$(br)1、手持兽皮右键鞣皮架放上兽皮；$(br)2、再用浸湿的海绵、抹布或水瓶将兽皮打湿；$(br)3、最后手持盐右键湿润的兽皮。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:skinrackrecipe"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "完成以上步骤后，等待兽皮鞣制完成即可变为皮革。"
+        }
+    ]
+}

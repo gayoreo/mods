@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "dustydecorations:cerulean_seaglass_pane",
+    "dustydecorations:teal_seaglass_pane",
+    "dustydecorations:mint_seaglass_pane",
+    "dustydecorations:hazel_seaglass_pane",
+    "dustydecorations:scarlett_seaglass_pane",
+    "dustydecorations:honey_seaglass_pane",
+    "dustydecorations:taupe_seaglass_pane",
+    "dustydecorations:mocha_seaglass_pane",
+    "dustydecorations:cerulean_sea_window_pane",
+    "dustydecorations:mint_sea_window_pane",
+    "dustydecorations:hazel_sea_window_pane",
+    "dustydecorations:scarlet_sea_window_pane",
+    "dustydecorations:honey_sea_window_pane",
+    "dustydecorations:taupe_sea_window_pane",
+    "dustydecorations:mocha_sea_window_pane",
+    "dustydecorations:teal_sea_window_pane",
+    "dustydecorations:frosted_seaglass_pane",
+    "dustydecorations:liquorice_seaglass_pane",
+    "dustydecorations:liquorice_sea_window_pane"
+  ]
+}

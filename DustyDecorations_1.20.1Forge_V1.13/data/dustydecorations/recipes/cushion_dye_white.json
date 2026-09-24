@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cushionlightwhite",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:plain_cushion"
+    },
+    "b": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:white_cushion",
+    "count": 8
+  }
+}

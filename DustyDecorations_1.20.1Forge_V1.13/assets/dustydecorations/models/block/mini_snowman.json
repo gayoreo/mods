@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/mini_snowman",
+  "textures": {
+    "all": "dustydecorations:block/mini_snowman",
+    "particle": "dustydecorations:block/mini_snowman",
+    "0": "dustydecorations:block/mini_snowman"
+  },
+  "render_type": "cutout"
+}

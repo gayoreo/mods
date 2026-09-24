@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/giant_seal",
+  "textures": {
+    "0": "simple_mobs:blocks/giant_seal_item",
+    "particle": "simple_mobs:items/giant_seal"
+  }
+}

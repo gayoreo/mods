@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/hanging_lasso"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/hanging_lasso",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/hanging_lasso",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/hanging_lasso",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "dustydecorations:block/hanging_lasso",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "dustydecorations:block/hanging_lasso",
+      "x": 90
+    }
+  }
+}

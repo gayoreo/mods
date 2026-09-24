@@ -1,0 +1,6 @@
+{
+  "parent": "dustydecorations:displaysettings/gifulampitem.animation",
+  "textures": {
+    "particle": "dustydecorations:block/illagerpaperlantern"
+  }
+}

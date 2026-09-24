@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "smoothstonebrickslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:smooth_stone_brick"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:smooth_stone_brick_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dustydecorations:block/wicker_slab"
+    },
+    "type=top": {
+      "model": "dustydecorations:block/wicker_slab_top"
+    },
+    "type=double": {
+      "model": "dustydecorations:block/wicker_slab_full"
+    }
+  }
+}

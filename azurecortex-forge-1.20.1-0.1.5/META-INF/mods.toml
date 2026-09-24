@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+# Only reenable if you have a issue tracker URL
+issueTrackerURL="https://github.com/AzureDoom/AzureCortex/issues"
+license="MIT"
+[[mods]]
+modId="azurecortex"
+version="0.1.5"
+displayName="AzureCortex"
+displayURL="https://modrinth.com/project/azurecortex"
+logoFile="icon.png"
+credits="AzureDoom"
+authors="AzureDoom"
+description='''A modular Minecraft entity AI framework combining behavior trees, GOAP planning, blackboards, interruptible actions, and custom navigation.'''
+[[dependencies.azurecortex]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.azurecortex]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1, 1.20.2)"
+    ordering="NONE"
+    side="BOTH"

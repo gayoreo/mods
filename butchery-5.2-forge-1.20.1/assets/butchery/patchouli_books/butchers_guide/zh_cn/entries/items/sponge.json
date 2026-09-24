@@ -1,0 +1,21 @@
+{
+    "name": "海绵",
+    "icon": "butchery:sponge",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:sponge",
+            "link_recipe": true,
+            "title": "海绵",
+            "text": "§d海绵§0有多种用途。$(br2)可擦拭沾满血迹的屠宰台；$(br2)若放血时未放置血箆，也可用它清理地面血迹；$(br2)还能在给兽皮撒盐前将其浸湿。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:spongerecipe",
+            "text": "上述配方可逆向合成。将海绵右键水源方块或装满水的炼药锅，即可将其浸湿。"
+        }
+    ]
+}

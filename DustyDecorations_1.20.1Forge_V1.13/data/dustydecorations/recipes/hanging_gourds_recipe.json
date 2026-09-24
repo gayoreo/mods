@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hanginggourds",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "tag": "c:ropes"
+    },
+    "b": {
+      "item": "dustydecorations:gourd"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:hanging_gourds",
+    "count": 4
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/wicker_basket_glowberry",
+  "textures": {
+    "all": "dustydecorations:block/glow_berries_barrel",
+    "particle": "dustydecorations:block/glow_berries_barrel",
+    "0": "dustydecorations:block/wicker_basket_new",
+    "1": "dustydecorations:block/basket_glowberries"
+  },
+  "render_type": "cutout_mipped"
+}

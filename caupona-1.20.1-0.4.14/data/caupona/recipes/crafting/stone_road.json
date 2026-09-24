@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"SSS",
+		"==="
+	],
+	"key": {
+		"S": {
+			"item": "minecraft:stone_brick_slab"
+		},
+		"=": {
+			"tag": "caupona:mosaic_bases"
+		}
+	},
+	"result": {
+		"item": "caupona:stone_road",
+		"count": 3
+	}
+}

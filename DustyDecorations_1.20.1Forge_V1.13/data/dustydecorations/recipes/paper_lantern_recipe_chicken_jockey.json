@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "paperlanterncraft",
+  "category": "building",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:zombie_head"
+    },
+    "b": {
+      "item": "dustydecorations:paper_lantern"
+    },
+    "c": {
+      "item": "minecraft:cooked_chicken"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:chicken_jockey_paper_lantern",
+    "count": 1
+  }
+}

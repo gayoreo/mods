@@ -1,0 +1,7 @@
+{
+  "parent": "butchersdelight:custom/dead_rabbit_gold",
+  "textures": {
+    "0": "butchersdelight:block/rabbitgold",
+    "particle": "butchersdelight:item/rabbit_gold"
+  }
+}

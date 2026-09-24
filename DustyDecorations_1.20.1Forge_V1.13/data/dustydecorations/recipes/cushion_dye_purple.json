@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cushionpurple",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:plain_cushion"
+    },
+    "b": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:purple_cushion",
+    "count": 8
+  }
+}

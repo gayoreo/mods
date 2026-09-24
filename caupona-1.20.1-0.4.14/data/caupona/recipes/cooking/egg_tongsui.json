@@ -1,0 +1,40 @@
+{
+  "type": "caupona:cooking",
+  "allow": [
+    {
+      "type": "caupona:eggs",
+      "cond": "half"
+    },
+    {
+      "type": "caupona:sugar",
+      "cond": "contains"
+    }
+  ],
+  "base": [
+    {
+      "fluid": "caupona:nail_soup"
+    }
+  ],
+  "density": 0.75,
+  "deny": [
+    {
+      "type": "caupona:meats",
+      "cond": "contains"
+    },
+    {
+      "type": "caupona:seafood",
+      "cond": "contains"
+    },
+    {
+      "type": "caupona:vegetables",
+      "cond": "contains"
+    },
+    {
+      "type": "caupona:wolfberries",
+      "cond": "contains"
+    }
+  ],
+  "output": "caupona:egg_tongsui",
+  "priority": 1088,
+  "time": 200
+}

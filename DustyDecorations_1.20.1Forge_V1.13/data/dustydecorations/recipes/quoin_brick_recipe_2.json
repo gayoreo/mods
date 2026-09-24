@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "quoinbrick",
+  "count": 1,
+  "ingredient": {
+    "tag": "dustydecorations:seastone_crafting_material"
+  },
+  "result": "dustydecorations:seastone_quoin"
+}

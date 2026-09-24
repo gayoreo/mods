@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "seapicklebarrel",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sea_pickle"
+    },
+    "b": {
+      "item": "minecraft:barrel"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:sea_pickle_barrel",
+    "count": 1
+  }
+}

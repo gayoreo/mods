@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/blossom_blaster",
+  "textures": {
+    "0": "simple_mobs:blocks/blossom_blaster",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

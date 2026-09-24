@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ropecoil",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "c:ropes"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:rope_coil",
+    "count": 1
+  }
+}

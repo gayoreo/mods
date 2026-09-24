@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alchemists_garden:block/mixedsoil",
+    "up": "alchemists_garden:block/mixedsoil",
+    "north": "alchemists_garden:block/mixedsoil",
+    "east": "alchemists_garden:block/mixedsoil",
+    "south": "alchemists_garden:block/mixedsoil",
+    "west": "alchemists_garden:block/mixedsoil",
+    "particle": "alchemists_garden:block/mixedsoil"
+  },
+  "render_type": "solid"
+}

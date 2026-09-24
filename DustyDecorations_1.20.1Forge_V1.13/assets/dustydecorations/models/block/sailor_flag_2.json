@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/sailor_flag_2",
+  "textures": {
+    "all": "dustydecorations:block/sailor_flag",
+    "particle": "dustydecorations:block/sailor_flag",
+    "0": "dustydecorations:block/rope",
+    "1": "dustydecorations:block/sailor_flag1"
+  },
+  "render_type": "cutout"
+}

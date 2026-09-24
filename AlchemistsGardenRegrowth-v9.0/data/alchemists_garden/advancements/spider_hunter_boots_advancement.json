@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:spider_hunter_boots_boots"
+    },
+    "title": {
+      "translate": "advancements.spider_hunter_boots_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.spider_hunter_boots_advancement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "spider_hunter_boots_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:spider_hunter_boots_boots"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:obtain_gnome_boots_advancement"
+}

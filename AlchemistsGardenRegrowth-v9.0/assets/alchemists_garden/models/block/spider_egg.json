@@ -1,0 +1,9 @@
+{
+  "parent": "alchemists_garden:custom/spideregg",
+  "textures": {
+    "all": "alchemists_garden:block/spidereggtexture",
+    "particle": "alchemists_garden:block/spidereggtexture",
+    "0": "alchemists_garden:block/spidereggtexture"
+  },
+  "render_type": "solid"
+}

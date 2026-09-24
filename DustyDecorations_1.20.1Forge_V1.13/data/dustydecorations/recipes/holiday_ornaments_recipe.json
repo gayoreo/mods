@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "holidayornaments",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:tripwire_hook"
+    },
+    {
+      "item": "minecraft:tripwire_hook"
+    },
+    {
+      "item": "minecraft:tripwire_hook"
+    },
+    {
+      "tag": "dustydecorations:dusty_decorations_ingredient_dyes"
+    },
+    {
+      "tag": "dustydecorations:dusty_decorations_ingredient_dyes"
+    },
+    {
+      "tag": "dustydecorations:dusty_decorations_ingredient_dyes"
+    },
+    {
+      "tag": "minecraft:wool"
+    },
+    {
+      "item": "dustydecorations:wicker"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "item": "dustydecorations:holiday_ornaments",
+    "count": 16
+  }
+}

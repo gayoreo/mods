@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hangingcod",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:rope"
+    },
+    "b": {
+      "item": "minecraft:cod"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:hanging_cod",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "paperstack",
+  "category": "building",
+  "pattern": [
+    "a",
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:stacked_paper",
+    "count": 1
+  }
+}

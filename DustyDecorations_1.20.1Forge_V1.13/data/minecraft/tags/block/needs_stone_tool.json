@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "dustydecorations:rusty_corrugated_metal_grate",
+    "dustydecorations:corrugated_metal_grate",
+    "dustydecorations:corrugated_metal_roofing",
+    "dustydecorations:corrugated_metal_pressure_plate",
+    "dustydecorations:corrugated_metal_button",
+    "dustydecorations:corrugated_metal_fence_gate",
+    "dustydecorations:corrugated_metal_fence",
+    "dustydecorations:corrugated_metal_trapdoor",
+    "dustydecorations:corrugated_metal_stairs",
+    "dustydecorations:corrugated_metal_slab",
+    "dustydecorations:rusty_corrugated_metal_roofing",
+    "dustydecorations:rusty_corrugated_pressure_plate",
+    "dustydecorations:rusty_corrugated_button",
+    "dustydecorations:rusty_corrugated_metal_fence_gate",
+    "dustydecorations:rusty_corrugated_metal_fence",
+    "dustydecorations:rusty_corrugated_metal_trapdoor",
+    "dustydecorations:rusty_corrugated_metal_stairs",
+    "dustydecorations:rusty_corrugated_metal_slab",
+    "dustydecorations:corrugated_metal",
+    "dustydecorations:deepslate_embedded_fish_fossil",
+    "dustydecorations:embedded_fish_fossil",
+    "dustydecorations:rusty_corrugated_metal_block"
+  ]
+}

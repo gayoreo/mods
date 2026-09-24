@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/cold_seaglass_ceramic_tile"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/cold_seaglass_ceramic_tile",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/cold_seaglass_ceramic_tile",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/cold_seaglass_ceramic_tile",
+      "y": 270
+    }
+  }
+}

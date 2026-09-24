@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "glassbuoy2",
+  "category": "building",
+  "pattern": [
+    "a a",
+    " b ",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "tag": "c:ropes"
+    },
+    "b": {
+      "tag": "dustydecorations:seaglass_fragment"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:glass_buoy",
+    "count": 2
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "alchemists_garden:creeper_orchid"
+    },
+    "1": {
+      "item": "alchemists_garden:creeper_orchid"
+    },
+    "2": {
+      "item": "alchemists_garden:creeper_orchid"
+    },
+    "4": {
+      "item": "alchemists_garden:chrysite_string"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:creep_orchid_bundle",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "multipart": [
+        { "apply": { "model": "dawnoftimebuilder:block/japanese/paper_wall_post" }},
+        { "when": { "north": true },  "apply": { "model": "dawnoftimebuilder:block/japanese/paper_wall_grid_side" }},
+        { "when": { "east": true },   "apply": { "model": "dawnoftimebuilder:block/japanese/paper_wall_grid_side", "y": 90 }},
+        { "when": { "south": true },  "apply": { "model": "dawnoftimebuilder:block/japanese/paper_wall_grid_side", "y": 180 }},
+        { "when": { "west": true },   "apply": { "model": "dawnoftimebuilder:block/japanese/paper_wall_grid_side", "y": 270 }},
+        { "when": { "north": false }, "apply": { "model": "dawnoftimebuilder:block/japanese/paper_wall_grid_noside" }},
+        { "when": { "east": false },  "apply": { "model": "dawnoftimebuilder:block/japanese/paper_wall_grid_noside", "y": 90 }},
+        { "when": { "south": false }, "apply": { "model": "dawnoftimebuilder:block/japanese/paper_wall_grid_noside", "y": 180 }},
+        { "when": { "west": false },  "apply": { "model": "dawnoftimebuilder:block/japanese/paper_wall_grid_noside", "y": 270 }}
+    ]
+}

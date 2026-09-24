@@ -1,0 +1,35 @@
+{
+    "mappings": {
+        "com/entityplayercompat/mixin/ModelPartAccessor": {
+            "children": "f_104213_:Ljava/util/Map;"
+        },
+        "com/entityplayercompat/mixin/ModelPartMixin": {
+            "translateAndRotate": "Lnet/minecraft/client/model/geom/ModelPart;m_104299_(Lcom/mojang/blaze3d/vertex/PoseStack;)V"
+        },
+        "com/entityplayercompat/mixin/client/LivingEntityRendererAccessor": {
+            "model": "f_115290_:Lnet/minecraft/client/model/EntityModel;"
+        },
+        "com/entityplayercompat/mixin/client/LivingEntityRendererMixin": {
+            "render(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7392_(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V",
+            "Lnet/minecraft/world/entity/LivingEntity;isSpectator()Z": "Lnet/minecraft/world/entity/LivingEntity;m_5833_()Z",
+            "Lnet/minecraft/client/model/EntityModel;setupAnim(Lnet/minecraft/world/entity/Entity;FFFFF)V": "Lnet/minecraft/client/model/EntityModel;m_6973_(Lnet/minecraft/world/entity/Entity;FFFFF)V"
+        }
+    },
+    "data": {
+        "named:srg": {
+            "com/entityplayercompat/mixin/ModelPartAccessor": {
+                "children": "f_104213_:Ljava/util/Map;"
+            },
+            "com/entityplayercompat/mixin/ModelPartMixin": {
+                "translateAndRotate": "Lnet/minecraft/client/model/geom/ModelPart;m_104299_(Lcom/mojang/blaze3d/vertex/PoseStack;)V"
+            },
+            "com/entityplayercompat/mixin/client/LivingEntityRendererAccessor": {
+                "model": "f_115290_:Lnet/minecraft/client/model/EntityModel;"
+            },
+            "com/entityplayercompat/mixin/client/LivingEntityRendererMixin": {
+                "render(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7392_(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V",
+                "Lnet/minecraft/world/entity/LivingEntity;isSpectator()Z": "Lnet/minecraft/world/entity/LivingEntity;m_5833_()Z"
+            }
+        }
+    }
+}

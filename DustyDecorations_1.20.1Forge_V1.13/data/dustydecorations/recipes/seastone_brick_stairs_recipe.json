@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "seastonebrickstairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:seastone_bricks"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:seastone_stairs",
+    "count": 6
+  }
+}

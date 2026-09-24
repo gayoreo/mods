@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "dustydecorations:block/yellowcushion",
+    "bottom": "dustydecorations:block/yellowcushion",
+    "top": "dustydecorations:block/yellowcushion",
+    "side": "dustydecorations:block/yellowcushion"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alchemists_garden:spider_egg_shell"
+    },
+    "1": {
+      "item": "alchemists_garden:spider_queen_eye"
+    },
+    "2": {
+      "item": "alchemists_garden:spider_egg_shell"
+    },
+    "3": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    },
+    "4": {
+      "item": "alchemists_garden:gnomish_sewing_machine"
+    },
+    "5": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    },
+    "6": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    },
+    "7": {
+      "item": "alchemists_garden:gnome_boots_boots"
+    },
+    "8": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:spider_hunter_boots_boots",
+    "count": 1
+  }
+}

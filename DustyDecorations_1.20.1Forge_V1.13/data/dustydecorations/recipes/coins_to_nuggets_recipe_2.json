@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "coinstonuggests2",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:scattered_gold_coins"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_nugget",
+    "count": 1
+  }
+}

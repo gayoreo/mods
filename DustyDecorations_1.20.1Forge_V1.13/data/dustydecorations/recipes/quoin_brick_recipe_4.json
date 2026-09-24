@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "quoinbrick",
+  "count": 1,
+  "ingredient": {
+    "tag": "forge:sandstone"
+  },
+  "result": "dustydecorations:red_sandstone_quoin"
+}

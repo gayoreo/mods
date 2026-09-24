@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wickerblock",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:burlap"
+    },
+    {
+      "item": "dustydecorations:rope"
+    },
+    {
+      "item": "dustydecorations:rope"
+    },
+    {
+      "item": "dustydecorations:burlap"
+    }
+  ],
+  "result": {
+    "item": "dustydecorations:wicker",
+    "count": 6
+  }
+}

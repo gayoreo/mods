@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "goldcoinpile",
+  "category": "building",
+  "pattern": [
+    " a",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:scattered_gold_coins"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:gold_coins",
+    "count": 1
+  }
+}

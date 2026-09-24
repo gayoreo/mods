@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 500,
+  "ingredient": {
+    "item": "simple_mobs:lightningdragon_heart"
+  },
+  "result": "simple_mobs:lightning_dragon_essence"
+}

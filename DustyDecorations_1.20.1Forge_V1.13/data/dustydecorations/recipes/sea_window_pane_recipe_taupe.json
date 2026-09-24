@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "sea_window_pane",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "dustydecorations:taupe_sea_window"
+    },
+    {
+      "item": "dustydecorations:taupe_sea_window"
+    }
+  ],
+  "result": {
+    "item": "dustydecorations:taupe_sea_window_pane",
+    "count": 4
+  }
+}

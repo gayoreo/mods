@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:purplish_bezoar_stone"
+    },
+    "title": {
+      "translate": "advancements.obtain_purplish_bezoar_stone_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.obtain_purplish_bezoar_stone_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "obtain_purplish_bezoar_stone_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:purplish_bezoar_stone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:bezoar_stone_advancement"
+}

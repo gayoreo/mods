@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Specification-Title: Falling Leaves Plus
+Specification-Version: 26.2.1
+Specification-Vendor: Fuzs
+Implementation-Title: Falling Leaves Plus
+Implementation-Version: 26.2.1
+Implementation-Vendor: Fuzs
+Implementation-Timestamp: 2026-09-04T21:57:41+0200
+Implementation-URL: https://github.com/Fuzss/falling-leaves-plus
+Build-Jdk-Name: OpenJDK 64-Bit Server VM
+Build-Jdk-Version: 25.0.2+10-LTS
+Build-Jdk-Vendor: Amazon.com Inc.
+Build-Jdk-Spec-Name: Java Virtual Machine Specification
+Build-Jdk-Spec-Version: 25
+Build-Jdk-Spec-Vendor: Oracle Corporation
+Build-Os-Name: Mac OS X (aarch64)
+Build-Os-Version: 13.7.8
+Fabric-Mapping-Namespace: official
+Fabric-Gradle-Version: 9.5.1
+Fabric-Loom-Version: 1.16.3
+Fabric-Mixin-Compile-Extensions-Version: 0.6.0
+Fabric-Minecraft-Version: 26.2
+Fabric-Tiny-Remapper-Version: 0.13.0
+Fabric-Loader-Version: 0.19.3
+Fabric-Mixin-Version: 0.17.3+mixin.0.8.7
+Fabric-Mixin-Group: net.fabricmc
+

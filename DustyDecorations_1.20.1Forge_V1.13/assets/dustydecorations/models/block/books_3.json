@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/books2",
+  "textures": {
+    "all": "dustydecorations:block/books2",
+    "particle": "dustydecorations:block/books2",
+    "0": "dustydecorations:block/books2"
+  },
+  "render_type": "solid"
+}

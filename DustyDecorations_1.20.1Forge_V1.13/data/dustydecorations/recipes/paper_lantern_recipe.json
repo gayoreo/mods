@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "paperlanternrecipe",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:rope"
+    },
+    "b": {
+      "item": "minecraft:paper"
+    },
+    "c": {
+      "item": "minecraft:lantern"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:paper_lantern",
+    "count": 1
+  }
+}

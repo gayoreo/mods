@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "snowycobblestone",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cobblestone"
+    },
+    "b": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:snowy_cobblestone",
+    "count": 8
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:brick_fireplace"
+    },
+    "title": {
+      "translate": "advancements.craft_a_brick_fireplace.title"
+    },
+    "description": {
+      "translate": "advancements.craft_a_brick_fireplace.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "craft_a_brick_fireplace": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:brick_fireplace"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:play_during_the_festive_month_advancement"
+}

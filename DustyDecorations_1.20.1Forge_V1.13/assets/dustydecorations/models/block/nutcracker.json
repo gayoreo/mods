@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/nutcrackernew",
+  "textures": {
+    "all": "dustydecorations:block/nutcracker",
+    "particle": "dustydecorations:block/nutcracker",
+    "0": "dustydecorations:block/nutcracker"
+  },
+  "render_type": "cutout"
+}

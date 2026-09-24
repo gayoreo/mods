@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wickerslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:wicker"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:wicker_slab",
+    "count": 6
+  }
+}

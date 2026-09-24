@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wrappedmeat",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "tag": "minecraft:meat"
+    }
+  ],
+  "result": {
+    "item": "dustydecorations:wrapped_meat",
+    "count": 1
+  }
+}

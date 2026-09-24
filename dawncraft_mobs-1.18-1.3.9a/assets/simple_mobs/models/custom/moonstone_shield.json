@@ -1,0 +1,379 @@
+{
+  "credit": "Thanks to JoltLiz for designing the model.",
+  "gui_light": "front",
+  "elements": [
+    {
+      "from": [
+        4,
+        -10,
+        7
+      ],
+      "to": [
+        12,
+        -6,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            1,
+            8.5,
+            5,
+            10.5
+          ],
+          "texture": "#shield"
+        },
+        "east": {
+          "uv": [
+            1,
+            8.5,
+            1.5,
+            10.5
+          ],
+          "texture": "#shield"
+        },
+        "south": {
+          "uv": [
+            1,
+            8.5,
+            5,
+            10.5
+          ],
+          "texture": "#shield"
+        },
+        "west": {
+          "uv": [
+            4.5,
+            8.5,
+            5,
+            10.5
+          ],
+          "texture": "#shield"
+        },
+        "down": {
+          "uv": [
+            1,
+            10,
+            5,
+            10.5
+          ],
+          "texture": "#shield"
+        }
+      }
+    },
+    {
+      "from": [
+        3,
+        -6,
+        7
+      ],
+      "to": [
+        13,
+        1,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0.5,
+            5,
+            5.5,
+            8.5
+          ],
+          "texture": "#shield"
+        },
+        "east": {
+          "uv": [
+            0.5,
+            5,
+            1,
+            8.5
+          ],
+          "texture": "#shield"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            5,
+            5.5,
+            8.5
+          ],
+          "texture": "#shield"
+        },
+        "west": {
+          "uv": [
+            5,
+            5,
+            5.5,
+            8.5
+          ],
+          "texture": "#shield"
+        },
+        "down": {
+          "uv": [
+            10.5,
+            8,
+            15.5,
+            8.5
+          ],
+          "texture": "#shield"
+        }
+      }
+    },
+    {
+      "from": [
+        2,
+        1,
+        7
+      ],
+      "to": [
+        14,
+        11,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            6,
+            5
+          ],
+          "texture": "#shield"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            0.5,
+            5
+          ],
+          "texture": "#shield"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            6,
+            5
+          ],
+          "texture": "#shield"
+        },
+        "west": {
+          "uv": [
+            5.5,
+            0,
+            6,
+            5
+          ],
+          "texture": "#shield"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            6,
+            0.5
+          ],
+          "texture": "#shield"
+        },
+        "down": {
+          "uv": [
+            10,
+            4.5,
+            16,
+            5
+          ],
+          "texture": "#shield"
+        }
+      }
+    },
+    {
+      "from": [
+        7.5,
+        -2.5,
+        8
+      ],
+      "to": [
+        8.75,
+        2.5,
+        13
+      ],
+      "faces": {
+        "east": {
+          "uv": [
+            8.5,
+            0,
+            6,
+            2.5
+          ],
+          "texture": "#shield"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            8.5,
+            2.5
+          ],
+          "texture": "#shield"
+        },
+        "west": {
+          "uv": [
+            6,
+            0,
+            8.5,
+            2.5
+          ],
+          "texture": "#shield"
+        },
+        "up": {
+          "uv": [
+            6,
+            0,
+            8.5,
+            0.5
+          ],
+          "rotation": 90,
+          "texture": "#shield"
+        },
+        "down": {
+          "uv": [
+            6,
+            2,
+            8.5,
+            2.5
+          ],
+          "rotation": 270,
+          "texture": "#shield"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        2.25,
+        6.75,
+        3.5
+      ],
+      "scale": [
+        1.05,
+        1.05,
+        1.05
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        2.25,
+        6.75,
+        4
+      ],
+      "scale": [
+        1.05,
+        1.05,
+        1.05
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        -5
+      ],
+      "translation": [
+        -0.25,
+        2,
+        -0.5
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        -5
+      ],
+      "translation": [
+        -0.25,
+        2,
+        -0.5
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        6,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "gui": {
+      "rotation": [
+        15,
+        160,
+        5
+      ],
+      "translation": [
+        0.25,
+        4.75,
+        0
+      ],
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        -6.25,
+        -6.5
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        3.25,
+        -1.5
+      ],
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "blocking": 1
+      },
+      "model": "blue_skies:item/moonstone_shield_blocking"
+    }
+  ]
+}

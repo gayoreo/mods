@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/peony_wicker_basket"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/peony_wicker_basket",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/peony_wicker_basket",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/peony_wicker_basket",
+      "y": 270
+    }
+  }
+}

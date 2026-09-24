@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/vintage_register",
+  "textures": {
+    "all": "dustydecorations:block/vintage_register",
+    "particle": "dustydecorations:block/vintage_register",
+    "0": "dustydecorations:block/vintage_register"
+  },
+  "render_type": "cutout"
+}

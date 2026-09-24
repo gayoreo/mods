@@ -1,0 +1,1316 @@
+{
+  "puzzlefinish": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:puzzlefinish",
+        "stream": false
+      }
+    ]
+  },
+  "giant_footstep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:giant_footstep",
+        "stream": false
+      }
+    ]
+  },
+  "sweep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:sweep",
+        "stream": false
+      }
+    ]
+  },
+  "roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:roar",
+        "stream": false
+      }
+    ]
+  },
+  "flame": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:flame",
+        "stream": false
+      }
+    ]
+  },
+  "giant": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:giant",
+        "stream": false
+      }
+    ]
+  },
+  "roll": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:roll",
+        "stream": false
+      }
+    ]
+  },
+  "jump": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:jump",
+        "stream": false
+      }
+    ]
+  },
+  "attack1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:attack1",
+        "stream": false
+      }
+    ]
+  },
+  "attack2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:attack2",
+        "stream": false
+      }
+    ]
+  },
+  "small_step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:small_step",
+        "stream": false
+      }
+    ]
+  },
+  "giantdeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:giant.death",
+        "stream": false
+      }
+    ]
+  },
+  "cavedwellerdeath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:cavedweller.death",
+        "stream": false
+      }
+    ]
+  },
+  "sand_wyrm_living": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:sand_wyrm_living",
+        "stream": false
+      }
+    ]
+  },
+  "sand_wyrm_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:sand_wyrm_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "sand_wyrm_attack5": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:sand_wyrm_attack5",
+        "stream": false
+      }
+    ]
+  },
+  "sand_wyrm_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:sand_wyrm_death",
+        "stream": false
+      }
+    ]
+  },
+  "wyrmatk5x": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:attack5x",
+        "stream": false
+      }
+    ]
+  },
+  "ogre_attack3": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ogre_attack3",
+        "stream": false
+      }
+    ]
+  },
+  "ogre_attack5": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ogre_attack5",
+        "stream": false
+      }
+    ]
+  },
+  "ogre_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ogre_death",
+        "stream": false
+      }
+    ]
+  },
+  "ogre_spin": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ogre_spin",
+        "stream": false
+      }
+    ]
+  },
+  "ogre_step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ogre_step",
+        "stream": false
+      }
+    ]
+  },
+  "ogre_sleep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ogre_sleep",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_proj": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:nineproj",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_attack1b": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ninetail_attack1b",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_attack2a": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ninetail_attack2a",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_attack2a2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ninetail_attack2a2",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_attack2b": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ninetail_attack2b",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_attack2c.": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ninetail_attack2c",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_attack2d": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ninetail_attack2d",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_attack2e2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ninetail_attack2e2",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_dodge": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ninetail_dodge",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_grab": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ninetail_grabbed",
+        "stream": false
+      }
+    ]
+  },
+  "ninetail_punch": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:ninetail_punch",
+        "stream": false
+      }
+    ]
+  },
+  "tail": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:tail",
+        "stream": false
+      }
+    ]
+  },
+  "weakogre_punch": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:weakogre_punch",
+        "stream": false
+      }
+    ]
+  },
+  "skeleton_magicthrow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeleton_magicthrow",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_book": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_book",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_blast": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_blast",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_c4": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_c4",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_ca3": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_ca3",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_death",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_down": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_down",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_drag": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_drag",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_hammer": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_hammer",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_hammerform": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_hammerform",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_spell": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_spell",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_up": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_up",
+        "stream": false
+      }
+    ]
+  },
+  "skeletonlord_afterhammer": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:skeletonlord_afterhammer",
+        "stream": false
+      }
+    ]
+  },
+  "werewolf.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:werewolf.death",
+        "stream": false
+      }
+    ]
+  },
+  "werewolf.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:werewolf.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "werewolf.roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:werewolf.roar",
+        "stream": false
+      }
+    ]
+  },
+  "poise": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:poise",
+        "stream": false
+      }
+    ]
+  },
+  "werewolf.transform": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:werewolf.transform",
+        "stream": false
+      }
+    ]
+  },
+  "werewolf.attack2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:werewolf.attack2",
+        "stream": false
+      }
+    ]
+  },
+  "martian.attack": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:martian.attack",
+        "stream": false
+      }
+    ]
+  },
+  "martian.attack2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:martian.attack2",
+        "stream": false
+      }
+    ]
+  },
+  "martian.attack4": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:martian.attack4",
+        "stream": false
+      }
+    ]
+  },
+  "martian.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:martian.death",
+        "stream": false
+      }
+    ]
+  },
+  "martian.gem": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:martian.gem",
+        "stream": false
+      }
+    ]
+  },
+  "martian.step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:martian.step",
+        "stream": false
+      }
+    ]
+  },
+  "martian.teleport": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:martian.teleport",
+        "stream": false
+      }
+    ]
+  },
+  "martian.throw": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:martian.throw",
+        "stream": false
+      }
+    ]
+  },
+  "martian.roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:martian.roar",
+        "stream": false
+      }
+    ]
+  },
+  "sentinelmove": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:sentinelmove",
+        "stream": false
+      }
+    ]
+  },
+  "sentinelhurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:sentinelhurt",
+        "stream": false
+      }
+    ]
+  },
+  "sentinielground": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:sentinelground",
+        "stream": false
+      }
+    ]
+  },
+  "tiny_necro.noise": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:tiny_necro.noise",
+        "stream": false
+      }
+    ]
+  },
+  "tiny_necro.punch": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:tiny_necro.punch",
+        "stream": false
+      }
+    ]
+  },
+  "giant_skele.dwell": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:giant_skele.dwell",
+        "stream": false
+      }
+    ]
+  },
+  "giant_skele.laserl": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:giant_skele.laserl",
+        "stream": false
+      }
+    ]
+  },
+  "giant_skele.sweep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:giant_skele.sweep",
+        "stream": false
+      }
+    ]
+  },
+  "giant_skele.laser2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:giant_skele.laser2",
+        "stream": false
+      }
+    ]
+  },
+  "staff_prep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:staff_prep",
+        "stream": false
+      }
+    ]
+  },
+  "staff_firing": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:staff_fiiring",
+        "stream": false
+      }
+    ]
+  },
+  "cave_golem.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:cave_golem.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "cave_golem.step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:cave_golem.step",
+        "stream": false
+      }
+    ]
+  },
+  "cave_blockhead.hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:cave_blockhead.hurt",
+        "stream": false
+      }
+    ]
+  },
+  "cave_blockhead.step": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:cave_blockhead.step",
+        "stream": false
+      }
+    ]
+  },
+  "barrel": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:barrel",
+        "stream": false
+      }
+    ]
+  },
+  "firegiant_footstep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:firegiant_footstep",
+        "stream": false
+      }
+    ]
+  },
+  "fire_giant.sweep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:fire_giiant.sweep",
+        "stream": false
+      }
+    ]
+  },
+  "leghurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:leghurt",
+        "stream": false
+      }
+    ]
+  },
+  "fire_giant_roll": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:fire_giant_roll",
+        "stream": false
+      }
+    ]
+  },
+  "fire_giant.ambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:fire_giant.ambient",
+        "stream": false
+      }
+    ]
+  },
+  "fire_giant.flame": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:fire_giant_flame",
+        "stream": false
+      }
+    ]
+  },
+  "fire_giant.ambient2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:fire_giant.ambient2",
+        "stream": false
+      }
+    ]
+  },
+  "fire_giant.groan": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:fire_giant.groan",
+        "stream": false
+      }
+    ]
+  },
+  "fire_giant.shoot": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:fire_giant.shoot",
+        "stream": false
+      }
+    ]
+  },
+  "fire_giant.fire": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:fire_giant.fire",
+        "stream": false
+      }
+    ]
+  },
+  "flap": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:flap",
+        "stream": false
+      }
+    ]
+  },
+  "gryphon": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:gryphon",
+        "stream": false
+      }
+    ]
+  },
+  "gryphon.death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:gryphon.death",
+        "stream": false
+      }
+    ]
+  },
+  "electricity_ambient": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:electricity_ambient",
+        "stream": false
+      }
+    ]
+  },
+  "electricity_zap": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:electricity_zap",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_wing_flap": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon_wing_flap",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_wing_flap2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon_wing_flap2",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_flame": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon_flame",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_flame2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon_flame2",
+        "stream": false
+      }
+    ]
+  },
+  "dragon.roar1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon.roar1",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_roar2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon_roar2",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_breath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon_breath",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_breath2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon_breath2",
+        "stream": false
+      }
+    ]
+  },
+  "elemental_shiield": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:elemental_shiield",
+        "stream": false
+      }
+    ]
+  },
+  "blackhole": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:blackhole",
+        "stream": false
+      }
+    ]
+  },
+  "crumble": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:crumble",
+        "stream": false
+      }
+    ]
+  },
+  "elemental_attack1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:elemental_attack1",
+        "stream": false
+      }
+    ]
+  },
+  "elemental_attack2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:elemental_attack2",
+        "stream": false
+      }
+    ]
+  },
+  "elemental_attack10": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:elemental_attack10",
+        "stream": false
+      }
+    ]
+  },
+  "elemental_chain": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:elemental_chain",
+        "stream": false
+      }
+    ]
+  },
+  "notch_punch": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:notch_punch",
+        "stream": false
+      }
+    ]
+  },
+  "notch_punch2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:notch_punch2",
+        "stream": false
+      }
+    ]
+  },
+  "notch_stomp": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:notch_stomp",
+        "stream": false
+      }
+    ]
+  },
+  "elemental_grab": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:elemental_grab",
+        "stream": false
+      }
+    ]
+  },
+  "notch_spin": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:notch_spin",
+        "stream": false
+      }
+    ]
+  },
+  "notch_sweep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:notch_sweep",
+        "stream": false
+      }
+    ]
+  },
+  "riversoblood": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:riversoblood",
+        "stream": false
+      }
+    ]
+  },
+  "moonveil.ogg": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:moonveil",
+        "stream": false
+      }
+    ]
+  },
+  "rat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:rat",
+        "stream": false
+      }
+    ]
+  },
+  "rat_hurt": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:rat_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "rat_death": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:rat_death",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_lightning_breath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon_lightning_breath",
+        "stream": false
+      }
+    ]
+  },
+  "lightning_dragon_roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:lightning_dragon_roar",
+        "stream": false
+      }
+    ]
+  },
+  "lightning_dragon_roar2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:lightning_dragon_roar2",
+        "stream": false
+      }
+    ]
+  },
+  "lightning_dragon_sweep": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:lightning_dragon_sweep",
+        "stream": false
+      }
+    ]
+  },
+  "electricity_charge": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:electricity_charge",
+        "stream": false
+      }
+    ]
+  },
+  "thunder_effect2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:thunder_effect2",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_wing_flap3": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon_wing_flap3",
+        "stream": false
+      }
+    ]
+  },
+  "electric_1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:electric_1",
+        "stream": false
+      }
+    ]
+  },
+  "spell_form": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:spell_form",
+        "stream": false
+      }
+    ]
+  },
+  "dragon_lord_roar": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:dragon_lord_roar",
+        "stream": false
+      }
+    ]
+  },
+  "earthquake": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:earthquake",
+        "stream": false
+      }
+    ]
+  },
+  "thunderr_spear": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:thunderr_spear",
+        "stream": false
+      }
+    ]
+  },
+  "mjolnir_throw": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:mjolnir_throw",
+        "stream": false
+      }
+    ]
+  },
+  "mjolnir_return": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:mjolnir_return",
+        "stream": false
+      }
+    ]
+  },
+  "mjolnir_catch": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:mjolnir_catch",
+        "stream": false
+      }
+    ]
+  },
+  "stem_grow": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:stem_grow",
+        "stream": false
+      }
+    ]
+  },
+  "clap": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:clap",
+        "stream": false
+      }
+    ]
+  },
+  "guard": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:guard",
+        "stream": false
+      }
+    ]
+  },
+  "sheath": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:sheath",
+        "stream": false
+      }
+    ]
+  },
+  "windslash": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:windslash",
+        "stream": false
+      }
+    ]
+  },
+  "swing": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:swing",
+        "stream": false
+      }
+    ]
+  },
+  "stone_1": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:stone_1",
+        "stream": false
+      }
+    ]
+  },
+  "stone_2": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:stone_2",
+        "stream": false
+      }
+    ]
+  },
+  "laser_charge": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "simple_mobs:laser_charge",
+        "stream": false
+      }
+    ]
+  }
+}

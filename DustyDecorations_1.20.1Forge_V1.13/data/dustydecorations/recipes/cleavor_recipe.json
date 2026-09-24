@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "knifecleavor",
+  "category": "building",
+  "pattern": [
+    "a ",
+    "bc",
+    "bc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "c": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:wedged_cleaver",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+## CombatSet Support
+
+Link: https://www.planetminecraft.com/data-pack/combat-set/
+Author: https://www.planetminecraft.com/member/funkytoc/
+
+This folder adds explicit support for the CombatSet datapack.
+The same textures are applied, but based on custom tags instead of custom names.
+If you're not using the datapack, the naming system works as usual.

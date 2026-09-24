@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "2": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "3": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "4": {
+      "tag": "forge:stained_glass_panes"
+    },
+    "5": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "6": {
+      "item": "alchemists_garden:spider_queen_eye"
+    },
+    "7": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:queens_pocket_mirror",
+    "count": 1
+  }
+}

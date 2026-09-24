@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: cnb
+Specification-Vendor: bonsaistudios
+Specification-Version: 1
+Implementation-Title: cnb
+Implementation-Version: 1.7.10
+Implementation-Vendor: bonsaistudios
+Implementation-Timestamp: 2026-05-29T20:25:13-0400
+

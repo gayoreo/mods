@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/cowhide_two",
+  "textures": {
+    "all": "dustydecorations:block/cowhide_two",
+    "particle": "dustydecorations:block/cowhide_two",
+    "0": "dustydecorations:block/cowhide_two"
+  },
+  "render_type": "cutout"
+}

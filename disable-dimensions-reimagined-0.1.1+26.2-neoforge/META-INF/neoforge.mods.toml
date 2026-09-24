@@ -1,0 +1,27 @@
+modLoader = "javafml" # mandatory
+loaderVersion = "[4,)" # mandatory
+license = "LGPL-3.0-or-later" # optional but recommended
+issueTrackerURL="https://github.com/nwrenger/disable-dimensions-reimagined/issues" #optional
+[[mods]] # mandatory
+modId = "disable_dimensions_reimagined" # mandatory
+version = "0.1.1+26.2" # mandatory
+displayName = "Disable Dimensions Reimagined" # mandatory
+updateJSONURL="https://api.modrinth.com/updates/Wya0sC32/forge_updates.json?neoforge=only" #optional
+displayURL="https://modrinth.com/mod/disable-dimensions-reimagined" # optional (displayed in the mod UI)
+logoFile="disable_dimensions_reimagined.png" # optional
+authors = "nwrenger" # optional
+description = '''Disable dimensions like The Nether, The End, and any further custom dimensions, with optional conditions''' # mandatory (Supports multiline text)
+[[mixins]]
+config = "disable_dimensions_reimagined.mixins.json"
+[[dependencies.disable_dimensions_reimagined]] # optional
+modId = "neoforge" # mandatory
+type="required" # mandatory (Can be one of "required", "optional", "incompatible" or "discouraged")
+versionRange = "[26.2.0.0-beta,)" # mandatory
+ordering = "NONE" # The order that this dependency should load in relation to your mod, required to be either 'BEFORE' or 'AFTER' if the dependency is not mandatory
+side = "BOTH" # Side this dependency is applied on - 'BOTH', 'CLIENT' or 'SERVER'
+[[dependencies.disable_dimensions_reimagined]]
+modId = "minecraft"
+type="required" # mandatory (Can be one of "required", "optional", "incompatible" or "discouraged")
+versionRange = "[26.2,)"
+ordering = "NONE"
+side = "BOTH"

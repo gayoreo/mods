@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": "alchemists_garden:molten_amethyst"
+}

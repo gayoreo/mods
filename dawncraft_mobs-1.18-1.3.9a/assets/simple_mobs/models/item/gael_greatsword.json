@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/gael_greatsword",
+  "textures": {
+    "0": "simple_mobs:blocks/gael_greatsword",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

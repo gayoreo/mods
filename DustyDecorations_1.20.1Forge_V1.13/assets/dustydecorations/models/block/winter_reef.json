@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/winter_reef",
+  "textures": {
+    "all": "dustydecorations:block/winter_reef",
+    "particle": "dustydecorations:block/winter_reef",
+    "0": "dustydecorations:block/winter_reef"
+  },
+  "render_type": "cutout"
+}

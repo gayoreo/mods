@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "beach",
+    "snowy_beach",
+    "ocean",
+    "warm_ocean",
+    "deep_ocean",
+    "lukewarm_ocean"
+  ],
+  "features": "dustydecorations:seaglass_embedded_sand",
+  "step": "underground_ores"
+}

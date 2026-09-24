@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "betterfishing.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EntityMixin",
+    "FishingHookMixin",
+    "FishingRodItemMixin",
+    "ItemMixin",
+    "LivingEntityMixin"
+  ],
+  "client": [
+    "client.FishingHookRendererMixin",
+    "client.GuiMixin",
+    "client.HudMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

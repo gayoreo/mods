@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/equineskull",
+  "textures": {
+    "all": "dustydecorations:block/equineskull",
+    "particle": "dustydecorations:block/equineskull",
+    "0": "dustydecorations:block/equineskull"
+  },
+  "render_type": "cutout"
+}

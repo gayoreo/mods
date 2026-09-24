@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pinkcushionslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:pink_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:pink_cushion_slab",
+    "count": 6
+  }
+}

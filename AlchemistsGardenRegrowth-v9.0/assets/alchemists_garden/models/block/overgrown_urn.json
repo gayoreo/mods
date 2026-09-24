@@ -1,0 +1,10 @@
+{
+  "parent": "alchemists_garden:custom/overgrownurnmodel",
+  "textures": {
+    "all": "alchemists_garden:block/overgrownurn2",
+    "particle": "alchemists_garden:block/overgrownurn2",
+    "0": "alchemists_garden:block/overgrownurn1",
+    "1": "alchemists_garden:block/overgrownurn2"
+  },
+  "render_type": "cutout"
+}

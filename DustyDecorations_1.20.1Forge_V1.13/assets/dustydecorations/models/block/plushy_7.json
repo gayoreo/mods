@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/plushsteve",
+  "textures": {
+    "all": "dustydecorations:block/steveplush",
+    "particle": "dustydecorations:block/steveplush",
+    "0": "dustydecorations:block/steveplush"
+  },
+  "render_type": "cutout"
+}

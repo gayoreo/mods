@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 600,
+  "ingredient": {
+    "item": "alchemists_garden:raw_mushrooms_on_a_stick"
+  },
+  "result": "alchemists_garden:cooked_mushrooms_on_a_stick"
+}

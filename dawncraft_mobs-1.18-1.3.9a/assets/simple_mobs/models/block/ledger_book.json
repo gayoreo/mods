@@ -1,0 +1,20 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "builtin/entity",
+  "textures": {
+     "particle": "minecraft:block/brown_wool"
+   },  
+  "texture_size": [
+    64,
+    64
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        50,
+        0,
+        0
+      ]
+    }
+  }
+}

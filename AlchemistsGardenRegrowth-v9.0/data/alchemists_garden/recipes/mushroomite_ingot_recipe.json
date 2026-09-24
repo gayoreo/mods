@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alchemists_garden:spores"
+    },
+    "1": {
+      "item": "alchemists_garden:spores"
+    },
+    "2": {
+      "item": "alchemists_garden:spores"
+    },
+    "3": {
+      "item": "alchemists_garden:spores"
+    },
+    "4": {
+      "item": "minecraft:gold_ingot"
+    },
+    "5": {
+      "item": "alchemists_garden:spores"
+    },
+    "6": {
+      "item": "alchemists_garden:spores"
+    },
+    "7": {
+      "item": "alchemists_garden:spores"
+    },
+    "8": {
+      "item": "alchemists_garden:spores"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:mushroomite_ingot",
+    "count": 1
+  }
+}

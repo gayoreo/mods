@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_boots"
+  },
+  "addition": {
+    "item": "simple_mobs:ice_dragon_essence"
+  },
+  "result": {
+    "item": "simple_mobs:dragonash_armor_ice_boots"
+  }
+}

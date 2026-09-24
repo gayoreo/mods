@@ -1,0 +1,13 @@
+{
+  "type": "caupona:frying",
+  "allow": [
+    {
+      "type": "caupona:seafood/fish",
+      "cond": "mainly"
+    }
+  ],
+  "ingredientPerDish": 2.0,
+  "output": "caupona:seared_fillet",
+  "priority": 128,
+  "time": 200
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/staff",
+  "textures": {
+    "1": "simple_mobs:blocks/staff",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

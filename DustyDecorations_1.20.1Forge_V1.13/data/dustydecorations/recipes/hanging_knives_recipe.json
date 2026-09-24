@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hangingknives",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "tag": "c:ropes"
+    },
+    "b": {
+      "item": "dustydecorations:wedged_knife"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:hanging_knives",
+    "count": 3
+  }
+}

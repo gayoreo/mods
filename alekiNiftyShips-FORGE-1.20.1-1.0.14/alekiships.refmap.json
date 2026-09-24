@@ -1,0 +1,86 @@
+{
+  "mappings": {
+    "com/alekiponi/alekiships/mixins/minecraft/ServerEntityMixin": {
+      "sendChanges": "Lnet/minecraft/server/level/ServerEntity;m_8533_()V"
+    },
+    "com/alekiponi/alekiships/mixins/minecraft/PlayerModelMixin": {
+      "setupAnim(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V": "Lnet/minecraft/client/model/PlayerModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+    },
+    "com/alekiponi/alekiships/mixins/accessors/ShulkerBoxMenuAccessor": {
+      "container": "f_40186_:Lnet/minecraft/world/Container;"
+    },
+    "com/alekiponi/alekiships/mixins/accessors/ExplosionAccessor": {
+      "toBlow": "f_46020_:Lit/unimi/dsi/fastutil/objects/ObjectArrayList;",
+      "hitPlayers": "f_46021_:Ljava/util/Map;",
+      "level": "f_46012_:Lnet/minecraft/world/level/Level;",
+      "x": "f_46013_:D",
+      "y": "f_46014_:D",
+      "z": "f_46015_:D",
+      "damageCalculator": "f_46019_:Lnet/minecraft/world/level/ExplosionDamageCalculator;",
+      "source": "f_46016_:Lnet/minecraft/world/entity/Entity;",
+      "radius": "f_46017_:F"
+    },
+    "com/alekiponi/alekiships/mixins/minecraft/PlayerMixin": {
+      "interactOn": "Lnet/minecraft/world/entity/player/Player;m_36157_(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;"
+    },
+    "com/alekiponi/alekiships/mixins/client/ArmorStandRendererMixin": {
+      "setupRotations(Lnet/minecraft/world/entity/decoration/ArmorStand;Lcom/mojang/blaze3d/vertex/PoseStack;FFF)V": "Lnet/minecraft/client/renderer/entity/ArmorStandRenderer;m_7523_(Lnet/minecraft/world/entity/decoration/ArmorStand;Lcom/mojang/blaze3d/vertex/PoseStack;FFF)V"
+    },
+    "com/alekiponi/alekiships/mixins/minecraft/LivingEntityMixin": {
+      "onClimbable": "Lnet/minecraft/world/entity/LivingEntity;m_6147_()Z"
+    },
+    "com/alekiponi/alekiships/mixins/minecraft/FurnaceResultSlotMixin": {
+      "checkTakeAchievements": "Lnet/minecraft/world/inventory/FurnaceResultSlot;m_5845_(Lnet/minecraft/world/item/ItemStack;)V",
+      "Lnet/minecraft/world/inventory/FurnaceResultSlot;container:Lnet/minecraft/world/Container;": "Lnet/minecraft/world/inventory/FurnaceResultSlot;f_40218_:Lnet/minecraft/world/Container;"
+    },
+    "com/alekiponi/alekiships/mixins/client/CameraMixin": {
+      "setup": "Lnet/minecraft/client/Camera;m_90575_(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V"
+    },
+    "com/alekiponi/alekiships/mixins/client/LocalPlayerMixin": {
+      "rideTick": "Lnet/minecraft/client/player/LocalPlayer;m_6083_()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/alekiponi/alekiships/mixins/minecraft/ServerEntityMixin": {
+        "sendChanges": "Lnet/minecraft/server/level/ServerEntity;m_8533_()V"
+      },
+      "com/alekiponi/alekiships/mixins/minecraft/PlayerModelMixin": {
+        "setupAnim(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V": "Lnet/minecraft/client/model/PlayerModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+      },
+      "com/alekiponi/alekiships/mixins/accessors/ShulkerBoxMenuAccessor": {
+        "container": "f_40186_:Lnet/minecraft/world/Container;"
+      },
+      "com/alekiponi/alekiships/mixins/accessors/ExplosionAccessor": {
+        "toBlow": "f_46020_:Lit/unimi/dsi/fastutil/objects/ObjectArrayList;",
+        "hitPlayers": "f_46021_:Ljava/util/Map;",
+        "level": "f_46012_:Lnet/minecraft/world/level/Level;",
+        "x": "f_46013_:D",
+        "y": "f_46014_:D",
+        "z": "f_46015_:D",
+        "damageCalculator": "f_46019_:Lnet/minecraft/world/level/ExplosionDamageCalculator;",
+        "source": "f_46016_:Lnet/minecraft/world/entity/Entity;",
+        "radius": "f_46017_:F"
+      },
+      "com/alekiponi/alekiships/mixins/minecraft/PlayerMixin": {
+        "interactOn": "Lnet/minecraft/world/entity/player/Player;m_36157_(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/InteractionHand;)Lnet/minecraft/world/InteractionResult;"
+      },
+      "com/alekiponi/alekiships/mixins/client/ArmorStandRendererMixin": {
+        "setupRotations(Lnet/minecraft/world/entity/decoration/ArmorStand;Lcom/mojang/blaze3d/vertex/PoseStack;FFF)V": "Lnet/minecraft/client/renderer/entity/ArmorStandRenderer;m_7523_(Lnet/minecraft/world/entity/decoration/ArmorStand;Lcom/mojang/blaze3d/vertex/PoseStack;FFF)V"
+      },
+      "com/alekiponi/alekiships/mixins/minecraft/LivingEntityMixin": {
+        "onClimbable": "Lnet/minecraft/world/entity/LivingEntity;m_6147_()Z"
+      },
+      "com/alekiponi/alekiships/mixins/minecraft/FurnaceResultSlotMixin": {
+        "checkTakeAchievements": "Lnet/minecraft/world/inventory/FurnaceResultSlot;m_5845_(Lnet/minecraft/world/item/ItemStack;)V",
+        "Lnet/minecraft/world/inventory/FurnaceResultSlot;container:Lnet/minecraft/world/Container;": "Lnet/minecraft/world/inventory/FurnaceResultSlot;f_40218_:Lnet/minecraft/world/Container;"
+      },
+      "com/alekiponi/alekiships/mixins/client/CameraMixin": {
+        "setup": "Lnet/minecraft/client/Camera;m_90575_(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V"
+      },
+      "com/alekiponi/alekiships/mixins/client/LocalPlayerMixin": {
+        "rideTick": "Lnet/minecraft/client/player/LocalPlayer;m_6083_()V"
+      }
+    }
+  }
+}

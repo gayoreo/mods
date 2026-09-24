@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wickerstairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:wicker"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:wicker_stairs",
+    "count": 6
+  }
+}

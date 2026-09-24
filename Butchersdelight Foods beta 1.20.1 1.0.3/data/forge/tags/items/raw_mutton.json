@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "butchersdelightfoods:llama_loin",
+    "butchersdelightfoods:sheeploin",
+    "butchersdelightfoods:goat_loin",
+    "butchersdelightfoods:sheeprack",
+    "butchersdelightfoods:goatrack",
+    "butchersdelightfoods:llama_leg",
+    "butchersdelightfoods:goat_shank",
+    "butchersdelightfoods:llamma_ribs",
+    "butchersdelightfoods:sheepshank"
+  ]
+}

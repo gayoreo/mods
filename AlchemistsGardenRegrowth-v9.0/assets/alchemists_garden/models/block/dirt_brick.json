@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alchemists_garden:block/coarse",
+    "up": "alchemists_garden:block/coarse",
+    "north": "alchemists_garden:block/coarse",
+    "east": "alchemists_garden:block/coarse",
+    "south": "alchemists_garden:block/coarse",
+    "west": "alchemists_garden:block/coarse",
+    "particle": "alchemists_garden:block/coarse"
+  },
+  "render_type": "solid"
+}

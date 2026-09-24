@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/wrapped_meat_1",
+  "textures": {
+    "all": "dustydecorations:block/wrapped_meat",
+    "particle": "dustydecorations:block/wrapped_meat",
+    "0": "dustydecorations:block/wrapped_meat"
+  },
+  "render_type": "cutout"
+}

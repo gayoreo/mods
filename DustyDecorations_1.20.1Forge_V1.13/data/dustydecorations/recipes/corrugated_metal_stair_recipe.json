@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "corrugatedstairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:corrugated_metal"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:corrugated_metal_stairs",
+    "count": 6
+  }
+}

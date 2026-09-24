@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "alchemists_garden:block/burrow_bricks_slab"
+    },
+    "type=top": {
+      "model": "alchemists_garden:block/burrow_bricks_slab_top"
+    },
+    "type=double": {
+      "model": "alchemists_garden:block/burrow_bricks_slab_full"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "treasuremaprecipe",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:filled_map"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "item": "dustydecorations:treasure_map",
+    "count": 1
+  }
+}

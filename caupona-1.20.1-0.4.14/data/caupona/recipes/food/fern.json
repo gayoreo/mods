@@ -1,0 +1,16 @@
+{
+  "type": "caupona:food",
+  "heal": 2,
+  "item": {
+    "item": "minecraft:fern"
+  },
+  "items": [
+    {
+      "item": "minecraft:fern"
+    },
+    {
+      "item": "minecraft:large_fern"
+    }
+  ],
+  "sat": 0.3
+}

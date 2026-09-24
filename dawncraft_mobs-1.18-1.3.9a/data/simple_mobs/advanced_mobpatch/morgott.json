@@ -1,0 +1,458 @@
+{
+    "model": "epicfight:entity/biped_old_texture",
+    "armature": "epicfight:entity/biped",
+    "renderer": "minecraft:zombie",
+    "isHumanoid": true,
+    "faction": "neutral",
+    "attributes": {
+        "impact": 0.5,
+        "armor_negation": 1,
+        "max_strikes": 2,
+        "chasing_speed": 1.0,
+        "scale": 2.5,
+        "max_stamina": 30,
+        "stamina_regan_multiply": 1,
+        "stamina_regan_delay": 20,
+        "has_stun_reduction": true,
+        "max_stun_shield": 3.0,
+        "stun_shield_regan_multiply": 1,
+        "stun_shield_regan_delay": 30,
+        "stamina_lose_multiply": 1
+    },
+    "custom_guard_motion": [
+        {
+            "weapon_categories": [
+                "longsword",
+                "tachi",
+                "sword"
+            ],
+            "style": "common",
+            "guard": "indestructible:guard/guard_longsword",
+            "stamina_cost_multiply": 1.5,
+            "can_block_projectile": true
+        }
+    ],
+	"humanoid_weapon_motions": [
+		{
+			"weapon_categories": ["sword"],
+			"style":"common",
+			"livingmotions": {
+				"idle": "epicfight:biped/living/hold_spear",
+				"walk": "epicfight:biped/living/walk_spear",
+				"chase": "epicfight:biped/living/walk_spear"
+			}
+		}
+	],
+    "default_livingmotions": {
+        "idle": "epicfight:biped/living/idle",
+        "walk": "epicfight:biped/living/walk",
+        "chase": "epicfight:biped/living/walk",
+        "mount": "epicfight:biped/living/mount",
+        "fall": "epicfight:biped/living/fall",
+        "death": "epicfight:biped/living/death"
+    },
+    "stun_animations": {
+        "short": "epicfight:biped/combat/hit_short",
+        "long": "epicfight:biped/combat/hit_long",
+        "knockdown": "epicfight:biped/combat/knockdown",
+        "fall": "epicfight:biped/living/landing"
+    },
+    "combat_behavior": [
+        {
+            "weapon_categories": [
+                "sword"
+            ],
+            "style": "common",
+			"behavior_series": [
+				{       
+                    "weight": 20.0,
+					"cooldown": 400,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 10.0}
+							],
+							"animation": "epicfight:biped/combat/spear_dash"
+                                                },
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 10.0}
+							],
+							"animation": "wom:biped/combat/agony_auto_1"
+                        }
+					]
+				},       
+                {       
+                    "weight": 20.0,
+					"cooldown": 250,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_auto1" 
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_auto2"
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_auto3"
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_backward"  
+                        }				
+					]
+				},
+                {       
+                    "weight": 120.0,
+					"cooldown": 200,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.0}
+							],
+							"animation": "epicfight:biped/combat/sword_auto1"
+                        },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 30.0}
+							],
+							"convert_time": 1.5,	
+							"animation": "simple_mobs:biped/combat/staff_auto"  
+                        }	
+					]
+				},
+                {       
+                    "weight": 120.0,
+					"cooldown": 200,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.0}
+							],
+							"animation": "epicfight:biped/combat/longsword_auto1"
+                        },
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.0}
+							],
+                            "convert_time": 1.0,
+                            "play_speed": 2.0,														
+							"animation": "epicfight:biped/combat/longsword_auto2"
+                        },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 4.0}
+							],
+                            "play_speed": 2.0,							
+							"animation": "simple_mobs:biped/combat/down_slash"  
+                        }	
+					]
+				},					
+                {       
+                    "weight": 120.0,
+					"cooldown": 550,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 10.0}
+							],
+							"animation": "wom:biped/combat/katana_dash"
+                        },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "wom:biped/combat/enderblaster_onehand_auto_1"
+                        }
+					]
+				},
+                {       
+                    "weight": 20.0,
+					"cooldown": 150,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "epicfight:biped/combat/fist_auto1" 
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "wom:biped/combat/agony_auto_1"
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "epicfight:biped/combat/greatsword_dash"
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_auto2"
+                                                }
+					]
+				},
+                {       
+                    "weight": 20.0,
+					"cooldown": 150,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "wom:biped/combat/moonless_crescent" 
+                        },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "wom:biped/combat/moonless_crescent"
+                        },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "wom:biped/combat/agony_airslash"
+                        }
+					]
+				},				  
+				{       
+                    "weight": 120.0,
+					"cooldown": 150,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_auto1"
+                                                },
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "epicfight:biped/combat/greatsword_dash"
+                                                }
+					]
+				},
+                {       
+                    "weight": 120.0,
+					"cooldown": 350,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "epicfight:biped/combat/fist_auto1" 
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "wom:biped/combat/katana_dash"
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "wom:biped/combat/enderblaster_onehand_auto_1"
+                                                }
+					]
+				},
+                {       
+                    "weight": 120.0,
+					"cooldown": 150,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_auto1" 
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_auto2"
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_auto3"
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_backward"  
+                        }
+					]
+				},
+                {       
+                     "weight": 120.0,
+					"cooldown": 150,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "epicfight:biped/combat/fist_auto1" 
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "wom:biped/combat/agony_auto_1"
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "epicfight:biped/combat/greatsword_dash"
+                                                },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_auto2"
+                        },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_backward"  
+                        }						
+					]
+				},
+                {
+                    "weight": 120.0,
+                    "canBeInterrupted": false,
+					"cooldown": 300.0,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 40.0}, {"predicate":"health", "health": 0.5, "comparator": "less_ratio"}
+                            ],
+                            "animation": "wom:biped/combat/katana_auto_1"
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 6.0}, {"predicate":"health", "health": 0.5, "comparator": "less_ratio"}
+                            ],
+                            "animation": "wom:biped/combat/katana_auto_2"
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 6.0}, {"predicate":"health", "health": 0.5, "comparator": "less_ratio"}
+                            ],
+                            "animation": "wom:biped/combat/ruine_auto_1"
+                        },
+                        {
+                            "conditions": [
+                                {"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 6.0}, {"predicate":"health", "health": 0.5, "comparator": "less_ratio"}
+                            ],
+                            "animation": "wom:biped/combat/ruine_auto_2"
+                        },
+						{
+						 	"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 0.0, "max": 7.0}
+							],
+							"animation": "falchionmoveset:biped/falchion/falchion_side"  
+                        }							
+                    ]
+                },
+                {       
+                    "weight": 120.0,
+					"cooldown": 340,
+					"canBeInterrupted": false,
+					"looping": false,
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 10.0, "max": 30.0}, {"predicate":"health", "health": 0.5, "comparator": "less_ratio"}
+							],
+							"animation": "wom:biped/combat/ruine_dash"
+                        },
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"within_distance", "min": 10.0, "max": 30.0}, {"predicate":"health", "health": 0.5, "comparator": "less_ratio"}
+							],
+                            "convert_time": 1.0,
+                            "play_speed": 2.0,														
+							"animation": "wom:biped/combat/ruine_auto_2"
+                        }	
+					]
+				},
+				{
+					"weight": 1.5,
+					"canBeInterrupted": true,
+                    "cooldown": 100, 					
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"health", "health": 0.5, "comparator": "greater_ratio"}
+							],
+							"wander": 60,
+							"inaction_time": 60,
+							"x_axis": 0.6,
+							"z_axis": -0.2
+						}
+                    ]                 
+				},
+				{
+					"weight": 1.5,
+					"canBeInterrupted": true,
+                    "cooldown": 160, 					
+					"behaviors": [
+						{
+							"conditions": [
+								{"predicate":"within_eye_height"}, {"predicate":"health", "health": 0.5, "comparator": "less_ratio"}
+							],
+							"wander": 60,
+							"inaction_time": 40,
+							"x_axis": 0.6,
+							"z_axis": -0.2
+						}
+                    ]                 
+				}				
+            ]
+        }
+    ]
+}

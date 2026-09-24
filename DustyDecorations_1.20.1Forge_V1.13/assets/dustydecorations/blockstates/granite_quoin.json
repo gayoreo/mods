@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "dustydecorations:block/granite_quoin"
+    },
+    "face=floor,facing=east": {
+      "model": "dustydecorations:block/granite_quoin",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "dustydecorations:block/granite_quoin",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "dustydecorations:block/granite_quoin",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "dustydecorations:block/granite_quoin",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "dustydecorations:block/granite_quoin",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "dustydecorations:block/granite_quoin",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "dustydecorations:block/granite_quoin",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "dustydecorations:block/granite_quoin",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "dustydecorations:block/granite_quoin",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "dustydecorations:block/granite_quoin",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "dustydecorations:block/granite_quoin",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

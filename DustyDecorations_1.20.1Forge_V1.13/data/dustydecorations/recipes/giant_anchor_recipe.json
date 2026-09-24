@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "giantanchor",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "bab",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:iron_bars"
+    },
+    "c": {
+      "item": "dustydecorations:rusty_corrugated_metal_block"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:giant_anchor",
+    "count": 1
+  }
+}

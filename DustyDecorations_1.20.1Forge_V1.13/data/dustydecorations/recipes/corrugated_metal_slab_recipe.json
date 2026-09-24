@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "corrugatedslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:corrugated_metal"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:corrugated_metal_slab",
+    "count": 6
+  }
+}

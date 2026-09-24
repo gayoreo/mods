@@ -1,0 +1,73 @@
+{
+    "type": "minecraft:block",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "dawnoftimebuilder:japanese_emblem"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "dawnoftimebuilder:japanese_emblem",
+                    "properties": { "north": "true" }
+                },
+                { "condition": "minecraft:survives_explosion" }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "dawnoftimebuilder:japanese_emblem"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "dawnoftimebuilder:japanese_emblem",
+                    "properties": { "east": "true" }
+                },
+                { "condition": "minecraft:survives_explosion" }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "dawnoftimebuilder:japanese_emblem"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "dawnoftimebuilder:japanese_emblem",
+                    "properties": { "south": "true" }
+                },
+                { "condition": "minecraft:survives_explosion" }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "dawnoftimebuilder:japanese_emblem"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:block_state_property",
+                    "block": "dawnoftimebuilder:japanese_emblem",
+                    "properties": { "west": "true" }
+                },
+                { "condition": "minecraft:survives_explosion" }
+            ]
+        }
+    ]
+}

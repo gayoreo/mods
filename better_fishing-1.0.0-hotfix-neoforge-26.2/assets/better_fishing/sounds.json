@@ -1,0 +1,12 @@
+{
+  "reeling": {
+    "sounds": [
+      "better_fishing:reeling"
+    ]
+  },
+  "catch": {
+    "sounds": [
+      "better_fishing:catch"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:strenght_ring"
+    },
+    "title": {
+      "translate": "advancements.obtaining_strenght_ring_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.obtaining_strenght_ring_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "obtaining_strenght_ring_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:strenght_ring"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:obtain_spider_queen_eye_advancement"
+}

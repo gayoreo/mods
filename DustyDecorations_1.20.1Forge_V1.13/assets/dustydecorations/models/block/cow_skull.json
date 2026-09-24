@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/cowskulldetailed",
+  "textures": {
+    "all": "dustydecorations:block/cowskull",
+    "particle": "dustydecorations:block/cowskull",
+    "0": "dustydecorations:block/cowskull",
+    "missing": "dustydecorations:block/cowskull"
+  },
+  "render_type": "cutout"
+}

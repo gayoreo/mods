@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alchemists_garden:gingerbread_man_cookie"
+    },
+    "1": {
+      "item": "alchemists_garden:glittering_spores"
+    },
+    "2": {
+      "item": "alchemists_garden:gingerbread_man_cookie"
+    },
+    "3": {
+      "item": "alchemists_garden:gingerbread_man_cookie"
+    },
+    "4": {
+      "item": "alchemists_garden:gingerbread_man_cookie"
+    },
+    "5": {
+      "item": "alchemists_garden:gingerbread_man_cookie"
+    },
+    "6": {
+      "item": "alchemists_garden:energy_ball"
+    },
+    "7": {
+      "item": "alchemists_garden:energy_ball"
+    },
+    "8": {
+      "item": "alchemists_garden:energy_ball"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:live_gingerbread_man",
+    "count": 1
+  }
+}

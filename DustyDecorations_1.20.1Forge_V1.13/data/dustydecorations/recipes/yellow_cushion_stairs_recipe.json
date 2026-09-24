@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "yellowcushionstairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:yellow_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:yellow_cushion_stairs",
+    "count": 6
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "jeed:effect_provider",
+  "conditions": [
+    {
+      "modid": "jeed",
+      "type": "forge:mod_loaded"
+    }
+  ],
+  "effect": {
+      "id": "cold_sweat:warmth"
+  },
+  "providers": [
+    {
+      "item": "cold_sweat:hearth"
+    },
+    {
+      "item": "cold_sweat:boiler"
+    }
+  ]
+}

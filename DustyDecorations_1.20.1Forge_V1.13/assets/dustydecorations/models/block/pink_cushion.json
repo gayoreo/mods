@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dustydecorations:block/pinkcushion",
+    "particle": "dustydecorations:block/pinkcushion"
+  },
+  "render_type": "solid"
+}

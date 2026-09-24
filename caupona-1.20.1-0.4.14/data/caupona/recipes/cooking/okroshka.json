@@ -1,0 +1,28 @@
+{
+  "type": "caupona:cooking",
+  "allow": [
+    {
+      "type": [
+        "caupona:vegetables",
+        "caupona:meats"
+      ],
+      "cond": "half"
+    },
+    {
+      "type": "caupona:vegetables",
+      "cond": "contains"
+    },
+    {
+      "type": "caupona:meats",
+      "cond": "contains"
+    },
+    {
+      "type": "caupona:ice",
+      "cond": "contains"
+    }
+  ],
+  "density": 0.75,
+  "output": "caupona:okroshka",
+  "priority": 1152,
+  "time": 200
+}

@@ -1,0 +1,30 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "dragnlivestock:holiday_config_condition"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "category": "misc",
+        "ingredients": [
+          {
+            "item": "dragnlivestock:wagon_harness"
+          },
+          {
+            "item": "minecraft:red_dye"
+          },
+          {
+            "tag": "dragnlivestock:gold_metals"
+          }
+        ],
+        "result": {
+          "item": "dragnlivestock:holiday_wagon_harness"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/sglhoney",
+  "textures": {
+    "all": "dustydecorations:block/sglhoney",
+    "particle": "dustydecorations:block/sglhoney",
+    "0": "dustydecorations:block/sglhoney",
+    "missing": "dustydecorations:block/sglhoney"
+  },
+  "render_type": "translucent"
+}

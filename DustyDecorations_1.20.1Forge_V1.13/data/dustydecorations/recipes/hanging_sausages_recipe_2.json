@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hangingsausages",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:rope"
+    },
+    "b": {
+      "tag": "minecraft:meat"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:hanging_sausages",
+    "count": 4
+  }
+}

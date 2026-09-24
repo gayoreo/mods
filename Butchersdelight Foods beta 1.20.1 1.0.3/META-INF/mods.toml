@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="butchersdelightfoods"
+version="1.20.11.0.3"
+displayName="ButchersDelightfoods"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/butchers-delight"
+logoFile="logo.png"
+authors="Onuadan, MCreator"
+description="A food mod for butcher´s delight"
+
+[[dependencies.butchersdelightfoods]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

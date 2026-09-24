@@ -1,0 +1,41 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT License"
+
+[[mods]]
+modId="dustydecorations"
+version="1.13"
+displayName="Dusty Decorations"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/dusty-decorations"
+logoFile="logo.png"
+credits="Artist & dev Tip Mischiff, artist and dev Redkoopa, help by Mhats, used MCreator"
+authors="Tip Mischiff"
+description="Dusty Decorations adds many rustic blocks for you to decorate your world with."
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.dustydecorations]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.dustydecorations]]
+    modId="geckolib"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.dustydecorations]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

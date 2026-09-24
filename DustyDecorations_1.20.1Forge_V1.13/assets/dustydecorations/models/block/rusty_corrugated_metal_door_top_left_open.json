@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_left_open",
+  "textures": {
+    "particle": "dustydecorations:block/rustycorrugateddoorbottom",
+    "bottom": "dustydecorations:block/rustycorrugateddoorbottom",
+    "top": "dustydecorations:block/rustycorrugateddoortop"
+  },
+  "render_type": "solid"
+}

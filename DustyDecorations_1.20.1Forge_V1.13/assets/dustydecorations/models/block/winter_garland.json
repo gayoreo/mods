@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/winter_garland",
+  "textures": {
+    "all": "dustydecorations:block/wintergarland1",
+    "particle": "dustydecorations:block/wintergarland1",
+    "0": "dustydecorations:block/wintergarland1"
+  },
+  "render_type": "cutout_mipped"
+}

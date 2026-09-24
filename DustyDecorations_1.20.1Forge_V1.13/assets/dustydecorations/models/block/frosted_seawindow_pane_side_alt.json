@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "particle": "dustydecorations:block/borderglass",
+    "edge": "dustydecorations:block/blank",
+    "pane": "dustydecorations:block/borderglass"
+  },
+  "render_type": "translucent"
+}

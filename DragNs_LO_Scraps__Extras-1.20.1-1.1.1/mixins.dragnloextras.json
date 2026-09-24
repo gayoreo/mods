@@ -1,0 +1,42 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.dragn0007.dragnloextras.mixin",
+  "refmap": "mixins.dragnloextras.refmap.json",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "AbstractOMountMixin",
+    "CaribouMixin",
+    "FarmGoatMixin",
+    "OCamelMixin",
+    "OCatMixin",
+    "OChickenMixin",
+    "OCowMixin",
+    "ODogMixin",
+    "ODonkeyMixin",
+    "OGoatMixin",
+    "OHorseMixin",
+    "OLlamaMixin",
+    "OMuleMixin",
+    "OOcelotMixin",
+    "OPigMixin",
+    "ORabbitMixin",
+    "OSheepMixin",
+    "OWolfMixin",
+    "PSpawnReplacerMixin",
+    "SpawnReplacerMixin",
+    "UnicornMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "CaribouRenderMixin",
+    "OCamelRenderMixin",
+    "ODogRenderMixin",
+    "ODonkeyRenderMixin",
+    "OHorseRenderMixin",
+    "OMuleRenderMixin",
+    "UnicornRenderMixin"
+  ]
+}

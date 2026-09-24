@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dustydecorations:block/hazelwindow",
+    "particle": "dustydecorations:block/hazelwindow"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "goldcoinrevertblock",
+  "category": "building",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:gold_coins_full"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:gold_coins",
+    "count": 8
+  }
+}

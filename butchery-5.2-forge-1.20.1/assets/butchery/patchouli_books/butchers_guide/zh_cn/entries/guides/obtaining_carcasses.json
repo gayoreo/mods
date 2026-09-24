@@ -1,0 +1,20 @@
+{
+    "name": "获取尸体",
+    "icon": "butchery:pig_carcass",
+    "category": "butchery:guides",
+    "read_by_default": true,
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:pig_carcass",
+            "link_recipe": true,
+            "title": "获取尸体",
+            "text": "获取生物尸体的方法十分简单。$(br2)你只需要一把$(l:butchery:items/cleavers)剁肉刀$()（在配置文件中可以启用某件武器/工具使其击杀能够掉落尸体），使用剁肉刀击杀目标生物，其尸体就会掉落，直接拾取即可！"
+        },
+            {
+            "type": "patchouli:text",
+            "text": "你可能会发现移动变得迟缓，为什么？别看尸体看起来不重，携带尸体在背包内时会触发缓慢效果（可以在配置文件中禁用）。"
+        }
+    ]
+}

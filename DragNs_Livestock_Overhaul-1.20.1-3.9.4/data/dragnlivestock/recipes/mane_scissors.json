@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "tag": "dragnlivestock:crafting_metals"
+    },
+    "B": {
+      "tag": "dragnlivestock:crafting_metal_nuggets"
+    }
+  },
+  "pattern": [
+    "A A",
+    "A A",
+    "BAB"
+  ],
+  "result": {
+    "item": "dragnlivestock:mane_scissors"
+  },
+  "show_notification": true
+}

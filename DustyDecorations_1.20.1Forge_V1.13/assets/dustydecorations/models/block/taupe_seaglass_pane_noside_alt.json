@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "particle": "dustydecorations:block/taupeseaglass",
+    "pane": "dustydecorations:block/taupeseaglass"
+  },
+  "render_type": "translucent"
+}

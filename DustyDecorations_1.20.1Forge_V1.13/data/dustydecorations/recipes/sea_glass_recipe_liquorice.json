@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sea_glass_block",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:liquorice_seaglass_fragment"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:liquorice_seaglass",
+    "count": 1
+  }
+}

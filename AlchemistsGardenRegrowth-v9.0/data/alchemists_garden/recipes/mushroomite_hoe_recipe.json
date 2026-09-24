@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "minecraft:iron_hoe"
+  },
+  "addition": {
+    "item": "alchemists_garden:mushroomite_ingot"
+  },
+  "result": {
+    "item": "alchemists_garden:mushroomite_hoe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/tuff_quoin_brick",
+  "textures": {
+    "all": "minecraft:block/tuff",
+    "particle": "minecraft:block/tuff",
+    "0": "dustydecorations:block/tuff_quoin_bricks"
+  },
+  "render_type": "solid"
+}

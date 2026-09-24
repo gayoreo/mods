@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "seastonewall",
+  "count": 1,
+  "ingredient": {
+    "item": "dustydecorations:seastone"
+  },
+  "result": "dustydecorations:seastone_brick_wall"
+}

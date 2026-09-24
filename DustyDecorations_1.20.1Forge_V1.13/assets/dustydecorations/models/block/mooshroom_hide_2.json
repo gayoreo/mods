@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/mooshroomhide_two",
+  "textures": {
+    "all": "dustydecorations:block/mooshroomhide_brown",
+    "particle": "dustydecorations:block/mooshroomhide_brown",
+    "0": "dustydecorations:block/mooshroomhide_red"
+  },
+  "render_type": "cutout"
+}

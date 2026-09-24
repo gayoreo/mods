@@ -1,0 +1,20 @@
+﻿{
+    "modmenu.nameTranslation.better_fishing":  "Better Fishing",
+    "screen.better_fishing.catch.title":  "어획물",
+    "screen.better_fishing.catch.collect":  "물고기 가져가기",
+    "screen.better_fishing.catch.release":  "물고기 놓아주기",
+    "hud.better_fishing.tension":  "낚싯줄 장력",
+    "hud.better_fishing.progress":  "포획 진행도",
+    "message.better_fishing.too_close_to_hook":  "물고기를 놀라게 하고 있습니다. 낚싯바늘에서 최소 6블록 이상 떨어져야 물고기를 낚을 수 있습니다.",
+    "screen.better_fishing.options.title":  "Better Fishing",
+    "screen.better_fishing.options.difficulty":  "낚시 난이도",
+    "screen.better_fishing.options.difficulty.normal":  "어려움",
+    "screen.better_fishing.options.difficulty.easy":  "쉬움",
+    "screen.better_fishing.options.selected":  "%s: 선택됨",
+    "key.categories.better_fishing":  "Better Fishing",
+    "key.better_fishing.open_options":  "Better Fishing 메뉴 열기",
+    "screen.better_fishing.options.difficulty_button":  "난이도: %s",
+    "screen.better_fishing.options.line_sound_button":  "줄 소리: %s",
+    "screen.better_fishing.options.catch_sound_button":  "잡기 소리: %s",
+    "screen.better_fishing.options.spooked_warning_button":  "물고기 경고: %s"
+}

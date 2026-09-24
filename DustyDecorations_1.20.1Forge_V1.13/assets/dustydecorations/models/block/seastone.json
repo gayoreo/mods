@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dustydecorations:block/seastonetop",
+    "up": "dustydecorations:block/seastonetop",
+    "north": "dustydecorations:block/seastoneside",
+    "east": "dustydecorations:block/seastoneside",
+    "south": "dustydecorations:block/seastoneside",
+    "west": "dustydecorations:block/seastoneside",
+    "particle": "dustydecorations:block/seastonetop"
+  },
+  "render_type": "solid"
+}

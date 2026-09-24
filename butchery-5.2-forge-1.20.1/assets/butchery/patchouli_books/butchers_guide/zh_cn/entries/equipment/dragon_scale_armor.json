@@ -1,0 +1,26 @@
+{
+    "name": "龙鳞护甲",
+    "icon": "butchery:dragon_scale_armor_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:dragon_scale_armor_chestplate",
+            "link_recipe": true,
+            "title": "龙鳞护甲",
+            "text": "龙鳞护甲是通过屠宰末影龙获得的全新护甲套装。$(br2)该套装获取难度较高，制作一整套需要击杀多条末影龙。$(br2)在锻造台使用$(l:butchery:items/dragon_smithing_template)龙纹锻造模板$()与$(l:butchery:resources/dragon_scale)龙鳞锭$()，对下界合金护甲进行升级即可制作。"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:dragonhelmetrecipe",
+            "recipe2": "butchery:dragonchestplaterecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:dragonleggingsrecipe",
+            "recipe2": "butchery:dragon_boots_recipe"
+        }
+    ]
+}

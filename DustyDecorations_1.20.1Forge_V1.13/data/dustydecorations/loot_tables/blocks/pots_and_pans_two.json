@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "dustydecorations:blocks/pots_and_pans_two",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dustydecorations:pots_and_pans",
+          "functions": [
+            {
+              "count": 2,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

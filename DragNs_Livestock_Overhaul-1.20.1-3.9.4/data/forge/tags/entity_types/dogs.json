@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "dragnpets:o_dog",
+      "required": false
+    }
+  ]
+}

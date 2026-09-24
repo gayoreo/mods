@@ -1,0 +1,18 @@
+{
+	"textures": {
+		"texture": "dawnoftimebuilder:block/slate_bricks",
+		"particle": "dawnoftimebuilder:block/slate_bricks"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 16, 14],
+			"faces": {
+				"north": {"uv": [0, 0, 12, 16], "texture": "#texture"},
+				"east": {"uv": [4, 0, 16, 16], "texture": "#texture"},
+				"south": {"uv": [4, 0, 16, 16], "texture": "#texture"},
+				"west": {"uv": [4, 0, 16, 16], "texture": "#texture"}
+			}
+		}
+	]
+}

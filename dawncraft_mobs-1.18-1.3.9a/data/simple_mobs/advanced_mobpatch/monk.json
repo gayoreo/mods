@@ -1,0 +1,678 @@
+{
+    "model": "epicfight:entity/biped_old_texture",
+    "armature": "epicfight:entity/biped",
+    "renderer": "minecraft:zombie",
+    "isHumanoid": true,
+    "faction": "neutral",
+    "attributes": {
+        "impact": 0.5,
+        "armor_negation": 4,
+        "max_strikes": 1,
+        "chasing_speed": 1.4,
+        "scale": 1,
+        "max_stamina": 30,
+        "stamina_regan_multiply": 1,
+        "stamina_regan_delay": 20,
+        "has_stun_reduction": true,
+        "max_stun_shield": 0,
+        "stun_shield_regan_multiply": 1,
+        "stun_shield_regan_delay": 30,
+        "stamina_lose_multiply": 1
+    },
+    "custom_guard_motion": [
+        {
+            "weapon_categories": [
+                "fist"
+            ],
+            "style": "common",
+            "guard": "indestructible:guard/guard_greatsword",
+            "stamina_cost_multiply": 1,
+            "can_block_projectile": true
+        }
+    ],
+    "humanoid_weapon_motions": [
+        {
+            "weapon_categories": [
+                "spear"
+            ],
+            "style": "common",
+            "livingmotions": {
+                "idle": "simple_mobs:biped/living/monk_staff_idle",
+                "walk": "simple_mobs:biped/living/monk_staff_walk",
+                "chase": "wom:biped/living/staff_run"
+            }
+        }
+    ],
+    "default_livingmotions": {
+        "idle": "simple_mobs:biped/living/monk_idle",
+        "walk": "simple_mobs:biped/living/monk_walk",
+        "chase": "epicfight:biped/living/run",
+        "mount": "epicfight:biped/living/mount",
+        "fall": "epicfight:biped/living/fall",
+        "death": "epicfight:biped/living/death"
+    },
+    "stun_animations": {
+        "short": "epicfight:biped/combat/hit_short",
+        "long": "epicfight:biped/combat/hit_long",
+        "knockdown": "epicfight:biped/combat/knockdown",
+        "fall": "epicfight:biped/living/landing"
+    },
+    "combat_behavior": [
+        {
+            "weapon_categories": [
+                "spear"
+            ],
+            "style": "common",
+            "behavior_series": [
+                {
+                    "weight": 1,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 50,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 5.5
+                                }
+                            ],
+                            "animation": "wom:biped/combat/staff_auto_1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 5.5
+                                }
+                            ],
+                            "animation": "wom:biped/combat/staff_auto_2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 5.5
+                                }
+                            ],
+                            "animation": "wom:biped/combat/staff_auto_3"
+                        }
+                    ]
+                },
+                {
+                    "weight": 1,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 100,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 5.5
+                                }
+                            ],
+                            "animation": "falchionmoveset:biped/falchion/falchion_auto1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 5.5
+                                }
+                            ],
+                            "animation": "falchionmoveset:biped/falchion/falchion_auto2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 5.5
+                                }
+                            ],
+                            "animation": "falchionmoveset:biped/falchion/falchion_auto3"
+                        }
+                    ]
+                },
+                {
+                    "weight": 5,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 80,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 0.5
+                                }
+                            ],
+                            "animation": "epicfight:biped/skill/roll_backward"
+                        }
+                    ]
+                },
+                {
+                    "weight": 1.5,
+                    "canBeInterrupted": true,
+                    "cooldown": 160,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                }
+                            ],
+                            "wander": 60,
+                            "inaction_time": 60,
+                            "x_axis": 0.6,
+                            "z_axis": -0.2
+                        }
+                    ]
+                },
+                {
+                    "weight": 15,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 80,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 2,
+                                    "max": 3
+                                }
+                            ],
+                            "animation": "epicfight:biped/skill/roll_forward"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "weapon_categories": [
+                "fist"
+            ],
+            "style": "common",
+            "behavior_series": [
+                {
+                    "weight": 3,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "efmpirates:biped/combat/sanji_auto_1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "efmpirates:biped/combat/sanji_auto_2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "efmpirates:biped/combat/sanji_auto_3"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "efmpirates:biped/combat/sanji_auto_4"
+                        }
+                    ]
+                },
+                {
+                    "weight": 20,
+                    "cooldown": 30,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 2,
+                                    "max": 30
+                                },
+                                {
+                                    "predicate": "random_chance",
+                                    "chance": 0.2
+                                }
+                            ],
+                            "guard": 40,
+                            "counter_cost": 1,
+                            "counter_chance": 0.1,
+                            "counter_speed": 0.8
+                        }
+                    ]
+                },
+                {
+                    "weight": 3,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "epicfight:biped/combat/fist_auto1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "epicfight:biped/combat/fist_auto2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "wom:biped/combat/enderblaster_onehand_auto_1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "wom:biped/combat/enderblaster_onehand_auto_2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "epicfight:biped/skill/relentless_combo"
+                        }
+                    ]
+                },
+                {
+                    "weight": 3,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "wom:biped/combat/enderblaster_onehand_auto_2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "wom:biped/combat/enderblaster_onehand_auto_3"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "wom:biped/combat/enderblaster_onehand_auto_4"
+                        }
+                    ]
+                },
+                {
+                    "weight": 3,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 5,
+                                    "max": 14
+                                }
+                            ],
+                            "animation": "wom:biped/combat/enderblaster_twohand_dash"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "wom:biped/combat/enderblaster_twohand_tishnaw"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "wom:biped/combat/enderblaster_onehand_dash"
+                        }
+                    ]
+                },
+                {
+                    "weight": 0.1,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 200,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "random_chance",
+                                    "chance": 0.5
+                                },
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 2,
+                                    "max": 5
+                                }
+                            ],
+                            "animation": "efmpirates:biped/combat/sanji_antimaner"
+                        }
+                    ]
+                },
+                {
+                    "weight": 0.1,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 200,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "random_chance",
+                                    "chance": 0.5
+                                },
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 5,
+                                    "max": 14
+                                }
+                            ],
+                            "animation": "efmpirates:biped/combat/sanji_concasser"
+                        }
+                    ]
+                },
+                {
+                    "weight": 0.1,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 200,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "random_chance",
+                                    "chance": 0.5
+                                },
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 5,
+                                    "max": 14
+                                }
+                            ],
+                            "animation": "efmpirates:biped/combat/sanji_concasser"
+                        }
+                    ]
+                },
+                {
+                    "weight": 3,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 120,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "efmpirates:biped/skill/sanji_diable_auto_1"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "efmpirates:biped/skill/sanji_diable_auto_2"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "efmpirates:biped/skill/sanji_diable_auto_3"
+                        },
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "efmpirates:biped/skill/sanji_diable_auto_4"
+                        }
+                    ]
+                },
+                {
+                    "weight": 0.5,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 100,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 0,
+                                    "max": 2
+                                }
+                            ],
+                            "animation": "epicfight:biped/skill/step_backward"
+                        }
+                    ]
+                },
+                {
+                    "weight": 0.5,
+                    "canBeInterrupted": false,
+                    "looping": false,
+                    "cooldown": 100,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                },
+                                {
+                                    "predicate": "within_distance",
+                                    "min": 2,
+                                    "max": 4
+                                }
+                            ],
+                            "animation": "epicfight:biped/skill/step_forward"
+                        }
+                    ]
+                },
+                {
+                    "weight": 1.5,
+                    "canBeInterrupted": true,
+                    "cooldown": 100,
+                    "behaviors": [
+                        {
+                            "conditions": [
+                                {
+                                    "predicate": "within_eye_height"
+                                }
+                            ],
+                            "wander": 60,
+                            "inaction_time": 60,
+                            "x_axis": 0.6,
+                            "z_axis": -0.2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

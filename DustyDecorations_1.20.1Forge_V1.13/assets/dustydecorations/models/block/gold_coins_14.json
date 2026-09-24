@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/goldcoins14",
+  "textures": {
+    "all": "dustydecorations:block/gold_coins_top",
+    "particle": "dustydecorations:block/gold_coins_top",
+    "GoldenCoins": "dustydecorations:block/gold_coins",
+    "GoldenCoinsTopBottom": "dustydecorations:block/gold_coins_top"
+  },
+  "render_type": "solid"
+}

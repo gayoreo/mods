@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "sunflower_plains",
+    "plains",
+    "meadow"
+  ],
+  "features": "alchemists_garden:gnome_king_den",
+  "step": "surface_structures"
+}

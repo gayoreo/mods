@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "dustydecorations:blocks/gold_coins_full",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dustydecorations:gold_coins",
+          "functions": [
+            {
+              "count": 8,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    "ghi"
+  ],
+  "key": {
+    "a": {
+      "item": "butchery:raw_enderman_steak"
+    },
+    "b": {
+      "item": "butchery:raw_warden_meat"
+    },
+    "c": {
+      "item": "butchery:raw_elder_guardian_meat"
+    },
+    "d": {
+      "item": "butchery:raw_sniffer_steak"
+    },
+    "e": {
+      "item": "butchery:raw_ravager_meat"
+    },
+    "f": {
+      "item": "butchery:raw_witch_meat"
+    },
+    "g": {
+      "item": "butchery:raw_shulker_meat"
+    },
+    "h": {
+      "item": "butchery:raw_strider_meat"
+    },
+    "i": {
+      "item": "butchery:raw_dragon_meat"
+    }
+  },
+  "result": {
+    "item": "butchery:themightymeatball",
+    "count": 1
+  }
+}

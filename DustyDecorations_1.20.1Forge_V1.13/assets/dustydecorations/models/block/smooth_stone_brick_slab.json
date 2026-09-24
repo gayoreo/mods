@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "dustydecorations:block/smoothstone_brick_top",
+    "bottom": "dustydecorations:block/smoothstone_brick_top",
+    "top": "dustydecorations:block/smoothstone_brick_top",
+    "side": "dustydecorations:block/smooth_stone_brick"
+  },
+  "render_type": "solid"
+}

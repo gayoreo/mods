@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/treasure_map",
+  "textures": {
+    "all": "dustydecorations:block/treasure_map",
+    "particle": "dustydecorations:block/treasure_map",
+    "0": "dustydecorations:block/treasure_map"
+  },
+  "render_type": "cutout"
+}

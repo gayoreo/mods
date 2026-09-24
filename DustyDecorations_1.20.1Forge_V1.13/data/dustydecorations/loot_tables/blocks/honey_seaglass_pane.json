@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "dustydecorations:blocks/honey_seaglass_pane",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dustydecorations:honey_seaglass_fragments",
+          "functions": [
+            {
+              "count": 2,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

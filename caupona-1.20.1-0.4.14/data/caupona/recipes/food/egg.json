@@ -1,0 +1,13 @@
+{
+  "type": "caupona:food",
+  "heal": 3,
+  "item": {
+    "item": "minecraft:egg"
+  },
+  "items": [
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "sat": 0.5
+}

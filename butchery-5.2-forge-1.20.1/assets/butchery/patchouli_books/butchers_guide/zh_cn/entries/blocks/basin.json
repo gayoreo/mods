@@ -1,0 +1,20 @@
+{
+    "name": "储盐盆",
+    "icon": "butchery:basin",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:basin",
+            "link_recipe": true,
+            "title": "储盐盆",
+            "text": "§d储盐盆§0可用于自动收集$(l:butchery:resources/salt)盐$()。$(br2)使用时需向其中注满水，经过半个游戏日，水分蒸发后会析出盐，可右键取出或通过漏斗导出。$(br2)储盐盆必须放置在**室外阳光直射处**才能蒸发水分，夜晚或下雨时无法运作。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:basinrecipe"
+        }
+    ]
+}

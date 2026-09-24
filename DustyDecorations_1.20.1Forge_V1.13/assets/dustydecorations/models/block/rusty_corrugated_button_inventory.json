@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "particle": "dustydecorations:block/corrugated_metal",
+    "texture": "dustydecorations:block/corrugated_metal"
+  },
+  "render_type": "solid"
+}

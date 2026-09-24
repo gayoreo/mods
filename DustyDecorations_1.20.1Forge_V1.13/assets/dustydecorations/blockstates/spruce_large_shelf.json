@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/spruce_large_shelf"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/spruce_large_shelf",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/spruce_large_shelf",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/spruce_large_shelf",
+      "y": 270
+    }
+  }
+}

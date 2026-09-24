@@ -1,0 +1,12 @@
+{
+  "parent": "alchemists_garden:custom/webbykeyholewithkey",
+  "textures": {
+    "all": "alchemists_garden:block/cobblestone",
+    "particle": "alchemists_garden:block/cobblestone",
+    "0": "alchemists_garden:block/cobblestone",
+    "1": "alchemists_garden:block/keyweb",
+    "2": "alchemists_garden:block/golden_shovel",
+    "missing": "alchemists_garden:block/"
+  },
+  "render_type": "solid"
+}

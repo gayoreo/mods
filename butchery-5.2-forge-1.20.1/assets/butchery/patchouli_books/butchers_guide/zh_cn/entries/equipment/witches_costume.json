@@ -1,0 +1,16 @@
+{
+    "name": "女巫套装",
+    "icon": "butchery:witches_clothes_chestplate",
+    "category": "butchery:equipment",
+    "read_by_default": true,
+    "sortnum": 5,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:witches_clothes_chestplate",
+            "link_recipe": true,
+            "title": "女巫套装",
+            "text": "屠宰女巫可获得女巫套装，该套装仅为装饰用途。$(br2)可在合成台将其与剁肉刀或剥皮刀组合进行回收。"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alchemists_garden:dirt_brick"
+    },
+    "3": {
+      "item": "alchemists_garden:dirt_brick"
+    },
+    "4": {
+      "item": "alchemists_garden:dirt_brick"
+    },
+    "6": {
+      "item": "alchemists_garden:dirt_brick"
+    },
+    "7": {
+      "item": "alchemists_garden:dirt_brick"
+    },
+    "8": {
+      "item": "alchemists_garden:dirt_brick"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:dirt_brick_stairs",
+    "count": 4
+  }
+}

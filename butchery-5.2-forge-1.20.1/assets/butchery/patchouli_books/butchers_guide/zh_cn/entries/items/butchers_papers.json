@@ -1,0 +1,20 @@
+{
+    "name": "屠夫手记",
+    "icon": "butchery:butchers_papers",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:butchers_papers",
+            "link_recipe": true,
+            "title": "屠夫手记",
+            "text": "§d屠夫手记§0用于切换$(l:butchery:blocks/blood_grate)血箆$()兼容的血液类型。手持手记右键血箆，即可循环切换不同类型。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:butcherspapersrecipe"
+        }
+    ]
+}

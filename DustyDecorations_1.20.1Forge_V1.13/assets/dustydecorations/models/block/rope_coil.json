@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/coiled_rope",
+  "textures": {
+    "all": "dustydecorations:block/coiled_rope",
+    "particle": "dustydecorations:block/coiled_rope",
+    "0": "dustydecorations:block/coiled_rope"
+  },
+  "render_type": "solid"
+}

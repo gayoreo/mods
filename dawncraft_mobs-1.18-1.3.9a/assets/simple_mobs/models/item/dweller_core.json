@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/dwellercore",
+  "textures": {
+    "0": "simple_mobs:blocks/dwellercore",
+    "particle": "simple_mobs:items/dweller_core_item"
+  }
+}

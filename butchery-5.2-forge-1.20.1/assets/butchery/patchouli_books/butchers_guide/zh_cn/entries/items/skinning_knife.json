@@ -1,0 +1,30 @@
+{
+    "name": "剥皮刀",
+    "icon": "butchery:iron_skinning_knife",
+    "category": "butchery:items",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:iron_skinning_knife",
+            "link_recipe": true,
+            "title": "剥皮刀",
+            "text": "§d剥皮刀§0用于剥离生物皮毛或兽皮。$(br2)剥皮前尸体必须完全放血，手持剥皮刀右键尸体即可。$(br2)和剁肉刀一样，剥皮刀有五种材质，功能基本一致；$(br2)只有§d下界合金剥皮刀§0足够锋利，可剥离BOSS生物的外皮。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:boneskinningkniferecipe",
+            "recipe2": "butchery:ironskinningkniferecipe"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:goldskinningkniferecipe",
+            "recipe2": "butchery:diamondskinningkniferecipe"
+        },
+        {
+            "type": "patchouli:smithing",
+            "recipe": "butchery:netheriteskinningkniferecipe"
+        }
+    ]
+}

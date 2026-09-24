@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/ink_n_quill"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/ink_n_quill",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/ink_n_quill",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/ink_n_quill",
+      "y": 270
+    }
+  }
+}

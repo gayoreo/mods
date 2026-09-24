@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cyancushionstairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:cyan_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:cyan_cushion_stairs",
+    "count": 6
+  }
+}

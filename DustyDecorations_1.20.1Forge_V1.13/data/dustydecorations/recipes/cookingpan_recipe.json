@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "fryingpanrecipe",
+  "category": "building",
+  "pattern": [
+    "abb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_bars"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:frying_pan",
+    "count": 2
+  }
+}

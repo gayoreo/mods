@@ -1,0 +1,25 @@
+{
+    "name": "肉类转换",
+    "icon": "minecraft:beef",
+    "category": "butchery:guides",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "minecraft:beef",
+            "link_recipe": true,
+            "title": "肉类转换",
+            "text": "不想使用本模组产出的肉类？没问题！$(br2)只要存在原版对应肉类，将模组肉类放入工作台即可转换为原版肉类。$(br2)你也可以使用农夫乐事的砧板进行转换！"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:beefconversion",
+            "recipe2": "butchery:porkconversion"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:muttonconversion"
+        }
+    ]
+}

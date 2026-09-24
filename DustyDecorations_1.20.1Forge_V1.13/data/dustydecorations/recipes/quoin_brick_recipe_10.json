@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "quoinbrick",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:tuff"
+  },
+  "result": "dustydecorations:tuff_quoin"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dustydecorations:block/nautlisshellfront",
+    "up": "dustydecorations:block/nautlisshellbackandtop",
+    "north": "dustydecorations:block/nautlisshellfront",
+    "east": "dustydecorations:block/nautlisshellright",
+    "south": "dustydecorations:block/nautlisshellbackandtop",
+    "west": "dustydecorations:block/nautlisshellleft",
+    "particle": "dustydecorations:block/nautlisshellfront"
+  },
+  "render_type": "solid"
+}

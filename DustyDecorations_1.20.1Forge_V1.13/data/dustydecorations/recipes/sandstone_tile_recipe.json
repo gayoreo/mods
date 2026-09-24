@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sandstonetiledustydecor",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "forge:sandstone"
+    },
+    "b": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:sandstone_tile",
+    "count": 6
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 12",
+    "345",
+    "67 "
+  ],
+  "key": {
+    "1": {
+      "item": "alchemists_garden:blood_bottle"
+    },
+    "2": {
+      "item": "alchemists_garden:energy_ball"
+    },
+    "3": {
+      "item": "alchemists_garden:blood_bottle"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "alchemists_garden:blood_bottle"
+    },
+    "6": {
+      "item": "alchemists_garden:energy_ball"
+    },
+    "7": {
+      "item": "alchemists_garden:blood_bottle"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:philosophers_stone",
+    "count": 1
+  }
+}

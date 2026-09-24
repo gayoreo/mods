@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "magentacushionslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:magenta_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:magenta_cushion_slab",
+    "count": 6
+  }
+}

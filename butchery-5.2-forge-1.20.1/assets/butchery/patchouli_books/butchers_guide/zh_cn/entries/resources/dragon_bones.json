@@ -1,0 +1,16 @@
+{
+    "name": "龙骨",
+    "icon": "butchery:dragon_bone",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:dragon_bone",
+            "link_recipe": true,
+            "title": "龙骨",
+            "text": "屠宰末影龙可获得龙骨。$(br2)它是制作$(l:butchery:equipment/dragon_scale_armor)龙鳞护甲$()的核心材料。$(br2)将龙骨在切石机中打磨，可获得尖刺龙骨。"
+        }
+    ]
+}

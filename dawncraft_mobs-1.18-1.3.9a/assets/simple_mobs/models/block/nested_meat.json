@@ -1,0 +1,8 @@
+{
+  "parent": "simple_mobs:custom/nested_meat",
+  "textures": {
+    "all": "simple_mobs:blocks/nested_meat",
+    "particle": "simple_mobs:blocks/nested_meat",
+    "2": "simple_mobs:blocks/nested_meat"
+  }
+}

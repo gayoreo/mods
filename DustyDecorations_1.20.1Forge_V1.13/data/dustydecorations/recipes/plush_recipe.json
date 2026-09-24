@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "plush",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "bcb",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:burlap"
+    },
+    "b": {
+      "tag": "minecraft:wool_carpets"
+    },
+    "c": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:plushy",
+    "count": 1
+  }
+}

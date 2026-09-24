@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "warm_ocean",
+    "beach",
+    "deep_ocean",
+    "deep_lukewarm_ocean",
+    "ocean",
+    "lukewarm_ocean"
+  ],
+  "features": "dustydecorations:seastone",
+  "step": "underground_ores"
+}

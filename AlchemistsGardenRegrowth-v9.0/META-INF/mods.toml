@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="alchemists_garden"
+version="9.0"
+displayName="Alchemist's Garden: Regrowth"
+credits="Made by Vortz"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/alchemists-garden"
+logoFile="logo.png"
+authors="Vortz"
+description="Harvest magical plants and fight magical creatures with special properties!"
+
+[[dependencies.alchemists_garden]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

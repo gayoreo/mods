@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "alchemists_garden:textures/screens/mixedsoilback.png",
+    "icon": {
+      "item": "minecraft:grass"
+    },
+    "title": {
+      "translate": "advancements.alchemists_garden_base.title"
+    },
+    "description": {
+      "translate": "advancements.alchemists_garden_base.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "alchemists_garden_base": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

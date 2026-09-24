@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:glittering_spores"
+    },
+    "title": {
+      "translate": "advancements.obtaining_glittering_spores_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.obtaining_glittering_spores_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "obtaining_glittering_spores_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:glittering_spores"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:obtaining_strange_spores_advancement"
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "caupona:block/template_mineral_bloom",
+	"textures": {
+		"mineral": "caupona:block/pumice_0",
+		"particle": "caupona:block/pumice_0"
+	}
+}

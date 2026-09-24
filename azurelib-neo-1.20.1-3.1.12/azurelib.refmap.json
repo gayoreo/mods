@@ -1,0 +1,80 @@
+{
+  "mappings": {
+    "mod/azure/azurelib/mixins/AbstractContainerMenuMixin_AzItemIDFix": {
+      "Lnet/minecraft/world/item/ItemStack;copyWithCount(I)Lnet/minecraft/world/item/ItemStack;": "Lnet/minecraft/world/item/ItemStack;m_255036_(I)Lnet/minecraft/world/item/ItemStack;",
+      "doClick": "Lnet/minecraft/world/inventory/AbstractContainerMenu;m_150430_(IILnet/minecraft/world/inventory/ClickType;Lnet/minecraft/world/entity/player/Player;)V",
+      "Lnet/minecraft/world/item/ItemStack;matches(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)Z": "Lnet/minecraft/world/item/ItemStack;m_41728_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)Z",
+      "synchronizeSlotToRemote": "Lnet/minecraft/world/inventory/AbstractContainerMenu;m_150435_(ILnet/minecraft/world/item/ItemStack;Ljava/util/function/Supplier;)V",
+      "triggerSlotListeners": "Lnet/minecraft/world/inventory/AbstractContainerMenu;m_150407_(ILnet/minecraft/world/item/ItemStack;Ljava/util/function/Supplier;)V"
+    },
+    "mod/azure/azurelib/mixins/MinecraftMixin": {
+      "Lnet/minecraft/client/renderer/GameRenderer;resetData()V": "Lnet/minecraft/client/renderer/GameRenderer;m_109150_()V",
+      "clearLevel(Lnet/minecraft/client/gui/screens/Screen;)V": "Lnet/minecraft/client/Minecraft;m_91320_(Lnet/minecraft/client/gui/screens/Screen;)V"
+    },
+    "mod/azure/azurelib/mixins/ItemMixin_EnsureCraftHasID": {
+      "onCraftedBy": "Lnet/minecraft/world/item/Item;m_7836_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;)V"
+    },
+    "mod/azure/azurelib/mixins/ItemStackMixin_AzItemStackIdentityRegistry": {
+      "<init>(Lnet/minecraft/nbt/CompoundTag;)V": "Lnet/minecraft/world/item/ItemStack;<init>(Lnet/minecraft/nbt/CompoundTag;)V"
+    },
+    "mod/azure/azurelib/mixins/MixinItemRenderer": {
+      "Lnet/minecraft/client/renderer/BlockEntityWithoutLevelRenderer;renderByItem(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;II)V": "Lnet/minecraft/client/renderer/BlockEntityWithoutLevelRenderer;m_108829_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;II)V",
+      "render": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115143_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;IILnet/minecraft/client/resources/model/BakedModel;)V"
+    },
+    "mod/azure/azurelib/mixins/NeoMixinHumanoidArmorLayer": {
+      "Lnet/minecraft/world/entity/LivingEntity;getItemBySlot(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;": "Lnet/minecraft/world/entity/LivingEntity;m_6844_(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;",
+      "renderArmorPiece": "Lnet/minecraft/client/renderer/entity/layers/HumanoidArmorLayer;m_117118_(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/EquipmentSlot;ILnet/minecraft/client/model/HumanoidModel;)V"
+    },
+    "mod/azure/azurelib/mixins/PlayerListMixin": {
+      "placeNewPlayer": "Lnet/minecraft/server/players/PlayerList;m_11261_(Lnet/minecraft/network/Connection;Lnet/minecraft/server/level/ServerPlayer;)V"
+    },
+    "mod/azure/azurelib/mixins/FabricMixinHumanoidArmorLayer": {
+      "Lnet/minecraft/world/entity/LivingEntity;getItemBySlot(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;": "Lnet/minecraft/world/entity/LivingEntity;m_6844_(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;",
+      "renderArmorPiece": "Lnet/minecraft/client/renderer/entity/layers/HumanoidArmorLayer;m_117118_(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/EquipmentSlot;ILnet/minecraft/client/model/HumanoidModel;)V",
+      "Lnet/minecraft/client/renderer/entity/layers/HumanoidArmorLayer;usesInnerModel(Lnet/minecraft/world/entity/EquipmentSlot;)Z": "Lnet/minecraft/client/renderer/entity/layers/HumanoidArmorLayer;m_117128_(Lnet/minecraft/world/entity/EquipmentSlot;)Z"
+    },
+    "mod/azure/azurelib/mixins/TextureManagerMixin": {
+      "getTexture(Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/client/renderer/texture/AbstractTexture;": "Lnet/minecraft/client/renderer/texture/TextureManager;m_118506_(Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/client/renderer/texture/AbstractTexture;"
+    }
+  },
+  "data": {
+    "searge": {
+      "mod/azure/azurelib/mixins/AbstractContainerMenuMixin_AzItemIDFix": {
+        "Lnet/minecraft/world/item/ItemStack;copyWithCount(I)Lnet/minecraft/world/item/ItemStack;": "Lnet/minecraft/world/item/ItemStack;m_255036_(I)Lnet/minecraft/world/item/ItemStack;",
+        "doClick": "Lnet/minecraft/world/inventory/AbstractContainerMenu;m_150430_(IILnet/minecraft/world/inventory/ClickType;Lnet/minecraft/world/entity/player/Player;)V",
+        "Lnet/minecraft/world/item/ItemStack;matches(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)Z": "Lnet/minecraft/world/item/ItemStack;m_41728_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemStack;)Z",
+        "synchronizeSlotToRemote": "Lnet/minecraft/world/inventory/AbstractContainerMenu;m_150435_(ILnet/minecraft/world/item/ItemStack;Ljava/util/function/Supplier;)V",
+        "triggerSlotListeners": "Lnet/minecraft/world/inventory/AbstractContainerMenu;m_150407_(ILnet/minecraft/world/item/ItemStack;Ljava/util/function/Supplier;)V"
+      },
+      "mod/azure/azurelib/mixins/MinecraftMixin": {
+        "Lnet/minecraft/client/renderer/GameRenderer;resetData()V": "Lnet/minecraft/client/renderer/GameRenderer;m_109150_()V",
+        "clearLevel(Lnet/minecraft/client/gui/screens/Screen;)V": "Lnet/minecraft/client/Minecraft;m_91320_(Lnet/minecraft/client/gui/screens/Screen;)V"
+      },
+      "mod/azure/azurelib/mixins/ItemMixin_EnsureCraftHasID": {
+        "onCraftedBy": "Lnet/minecraft/world/item/Item;m_7836_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/player/Player;)V"
+      },
+      "mod/azure/azurelib/mixins/ItemStackMixin_AzItemStackIdentityRegistry": {
+        "<init>(Lnet/minecraft/nbt/CompoundTag;)V": "Lnet/minecraft/world/item/ItemStack;<init>(Lnet/minecraft/nbt/CompoundTag;)V"
+      },
+      "mod/azure/azurelib/mixins/MixinItemRenderer": {
+        "Lnet/minecraft/client/renderer/BlockEntityWithoutLevelRenderer;renderByItem(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;II)V": "Lnet/minecraft/client/renderer/BlockEntityWithoutLevelRenderer;m_108829_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;II)V",
+        "render": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115143_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;IILnet/minecraft/client/resources/model/BakedModel;)V"
+      },
+      "mod/azure/azurelib/mixins/NeoMixinHumanoidArmorLayer": {
+        "Lnet/minecraft/world/entity/LivingEntity;getItemBySlot(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;": "Lnet/minecraft/world/entity/LivingEntity;m_6844_(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;",
+        "renderArmorPiece": "Lnet/minecraft/client/renderer/entity/layers/HumanoidArmorLayer;m_117118_(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/EquipmentSlot;ILnet/minecraft/client/model/HumanoidModel;)V"
+      },
+      "mod/azure/azurelib/mixins/PlayerListMixin": {
+        "placeNewPlayer": "Lnet/minecraft/server/players/PlayerList;m_11261_(Lnet/minecraft/network/Connection;Lnet/minecraft/server/level/ServerPlayer;)V"
+      },
+      "mod/azure/azurelib/mixins/FabricMixinHumanoidArmorLayer": {
+        "Lnet/minecraft/world/entity/LivingEntity;getItemBySlot(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;": "Lnet/minecraft/world/entity/LivingEntity;m_6844_(Lnet/minecraft/world/entity/EquipmentSlot;)Lnet/minecraft/world/item/ItemStack;",
+        "renderArmorPiece": "Lnet/minecraft/client/renderer/entity/layers/HumanoidArmorLayer;m_117118_(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/entity/EquipmentSlot;ILnet/minecraft/client/model/HumanoidModel;)V",
+        "Lnet/minecraft/client/renderer/entity/layers/HumanoidArmorLayer;usesInnerModel(Lnet/minecraft/world/entity/EquipmentSlot;)Z": "Lnet/minecraft/client/renderer/entity/layers/HumanoidArmorLayer;m_117128_(Lnet/minecraft/world/entity/EquipmentSlot;)Z"
+      },
+      "mod/azure/azurelib/mixins/TextureManagerMixin": {
+        "getTexture(Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/client/renderer/texture/AbstractTexture;": "Lnet/minecraft/client/renderer/texture/TextureManager;m_118506_(Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/client/renderer/texture/AbstractTexture;"
+      }
+    }
+  }
+}

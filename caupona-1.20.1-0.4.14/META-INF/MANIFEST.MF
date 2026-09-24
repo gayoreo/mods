@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: Caupona
+Specification-Vendor: TeamMoeg
+Specification-Version: 1
+Implementation-Title: Caupona
+Implementation-Version: 1.20.1-0.4.14
+Implementation-Vendor: TeamMoeg
+Implementation-Timestamp: 2025-10-16T02:38:22+0000
+MixinConfigs: caupona.mixins.json
+

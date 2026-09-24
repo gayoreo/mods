@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "alchemists_garden:webby_cobblestone"
+  },
+  "result": "alchemists_garden:webby_cobblestone_wall"
+}

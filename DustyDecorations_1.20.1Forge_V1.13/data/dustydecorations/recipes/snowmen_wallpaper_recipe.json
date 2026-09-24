@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "snowmenwallpaper",
+  "category": "building",
+  "pattern": [
+    "ab ",
+    "aca",
+    " da"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    },
+    "b": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "c": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "d": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:snowmen_wallpaper",
+    "count": 16
+  }
+}

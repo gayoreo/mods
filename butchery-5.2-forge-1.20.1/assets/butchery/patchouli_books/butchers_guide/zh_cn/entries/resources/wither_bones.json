@@ -1,0 +1,16 @@
+{
+    "name": "凋灵骨",
+    "icon": "butchery:wither_bone",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:wither_bone",
+            "link_recipe": true,
+            "title": "凋灵骨",
+            "text": "屠宰凋灵骷髅可获得凋灵骨。$(br2)使用$(l:butchery:blocks/pestle_and_mortar)研钵与研杵$()可将其研磨成凋灵骨粉，该骨粉有概率将普通玫瑰转化为凋灵玫瑰，并非百分百成功。"
+        }
+    ]
+}

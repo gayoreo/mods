@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "MMM",
+    "M M",
+    "   "
+  ],
+  "key":
+  {
+    "M":
+    {
+      "tag": "forge:scales/chameleon"
+    }
+  },
+  "result":
+  {
+    "item": "cold_sweat:chameleon_helmet",
+    "count": 1
+  }
+}

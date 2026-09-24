@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lion_copper_door_knocker",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    " b ",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:copper_lion_door_knocker",
+    "count": 6
+  }
+}

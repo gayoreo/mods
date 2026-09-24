@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "alchemists_garden:block/bloodrosewithoutblood",
+    "particle": "alchemists_garden:block/bloodrosewithoutblood"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "dustydecorations:block/coldseaglass1",
+    "particle": "dustydecorations:block/coldseaglass1"
+  },
+  "render_type": "translucent"
+}

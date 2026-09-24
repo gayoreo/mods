@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sailorwallpaper",
+  "category": "building",
+  "pattern": [
+    "ab ",
+    "aca",
+    " da"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    },
+    "b": {
+      "item": "minecraft:iron_nugget"
+    },
+    "c": {
+      "item": "minecraft:blue_wool"
+    },
+    "d": {
+      "item": "minecraft:ink_sac"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:sailor_wallpaper",
+    "count": 16
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:red_mushroom"
+    },
+    "1": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    },
+    "2": {
+      "item": "minecraft:red_mushroom"
+    },
+    "3": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    },
+    "4": {
+      "item": "alchemists_garden:gnomish_sewing_machine"
+    },
+    "5": {
+      "item": "alchemists_garden:spider_queens_silk_thread"
+    },
+    "7": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:gnome_hat_helmet",
+    "count": 1
+  }
+}

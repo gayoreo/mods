@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/naginata",
+  "textures": {
+    "0": "simple_mobs:blocks/naginata",
+    "particle": "simple_mobs:items/tame_token"
+  }
+}

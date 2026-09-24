@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/chiseled_seastone_ornament",
+  "textures": {
+    "all": "dustydecorations:block/chiseled_seastone_ornament",
+    "particle": "dustydecorations:block/chiseled_seastone_ornament",
+    "0": "dustydecorations:block/chiseled_seastone_ornament",
+    "1": "dustydecorations:block/seastonetop"
+  },
+  "render_type": "solid"
+}

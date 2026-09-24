@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "addition": {
+    "item": "simple_mobs:lightning_dragon_essence"
+  },
+  "result": {
+    "item": "simple_mobs:dragonash_armor_lightning_helmet"
+  }
+}

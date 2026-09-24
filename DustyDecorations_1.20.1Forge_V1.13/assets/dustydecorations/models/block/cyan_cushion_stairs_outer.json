@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "dustydecorations:block/cyancushion",
+    "bottom": "dustydecorations:block/cyancushion",
+    "top": "dustydecorations:block/cyancushion",
+    "side": "dustydecorations:block/cyancushion"
+  },
+  "render_type": "solid"
+}

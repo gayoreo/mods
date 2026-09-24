@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/wicker_basket_flowers_peony",
+  "textures": {
+    "all": "dustydecorations:block/wicker_basket_peony",
+    "particle": "dustydecorations:block/wicker_basket_peony",
+    "0": "dustydecorations:block/wicker_basket_peony"
+  },
+  "render_type": "cutout_mipped"
+}

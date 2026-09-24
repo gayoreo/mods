@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/placeable_bowl",
+  "textures": {
+    "all": "dustydecorations:block/placeable_bowl",
+    "particle": "dustydecorations:block/placeable_bowl",
+    "0": "dustydecorations:block/placeable_bowl"
+  },
+  "render_type": "solid"
+}

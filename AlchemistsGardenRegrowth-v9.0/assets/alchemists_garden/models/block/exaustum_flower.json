@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "alchemists_garden:block/allium",
+    "particle": "alchemists_garden:block/allium"
+  },
+  "render_type": "cutout"
+}

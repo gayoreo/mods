@@ -1,0 +1,16 @@
+{
+    "name": "幽匿骨",
+    "icon": "butchery:sculk_bone",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 8,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:sculk_bone",
+            "link_recipe": true,
+            "title": "幽匿骨",
+            "text": "屠宰监守者可获得幽匿骨。$(br2)使用$(l:butchery:blocks/pestle_and_mortar)研钵与研杵$()可将其研磨成幽匿骨粉，幽匿骨粉能将草方块转化为幽匿块。"
+        }
+    ]
+}

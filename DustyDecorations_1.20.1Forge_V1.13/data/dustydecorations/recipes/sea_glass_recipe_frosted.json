@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "sea_glass_block",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:frosted_seaglass_fragment"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:frosted_seaglass",
+    "count": 1
+  }
+}

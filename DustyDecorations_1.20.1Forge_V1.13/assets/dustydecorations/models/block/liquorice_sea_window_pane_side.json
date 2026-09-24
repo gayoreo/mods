@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "dustydecorations:block/liquoriceseaglasswindow",
+    "edge": "dustydecorations:block/transparent",
+    "pane": "dustydecorations:block/liquoriceseaglasswindow"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:royal_burrow"
+    },
+    "title": {
+      "translate": "advancements.summoning_gnome_king_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.summoning_gnome_king_advancement.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "summoning_gnome_king_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "alchemists_garden:creep_orchid_bundle_advancement"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "particle": "dustydecorations:block/liquoriceseaglasswindow",
+    "pane": "dustydecorations:block/liquoriceseaglasswindow"
+  },
+  "render_type": "translucent"
+}

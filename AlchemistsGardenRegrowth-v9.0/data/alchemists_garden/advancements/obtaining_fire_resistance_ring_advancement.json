@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:fire_resistance_ring"
+    },
+    "title": {
+      "translate": "advancements.obtaining_fire_resistance_ring_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.obtaining_fire_resistance_ring_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "obtaining_fire_resistance_ring_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:fire_resistance_ring"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:obtain_ember_weed_advancement"
+}

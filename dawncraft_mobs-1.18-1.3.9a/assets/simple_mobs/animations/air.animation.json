@@ -1,0 +1,25 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.air": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 1.25,
+			"bones": {
+				"bone": {
+					"scale": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.4167": {
+							"vector": [15, 15, 15]
+						},
+						"1.25": {
+							"vector": [24, 24, 24]
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

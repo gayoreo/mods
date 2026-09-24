@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brick"
+    },
+    "2": {
+      "item": "minecraft:brick"
+    },
+    "3": {
+      "item": "minecraft:brick"
+    },
+    "4": {
+      "item": "alchemists_garden:mixed_soil"
+    },
+    "5": {
+      "item": "minecraft:brick"
+    },
+    "6": {
+      "item": "minecraft:brick"
+    },
+    "7": {
+      "item": "minecraft:brick"
+    },
+    "8": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:mixed_soil_pot",
+    "count": 1
+  }
+}

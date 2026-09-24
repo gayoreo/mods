@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warpedbanister",
+  "category": "building",
+  "pattern": [
+    "aba",
+    " a ",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:warped_fence"
+    },
+    "b": {
+      "tag": "c:ropes"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:warped_banister",
+    "count": 8
+  }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "标本罐",
+    "icon": "butchery:jar",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:jar",
+            "link_recipe": true,
+            "title": "标本罐",
+            "text": "§d标本罐§0可用于展示各类内脏器官。$(br2)手持器官右键标本罐即可放入，器官会被消耗；打破标本罐就能取回器官。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:jarrecipe"
+        }
+    ]
+}

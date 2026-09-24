@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/burlapcarpet",
+  "textures": {
+    "all": "dustydecorations:block/burlap",
+    "particle": "dustydecorations:block/burlap",
+    "0": "dustydecorations:block/burlap",
+    "1": "dustydecorations:block/burlapsides"
+  },
+  "render_type": "cutout_mipped"
+}

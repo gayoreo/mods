@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "minisnowman",
+  "category": "building",
+  "pattern": [
+    "a ",
+    "b ",
+    "cd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather_helmet"
+    },
+    "b": {
+      "item": "minecraft:snowball"
+    },
+    "c": {
+      "item": "minecraft:snow_block"
+    },
+    "d": {
+      "tag": "minecraft:wool_carpets"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:mini_snowman",
+    "count": 1
+  }
+}

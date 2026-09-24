@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "badlands",
+    "wooded_badlands",
+    "desert",
+    "eroded_badlands"
+  ],
+  "features": "alchemists_garden:exaustum_flower",
+  "step": "vegetal_decoration"
+}

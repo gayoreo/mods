@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:queens_fang"
+    },
+    "title": {
+      "translate": "advancements.acidic_iron_sword_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.acidic_iron_sword_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "acidic_iron_sword_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:queens_fang"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:obtain_spider_queen_eye_advancement"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/portablecamera",
+  "textures": {
+    "all": "dustydecorations:block/camera",
+    "particle": "dustydecorations:block/camera",
+    "0": "dustydecorations:block/camera",
+    "missing": "dustydecorations:block/camera"
+  },
+  "render_type": "cutout"
+}

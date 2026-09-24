@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wickerbasketrecipeflower",
+  "category": "building",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:peony"
+    },
+    "b": {
+      "item": "dustydecorations:wicker_basket"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:peony_wicker_basket",
+    "count": 1
+  }
+}

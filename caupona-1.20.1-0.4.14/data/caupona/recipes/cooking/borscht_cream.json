@@ -1,0 +1,25 @@
+{
+  "type": "caupona:cooking",
+  "allow": [
+    {
+      "type": "caupona:vegetables",
+      "cond": "mainly"
+    },
+    {
+      "type": {
+        "item": "minecraft:beetroot"
+      },
+      "cond": "mainlyOf",
+      "tag": "caupona:vegetables"
+    }
+  ],
+  "base": [
+    {
+      "fluid": "caupona:scalded_milk"
+    }
+  ],
+  "density": 0.75,
+  "output": "caupona:borscht_cream",
+  "priority": 128,
+  "time": 200
+}

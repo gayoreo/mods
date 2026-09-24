@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "honeyjardd",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:honey_jar",
+    "count": 3
+  }
+}

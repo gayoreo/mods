@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "vinewallpaper",
+  "category": "building",
+  "pattern": [
+    "ab ",
+    "aca",
+    " da"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:paper"
+    },
+    "b": {
+      "item": "minecraft:vine"
+    },
+    "c": {
+      "item": "minecraft:lime_wool"
+    },
+    "d": {
+      "item": "minecraft:glow_berries"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:vine_wallpaper",
+    "count": 16
+  }
+}

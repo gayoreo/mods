@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/elemental_gauntlet",
+  "textures": {
+    "0": "simple_mobs:blocks/elemental_gauntlet",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

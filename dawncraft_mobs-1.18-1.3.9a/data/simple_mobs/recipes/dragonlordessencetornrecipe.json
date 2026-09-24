@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "simple_mobs:dragon_lord_essence"
+    }
+  },
+  "result": {
+    "item": "simple_mobs:dragon_lord_essence_nugget",
+    "count": 4
+  }
+}

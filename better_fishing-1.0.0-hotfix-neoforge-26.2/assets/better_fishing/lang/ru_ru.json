@@ -1,0 +1,20 @@
+﻿{
+    "modmenu.nameTranslation.better_fishing":  "Better Fishing",
+    "screen.better_fishing.catch.title":  "Улов",
+    "screen.better_fishing.catch.collect":  "Забрать рыбу",
+    "screen.better_fishing.catch.release":  "Отпустить рыбу",
+    "hud.better_fishing.tension":  "Натяжение лески",
+    "hud.better_fishing.progress":  "Прогресс поимки",
+    "message.better_fishing.too_close_to_hook":  "Вы пугаете рыбу. Отойдите от крючка минимум на 6 блоков, чтобы поймать рыбу.",
+    "screen.better_fishing.options.title":  "Better Fishing",
+    "screen.better_fishing.options.difficulty":  "Сложность рыбалки",
+    "screen.better_fishing.options.difficulty.normal":  "Сложная",
+    "screen.better_fishing.options.difficulty.easy":  "Легкая",
+    "screen.better_fishing.options.selected":  "%s: выбрано",
+    "key.categories.better_fishing":  "Better Fishing",
+    "key.better_fishing.open_options":  "Открыть меню Better Fishing",
+    "screen.better_fishing.options.difficulty_button":  "Сложность: %s",
+    "screen.better_fishing.options.line_sound_button":  "Звук лески: %s",
+    "screen.better_fishing.options.catch_sound_button":  "Звук улова: %s",
+    "screen.better_fishing.options.spooked_warning_button":  "Предупреждение о рыбе: %s"
+}

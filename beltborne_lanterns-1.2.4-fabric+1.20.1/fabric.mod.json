@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "id": "beltborne_lanterns",
+  "version": "1.2.4",
+  "name": "Beltborne Lanterns",
+  "description": "Beltborne Lanterns - free hands, bright path!
+
+Press *B* while holding a lantern - it snaps onto your belt. Walk, jump, fight - the lantern sways with physics and casts light near you. Need it back in your hands? Press *B* again.",
+  "authors": [
+    "0xCoDSnet"
+  ],
+  "license": "Apache-2.0",
+  "contact": {
+    "sources": "https://github.com/0xCoDSnet/Beltborne-Lanterns",
+    "homepage": "https://github.com/0xCoDSnet"
+  },
+  "icon": "assets/beltborne_lanterns/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.oxcodsnet.beltborne_lanterns.fabric.BLFabric"
+    ],
+    "fabric-datagen": [
+      "net.oxcodsnet.beltborne_lanterns.fabric.datagen.BLDataGenerator"
+    ],
+    "client": [
+      "net.oxcodsnet.beltborne_lanterns.fabric.client.BLFabricClient"
+    ],
+    "modmenu": [
+      "net.oxcodsnet.beltborne_lanterns.fabric.client.BLFabricModMenu"
+    ],
+    "lambdynlights:initializer": [
+      "net.oxcodsnet.beltborne_lanterns.fabric.compat.LambDynLightsInitializer"
+    ],
+    "dynamiclights": [
+      "net.oxcodsnet.beltborne_lanterns.fabric.compat.LambDynLightsInitializer"
+    ]
+  },
+  "mixins": [
+    "beltborne_lanterns.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*",
+    "cloth-config2": ">=11.1.136"
+  },
+  "suggests": {
+    "modmenu": "7.2.2"
+  }
+}

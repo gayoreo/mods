@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cushionpink",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:plain_cushion"
+    },
+    "b": {
+      "item": "minecraft:pink_dye"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:pink_cushion",
+    "count": 8
+  }
+}

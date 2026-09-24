@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:raw_fishes",
+    "#forge:cooked_fishes",
+    "#forge:raw_meats",
+
+    "minecraft:sweet_berries",
+    "minecraft:glow_berries"
+  ]
+}

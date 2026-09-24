@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "dragnlivestock:beef_strips",
+    "dragnlivestock:chicken_strips",
+    "dragnlivestock:pork_strips",
+    "dragnlivestock:mutton_strips",
+    "dragnlivestock:fish_strips",
+    "dragnlivestock:generic_strips",
+    "dragnlivestock:game_strips",
+    "minecraft:beef",
+    "minecraft:chicken",
+    "dragnlivestock:horse",
+    "minecraft:mutton",
+    "dragnlivestock:llama",
+    "minecraft:porkchop",
+    "minecraft:rabbit",
+    "dragnlivestock:unicorn",
+    "dragnlivestock:camel",
+    "dragnlivestock:chevon",
+    "dragnlivestock:frog",
+    "dragnlivestock:caribou"
+  ]
+}

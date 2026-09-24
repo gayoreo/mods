@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left",
+  "textures": {
+    "particle": "dustydecorations:block/n64irondoorbottom",
+    "bottom": "dustydecorations:block/n64irondoorbottom",
+    "top": "dustydecorations:block/n64irondoortop"
+  },
+  "render_type": "solid"
+}

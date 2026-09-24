@@ -1,0 +1,53 @@
+{
+  "replace": false,
+  "values": [
+    "dragnloextras:cooked_beef_brisket",
+    "dragnloextras:cooked_beef_chuck",
+    "dragnloextras:cooked_beef_rib",
+    "dragnloextras:cooked_beef_shank",
+
+    "dragnloextras:cooked_horse_brisket",
+    "dragnloextras:cooked_horse_chuck",
+    "dragnloextras:cooked_horse_rib",
+    "dragnloextras:cooked_horse_shank",
+
+    "dragnloextras:cooked_camel_brisket",
+    "dragnloextras:cooked_camel_chuck",
+    "dragnloextras:cooked_camel_rib",
+    "dragnloextras:cooked_camel_shank",
+
+    "dragnloextras:cooked_caribou_brisket",
+    "dragnloextras:cooked_caribou_chuck",
+    "dragnloextras:cooked_caribou_rib",
+    "dragnloextras:cooked_caribou_shank",
+
+    "dragnloextras:cooked_unicorn_brisket",
+    "dragnloextras:cooked_unicorn_chuck",
+    "dragnloextras:cooked_unicorn_rib",
+    "dragnloextras:cooked_unicorn_shank",
+
+    "dragnloextras:cooked_mutton_flank",
+    "dragnloextras:cooked_mutton_leg",
+    "dragnloextras:cooked_mutton_rib",
+
+    "dragnloextras:cooked_llama_flank",
+    "dragnloextras:cooked_llama_shank",
+    "dragnloextras:cooked_llama_rib",
+
+    "dragnloextras:cooked_chevon_flank",
+    "dragnloextras:cooked_chevon_leg",
+    "dragnloextras:cooked_chevon_rib",
+
+    "dragnloextras:cooked_pork_belly",
+    "dragnloextras:cooked_pork_ham",
+    "dragnloextras:cooked_pork_loin",
+
+    "dragnloextras:cooked_chicken_thigh",
+    "dragnloextras:cooked_chicken_wing",
+
+    "dragnloextras:cooked_rabbit_thigh",
+
+    "dragnloextras:cooked_cod_fillet",
+    "dragnloextras:cooked_salmon_fillet"
+  ]
+}

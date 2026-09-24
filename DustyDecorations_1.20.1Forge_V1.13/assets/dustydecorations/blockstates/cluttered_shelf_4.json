@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/cluttered_shelf_4"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/cluttered_shelf_4",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/cluttered_shelf_4",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/cluttered_shelf_4",
+      "y": 270
+    }
+  }
+}

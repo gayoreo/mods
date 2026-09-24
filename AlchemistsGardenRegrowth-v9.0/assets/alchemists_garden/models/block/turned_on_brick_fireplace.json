@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "alchemists_garden:block/bricksfortexture",
+    "up": "alchemists_garden:block/bricksfortexture",
+    "north": "alchemists_garden:block/chimney",
+    "east": "alchemists_garden:block/bricksfortexture",
+    "south": "alchemists_garden:block/bricksfortexture",
+    "west": "alchemists_garden:block/bricksfortexture",
+    "particle": "alchemists_garden:block/bricksfortexture"
+  },
+  "render_type": "solid"
+}

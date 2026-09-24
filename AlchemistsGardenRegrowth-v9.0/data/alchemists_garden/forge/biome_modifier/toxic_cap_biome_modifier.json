@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "bamboo_jungle",
+    "sparse_jungle",
+    "jungle",
+    "mangrove_swamp",
+    "swamp"
+  ],
+  "features": "alchemists_garden:toxic_cap",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "redcushionstairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:red_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:red_cushion_stairs",
+    "count": 6
+  }
+}

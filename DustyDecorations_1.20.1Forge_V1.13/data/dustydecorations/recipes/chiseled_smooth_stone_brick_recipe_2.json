@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "smoothstonebrick",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:smooth_stone"
+  },
+  "result": "dustydecorations:smooth_stone_brick_stairs"
+}

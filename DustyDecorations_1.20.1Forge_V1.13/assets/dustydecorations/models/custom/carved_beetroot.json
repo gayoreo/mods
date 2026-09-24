@@ -1,0 +1,426 @@
+{
+  "format_version": "1.9.0",
+  "texture_size": [
+    32,
+    32
+  ],
+  "elements": [
+    {
+      "name": "BeetrootTwo",
+      "from": [
+        4.5,
+        1,
+        5
+      ],
+      "to": [
+        11.5,
+        9,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          4,
+          1,
+          5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            3.5,
+            4
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            7.5,
+            4
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            7.5,
+            4
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            7.5,
+            4
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            8.5,
+            0,
+            12,
+            3.5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8.5,
+            4,
+            12,
+            7.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "BeetbottomTwo",
+      "from": [
+        5.5,
+        0,
+        6
+      ],
+      "to": [
+        10.5,
+        1,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          6,
+          0,
+          6
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.5,
+            4,
+            3,
+            4.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            0.5,
+            4,
+            3,
+            4.5
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0.5,
+            4,
+            3,
+            4.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            0.5,
+            4,
+            3,
+            4.5
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            9,
+            4.5,
+            11.5,
+            7
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            0.5,
+            5,
+            3,
+            7.5
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "StemOne",
+      "from": [
+        6,
+        9,
+        8
+      ],
+      "to": [
+        10,
+        13,
+        8
+      ],
+      "rotation": {
+        "angle": 45,
+        "axis": "y",
+        "origin": [
+          9,
+          9,
+          7.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.5,
+            8,
+            2.5,
+            10
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            0,
+            4,
+            2
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2.5,
+            8,
+            0.5,
+            10
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            0,
+            4,
+            2
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            7,
+            9,
+            9,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            9.5,
+            11.5,
+            11.5,
+            11
+          ],
+          "texture": "#0"
+        }
+      }
+    },
+    {
+      "name": "StemTwo",
+      "from": [
+        6,
+        9,
+        9.5
+      ],
+      "to": [
+        10,
+        13,
+        9.5
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "y",
+        "origin": [
+          9,
+          9,
+          9.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0.5,
+            10.5,
+            2.5,
+            12.5
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            3.5,
+            0,
+            4,
+            2
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            2.5,
+            10.5,
+            0.5,
+            12.5
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            3.5,
+            0,
+            4,
+            2
+          ],
+          "texture": "#0"
+        },
+        "up": {
+          "uv": [
+            7,
+            9,
+            9,
+            9.5
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            9.5,
+            11.5,
+            11.5,
+            11
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    },
+    "firstperson_righthand": {
+      "translation": [
+        0,
+        3.75,
+        0
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "firstperson_lefthand": {
+      "translation": [
+        0,
+        3.75,
+        0
+      ],
+      "scale": [
+        0.7,
+        0.7,
+        0.7
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        1.5,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        145,
+        0
+      ],
+      "translation": [
+        0,
+        1.25,
+        0
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        7.25,
+        -1
+      ],
+      "scale": [
+        2,
+        2,
+        2
+      ]
+    },
+    "fixed": {
+      "translation": [
+        0,
+        3,
+        0
+      ]
+    }
+  },
+  "groups": [
+    {
+      "name": "BeetrootTwo",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "color": 0,
+      "children": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

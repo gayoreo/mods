@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/small_shark_jaws"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/small_shark_jaws",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/small_shark_jaws",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/small_shark_jaws",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "dustydecorations:block/small_shark_jaws",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "dustydecorations:block/small_shark_jaws",
+      "x": 90
+    }
+  }
+}

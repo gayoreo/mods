@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/fairylights"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/fairylights",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/fairylights",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/fairylights",
+      "y": 270
+    }
+  }
+}

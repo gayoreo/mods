@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/wooden_buoys1",
+  "textures": {
+    "all": "dustydecorations:block/wooden_buoys1",
+    "particle": "dustydecorations:block/wooden_buoys1",
+    "0": "dustydecorations:block/wooden_buoys1"
+  },
+  "render_type": "cutout"
+}

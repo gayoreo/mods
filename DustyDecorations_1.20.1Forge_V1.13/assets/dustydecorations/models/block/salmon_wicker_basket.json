@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/wicker_basket_salmon",
+  "textures": {
+    "all": "dustydecorations:block/salmon_barrel",
+    "particle": "dustydecorations:block/salmon_barrel",
+    "0": "dustydecorations:block/wicker_basket_new",
+    "1": "dustydecorations:block/basket_salmon"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "snowycobble",
+  "count": 2,
+  "ingredient": {
+    "item": "dustydecorations:snowy_cobblestone"
+  },
+  "result": "dustydecorations:snowy_cobblestone_slab"
+}

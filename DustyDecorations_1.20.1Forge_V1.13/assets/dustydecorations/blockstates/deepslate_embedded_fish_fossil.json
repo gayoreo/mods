@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "dustydecorations:block/deepslate_embedded_fish_fossil",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "dustydecorations:block/deepslate_embedded_fish_fossil"
+    },
+    "axis=z": {
+      "model": "dustydecorations:block/deepslate_embedded_fish_fossil",
+      "x": 90
+    }
+  }
+}

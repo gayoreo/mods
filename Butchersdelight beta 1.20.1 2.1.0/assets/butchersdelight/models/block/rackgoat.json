@@ -1,0 +1,11 @@
+{
+  "parent": "butchersdelight:custom/leather_shelfgoathide",
+  "textures": {
+    "all": "butchersdelight:block/leather_shelfgoathide",
+    "particle": "butchersdelight:block/oak_log",
+    "0": "butchersdelight:block/oak_log",
+    "1": "butchersdelight:block/stripped_oak_log",
+    "2": "butchersdelight:block/goatfur"
+  },
+  "render_type": "cutout_mipped"
+}

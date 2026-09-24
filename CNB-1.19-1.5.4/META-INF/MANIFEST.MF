@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: cnb
+Specification-Vendor: bonsaistudios
+Specification-Version: 1
+Implementation-Title: cnb
+Implementation-Version: 1.5.4
+Implementation-Vendor: bonsaistudios
+Implementation-Timestamp: 2023-05-28T11:45:08-0400
+MixinConfigs: creatures-and-beasts.mixins.json
+

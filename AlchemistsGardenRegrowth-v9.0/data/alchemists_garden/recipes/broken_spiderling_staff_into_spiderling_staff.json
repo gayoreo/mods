@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alchemists_garden:broken_spiderling_staff"
+    },
+    {
+      "item": "alchemists_garden:broken_spiderling_staff"
+    },
+    {
+      "item": "alchemists_garden:blood_bottle"
+    },
+    {
+      "item": "alchemists_garden:broken_spiderling_staff"
+    }
+  ],
+  "result": {
+    "item": "alchemists_garden:spiderling_staff",
+    "count": 1
+  }
+}

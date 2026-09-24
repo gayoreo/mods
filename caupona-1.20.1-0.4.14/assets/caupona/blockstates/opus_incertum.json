@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"": [
+			{"model": "caupona:block/opus_incertum_0"},
+			{"model": "caupona:block/opus_incertum_1"},
+			{"model": "caupona:block/opus_incertum_2"}
+		]
+	}
+}

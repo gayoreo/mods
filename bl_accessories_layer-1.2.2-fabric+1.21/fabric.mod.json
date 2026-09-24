@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "bl_accessories_layer",
+  "version": "1.2.2",
+  "name": "Beltborne Lanterns: Accessories Layer",
+  "description": "Provides compatibility with the Accessories mod, allowing lanterns to be worn in the *Belt* slot.",
+  "authors": ["0xCoDSnet"],
+  "license": "Apache-2.0",
+  "contact": {
+    "sources": "https://github.com/0xCoDSnet/Beltborne-Lanterns-Accessories-Layer",
+    "homepage": "https://github.com/0xCoDSnet"
+  },
+  "icon": "assets/bl_accessories_layer/icon.png",
+  "environment": "*",
+  "mixins": ["bl_accessories_layer.mixins.json"],
+  "entrypoints": {
+    "main": [
+      "net.oxcodsnet.bl_accessories_layer.fabric.BL_Accessories_LayerFabric"
+    ],
+    "client": [
+      "net.oxcodsnet.bl_accessories_layer.fabric.BL_Accessories_LayerFabricClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "beltborne_lanterns": ">=1.2.5",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*",
+    "accessories": ">=1.1.0-beta.6+1.21.1"
+  },
+  "suggests": {
+    "modmenu": "11.0.3"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:cookie"
+    },
+    "title": {
+      "translate": "advancements.play_during_the_festive_month_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.play_during_the_festive_month_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "play_during_the_festive_month_advancement": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "alchemists_garden:alchemists_garden_base"
+}

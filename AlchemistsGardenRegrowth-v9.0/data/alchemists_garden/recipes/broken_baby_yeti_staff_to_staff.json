@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "alchemists_garden:broken_baby_yeti_staff"
+    },
+    {
+      "item": "alchemists_garden:broken_baby_yeti_staff"
+    },
+    {
+      "item": "alchemists_garden:blood_bottle"
+    }
+  ],
+  "result": {
+    "item": "alchemists_garden:baby_yeti_staff",
+    "count": 1
+  }
+}

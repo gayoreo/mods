@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    "34 "
+  ],
+  "key": {
+    "0": {
+      "item": "alchemists_garden:yeti_antler"
+    },
+    "2": {
+      "item": "alchemists_garden:yeti_antler"
+    },
+    "3": {
+      "item": "alchemists_garden:yeti_antler"
+    },
+    "4": {
+      "item": "alchemists_garden:yeti_antler"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:yeti_antler_horn",
+    "count": 1
+  }
+}

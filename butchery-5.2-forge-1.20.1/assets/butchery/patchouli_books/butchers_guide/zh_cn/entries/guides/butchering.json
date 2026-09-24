@@ -1,0 +1,28 @@
+{
+    "name": "屠宰尸体流程",
+    "icon": "butchery:hook",
+    "category": "butchery:guides",
+    "read_by_default": true,
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:hook",
+            "link_recipe": true,
+            "title": "屠宰尸体",
+            "text": "大部分尸体的屠宰方式基本一致，仅有少数例外，这里介绍常规屠宰流程。$(br2)屠宰前需要先悬挂尸体并放血，这需要用到挂钩，你可以在$(l:butchery:items/hook)此处$()查看挂钩相关信息。$(br2)手持尸体时右键挂钩，即可将尸体挂在挂钩上。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "接下来需要一把$(l:butchery:items/cleavers)剁肉刀$()，任意材质均可。$(br2)手持剁肉刀右键悬挂的尸体，即可开始放血。$(br2)务必在下方放置血箆收集血液，否则你将会看见血流成河！$(br2)放血过程仅需数秒，尸体变为放血后形态即代表完成（部分尸体会颜色变浅作为提示）。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "现在你拥有了放血后的尸体！此时有两种选择：$(br2)将尸体留在挂钩上屠宰或取下尸体放置在屠宰台上（屠宰台非必需，如果你想沉浸体验屠宰那就这样做吧！）。$(br2)再次手持剁肉刀右键尸体即可开始屠宰。"
+        },
+        {
+            "type": "patchouli:text",
+            "text": "多数尸体还需要第二种工具：$(l:butchery:items/skinning_knife)剥皮刀$()。$(br2)顾名思义，剥皮刀用于剥离兽皮（该方式同样适用于掠夺者等生物的护甲剥离）。"
+        }
+    ]
+}

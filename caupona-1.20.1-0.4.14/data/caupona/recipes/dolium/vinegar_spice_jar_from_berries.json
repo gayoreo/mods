@@ -1,0 +1,23 @@
+{
+  "type": "caupona:dolium",
+  "amount": 0,
+  "container": {
+    "item": "minecraft:flower_pot"
+  },
+  "density": 0.0,
+  "items": [
+    {
+      "count": 16,
+      "item": {
+        "tag": "caupona:vinegar_fruits_small"
+      }
+    }
+  ],
+  "keepInfo": false,
+  "output": {
+    "type": "forge:nbt",
+    "count": 1,
+    "item": "caupona:vinegar_spice_jar",
+    "nbt": "{Damage:0}"
+  }
+}

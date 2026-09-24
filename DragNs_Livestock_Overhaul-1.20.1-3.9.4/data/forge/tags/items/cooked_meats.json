@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cooked_beef",
+    "minecraft:cooked_chicken",
+    "dragnlivestock:cooked_horse",
+    "minecraft:cooked_mutton",
+    "dragnlivestock:cooked_llama",
+    "minecraft:cooked_porkchop",
+    "minecraft:cooked_rabbit",
+    "dragnlivestock:cooked_unicorn",
+    "dragnlivestock:cooked_camel",
+    "dragnlivestock:cooked_chevon",
+    "dragnlivestock:cooked_frog",
+    "dragnlivestock:cooked_caribou"
+  ]
+}

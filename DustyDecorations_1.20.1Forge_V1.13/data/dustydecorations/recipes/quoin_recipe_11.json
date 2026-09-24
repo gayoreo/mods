@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "blackstone_quoin",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:polished_blackstone_bricks"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:blackstone_quoin",
+    "count": 4
+  }
+}

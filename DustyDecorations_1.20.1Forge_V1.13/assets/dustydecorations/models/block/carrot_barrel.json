@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/carrot_barrel",
+  "textures": {
+    "all": "dustydecorations:block/carrot_barrel",
+    "particle": "dustydecorations:block/carrot_barrel",
+    "0": "dustydecorations:block/carrot_barrel"
+  },
+  "render_type": "solid"
+}

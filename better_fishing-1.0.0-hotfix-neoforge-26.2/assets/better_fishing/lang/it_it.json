@@ -1,0 +1,20 @@
+﻿{
+    "modmenu.nameTranslation.better_fishing":  "Better Fishing",
+    "screen.better_fishing.catch.title":  "Cattura",
+    "screen.better_fishing.catch.collect":  "Prendi il pesce",
+    "screen.better_fishing.catch.release":  "Libera il pesce",
+    "hud.better_fishing.tension":  "Tensione lenza",
+    "hud.better_fishing.progress":  "Progresso cattura",
+    "message.better_fishing.too_close_to_hook":  "Stai spaventando i pesci. Allontanati di almeno 6 blocchi dall'amo per riuscire ad agganciarne uno.",
+    "screen.better_fishing.options.title":  "Better Fishing",
+    "screen.better_fishing.options.difficulty":  "Difficoltà di pesca",
+    "screen.better_fishing.options.difficulty.normal":  "Difficile",
+    "screen.better_fishing.options.difficulty.easy":  "Facile",
+    "screen.better_fishing.options.selected":  "%s: selezionato",
+    "key.categories.better_fishing":  "Better Fishing",
+    "key.better_fishing.open_options":  "Apri menu Better Fishing",
+    "screen.better_fishing.options.difficulty_button":  "Difficoltà: %s",
+    "screen.better_fishing.options.line_sound_button":  "Suono della lenza: %s",
+    "screen.better_fishing.options.catch_sound_button":  "Suono cattura: %s",
+    "screen.better_fishing.options.spooked_warning_button":  "Avviso pesci: %s"
+}

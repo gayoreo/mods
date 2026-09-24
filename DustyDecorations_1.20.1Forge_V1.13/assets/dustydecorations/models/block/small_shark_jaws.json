@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/smallsharkjaws",
+  "textures": {
+    "all": "dustydecorations:block/smallsharkjaws",
+    "particle": "dustydecorations:block/smallsharkjaws",
+    "smallsharkjaws": "dustydecorations:block/smallsharkjaws"
+  },
+  "render_type": "cutout"
+}

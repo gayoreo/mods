@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hangingsalmon",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:rope"
+    },
+    "b": {
+      "item": "minecraft:salmon"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:hanging_salmon",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pumpkinscarecrowrecipe",
+  "category": "building",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:burlap"
+    },
+    "b": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "c": {
+      "item": "minecraft:wheat"
+    },
+    "d": {
+      "tag": "minecraft:wool"
+    },
+    "e": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:pumpkin_scarecrow",
+    "count": 1
+  }
+}

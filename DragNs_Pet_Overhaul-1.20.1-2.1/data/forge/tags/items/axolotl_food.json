@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "dragnlivestock:frog",
+    "dragnlivestock:cooked_frog",
+
+    "dragnlivestock:roe",
+    "dragnlivestock:cod_roe",
+    "dragnpets:tropical_fish_roe",
+
+    "#forge:raw_fishes",
+    "#forge:cooked_fishes"
+  ]
+}

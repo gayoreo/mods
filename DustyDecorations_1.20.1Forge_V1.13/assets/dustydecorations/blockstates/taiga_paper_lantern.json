@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:custom/taiga_paper_lantern_particle"
+    },
+    "facing=east": {
+      "model": "dustydecorations:custom/taiga_paper_lantern_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:custom/taiga_paper_lantern_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:custom/taiga_paper_lantern_particle",
+      "y": 270
+    }
+  }
+}

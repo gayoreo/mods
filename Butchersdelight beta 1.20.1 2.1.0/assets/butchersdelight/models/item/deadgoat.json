@@ -1,0 +1,7 @@
+{
+  "parent": "butchersdelight:custom/deadgoat",
+  "textures": {
+    "0": "butchersdelight:block/goat",
+    "particle": "butchersdelight:item/icgoat"
+  }
+}

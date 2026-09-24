@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "1": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "2": {
+      "item": "minecraft:brown_mushroom"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:raw_mushrooms_on_a_stick",
+    "count": 1
+  }
+}

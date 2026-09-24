@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/hanging_cod",
+  "textures": {
+    "all": "dustydecorations:block/hanging_cod",
+    "particle": "dustydecorations:block/hanging_cod",
+    "0": "dustydecorations:block/hanging_cod"
+  },
+  "render_type": "cutout"
+}

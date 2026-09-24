@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "snowycobblestone",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:stone_bricks"
+    },
+    "b": {
+      "item": "minecraft:snowball"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:snowy_stone_bricks",
+    "count": 8
+  }
+}

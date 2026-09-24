@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/chiseled_diorite_ornament",
+  "textures": {
+    "all": "dustydecorations:block/chiseled_diorite_ornament",
+    "particle": "dustydecorations:block/chiseled_diorite_ornament",
+    "0": "dustydecorations:block/chiseled_diorite_ornament",
+    "1": "minecraft:block/polished_diorite"
+  },
+  "render_type": "solid"
+}

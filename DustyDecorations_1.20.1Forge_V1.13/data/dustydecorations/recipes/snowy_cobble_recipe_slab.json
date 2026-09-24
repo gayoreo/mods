@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "snowyslabrecipeslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:snowy_cobblestone"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:snowy_cobblestone_slab",
+    "count": 6
+  }
+}

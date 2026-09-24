@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "34 "
+  ],
+  "key": {
+    "0": {
+      "item": "alchemists_garden:red_shroom_staff"
+    },
+    "1": {
+      "item": "alchemists_garden:brown_shroom_staff"
+    },
+    "2": {
+      "item": "alchemists_garden:glittering_spores"
+    },
+    "3": {
+      "item": "alchemists_garden:chrysite_string"
+    },
+    "4": {
+      "item": "alchemists_garden:chrysite_string"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:alpha_shroom_staff",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cushionlightgray",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:plain_cushion"
+    },
+    "b": {
+      "item": "minecraft:light_gray_dye"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:light_gray_cushion",
+    "count": 8
+  }
+}

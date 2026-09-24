@@ -1,0 +1,27 @@
+{
+  "type": "caupona:cooking",
+  "allow": [
+    {
+      "type": "caupona:fern",
+      "cond": "half"
+    }
+  ],
+  "density": 0.75,
+  "deny": [
+    {
+      "type": "caupona:seafood",
+      "cond": "contains"
+    },
+    {
+      "type": "caupona:meats",
+      "cond": "contains"
+    },
+    {
+      "type": "caupona:cereals",
+      "cond": "contains"
+    }
+  ],
+  "output": "caupona:nettle_soup",
+  "priority": 1088,
+  "time": 200
+}

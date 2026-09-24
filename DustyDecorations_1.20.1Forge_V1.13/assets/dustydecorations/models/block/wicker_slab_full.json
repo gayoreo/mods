@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "dustydecorations:block/wicker",
+    "bottom": "dustydecorations:block/wicker",
+    "top": "dustydecorations:block/wicker",
+    "side": "dustydecorations:block/wicker"
+  },
+  "render_type": "solid"
+}

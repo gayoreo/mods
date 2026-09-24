@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/fence_inventory",
+	"textures": {
+		"texture": "caupona:block/walnut_planks"
+	}
+}

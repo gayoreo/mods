@@ -1,0 +1,21 @@
+{
+    "name": "盐",
+    "icon": "butchery:salt",
+    "category": "butchery:resources",
+    "read_by_default": true,
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:salt",
+            "link_recipe": true,
+            "title": "盐",
+            "text": "盐是将兽皮鞣制成皮革的必备材料。$(br2)获取方式有多种，最简单的是制作$(l:butchery:blocks/basin)储盐盆$()；$(br2)也可在水下探索，盐会像黏土一样成片生成；$(br2)还能在海洋生物群系找到大型盐矿脉，常伴有盐晶尖刺。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:saltblockrecipe",
+            "text": "其他模组中带有 forge:salt 或 c:salt 标签的盐，同样可用于本模组配方。"
+        }
+    ]
+}

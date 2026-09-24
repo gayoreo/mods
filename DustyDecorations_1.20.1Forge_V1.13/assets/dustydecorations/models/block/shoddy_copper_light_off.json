@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/shoddycopperlampoff",
+  "textures": {
+    "all": "dustydecorations:block/shoddycopperlightoff",
+    "particle": "dustydecorations:block/shoddycopperlightoff",
+    "0": "dustydecorations:block/shoddycopperlightoff",
+    "missing": "dustydecorations:block/shoddycopperlightoff"
+  },
+  "render_type": "translucent"
+}

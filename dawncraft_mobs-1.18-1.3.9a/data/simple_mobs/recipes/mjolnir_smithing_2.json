@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "hexerei:warhammer"
+  },
+  "addition": {
+    "item": "simple_mobs:dragon_lord_essence"
+  },
+  "result": {
+    "item": "simple_mobs:mjolnir"
+  }
+}

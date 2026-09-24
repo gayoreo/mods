@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "dustydecorations:block/lightgraycushion",
+    "bottom": "dustydecorations:block/lightgraycushion",
+    "top": "dustydecorations:block/lightgraycushion",
+    "side": "dustydecorations:block/lightgraycushion"
+  },
+  "render_type": "solid"
+}

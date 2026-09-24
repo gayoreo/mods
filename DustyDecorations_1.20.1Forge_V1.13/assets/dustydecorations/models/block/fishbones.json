@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/fishbones",
+  "textures": {
+    "all": "dustydecorations:block/fishbones",
+    "particle": "dustydecorations:block/fishbones",
+    "0": "dustydecorations:block/fishbones",
+    "missing": "dustydecorations:block/fishbones"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+MixinConfigs: vs_eureka.mixins.json,vs_eureka-common.mixins.json
+

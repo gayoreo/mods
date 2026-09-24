@@ -1,0 +1,7 @@
+{
+    "name": "Alchemist's Handbook",
+    "landing_text": "The beginner's introduction to the magical world of alchemy.",
+    "version": 1,
+    "creative_tab": "minecraft:tools_and_utilities",
+    "use_resource_pack": true
+}

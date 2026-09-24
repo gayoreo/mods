@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:amethyst_shard"
+  },
+  "result": "alchemists_garden:molten_amethyst"
+}

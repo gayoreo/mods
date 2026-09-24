@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "dustydecorations:blocks/scarlett_seaglass",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dustydecorations:scarlet_seaglass_fragments",
+          "functions": [
+            {
+              "count": 4,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

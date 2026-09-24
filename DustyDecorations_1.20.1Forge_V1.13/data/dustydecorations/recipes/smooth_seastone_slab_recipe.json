@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "smoothseastoneslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:smooth_seastone"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:smooth_seastone_slab",
+    "count": 6
+  }
+}

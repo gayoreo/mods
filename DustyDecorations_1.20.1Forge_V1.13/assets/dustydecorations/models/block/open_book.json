@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/big_open_book1",
+  "textures": {
+    "all": "dustydecorations:block/big_open_book_1",
+    "particle": "dustydecorations:block/big_open_book_1",
+    "0": "dustydecorations:block/big_open_book_1"
+  },
+  "render_type": "cutout"
+}

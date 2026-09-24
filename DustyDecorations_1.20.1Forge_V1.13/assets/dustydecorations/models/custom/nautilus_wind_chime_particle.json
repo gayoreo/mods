@@ -1,0 +1,6 @@
+{
+  "parent": "dustydecorations:displaysettings/nautilus_seaglass_chime_settings",
+  "textures": {
+    "particle": "dustydecorations:block/nautilus_windchime_cold"
+  }
+}

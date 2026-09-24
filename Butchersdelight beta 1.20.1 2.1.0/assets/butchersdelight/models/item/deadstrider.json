@@ -1,0 +1,7 @@
+{
+  "parent": "butchersdelight:custom/deadstrider",
+  "textures": {
+    "0": "butchersdelight:block/strider_cold",
+    "particle": "butchersdelight:item/deadstrider"
+  }
+}

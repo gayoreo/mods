@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/hanging_salmon",
+  "textures": {
+    "all": "dustydecorations:block/hanging_salmon",
+    "particle": "dustydecorations:block/hanging_salmon",
+    "0": "dustydecorations:block/hanging_salmon"
+  },
+  "render_type": "cutout"
+}

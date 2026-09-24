@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lightbluecushionstairs",
+  "category": "building",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:light_blue_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:light_blue_cushion_stairs",
+    "count": 6
+  }
+}

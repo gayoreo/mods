@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/crimson_shelf",
+  "textures": {
+    "all": "minecraft:block/crimson_planks",
+    "particle": "minecraft:block/crimson_planks",
+    "0": "minecraft:block/crimson_planks"
+  },
+  "render_type": "solid"
+}

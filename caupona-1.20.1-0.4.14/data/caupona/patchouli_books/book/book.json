@@ -1,0 +1,12 @@
+{
+  "name": "item.caupona.book",
+  "landing_text": "book.caupona.landing_text",
+  "version": 0,
+  "subtitle": "Pado Oechardem —",
+  "book_texture": "caupona:textures/gui/book.png",
+  "model": "caupona:book",
+  "show_progress": false,
+  "filler_texture":"caupona:textures/gui/page_filler.png",
+  "creative_tab": "caupona:aaa_caupona_cpn_main",
+  "use_resource_pack": true
+}

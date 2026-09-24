@@ -1,0 +1,20 @@
+﻿{
+    "modmenu.nameTranslation.better_fishing":  "Better Fishing",
+    "screen.better_fishing.catch.title":  "Catch",
+    "screen.better_fishing.catch.collect":  "Take the fish",
+    "screen.better_fishing.catch.release":  "Release the fish",
+    "hud.better_fishing.tension":  "Line Tension",
+    "hud.better_fishing.progress":  "Catch Progress",
+    "message.better_fishing.too_close_to_hook":  "You are scaring the fish. Move at least 6 blocks away from the hook to catch one.",
+    "screen.better_fishing.options.title":  "Better Fishing",
+    "screen.better_fishing.options.difficulty":  "Fishing difficulty",
+    "screen.better_fishing.options.difficulty.normal":  "Hard",
+    "screen.better_fishing.options.difficulty.easy":  "Easy",
+    "screen.better_fishing.options.selected":  "%s: selected",
+    "key.categories.better_fishing":  "Better Fishing",
+    "key.better_fishing.open_options":  "Open Better Fishing menu",
+    "screen.better_fishing.options.difficulty_button":  "Difficulty: %s",
+    "screen.better_fishing.options.line_sound_button":  "Line sound: %s",
+    "screen.better_fishing.options.catch_sound_button":  "Catch sound: %s",
+    "screen.better_fishing.options.spooked_warning_button":  "Fish warning: %s"
+}

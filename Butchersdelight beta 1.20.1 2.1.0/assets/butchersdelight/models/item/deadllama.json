@@ -1,0 +1,7 @@
+{
+  "parent": "butchersdelight:custom/dead_llama",
+  "textures": {
+    "0": "butchersdelight:block/llama_white",
+    "particle": "butchersdelight:item/iconllama_base"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/fishing_lures"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/fishing_lures",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/fishing_lures",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/fishing_lures",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "dustydecorations:block/fishing_lures",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "dustydecorations:block/fishing_lures",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/globe",
+  "textures": {
+    "all": "dustydecorations:block/globe",
+    "particle": "dustydecorations:block/globe",
+    "0": "dustydecorations:block/globe"
+  },
+  "render_type": "cutout"
+}

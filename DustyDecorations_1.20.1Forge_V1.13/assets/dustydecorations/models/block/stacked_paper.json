@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/paper_stack",
+  "textures": {
+    "all": "dustydecorations:block/paper_stack",
+    "particle": "dustydecorations:block/paper_stack",
+    "0": "dustydecorations:block/paper_stack"
+  },
+  "render_type": "solid"
+}

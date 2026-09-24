@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/sglliquorice",
+  "textures": {
+    "all": "dustydecorations:block/glliquorice",
+    "particle": "dustydecorations:block/glliquorice",
+    "0": "dustydecorations:block/glliquorice",
+    "missing": "dustydecorations:block/glliquorice"
+  },
+  "render_type": "translucent"
+}

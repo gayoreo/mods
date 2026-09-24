@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/gourd_3",
+  "textures": {
+    "all": "dustydecorations:block/gourd",
+    "particle": "dustydecorations:block/gourd",
+    "0": "dustydecorations:block/gourd"
+  },
+  "render_type": "cutout_mipped"
+}

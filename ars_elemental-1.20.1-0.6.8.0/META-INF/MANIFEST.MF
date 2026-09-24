@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: ars_elemental
+Specification-Vendor: alexthw
+Specification-Version: 1
+Implementation-Title: Ars-Elemental
+Implementation-Version: 0.6.8.0
+Implementation-Vendor: alexthw
+Implementation-Timestamp: 2026-07-09T12:16:14+0000
+MixinConfigs: ars_elemental.mixins.json
+

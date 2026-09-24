@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "net/oxcodsnet/bl_accessories_layer/common/mixin/AccessoriesInternalSlotMixin": {
+      "mayPlace": "Lio/wispforest/accessories/menu/AccessoriesInternalSlot;method_7680(Lnet/minecraft/class_1799;)Z"
+    },
+    "net/oxcodsnet/bl_accessories_layer/common/mixin/AccessoriesSlotMixin": {
+      "getMaxStackSize(Lnet/minecraft/world/item/ItemStack;)I": "Lio/wispforest/accessories/api/menu/AccessoriesBasedSlot;method_7676(Lnet/minecraft/class_1799;)I"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/oxcodsnet/bl_accessories_layer/common/mixin/AccessoriesInternalSlotMixin": {
+        "mayPlace": "Lio/wispforest/accessories/menu/AccessoriesInternalSlot;method_7680(Lnet/minecraft/class_1799;)Z"
+      },
+      "net/oxcodsnet/bl_accessories_layer/common/mixin/AccessoriesSlotMixin": {
+        "getMaxStackSize(Lnet/minecraft/world/item/ItemStack;)I": "Lio/wispforest/accessories/api/menu/AccessoriesBasedSlot;method_7676(Lnet/minecraft/class_1799;)I"
+      }
+    }
+  }
+}

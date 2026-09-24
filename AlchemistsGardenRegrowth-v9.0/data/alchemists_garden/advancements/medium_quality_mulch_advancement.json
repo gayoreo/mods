@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "alchemists_garden:medium_quality_mulch"
+    },
+    "title": {
+      "translate": "advancements.medium_quality_mulch_advancement.title"
+    },
+    "description": {
+      "translate": "advancements.medium_quality_mulch_advancement.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "medium_quality_mulch_advancement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "alchemists_garden:medium_quality_mulch"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "alchemists_garden:obtaining_hungry_grass"
+}

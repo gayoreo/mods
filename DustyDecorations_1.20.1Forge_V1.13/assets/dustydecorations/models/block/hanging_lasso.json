@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/hanginglasso",
+  "textures": {
+    "all": "dustydecorations:block/ropecoilhanging",
+    "particle": "dustydecorations:block/ropecoilhanging",
+    "RopeCoil": "dustydecorations:block/coiled_rope",
+    "RopeCoilHanging": "dustydecorations:block/ropecoilhanging"
+  },
+  "render_type": "solid"
+}

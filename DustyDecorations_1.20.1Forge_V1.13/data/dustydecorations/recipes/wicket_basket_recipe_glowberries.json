@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wickerbasketrecipe",
+  "category": "building",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:glow_berries"
+    },
+    "b": {
+      "item": "dustydecorations:wicker_basket"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:glowberries_wicker_basket",
+    "count": 1
+  }
+}

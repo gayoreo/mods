@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "alchemists_garden:webby_cobblestone"
+    },
+    "3": {
+      "item": "alchemists_garden:webby_cobblestone"
+    },
+    "4": {
+      "item": "alchemists_garden:webby_cobblestone"
+    },
+    "6": {
+      "item": "alchemists_garden:webby_cobblestone"
+    },
+    "7": {
+      "item": "alchemists_garden:webby_cobblestone"
+    },
+    "8": {
+      "item": "alchemists_garden:webby_cobblestone"
+    }
+  },
+  "result": {
+    "item": "alchemists_garden:webby_cobblestone_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "chiseled_ornament",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:smooth_stone"
+  },
+  "result": "dustydecorations:stone_mural"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wintereefrecipe",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:winter_garland"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:winter_reef",
+    "count": 1
+  }
+}

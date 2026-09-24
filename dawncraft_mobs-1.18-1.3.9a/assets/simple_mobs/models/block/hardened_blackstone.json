@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "simple_mobs:blocks/hardened_blackstone",
+    "up": "simple_mobs:blocks/hardened_blackstone",
+    "north": "simple_mobs:blocks/hardened_blackstone",
+    "east": "simple_mobs:blocks/hardened_blackstone",
+    "south": "simple_mobs:blocks/hardened_blackstone",
+    "west": "simple_mobs:blocks/hardened_blackstone",
+    "particle": "simple_mobs:blocks/hardened_blackstone"
+  }
+}

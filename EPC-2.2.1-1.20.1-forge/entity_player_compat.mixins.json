@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.entityplayercompat.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "entity_player_compat.refmap.json",
+  "mixins": [
+    "AnimationStackAccessor",
+    "ModelPartAccessor",
+    "ModelPartMixin",
+    "AbstractFadeModifierMixin",
+    "EMFModelPartVanillaAccessor"
+  ],
+  "client": [
+    "client.LivingEntityRendererAccessor",
+    "client.LivingEntityRendererMixin",
+    "compat.ASMAnimationHandlerMixin",
+    "compat.AdjustmentModifierMixin",
+    "compat.nea.NEAAnimationProviderMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

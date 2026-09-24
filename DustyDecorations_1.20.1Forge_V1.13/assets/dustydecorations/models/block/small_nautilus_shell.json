@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/nautilus_shell_small",
+  "textures": {
+    "all": "dustydecorations:block/nautilus_shell_small",
+    "particle": "dustydecorations:block/nautilus_shell_small",
+    "0": "dustydecorations:block/nautilus_shell_small"
+  },
+  "render_type": "cutout"
+}

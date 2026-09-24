@@ -1,0 +1,119 @@
+{
+  "name": "Wagons",
+  "icon": "dragnlivestock:covered_wagon",
+  "category": "dragnlivestock:mechanics_category",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "You can craft a multitude of different kinds of wagons to suit your needs. Wagons generally come in all wood types, if applicable, and each have different stats."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Controls:$()$(br2)-Lead a pulling animal, such as a horse, to the wagon and shift-right-click the wagon to hitch it. $(br2)-Leash the horse again to un-hitch it. $(br2)-Lead a NON-pulling animal, such as a pig, to the wagon and shift-right-click the wagon to put the animal inside."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Controls:$() $(br2)-Right click the wagon with any (vanilla) planks to change it's wood type. $(br2)-Right click the wagon with an axe to pick it up intact. $(br2)-Hit the wagon a few times to destroy it and get scraps back."
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:covered_wagon"
+      },
+      "text": "-Capacity: 36 $(br2)-Speed: x0.1 $(br2)-Health: 60 $(br2)-Seats: 3 $(br2)-Pullers: 2 $(br2)-Large Pullers Only",
+      "title": "Covered Wagon"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:livestock_wagon"
+      },
+      "text": "-Capacity: 9 $(br2)-Speed: x0.1 $(br2)-Health: 60 $(br2)-Seats: 7 $(br2)-Pullers: 2 $(br2)-Large Pullers Only",
+      "title": "Livestock Wagon"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:lumber_wagon"
+      },
+      "text": "-Capacity: 54 $(br2)-Speed: x0.1 $(br2)-Health: 60 $(br2)-Seats: 1 $(br2)-Pullers: 4 $(br2)-Large Pullers Only $(br2)*Can only hold logs, planks and axes.",
+      "title": "Lumber Wagon"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:goods_cart"
+      },
+      "text": "-Capacity: 36 $(br2)-Speed: x0.25 $(br2)-Health: 40 $(br2)-Seats: 1 $(br2)-Pullers: 1 $(br2)-Medium+ Pullers",
+      "title": "Goods Cart"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:mining_cart"
+      },
+      "text": "-Capacity: 54 $(br2)-Speed: x0.12 $(br2)-Health: 40 $(br2)-Seats: 1 $(br2)-Pullers: 1 $(br2)-Medium+ Pullers $(br2)*Can only hold stone, ore, other mined materials, shovels and pickaxes.",
+      "title": "Mining Cart "
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:transport_cart"
+      },
+      "text": "-Capacity: 18 $(br2)-Speed: x0.3 $(br2)-Health: 20 $(br2)-Seats: 1 $(br2)-Pullers: 1 $(br2)-Small Pullers",
+      "title": "Transport Cart"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:plow"
+      },
+      "text": "-Capacity: 36 $(br2)-Speed: x0.1 $(br2)-Health: 20 $(br2)-Seats: 1 $(br2)-Pullers: 2 $(br2)-Medium+ Pullers $(br2)*Press Space while riding to switch to till and harvest modes.",
+      "title": "Plow"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:dog_sled"
+      },
+      "text": "-Capacity: 36 $(br2)-Speed: x0.42 $(br2)-Health: 40 $(br2)-Seats: 2 $(br2)-Pullers: 6 $(br2)-Huskies, Bernese, Rottweilers, Pyrenees, Labradors, Wolves $(br2)*Only available with LO: Pets installed.",
+      "title": "Dog Sled"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:mower"
+      },
+      "text": "-Capacity: None $(br2)-Speed: x0.1 $(br2)-Health: 20 $(br2)-Seats: 1 $(br2)-Pullers: 2 $(br2)-Medium+ Pullers $(br2)*Press Space while riding to switch to pathing and mowing modes.",
+      "title": "Mower"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:coupe"
+      },
+      "text": "-Capacity: 18 $(br2)-Speed: x0.25 $(br2)-Health: 80 $(br2)-Seats: 6 $(br2)-Pullers: 2 $(br2)-Medium+ Pullers",
+      "title": "Coupe"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:cabriolet"
+      },
+      "text": "-Capacity: 9 $(br2)-Speed: x0.3 $(br2)-Health: 80 $(br2)-Seats: 2 $(br2)-Pullers: 1 $(br2)-Medium+ Pullers",
+      "title": "Cabriolet"
+    },
+    {
+      "type": "patchouli:spotlight",
+      "item": {
+        "item": "dragnlivestock:sleigh"
+      },
+      "text": "-Capacity: 18 $(br2)-Speed: x0.35 $(br2)-Health: 80 $(br2)-Seats: 5 $(br2)-Pullers: 4 $(br2)-Medium+ Pullers",
+      "title": "Sleigh"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Pull Types$()$(br2)Large: Horses, Mules, Oxen, Camels, Caribou, Unicorns $(br2)Medium: Donkeys, Mules, Caribou $(br2)Small: Donkeys, Mountain Goats, Dogs, Wolves"
+    }
+  ]
+}

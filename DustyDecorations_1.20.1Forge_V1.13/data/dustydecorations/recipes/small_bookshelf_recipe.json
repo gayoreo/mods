@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "smallbookshelf",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:book"
+    },
+    "b": {
+      "item": "dustydecorations:small_shelf_block"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:small_bookshelf",
+    "count": 9
+  }
+}

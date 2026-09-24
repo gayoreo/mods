@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/moonveil",
+  "textures": {
+    "0": "simple_mobs:blocks/moonveil",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

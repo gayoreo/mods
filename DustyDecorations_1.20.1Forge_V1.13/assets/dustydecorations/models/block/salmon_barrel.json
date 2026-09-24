@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/salmon_barrel",
+  "textures": {
+    "all": "dustydecorations:block/salmon_barrel",
+    "particle": "dustydecorations:block/salmon_barrel",
+    "0": "dustydecorations:block/salmon_barrel"
+  },
+  "render_type": "solid"
+}

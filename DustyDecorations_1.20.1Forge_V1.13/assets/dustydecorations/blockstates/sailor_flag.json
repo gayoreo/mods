@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "dustydecorations:block/sailor_flag"
+    },
+    "facing=east": {
+      "model": "dustydecorations:block/sailor_flag",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "dustydecorations:block/sailor_flag",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "dustydecorations:block/sailor_flag",
+      "y": 270
+    }
+  }
+}

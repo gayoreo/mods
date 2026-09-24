@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "orangecushionslab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "dustydecorations:orange_cushion"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:orange_cushion_slab",
+    "count": 6
+  }
+}

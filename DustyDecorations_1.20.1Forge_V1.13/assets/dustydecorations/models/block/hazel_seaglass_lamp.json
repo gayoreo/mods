@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/sglhazel",
+  "textures": {
+    "all": "dustydecorations:block/sglhazel",
+    "particle": "dustydecorations:block/sglhazel",
+    "0": "dustydecorations:block/sglhazel",
+    "missing": "dustydecorations:block/sglhazel"
+  },
+  "render_type": "translucent"
+}

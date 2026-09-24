@@ -1,0 +1,87 @@
+{
+  "itemGroup.overhauled_pets": "O-Pets",
+
+  "tooltip.dragnpets.wandering.tooltip": "Your Companion is Wandering",
+  "tooltip.dragnpets.following.tooltip": "Your Companion is Following",
+  "tooltip.dragnpets.hunting.tooltip": "Your Dog is Hunting",
+  "tooltip.dragnpets.not_hunting.tooltip": "Your Dog is No Longer Hunting",
+  "tooltip.dragnpets.guarding.tooltip": "Your Dog is Guarding",
+  "tooltip.dragnpets.not_guarding.tooltip": "Your Dog is No Longer Guarding",
+  "tooltip.dragnpets.wolf_event.tooltip": "A pack of wolves was spotted near your sheep!",
+  "tooltip.dragnpets.for_dogs.tooltip": "For dogs!",
+
+  "item.dragnpets.o_wolf_spawn_egg": "O-Wolf Spawn Egg",
+  "entity.dragnpets.o_wolf": "O-Wolf",
+
+  "item.dragnpets.o_ocelot_spawn_egg": "O-Ocelot Spawn Egg",
+  "entity.dragnpets.o_ocelot": "O-Ocelot",
+
+  "item.dragnpets.o_fox_spawn_egg": "O-Fox Spawn Egg",
+  "entity.dragnpets.o_fox": "O-Fox",
+
+  "item.dragnpets.o_axolotl_spawn_egg": "O-Axolotl Spawn Egg",
+  "entity.dragnpets.o_axolotl": "O-Axolotl",
+
+  "item.dragnpets.o_tropical_fish_spawn_egg": "O-Tropical Fish Spawn Egg",
+  "entity.dragnpets.o_tropical_fish": "O-Tropical Fish",
+
+  "item.dragnpets.macaw_spawn_egg": "Macaw Spawn Egg",
+  "entity.dragnpets.macaw": "Macaw",
+
+  "item.dragnpets.cockatiel_spawn_egg": "Cockatiel Spawn Egg",
+  "entity.dragnpets.cockatiel": "Cockatiel",
+
+  "item.dragnpets.ringneck_spawn_egg": "Ringneck Parrot Spawn Egg",
+  "entity.dragnpets.ringneck": "Ringneck Parrot",
+
+  "item.dragnpets.o_cat_spawn_egg": "O-Cat Spawn Egg",
+  "entity.dragnpets.o_cat": "O-Cat",
+
+  "item.dragnpets.o_dog_spawn_egg": "O-Dog Spawn Egg",
+  "entity.dragnpets.o_dog": "O-Dog",
+
+  "item.dragnpets.wolf": "Dog",
+  "item.dragnpets.cooked_wolf": "Cooked Dog",
+  "item.dragnpets.cat": "Cat",
+  "item.dragnpets.cooked_cat": "Cooked Cat",
+  "item.dragnpets.parrot_thigh": "Parrot Thigh",
+  "item.dragnpets.cooked_parrot_thigh": "Cooked Parrot Thigh",
+  "item.dragnpets.tropical_fish_fillet": "Tropical Fish Fillet",
+  "item.dragnpets.cooked_tropical_fish_fillet": "Cooked Tropical Fish Fillet",
+  "item.dragnpets.tropical_fish_roe": "Tropical Fish Roe",
+
+  "item.dragnpets.o_axolotl_bucket": "O-Axolotl Bucket",
+  "item.dragnpets.o_tropical_fish_bucket": "O-Tropical Fish Bucket",
+
+  "item.dragnpets.dog_sled": "Dog Sled",
+  "entity.dragnpets.dog_sled": "Dog Sled",
+
+  "item.dragnpets.leather_dog_armor": "Leather Dog Armor",
+  "item.dragnpets.chainmail_dog_armor": "Chainmail Dog Armor",
+  "item.dragnpets.copper_dog_armor": "Copper Dog Armor",
+  "item.dragnpets.iron_dog_armor": "Iron Dog Armor",
+  "item.dragnpets.riot_dog_armor": "Riot Dog Armor",
+  "item.dragnpets.quartz_dog_armor": "Quartz Dog Armor",
+  "item.dragnpets.gold_dog_armor": "Gold Dog Armor",
+  "item.dragnpets.emerald_dog_armor": "Emerald Dog Armor",
+  "item.dragnpets.diamond_dog_armor": "Diamond Dog Armor",
+  "item.dragnpets.netherite_dog_armor": "Netherite Dog Armor",
+  "item.dragnpets.obsidian_dog_armor": "Obsidian Dog Armor",
+
+  "item.dragnpets.black_vest": "Black Vest",
+  "item.dragnpets.blue_vest": "Blue Vest",
+  "item.dragnpets.brown_vest": "Brown Vest",
+  "item.dragnpets.cyan_vest": "Cyan Vest",
+  "item.dragnpets.green_vest": "Green Vest",
+  "item.dragnpets.gray_vest": "Gray Vest",
+  "item.dragnpets.light_blue_vest": "Light Blue Vest",
+  "item.dragnpets.light_gray_vest": "Light Gray Vest",
+  "item.dragnpets.lime_vest": "Lime Vest",
+  "item.dragnpets.magenta_vest": "Magenta Vest",
+  "item.dragnpets.orange_vest": "Orange Vest",
+  "item.dragnpets.pink_vest": "Pink Vest",
+  "item.dragnpets.purple_vest": "Purple Vest",
+  "item.dragnpets.red_vest": "Red Vest",
+  "item.dragnpets.white_vest": "White Vest",
+  "item.dragnpets.yellow_vest": "Yellow Vest"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/glazedpotthree",
+  "textures": {
+    "all": "dustydecorations:block/glazedpottery",
+    "particle": "dustydecorations:block/glazedpottery",
+    "0": "dustydecorations:block/glazedpottery"
+  },
+  "render_type": "solid"
+}

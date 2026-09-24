@@ -1,0 +1,10 @@
+{
+  "parent": "butchersdelight:custom/hookedpigp1",
+  "textures": {
+    "all": "butchersdelight:block/hookedpigp1",
+    "particle": "butchersdelight:block/i_pig",
+    "0": "butchersdelight:block/hook",
+    "1": "butchersdelight:block/pigp1"
+  },
+  "render_type": "cutout_mipped"
+}

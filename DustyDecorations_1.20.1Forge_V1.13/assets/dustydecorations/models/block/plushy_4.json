@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/plushkai",
+  "textures": {
+    "all": "dustydecorations:block/kaiplush",
+    "particle": "dustydecorations:block/kaiplush",
+    "0": "dustydecorations:block/kaiplush"
+  },
+  "render_type": "cutout"
+}

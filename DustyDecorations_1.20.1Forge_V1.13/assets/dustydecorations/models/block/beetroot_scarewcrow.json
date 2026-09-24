@@ -1,0 +1,9 @@
+{
+  "parent": "dustydecorations:custom/beetroot_scarecrow",
+  "textures": {
+    "all": "dustydecorations:block/beetroot_scarecrow",
+    "particle": "dustydecorations:block/beetroot_scarecrow",
+    "0": "dustydecorations:block/beetroot_scarecrow"
+  },
+  "render_type": "cutout"
+}

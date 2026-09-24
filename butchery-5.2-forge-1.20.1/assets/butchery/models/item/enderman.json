@@ -1,0 +1,7 @@
+{
+  "parent": "butchery:custom/enderman",
+  "textures": {
+    "0": "butchery:block/enderman",
+    "particle": "butchery:item/enderman"
+  }
+}

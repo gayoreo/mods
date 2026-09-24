@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "seastone_ornament",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "tag": "dustydecorations:seastone_crafting_material"
+    },
+    "b": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "dustydecorations:seastone_mural",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "simple_mobs:custom/green_sword",
+  "textures": {
+    "2": "simple_mobs:blocks/green_sword",
+    "particle": "simple_mobs:items/witchraid_token"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/holiday_ornament8",
+  "textures": {
+    "all": "dustydecorations:block/ornament8",
+    "particle": "dustydecorations:block/ornament8",
+    "LureDisplay5": "dustydecorations:block/ornament8",
+    "trans": "dustydecorations:block/transparent"
+  },
+  "render_type": "cutout"
+}

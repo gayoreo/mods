@@ -1,0 +1,10 @@
+{
+  "parent": "dustydecorations:custom/small_bookshelf1",
+  "textures": {
+    "all": "dustydecorations:block/small_bookshelf1",
+    "particle": "dustydecorations:block/small_bookshelf1",
+    "0": "dustydecorations:block/cluttered_shelf",
+    "1": "dustydecorations:block/small_bookshelf1"
+  },
+  "render_type": "cutout"
+}

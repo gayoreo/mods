@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "particle": "dustydecorations:block/mintwindow",
+    "pane": "dustydecorations:block/mintwindow"
+  },
+  "render_type": "translucent"
+}

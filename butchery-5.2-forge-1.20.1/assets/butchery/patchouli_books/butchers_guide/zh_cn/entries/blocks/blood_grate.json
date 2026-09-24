@@ -1,0 +1,20 @@
+{
+    "name": "血箆",
+    "icon": "butchery:blood_grate",
+    "category": "butchery:blocks",
+    "read_by_default": true,
+    "sortnum": 6,
+    "pages": [
+        {
+            "type": "patchouli:spotlight",
+            "item": "butchery:blood_grate",
+            "link_recipe": true,
+            "title": "血箆",
+            "text": "§d血箆§0可收集悬挂尸体滴落的血液，需要直接放置在悬挂尸体的正下方。$(br2)血箆可以更改以支持其他模组的血液。为此，你需要先制作$(l:butchery:items/butchers_papers)屠纸$()，制作完成后只需右键点击血箆，即可在支持的模组血液之间循环切换。"
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "butchery:bloodgraterecipe"
+        }
+    ]
+}

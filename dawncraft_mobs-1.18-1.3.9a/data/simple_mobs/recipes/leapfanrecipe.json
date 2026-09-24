@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "simple_mobs:griffin_feather"
+    },
+    "1": {
+      "item": "minecraft:feather"
+    },
+    "2": {
+      "item": "simple_mobs:griffin_feather"
+    },
+    "3": {
+      "item": "minecraft:feather"
+    },
+    "4": {
+      "item": "simple_mobs:griffin_feather"
+    },
+    "5": {
+      "item": "minecraft:feather"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "simple_mobs:leap_fan",
+    "count": 1
+  }
+}
