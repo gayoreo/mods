@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/herbsreworkone",
+  "textures": {
+    "all": "magic_vibe_decorations:block/flowers",
+    "particle": "magic_vibe_decorations:block/herbsrework",
+    "4": "magic_vibe_decorations:block/herbsrework"
+  },
+  "render_type": "cutout"
+}

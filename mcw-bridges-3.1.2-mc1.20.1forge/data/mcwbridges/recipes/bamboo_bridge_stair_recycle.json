@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"group": "recyclable_bridges",
+		
+    "ingredients": [
+        {
+            "item": "mcwbridges:bamboo_bridge_stair"
+        }
+    ],
+    "result": {
+        "item": "mcwbridges:bamboo_bridge",
+        "count": 1
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystal_star_ball12",
+  "textures": {
+    "all": "magic_vibe_decorations:block/obsidian_lamp",
+    "particle": "magic_vibe_decorations:block/obsidian_lamp",
+    "4": "magic_vibe_decorations:block/obsidian_lamp1",
+    "17": "magic_vibe_decorations:block/black"
+  },
+  "render_type": "cutout"
+}

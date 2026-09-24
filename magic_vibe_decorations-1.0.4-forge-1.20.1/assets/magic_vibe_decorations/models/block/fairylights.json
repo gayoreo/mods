@@ -1,0 +1,12 @@
+{
+  "parent": "magic_vibe_decorations:custom/pumpkin_fairy_lights2",
+  "textures": {
+    "all": "magic_vibe_decorations:block/pumpkinforfairylights",
+    "particle": "magic_vibe_decorations:block/pumpkin2",
+    "0": "magic_vibe_decorations:block/pumpkinforfairylights",
+    "1": "magic_vibe_decorations:block/leave3",
+    "2": "magic_vibe_decorations:block/pumpkin_kopie",
+    "3": "magic_vibe_decorations:block/cabel2"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,59 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "BSD-3-Clause + CC BY-NC-SA 4.0"
+
+[[mods]]
+modId = "kaleidoscope_grilling"
+version = "1.1.1"
+displayName = "Kaleidoscope Grilling"
+logoFile = "kaleidoscope_grilling_logo.png"
+authors = "breezeth"
+description = '''为《森罗物语：厨房》扩展热食、风味油料、新食材与炭火烧烤。
+An expansion for Kaleidoscope Cookery featuring hot food, flavorful oils, new ingredients, and charcoal grilling.
+
+【致谢 / Credits】
+美术 / Art：Ao2333
+策划 / Design：猫猫子、一年
+测试 / Testing：酒狐玩具屋服务器、hutao、uwjsakdj、可可'''
+
+[[dependencies.kaleidoscope_grilling]]
+modId = "forge"
+mandatory = true
+versionRange = "[47.3.0,48)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.kaleidoscope_grilling]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1,1.20.2)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.kaleidoscope_grilling]]
+modId = "kaleidoscope_cookery"
+mandatory = true
+versionRange = "[1.4.1,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.kaleidoscope_grilling]]
+modId = "kubejs"
+mandatory = false
+versionRange = "[2001.6.5,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.kaleidoscope_grilling]]
+modId = "create"
+mandatory = false
+versionRange = "[0.5.1,)"
+ordering = "AFTER"
+side = "BOTH"
+
+[[dependencies.kaleidoscope_grilling]]
+modId = "touhou_little_maid"
+mandatory = false
+versionRange = "[1.5.3,)"
+ordering = "AFTER"
+side = "BOTH"

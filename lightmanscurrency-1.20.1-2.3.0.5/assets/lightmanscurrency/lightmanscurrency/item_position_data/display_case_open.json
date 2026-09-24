@@ -1,0 +1,16 @@
+{
+  "Entries": [
+    {
+      "Position": {
+        "x": 0.5,
+        "y": 0.6999,
+        "z": 0.5
+      }
+    }
+  ],
+  "RotationType": {
+    "type": "lightmanscurrency:spinning",
+    "speed": 2.0
+  },
+  "Scale": 0.85
+}

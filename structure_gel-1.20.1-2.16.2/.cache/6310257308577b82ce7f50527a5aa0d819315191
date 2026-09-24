@@ -1,0 +1,17 @@
+// 1.20.1	2023-12-17T22:27:30.2170654	[Structure Gel] Registrar Registries
+fd550a50221305c089a4ad262eef42b2beda88f1 data/structure_gel/forge/structure_modifier/config_modifier.json
+815c236f762c001abc92a1161567eb2650340f2e data/test/dimension/custom.json
+c4dc9b700fb532db5442d47ffdb7e0a4a6cffef0 data/test/dimension_type/custom.json
+ede24240e543616968d1e40eb43939c3b9695c50 data/test/worldgen/biome/test_biome.json
+7c3cea46721a90c2cd045e5e3c019fe344fc9ea2 data/test/worldgen/noise_settings/custom.json
+bb7e9eced9fdbba68153a44d6692541365c0c922 data/test/worldgen/structure/custom_jigsaw.json
+f681f33e890723fccf269ec97a88a137a520eb4e data/test/worldgen/structure/template_a.json
+f86965ec450cef188ae9d114494ccd11a11bcbd3 data/test/worldgen/structure/template_b.json
+62e262d2b267aa420b155b757f324b94d56415f4 data/test/worldgen/structure/template_c.json
+5faf24f8044373e627f74f05897cc92ce83ec6fa data/test/worldgen/structure/vanilla_jigsaw.json
+cfa2c796732f00c2c021dbbcabb30689be37c449 data/test/worldgen/structure_set/custom_jigsaw.json
+b09e61673bade784b2b30627fa36067e847708df data/test/worldgen/structure_set/template.json
+5d0d0b1ab1e53f48f69bf90f2e593efdbfab0dab data/test/worldgen/structure_set/vanilla_jigsaw.json
+8b370ee3c6b72978792462162e4e59739484c822 data/test/worldgen/template_pool/jigsaw_test/end.json
+309b7682d22419a758f6e18a19987f0a34679381 data/test/worldgen/template_pool/jigsaw_test/parts.json
+9a218a54eefb8cb31236670d7bd8f5a9c3ce97ac data/test/worldgen/template_pool/jigsaw_test/root.json

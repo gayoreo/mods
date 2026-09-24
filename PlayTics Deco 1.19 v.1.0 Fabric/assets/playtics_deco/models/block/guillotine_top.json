@@ -1,0 +1,13 @@
+{
+  "parent": "playtics_deco:custom/guillotine_top",
+  "textures": {
+    "all": "playtics_deco:blocks/no_texture",
+    "particle": "playtics_deco:blocks/no_texture",
+    "0": "playtics_deco:blocks/oak_log",
+    "1": "playtics_deco:blocks/oak_planks",
+    "2": "playtics_deco:blocks/guillotine",
+    "3": "playtics_deco:blocks/guillotine_turned",
+    "4": "playtics_deco:blocks/oak_log_top",
+    "5": "playtics_deco:blocks/white_wool"
+  }
+}

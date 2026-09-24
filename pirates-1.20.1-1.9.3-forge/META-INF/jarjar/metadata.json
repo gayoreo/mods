@@ -1,0 +1,15 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "dev.architectury",
+        "artifact": "architectury-forge"
+      },
+      "version": {
+        "range": "[9.1.12,)",
+        "artifactVersion": "9.1.12"
+      },
+      "path": "META-INF/jars/architectury-forge-9.1.12.jar"
+    }
+  ]
+}

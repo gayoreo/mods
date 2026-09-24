@@ -1,0 +1,1684 @@
+{
+  "variants": {
+    "facing=north,shape=cardinal,stage=1,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_1"
+    },
+    "facing=east,shape=cardinal,stage=1,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=1,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=1,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=2,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_2"
+    },
+    "facing=east,shape=cardinal,stage=2,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=2,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=2,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=3,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_3"
+    },
+    "facing=east,shape=cardinal,stage=3,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=3,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=3,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=4,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_4"
+    },
+    "facing=east,shape=cardinal,stage=4,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=4,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=4,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=5,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_5"
+    },
+    "facing=east,shape=cardinal,stage=5,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=5,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=5,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=6,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_6"
+    },
+    "facing=east,shape=cardinal,stage=6,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=6,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=6,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=7,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_7"
+    },
+    "facing=east,shape=cardinal,stage=7,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=7,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=7,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/cardinal_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=1,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_1"
+    },
+    "facing=east,shape=corner,stage=1,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=1,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=1,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=2,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_2"
+    },
+    "facing=east,shape=corner,stage=2,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=2,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=2,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=3,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_3"
+    },
+    "facing=east,shape=corner,stage=3,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=3,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=3,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=4,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_4"
+    },
+    "facing=east,shape=corner,stage=4,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=4,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=4,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=5,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_5"
+    },
+    "facing=east,shape=corner,stage=5,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=5,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=5,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=6,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_6"
+    },
+    "facing=east,shape=corner,stage=6,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=6,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=6,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=7,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_7"
+    },
+    "facing=east,shape=corner,stage=7,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=7,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=7,wood=oak": {
+      "model": "timber_tales:block/cut_log/oak/corner_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=1,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_1"
+    },
+    "facing=east,shape=cardinal,stage=1,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=1,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=1,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=2,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_2"
+    },
+    "facing=east,shape=cardinal,stage=2,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=2,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=2,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=3,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_3"
+    },
+    "facing=east,shape=cardinal,stage=3,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=3,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=3,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=4,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_4"
+    },
+    "facing=east,shape=cardinal,stage=4,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=4,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=4,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=5,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_5"
+    },
+    "facing=east,shape=cardinal,stage=5,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=5,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=5,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=6,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_6"
+    },
+    "facing=east,shape=cardinal,stage=6,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=6,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=6,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=7,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_7"
+    },
+    "facing=east,shape=cardinal,stage=7,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=7,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=7,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/cardinal_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=1,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_1"
+    },
+    "facing=east,shape=corner,stage=1,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=1,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=1,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=2,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_2"
+    },
+    "facing=east,shape=corner,stage=2,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=2,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=2,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=3,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_3"
+    },
+    "facing=east,shape=corner,stage=3,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=3,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=3,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=4,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_4"
+    },
+    "facing=east,shape=corner,stage=4,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=4,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=4,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=5,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_5"
+    },
+    "facing=east,shape=corner,stage=5,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=5,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=5,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=6,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_6"
+    },
+    "facing=east,shape=corner,stage=6,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=6,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=6,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=7,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_7"
+    },
+    "facing=east,shape=corner,stage=7,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=7,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=7,wood=spruce": {
+      "model": "timber_tales:block/cut_log/spruce/corner_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=1,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_1"
+    },
+    "facing=east,shape=cardinal,stage=1,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=1,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=1,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=2,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_2"
+    },
+    "facing=east,shape=cardinal,stage=2,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=2,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=2,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=3,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_3"
+    },
+    "facing=east,shape=cardinal,stage=3,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=3,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=3,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=4,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_4"
+    },
+    "facing=east,shape=cardinal,stage=4,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=4,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=4,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=5,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_5"
+    },
+    "facing=east,shape=cardinal,stage=5,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=5,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=5,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=6,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_6"
+    },
+    "facing=east,shape=cardinal,stage=6,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=6,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=6,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=7,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_7"
+    },
+    "facing=east,shape=cardinal,stage=7,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=7,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=7,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/cardinal_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=1,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_1"
+    },
+    "facing=east,shape=corner,stage=1,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=1,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=1,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=2,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_2"
+    },
+    "facing=east,shape=corner,stage=2,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=2,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=2,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=3,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_3"
+    },
+    "facing=east,shape=corner,stage=3,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=3,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=3,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=4,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_4"
+    },
+    "facing=east,shape=corner,stage=4,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=4,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=4,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=5,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_5"
+    },
+    "facing=east,shape=corner,stage=5,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=5,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=5,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=6,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_6"
+    },
+    "facing=east,shape=corner,stage=6,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=6,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=6,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=7,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_7"
+    },
+    "facing=east,shape=corner,stage=7,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=7,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=7,wood=birch": {
+      "model": "timber_tales:block/cut_log/birch/corner_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=1,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_1"
+    },
+    "facing=east,shape=cardinal,stage=1,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=1,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=1,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=2,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_2"
+    },
+    "facing=east,shape=cardinal,stage=2,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=2,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=2,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=3,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_3"
+    },
+    "facing=east,shape=cardinal,stage=3,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=3,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=3,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=4,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_4"
+    },
+    "facing=east,shape=cardinal,stage=4,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=4,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=4,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=5,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_5"
+    },
+    "facing=east,shape=cardinal,stage=5,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=5,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=5,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=6,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_6"
+    },
+    "facing=east,shape=cardinal,stage=6,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=6,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=6,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=7,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_7"
+    },
+    "facing=east,shape=cardinal,stage=7,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=7,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=7,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/cardinal_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=1,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_1"
+    },
+    "facing=east,shape=corner,stage=1,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=1,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=1,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=2,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_2"
+    },
+    "facing=east,shape=corner,stage=2,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=2,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=2,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=3,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_3"
+    },
+    "facing=east,shape=corner,stage=3,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=3,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=3,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=4,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_4"
+    },
+    "facing=east,shape=corner,stage=4,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=4,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=4,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=5,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_5"
+    },
+    "facing=east,shape=corner,stage=5,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=5,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=5,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=6,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_6"
+    },
+    "facing=east,shape=corner,stage=6,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=6,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=6,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=7,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_7"
+    },
+    "facing=east,shape=corner,stage=7,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=7,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=7,wood=jungle": {
+      "model": "timber_tales:block/cut_log/jungle/corner_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=1,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_1"
+    },
+    "facing=east,shape=cardinal,stage=1,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=1,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=1,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=2,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_2"
+    },
+    "facing=east,shape=cardinal,stage=2,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=2,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=2,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=3,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_3"
+    },
+    "facing=east,shape=cardinal,stage=3,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=3,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=3,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=4,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_4"
+    },
+    "facing=east,shape=cardinal,stage=4,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=4,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=4,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=5,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_5"
+    },
+    "facing=east,shape=cardinal,stage=5,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=5,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=5,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=6,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_6"
+    },
+    "facing=east,shape=cardinal,stage=6,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=6,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=6,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=7,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_7"
+    },
+    "facing=east,shape=cardinal,stage=7,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=7,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=7,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/cardinal_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=1,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_1"
+    },
+    "facing=east,shape=corner,stage=1,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=1,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=1,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=2,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_2"
+    },
+    "facing=east,shape=corner,stage=2,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=2,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=2,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=3,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_3"
+    },
+    "facing=east,shape=corner,stage=3,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=3,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=3,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=4,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_4"
+    },
+    "facing=east,shape=corner,stage=4,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=4,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=4,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=5,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_5"
+    },
+    "facing=east,shape=corner,stage=5,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=5,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=5,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=6,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_6"
+    },
+    "facing=east,shape=corner,stage=6,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=6,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=6,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=7,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_7"
+    },
+    "facing=east,shape=corner,stage=7,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=7,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=7,wood=acacia": {
+      "model": "timber_tales:block/cut_log/acacia/corner_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=1,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_1"
+    },
+    "facing=east,shape=cardinal,stage=1,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=1,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=1,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=2,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_2"
+    },
+    "facing=east,shape=cardinal,stage=2,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=2,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=2,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=3,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_3"
+    },
+    "facing=east,shape=cardinal,stage=3,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=3,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=3,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=4,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_4"
+    },
+    "facing=east,shape=cardinal,stage=4,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=4,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=4,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=5,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_5"
+    },
+    "facing=east,shape=cardinal,stage=5,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=5,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=5,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=6,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_6"
+    },
+    "facing=east,shape=cardinal,stage=6,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=6,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=6,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=7,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_7"
+    },
+    "facing=east,shape=cardinal,stage=7,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=7,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=7,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/cardinal_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=1,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_1"
+    },
+    "facing=east,shape=corner,stage=1,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=1,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=1,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=2,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_2"
+    },
+    "facing=east,shape=corner,stage=2,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=2,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=2,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=3,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_3"
+    },
+    "facing=east,shape=corner,stage=3,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=3,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=3,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=4,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_4"
+    },
+    "facing=east,shape=corner,stage=4,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=4,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=4,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=5,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_5"
+    },
+    "facing=east,shape=corner,stage=5,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=5,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=5,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=6,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_6"
+    },
+    "facing=east,shape=corner,stage=6,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=6,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=6,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=7,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_7"
+    },
+    "facing=east,shape=corner,stage=7,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=7,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=7,wood=cherry": {
+      "model": "timber_tales:block/cut_log/cherry/corner_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=1,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_1"
+    },
+    "facing=east,shape=cardinal,stage=1,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=1,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=1,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=2,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_2"
+    },
+    "facing=east,shape=cardinal,stage=2,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=2,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=2,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=3,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_3"
+    },
+    "facing=east,shape=cardinal,stage=3,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=3,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=3,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=4,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_4"
+    },
+    "facing=east,shape=cardinal,stage=4,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=4,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=4,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=5,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_5"
+    },
+    "facing=east,shape=cardinal,stage=5,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=5,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=5,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=6,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_6"
+    },
+    "facing=east,shape=cardinal,stage=6,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=6,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=6,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=7,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_7"
+    },
+    "facing=east,shape=cardinal,stage=7,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=7,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=7,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/cardinal_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=1,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_1"
+    },
+    "facing=east,shape=corner,stage=1,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=1,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=1,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=2,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_2"
+    },
+    "facing=east,shape=corner,stage=2,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=2,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=2,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=3,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_3"
+    },
+    "facing=east,shape=corner,stage=3,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=3,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=3,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=4,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_4"
+    },
+    "facing=east,shape=corner,stage=4,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=4,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=4,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=5,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_5"
+    },
+    "facing=east,shape=corner,stage=5,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=5,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=5,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=6,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_6"
+    },
+    "facing=east,shape=corner,stage=6,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=6,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=6,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=7,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_7"
+    },
+    "facing=east,shape=corner,stage=7,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=7,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=7,wood=dark_oak": {
+      "model": "timber_tales:block/cut_log/dark_oak/corner_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=1,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_1"
+    },
+    "facing=east,shape=cardinal,stage=1,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=1,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=1,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=2,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_2"
+    },
+    "facing=east,shape=cardinal,stage=2,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=2,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=2,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=3,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_3"
+    },
+    "facing=east,shape=cardinal,stage=3,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=3,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=3,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=4,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_4"
+    },
+    "facing=east,shape=cardinal,stage=4,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=4,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=4,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=5,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_5"
+    },
+    "facing=east,shape=cardinal,stage=5,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=5,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=5,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=6,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_6"
+    },
+    "facing=east,shape=cardinal,stage=6,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=6,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=6,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=cardinal,stage=7,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_7"
+    },
+    "facing=east,shape=cardinal,stage=7,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=cardinal,stage=7,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=cardinal,stage=7,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/cardinal_stage_7",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=1,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_1"
+    },
+    "facing=east,shape=corner,stage=1,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_1",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=1,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_1",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=1,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_1",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=2,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_2"
+    },
+    "facing=east,shape=corner,stage=2,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_2",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=2,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_2",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=2,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_2",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=3,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_3"
+    },
+    "facing=east,shape=corner,stage=3,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_3",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=3,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_3",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=3,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_3",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=4,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_4"
+    },
+    "facing=east,shape=corner,stage=4,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_4",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=4,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_4",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=4,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_4",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=5,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_5"
+    },
+    "facing=east,shape=corner,stage=5,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_5",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=5,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_5",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=5,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_5",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=6,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_6"
+    },
+    "facing=east,shape=corner,stage=6,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_6",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=6,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_6",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=6,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_6",
+      "y": 270
+    },
+    "facing=north,shape=corner,stage=7,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_7"
+    },
+    "facing=east,shape=corner,stage=7,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_7",
+      "y": 90
+    },
+    "facing=south,shape=corner,stage=7,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_7",
+      "y": 180
+    },
+    "facing=west,shape=corner,stage=7,wood=mangrove": {
+      "model": "timber_tales:block/cut_log/mangrove/corner_stage_7",
+      "y": 270
+    }
+  }
+}

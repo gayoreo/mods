@@ -1,0 +1,38 @@
+{
+"parent": "item/handheld",
+  "loader": "forge:item_layers",
+  "forge_data": {
+    "layers": {
+      "1": {
+        "block_light": 15,
+        "sky_light": 15
+      }
+    }
+  },
+"textures": {
+	"layer0": "opposing_force:item/sawblade_huge_active",
+	"layer1": "opposing_force:item/sawblade_huge_glow"
+},
+"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 120],
+			"translation": [0, 1, -10],
+			"scale": [2, 2, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -120],
+			"translation": [0, 1, -10],
+			"scale": [2, 2, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [-170, -90, -70],
+			"translation": [2, 4, -2],
+			"scale": [1.5, 1.5, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-170, 90, 70],
+			"translation": [2, 4, -2],
+			"scale": [1.5, 1.5, 0.68]
+		}
+	}
+}

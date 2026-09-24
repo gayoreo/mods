@@ -1,0 +1,17 @@
+{
+  "parent": "magic_vibe_decorations:custom/jewellerychest",
+  "textures": {
+    "all": "magic_vibe_decorations:block/chestjewells",
+    "particle": "magic_vibe_decorations:block/chestjewells",
+    "0": "magic_vibe_decorations:block/emerald2",
+    "3": "magic_vibe_decorations:block/chestjewells",
+    "4": "magic_vibe_decorations:block/gold",
+    "5": "magic_vibe_decorations:block/chain",
+    "6": "magic_vibe_decorations:block/crystal_dark_purpur",
+    "7": "magic_vibe_decorations:block/crystal_pink",
+    "8": "magic_vibe_decorations:block/dia2",
+    "9": "magic_vibe_decorations:block/red_fire",
+    "10": "magic_vibe_decorations:block/emerald"
+  },
+  "render_type": "cutout"
+}

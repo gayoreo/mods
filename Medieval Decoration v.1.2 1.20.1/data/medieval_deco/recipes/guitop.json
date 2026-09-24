@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_planks"
+    },
+    "1": {
+      "item": "minecraft:oak_slab"
+    },
+    "2": {
+      "item": "minecraft:oak_planks"
+    },
+    "3": {
+      "item": "minecraft:oak_log"
+    },
+    "4": {
+      "item": "minecraft:string"
+    },
+    "5": {
+      "item": "minecraft:oak_log"
+    },
+    "6": {
+      "item": "minecraft:oak_log"
+    },
+    "7": {
+      "item": "minecraft:iron_sword"
+    },
+    "8": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "medieval_deco:guillotine_top",
+    "count": 1
+  }
+}

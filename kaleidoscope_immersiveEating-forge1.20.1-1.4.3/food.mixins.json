@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.toame.food.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "food.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "ClientPackSourceMixin",
+    "Accessor.ItemInHandRendererAccessor",
+    "KeyboardHandlerMixin",
+    "ItemInHandRendererMixin",
+    "ItemRendererMixin",
+    "PunchyConfigMixin",
+    "PlayerRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

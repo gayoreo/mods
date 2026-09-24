@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/wallpaint5",
+  "textures": {
+    "all": "magic_vibe_decorations:block/galaxy",
+    "particle": "magic_vibe_decorations:block/galaxy",
+    "21": "magic_vibe_decorations:block/galaxy"
+  },
+  "render_type": "cutout"
+}

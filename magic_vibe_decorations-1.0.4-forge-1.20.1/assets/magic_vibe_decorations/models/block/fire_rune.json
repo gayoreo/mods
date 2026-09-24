@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/wallpaint3",
+  "textures": {
+    "all": "magic_vibe_decorations:block/fire",
+    "particle": "magic_vibe_decorations:block/fire",
+    "21": "magic_vibe_decorations:block/fire"
+  },
+  "render_type": "cutout"
+}

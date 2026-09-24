@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystaldruze9",
+  "textures": {
+    "all": "magic_vibe_decorations:block/emerald1",
+    "particle": "magic_vibe_decorations:block/emerald1",
+    "7": "magic_vibe_decorations:block/emerald",
+    "31": "magic_vibe_decorations:block/emerald2"
+  },
+  "render_type": "cutout"
+}

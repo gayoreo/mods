@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wooden_shovel",
+    "minecraft:stone_shovel",
+    "minecraft:iron_shovel",
+    "minecraft:golden_shovel",
+    "minecraft:diamond_shovel",
+    "minecraft:netherite_shovel",
+    "superbwarfare:hammer",
+    "superbwarfare:golden_hammer",
+    "superbwarfare:steel_hammer",
+    "superbwarfare:diamond_hammer",
+    "superbwarfare:cemented_carbide_hammer",
+    "superbwarfare:netherite_hammer",
+    "superbwarfare:t_baton",
+    "superbwarfare:electric_baton",
+    "superbwarfare:steel_pipe",
+    "superbwarfare:crowbar",
+    "superbwarfare:military_shovel"
+  ]
+}

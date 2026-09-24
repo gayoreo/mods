@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "zrikons_furniture_medieval:blocks/dark_wooden_planks_fance",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "zrikons_furniture_medieval:dark_wooden_planks_fance"
+        }
+      ]
+    }
+  ]
+}

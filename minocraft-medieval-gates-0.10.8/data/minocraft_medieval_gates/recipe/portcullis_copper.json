@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "MCM",
+    "MMM",
+    "M M"
+  ],
+  "key": {
+    "M": "minecraft:copper_ingot",
+    "C": "minecraft:iron_chain"
+  },
+  "result": {
+    "id": "minocraft_medieval_gates:portcullis_copper",
+    "count": 4
+  }
+}

@@ -1,0 +1,47 @@
+# This is an example mods.toml file. It contains the data relating to the loading mods.
+# There are several mandatory fields (#mandatory), and many more that are optional (#optional).
+# The overall format is standard TOML format, v0.5.0.
+# Note that there are a couple of TOML lists in this file.
+# Find more information on toml format here:  https://github.com/toml-lang/toml
+# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="villagerfurnitureai"
+version="1.0.0"
+displayName="Villager Furniture AI"
+authors="Davi"
+description='''
+Adds AI behavior to villagers so they can interact with furniture,
+move to furniture and perform different activities.
+'''
+
+[[dependencies.villagerfurnitureai]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.villagerfurnitureai]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.villagerfurnitureai]]
+modId="framework"
+mandatory=true
+versionRange="[0.8.0,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.villagerfurnitureai]]
+modId="refurbished_furniture"
+mandatory=true
+versionRange="[1.0.20,)"
+ordering="AFTER"
+side="BOTH"

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: physicsmod
+Specification-Vendor: physicsmodhaubna
+Specification-Version: 1
+Implementation-Title: MCPhysicsForge20
+Implementation-Version: 3.0.20
+Implementation-Vendor: physicsmodhaubna
+Implementation-Timestamp: 2026-07-13T22:43:39+0200
+MixinConfigs: physicsmod.mixins.json
+

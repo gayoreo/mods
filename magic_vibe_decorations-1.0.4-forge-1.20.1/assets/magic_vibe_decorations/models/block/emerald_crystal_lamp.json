@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "magic_vibe_decorations:block/emerald3",
+    "up": "magic_vibe_decorations:block/emerald3",
+    "north": "magic_vibe_decorations:block/emerald3",
+    "east": "magic_vibe_decorations:block/emerald3",
+    "south": "magic_vibe_decorations:block/emerald3",
+    "west": "magic_vibe_decorations:block/emerald3",
+    "particle": "magic_vibe_decorations:block/emerald3"
+  },
+  "render_type": "solid"
+}

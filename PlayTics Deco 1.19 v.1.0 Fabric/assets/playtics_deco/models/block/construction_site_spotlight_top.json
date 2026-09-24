@@ -1,0 +1,12 @@
+{
+  "parent": "playtics_deco:custom/construction_site_spotlight_top",
+  "textures": {
+    "all": "playtics_deco:blocks/no_texture",
+    "particle": "playtics_deco:blocks/no_texture",
+    "0": "playtics_deco:blocks/black",
+    "1": "playtics_deco:blocks/gelb_verwirbelung_32",
+    "2": "playtics_deco:blocks/silver",
+    "3": "playtics_deco:blocks/gitter",
+    "4": "playtics_deco:blocks/lamp_off"
+  }
+}

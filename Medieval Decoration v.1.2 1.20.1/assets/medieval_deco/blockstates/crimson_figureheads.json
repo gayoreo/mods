@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "medieval_deco:block/crimson_figureheads"
+    },
+    "facing=east": {
+      "model": "medieval_deco:block/crimson_figureheads",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "medieval_deco:block/crimson_figureheads",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "medieval_deco:block/crimson_figureheads",
+      "y": 270
+    }
+  }
+}

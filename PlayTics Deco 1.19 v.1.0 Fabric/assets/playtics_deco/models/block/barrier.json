@@ -1,0 +1,10 @@
+{
+  "parent": "playtics_deco:custom/barrier",
+  "textures": {
+    "all": "playtics_deco:blocks/no_texture",
+    "particle": "playtics_deco:blocks/no_texture",
+    "0": "playtics_deco:blocks/gelb_verwirbelung_32",
+    "1": "playtics_deco:blocks/gelb_verwirbelung_streifen_32",
+    "2": "playtics_deco:blocks/dunkel_gelb_verwirbelung_32"
+  }
+}

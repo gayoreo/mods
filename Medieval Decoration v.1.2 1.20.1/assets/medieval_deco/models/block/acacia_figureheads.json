@@ -1,0 +1,11 @@
+{
+  "parent": "medieval_deco:custom/acacia_figureheads",
+  "textures": {
+    "all": "medieval_deco:block/acacia_planks",
+    "particle": "medieval_deco:block/acacia_planks",
+    "0": "medieval_deco:block/acacia_log",
+    "1": "medieval_deco:block/acacia_planks",
+    "2": "medieval_deco:block/acacia_log_top"
+  },
+  "render_type": "solid"
+}

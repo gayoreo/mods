@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/bookshelfbirch",
+  "textures": {
+    "all": "magic_vibe_decorations:block/birch",
+    "particle": "magic_vibe_decorations:block/birch",
+    "0": "magic_vibe_decorations:block/book1",
+    "5": "magic_vibe_decorations:block/birch"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "magic_vibe_decorations:custom/pumpkin_muffins",
+  "textures": {
+    "all": "magic_vibe_decorations:block/orange_spiral",
+    "particle": "magic_vibe_decorations:block/orange_spiral",
+    "11": "magic_vibe_decorations:block/pumpkin3",
+    "5": "magic_vibe_decorations:block/orange_spiral",
+    "7": "magic_vibe_decorations:block/universal_cake_texture_bottom",
+    "9": "magic_vibe_decorations:block/muffin_texture_side",
+    "10": "magic_vibe_decorations:block/pumpkin2"
+  },
+  "render_type": "solid"
+}

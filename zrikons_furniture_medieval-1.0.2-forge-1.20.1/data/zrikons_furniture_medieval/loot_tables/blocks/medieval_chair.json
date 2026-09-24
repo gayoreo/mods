@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "zrikons_furniture_medieval:blocks/medieval_chair",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "zrikons_furniture_medieval:medieval_chair"
+        }
+      ]
+    }
+  ]
+}

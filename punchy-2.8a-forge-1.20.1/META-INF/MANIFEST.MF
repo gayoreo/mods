@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: Punchy
+Specification-Vendor: Punchy
+Specification-Version: 
+Implementation-Title: forge
+Implementation-Version: 
+Implementation-Vendor: Punchy
+Built-On-Minecraft: 1.20.1
+MixinConfigs: punchy.mixins.json,punchy.compat.mixins.json
+

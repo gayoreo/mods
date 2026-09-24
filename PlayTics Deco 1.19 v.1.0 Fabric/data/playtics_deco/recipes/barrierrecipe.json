@@ -1,0 +1,39 @@
+{
+  "group": "deco_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:yellow_concrete"
+    },
+    "1": {
+      "item": "minecraft:iron_bars"
+    },
+    "2": {
+      "item": "minecraft:yellow_concrete"
+    },
+    "3": {
+      "item": "minecraft:black_concrete"
+    },
+    "4": {
+      "item": "minecraft:yellow_concrete"
+    },
+    "5": {
+      "item": "minecraft:black_concrete"
+    },
+    "6": {
+      "item": "minecraft:yellow_concrete"
+    },
+    "8": {
+      "item": "minecraft:yellow_concrete"
+    }
+  },
+  "result": {
+    "item": "playtics_deco:barrier",
+    "count": 1
+  }
+}

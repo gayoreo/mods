@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "magic_vibe_decorations:block/small_magic_pot_awake"
+    },
+    "facing=east": {
+      "model": "magic_vibe_decorations:block/small_magic_pot_awake",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "magic_vibe_decorations:block/small_magic_pot_awake",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "magic_vibe_decorations:block/small_magic_pot_awake",
+      "y": 270
+    }
+  }
+}

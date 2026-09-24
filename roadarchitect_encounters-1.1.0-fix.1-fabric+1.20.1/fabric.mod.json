@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "roadarchitect_roadencounters",
+  "version": "1.1.0-fix.1",
+  "name": "RoadArchitect: Encounters",
+  "description": "This is an addon to Roadarchitect, which adds more life to the road. Along the way, robbers, merchants and other random meetings may meet you.",
+  "authors": ["0xCoDSnet"],
+  "license": "Apache-2.0",
+  "environment": "*",
+  "icon": "assets/roadarchitect_roadencounters/icon.png",
+  "entrypoints": {
+    "main": [
+      "net.oxcodsnet.roadencounters.fabric.RoadEncountersFabric"
+    ],
+    "modmenu": [
+      "net.oxcodsnet.roadencounters.fabric.config.RoadEncountersModMenu"
+    ],
+    "fabric-datagen": [
+      "net.oxcodsnet.roadencounters.fabric.datagen.RoadEncountersDataGenerator"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*",
+    "roadarchitect": ">=1.5.0",
+    "cloth-config2": ">=11.1.136"
+  },
+  "suggests": {
+    "modmenu": "7.2.2"
+  },
+  "contact": {
+    "sources": "https://github.com/0xCoDSnet/RoadArchitect-Road-Encounters",
+    "homepage": "https://github.com/0xCoDSnet"
+  }
+}

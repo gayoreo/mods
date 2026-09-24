@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "playtics_deco:block/barrel_water"
+    },
+    "facing=east": {
+      "model": "playtics_deco:block/barrel_water",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "playtics_deco:block/barrel_water",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "playtics_deco:block/barrel_water",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/ghost1",
+  "textures": {
+    "all": "magic_vibe_decorations:block/ghost",
+    "particle": "magic_vibe_decorations:block/ghost",
+    "1": "magic_vibe_decorations:block/ghost3"
+  },
+  "render_type": "translucent"
+}

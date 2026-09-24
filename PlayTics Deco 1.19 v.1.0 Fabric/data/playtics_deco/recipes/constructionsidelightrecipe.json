@@ -1,0 +1,36 @@
+{
+  "group": "deco_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "1": {
+      "item": "minecraft:iron_bars"
+    },
+    "2": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "3": {
+      "item": "minecraft:gray_concrete"
+    },
+    "4": {
+      "item": "minecraft:yellow_concrete"
+    },
+    "5": {
+      "item": "minecraft:gray_concrete"
+    },
+    "7": {
+      "item": "minecraft:yellow_concrete"
+    }
+  },
+  "result": {
+    "item": "playtics_deco:construction_site_spotlight_bottom",
+    "count": 1
+  }
+}

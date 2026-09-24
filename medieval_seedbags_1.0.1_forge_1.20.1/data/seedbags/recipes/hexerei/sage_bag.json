@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "hexerei"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "hexerei:sage_seed"
+    }
+  },
+  "result": {
+    "item": "seedbags:bag_of_hexerei_sage_seeds",
+    "count": 1
+  }
+}

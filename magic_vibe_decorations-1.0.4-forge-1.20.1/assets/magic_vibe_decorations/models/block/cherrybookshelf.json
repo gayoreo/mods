@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/cherry_bookshelf",
+  "textures": {
+    "all": "magic_vibe_decorations:block/2023-09-02_09.57.47",
+    "particle": "magic_vibe_decorations:block/2023-09-02_09.57.47",
+    "0": "magic_vibe_decorations:block/book1",
+    "3": "magic_vibe_decorations:block/2023-09-02_09.57.47"
+  },
+  "render_type": "solid"
+}

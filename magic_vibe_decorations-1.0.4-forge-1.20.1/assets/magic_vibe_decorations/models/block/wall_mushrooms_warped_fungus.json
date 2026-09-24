@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/wall_mushrooms_warpedfungus",
+  "textures": {
+    "all": "magic_vibe_decorations:block/mushrooms",
+    "particle": "magic_vibe_decorations:block/warped",
+    "1": "magic_vibe_decorations:block/mushrooms"
+  },
+  "render_type": "solid"
+}

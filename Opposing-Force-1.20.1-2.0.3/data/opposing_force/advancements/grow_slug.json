@@ -1,0 +1,45 @@
+{
+  "parent": "opposing_force:tame_slug",
+  "criteria": {
+    "grow_slug": {
+      "conditions": {
+        "entity": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "opposing_force:slug"
+            }
+          }
+        ],
+        "item": {
+          "items": [
+            "minecraft:slime_block"
+          ]
+        }
+      },
+      "trigger": "minecraft:player_interacted_with_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.opposing_force.grow_slug.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:slime_block"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.opposing_force.grow_slug"
+    }
+  },
+  "requirements": [
+    [
+      "grow_slug"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/bookshelfjungle",
+  "textures": {
+    "all": "magic_vibe_decorations:block/wood",
+    "particle": "magic_vibe_decorations:block/wood",
+    "0": "magic_vibe_decorations:block/book1",
+    "8": "magic_vibe_decorations:block/jungle"
+  },
+  "render_type": "solid"
+}

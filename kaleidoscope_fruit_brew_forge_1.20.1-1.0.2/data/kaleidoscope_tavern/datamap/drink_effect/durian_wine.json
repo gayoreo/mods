@@ -1,0 +1,91 @@
+{
+  "item": "kaleidoscope_fruit_brew:durian_wine",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:nausea",
+        "duration": 35,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:nausea",
+        "duration": 10,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "fruitsdelight:alienating",
+        "duration": 40,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:suspicious_smell",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "fruitsdelight:alienating",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:suspicious_smell",
+        "duration": 160,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "fruitsdelight:alienating",
+        "duration": 160,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:suspicious_smell",
+        "duration": 320,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "fruitsdelight:alienating",
+        "duration": 320,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:suspicious_smell",
+        "duration": 640,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "fruitsdelight:alienating",
+        "duration": 999999,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:suspicious_smell",
+        "duration": 999999,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

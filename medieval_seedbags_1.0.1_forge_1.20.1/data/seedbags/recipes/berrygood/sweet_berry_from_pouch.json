@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "berry_good"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "seedbags:pouch_of_berrygood_sweet_berry_pips"
+    }
+  },
+  "result": {
+    "item": "berry_good:sweet_berry_pips",
+    "count": 4
+  }
+}

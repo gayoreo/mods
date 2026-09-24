@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystal_ball_transluctant_finished",
+  "textures": {
+    "all": "magic_vibe_decorations:block/crystal_ball_texture1",
+    "particle": "magic_vibe_decorations:block/crystal_ball_texture1",
+    "2": "magic_vibe_decorations:block/crystal_ball_downside",
+    "3": "magic_vibe_decorations:block/crystal_ball_texture1",
+    "4": "magic_vibe_decorations:block/crystal_ball_texture_normal"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,17 @@
+{
+  "parent": "magic_vibe_decorations:custom/potions",
+  "textures": {
+    "all": "magic_vibe_decorations:block/glass_1",
+    "particle": "magic_vibe_decorations:block/glass_1",
+    "2": "magic_vibe_decorations:block/glass_1",
+    "3": "magic_vibe_decorations:block/jungle",
+    "4": "magic_vibe_decorations:block/potion_pink",
+    "5": "magic_vibe_decorations:block/potion_blue",
+    "6": "magic_vibe_decorations:block/potion_green",
+    "7": "magic_vibe_decorations:block/potion_orange",
+    "8": "magic_vibe_decorations:block/potion_purple",
+    "9": "magic_vibe_decorations:block/potion_redpink",
+    "10": "magic_vibe_decorations:block/potion_dark_blue"
+  },
+  "render_type": "translucent"
+}

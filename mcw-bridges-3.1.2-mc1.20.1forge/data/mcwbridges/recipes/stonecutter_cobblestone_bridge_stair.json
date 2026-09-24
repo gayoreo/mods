@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:cobblestone"
+    },
+    "result": "mcwbridges:cobblestone_bridge_stair",
+    "group": "stonecutting",
+    "count": 1
+}

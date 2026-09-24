@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: structure_gel
+Specification-Vendor: moddinglegacy
+Specification-Version: 1
+Implementation-Title: structure_gel-1.20.1
+Implementation-Version: 2.16.2
+Implementation-Vendor: moddinglegacy
+Implementation-Timestamp: Apr 20, 2024
+MixinConfigs: structure_gel.mixins.json
+

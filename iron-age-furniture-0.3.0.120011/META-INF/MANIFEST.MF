@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Specification-Title: IronAgeFurniture
+Specification-Vendor: SkyBlade1978, FoxNekitsune
+Specification-Version: 0
+Implementation-Title: iron-age-furniture
+Implementation-Version: 0.3.0.120011
+Implementation-Vendor: SkyBlade1978, FoxNekitsune
+Maven-Artifact: zone.moddev.mc:iron-age-furniture:0.3.0.120011
+Built-On-Java: 17
+Built-On: 1.20.1-47.4.10
+

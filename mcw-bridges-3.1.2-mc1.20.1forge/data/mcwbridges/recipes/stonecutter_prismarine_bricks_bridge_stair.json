@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:prismarine_bricks"
+    },
+    "result": "mcwbridges:prismarine_bricks_bridge_stair",
+    "group": "stonecutting",
+    "count": 1
+}

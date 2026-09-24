@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "seedbags:block/bag_bottom",
+    "up": "seedbags:block/bag_supplementaries_flax_top",
+    "north": "seedbags:block/bag_supplementaries_flax",
+    "east": "seedbags:block/bag_side",
+    "south": "seedbags:block/bag_side",
+    "west": "seedbags:block/bag_side",
+    "particle": "seedbags:block/bag_bottom"
+  },
+  "render_type": "solid"
+}

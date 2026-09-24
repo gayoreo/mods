@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:citrinecrystals"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:citrine_shard",
+    "count": 3
+  }
+}

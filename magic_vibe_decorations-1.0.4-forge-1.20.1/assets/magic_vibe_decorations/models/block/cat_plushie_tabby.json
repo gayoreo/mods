@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/catplushiegrey",
+  "textures": {
+    "all": "magic_vibe_decorations:block/catfacegray",
+    "particle": "magic_vibe_decorations:block/catfacegray",
+    "6": "magic_vibe_decorations:block/catfurgray",
+    "8": "magic_vibe_decorations:block/catfacegray"
+  },
+  "render_type": "cutout"
+}

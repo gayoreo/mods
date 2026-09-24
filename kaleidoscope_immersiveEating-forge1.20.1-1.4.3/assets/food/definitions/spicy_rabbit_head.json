@@ -1,0 +1,8 @@
+{
+	"item": "kaleidoscope_cookery:spicy_rabbit_head",
+	"invisible": [],
+	"sounds": {
+		"eating1": "food:eating1",
+		"eating2": "food:eating2"
+	}
+}

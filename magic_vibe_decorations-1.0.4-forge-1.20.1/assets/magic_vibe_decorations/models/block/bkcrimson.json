@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/bookshelfcrimson1.16",
+  "textures": {
+    "all": "magic_vibe_decorations:block/crimson",
+    "particle": "magic_vibe_decorations:block/crimson",
+    "0": "magic_vibe_decorations:block/book1",
+    "6": "magic_vibe_decorations:block/crimson"
+  },
+  "render_type": "solid"
+}

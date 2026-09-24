@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:bricks"
+    },
+    "result": "mcwbridges:brick_bridge",
+    "group": "stonecutting",
+    "count": 1
+}

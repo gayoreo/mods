@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/drip2",
+  "textures": {
+    "all": "magic_vibe_decorations:block/nethercrystalblock2",
+    "particle": "magic_vibe_decorations:block/nethercrystalblock2",
+    "23": "magic_vibe_decorations:block/fire_crystal",
+    "27": "magic_vibe_decorations:block/yellow_fire",
+    "18": "magic_vibe_decorations:block/red_fire"
+  },
+  "render_type": "cutout"
+}

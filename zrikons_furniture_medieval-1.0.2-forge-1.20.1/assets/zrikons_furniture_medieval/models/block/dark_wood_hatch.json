@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "zrikons_furniture_medieval:block/darkhatch",
+    "particle": "zrikons_furniture_medieval:block/darkhatch"
+  },
+  "render_type": "solid"
+}

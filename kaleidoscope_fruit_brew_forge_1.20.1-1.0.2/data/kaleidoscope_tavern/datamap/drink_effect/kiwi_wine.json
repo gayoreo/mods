@@ -1,0 +1,61 @@
+{
+  "item": "kaleidoscope_fruit_brew:kiwi_wine",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:nausea",
+        "duration": 35,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:nausea",
+        "duration": 10,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "fruitsdelight:cycling",
+        "duration": 4,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "fruitsdelight:cycling",
+        "duration": 8,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "fruitsdelight:cycling",
+        "duration": 16,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "fruitsdelight:cycling",
+        "duration": 32,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "fruitsdelight:cycling",
+        "duration": 64,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

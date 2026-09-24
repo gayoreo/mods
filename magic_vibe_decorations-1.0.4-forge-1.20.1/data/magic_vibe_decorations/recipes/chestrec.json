@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:crystalshards"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "tag": "minecraft:crystals"
+    },
+    "d": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:jewellery_chest",
+    "count": 1
+  }
+}

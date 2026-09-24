@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/basket_of_pumpkins2",
+  "textures": {
+    "all": "magic_vibe_decorations:block/basket_texture",
+    "particle": "magic_vibe_decorations:block/basket_texture",
+    "0": "magic_vibe_decorations:block/pumpkin_kopie",
+    "1": "magic_vibe_decorations:block/leave",
+    "3": "magic_vibe_decorations:block/basket_texture"
+  },
+  "render_type": "translucent"
+}

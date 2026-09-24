@@ -1,0 +1,26 @@
+{
+  "group": "deco_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:orange_concrete"
+    },
+    "3": {
+      "item": "minecraft:orange_concrete"
+    },
+    "4": {
+      "item": "minecraft:white_concrete"
+    },
+    "5": {
+      "item": "minecraft:orange_concrete"
+    }
+  },
+  "result": {
+    "item": "playtics_deco:traffic_cone",
+    "count": 2
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:aquamarinecrystals"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:aquamarine_shard",
+    "count": 3
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "medieval_deco:custom/dark_oak_figureheads",
+  "textures": {
+    "all": "medieval_deco:block/dark_oak_planks",
+    "particle": "medieval_deco:block/dark_oak_planks",
+    "0": "medieval_deco:block/dark_oak_log",
+    "1": "medieval_deco:block/dark_oak_planks",
+    "2": "medieval_deco:block/dark_oak_log_top"
+  },
+  "render_type": "solid"
+}

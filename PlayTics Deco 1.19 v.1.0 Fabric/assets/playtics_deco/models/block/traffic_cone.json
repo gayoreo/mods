@@ -1,0 +1,9 @@
+{
+  "parent": "playtics_deco:custom/traffic_cone",
+  "textures": {
+    "all": "playtics_deco:blocks/no_texture",
+    "particle": "playtics_deco:blocks/no_texture",
+    "0": "playtics_deco:blocks/orange_streifen",
+    "1": "playtics_deco:blocks/orange_verwirbelung"
+  }
+}

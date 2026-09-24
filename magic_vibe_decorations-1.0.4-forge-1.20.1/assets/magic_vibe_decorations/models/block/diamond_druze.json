@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystaldruze7",
+  "textures": {
+    "all": "magic_vibe_decorations:block/aquamarine_lamp",
+    "particle": "magic_vibe_decorations:block/aquamarine_lamp",
+    "7": "magic_vibe_decorations:block/dia2",
+    "31": "magic_vibe_decorations:block/dia2"
+  },
+  "render_type": "cutout"
+}

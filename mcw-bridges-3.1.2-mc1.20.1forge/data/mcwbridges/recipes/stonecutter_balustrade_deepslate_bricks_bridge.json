@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:deepslate_bricks"
+    },
+    "result": "mcwbridges:balustrade_deepslate_bricks_bridge",
+    "group": "stonecutting",
+    "count": 1
+}

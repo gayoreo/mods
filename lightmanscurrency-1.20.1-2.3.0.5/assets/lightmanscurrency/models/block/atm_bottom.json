@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "lightmanscurrency:block/block1_2",
+	"textures": {
+		"main": "lightmanscurrency:block/atm",
+		"particle": "#main"
+	},
+	"elements": [
+		{
+			"name": "bottombase",
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 39, 8]},
+			"faces": {
+				"north": {"uv": [8, 12, 12, 16], "texture": "#main"},
+				"east": {"uv": [4, 12, 8, 16], "texture": "#main"},
+				"south": {"uv": [0, 12, 4, 16], "texture": "#main"},
+				"west": {"uv": [12, 12, 16, 16], "texture": "#main"},
+				"up": {"uv": [0, 6, 4, 10], "texture": "#main"},
+				"down": {"uv": [4, 4, 8, 8], "texture": "#main"}
+			}
+		},
+		{
+			"name": "frontpiece1",
+			"from": [6, 11, 16],
+			"to": [10, 12, 17],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 19, 24]},
+			"faces": {
+				"east": {"uv": [2.25, 13, 2.5, 13.25], "texture": "#main"},
+				"south": {"uv": [1.5, 13, 2.5, 13.25], "texture": "#main"},
+				"west": {"uv": [1.5, 13, 1.75, 13.25], "texture": "#main"},
+				"up": {"uv": [1.5, 13, 2.5, 13.25], "texture": "#main"},
+				"down": {"uv": [1.5, 13, 2.5, 13.25], "texture": "#main"}
+			}
+		},
+		{
+			"name": "frontpiece2",
+			"from": [6, 12, 16],
+			"to": [7, 13, 17],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 20, 24]},
+			"faces": {
+				"east": {"uv": [1.5, 12.75, 1.75, 13], "texture": "#main"},
+				"south": {"uv": [1.5, 12.75, 1.75, 13], "texture": "#main"},
+				"west": {"uv": [1.5, 12.75, 1.75, 13], "texture": "#main"},
+				"up": {"uv": [1.5, 12.75, 1.75, 13], "texture": "#main"}
+			}
+		},
+		{
+			"name": "frontpiece3",
+			"from": [9, 12, 16],
+			"to": [10, 13, 17],
+			"rotation": {"angle": 0, "axis": "y", "origin": [17, 20, 24]},
+			"faces": {
+				"east": {"uv": [2.25, 12.75, 2.5, 13], "texture": "#main"},
+				"south": {"uv": [2.25, 12.75, 2.5, 13], "texture": "#main"},
+				"west": {"uv": [2.25, 12.75, 2.5, 13], "texture": "#main"},
+				"up": {"uv": [2.25, 12.75, 2.5, 13], "texture": "#main"}
+			}
+		}
+	]
+}

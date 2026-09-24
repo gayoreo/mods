@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "magic_vibe_decorations:block/ametrine_block",
+    "up": "magic_vibe_decorations:block/ametrine_block",
+    "north": "magic_vibe_decorations:block/ametrine_block",
+    "east": "magic_vibe_decorations:block/ametrine_block",
+    "south": "magic_vibe_decorations:block/ametrine_block",
+    "west": "magic_vibe_decorations:block/ametrine_block",
+    "particle": "magic_vibe_decorations:block/ametrine_block"
+  },
+  "render_type": "solid"
+}

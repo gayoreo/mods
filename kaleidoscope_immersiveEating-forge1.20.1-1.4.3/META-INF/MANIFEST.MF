@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: food
+Specification-Vendor: XianYue
+Specification-Version: 1
+Implementation-Title: food
+Implementation-Version: 1.4.3
+Implementation-Vendor: XianYue
+Implementation-Timestamp: 2026-09-12T01:41:48+0800
+MixinConfigs: food.mixins.json
+

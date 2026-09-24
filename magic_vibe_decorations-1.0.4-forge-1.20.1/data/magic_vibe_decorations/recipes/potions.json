@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:potion"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:placeablepotions",
+    "count": 1
+  }
+}

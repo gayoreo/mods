@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 45",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:crimson_stem"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:crimson_stem"
+    },
+    "4": {
+      "item": "minecraft:crimson_planks"
+    },
+    "5": {
+      "item": "minecraft:crimson_planks"
+    },
+    "7": {
+      "item": "minecraft:crimson_planks"
+    },
+    "8": {
+      "item": "minecraft:crimson_planks"
+    }
+  },
+  "result": {
+    "item": "medieval_deco:crimson_figureheads",
+    "count": 1
+  }
+}

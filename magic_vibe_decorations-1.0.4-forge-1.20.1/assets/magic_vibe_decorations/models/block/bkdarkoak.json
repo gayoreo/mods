@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/bookshelfdarkoak",
+  "textures": {
+    "all": "magic_vibe_decorations:block/dark_oak",
+    "particle": "magic_vibe_decorations:block/dark_oak",
+    "0": "magic_vibe_decorations:block/book1",
+    "7": "magic_vibe_decorations:block/dark_oak"
+  },
+  "render_type": "solid"
+}

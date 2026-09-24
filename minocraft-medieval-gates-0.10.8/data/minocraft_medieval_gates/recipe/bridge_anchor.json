@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "III",
+    "ICI",
+    " S "
+  ],
+  "key": {
+    "I": "minecraft:iron_ingot",
+    "C": "minecraft:iron_chain",
+    "S": "minecraft:stone_bricks"
+  },
+  "result": {
+    "id": "minocraft_medieval_gates:bridge_anchor",
+    "count": 2
+  }
+}

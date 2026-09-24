@@ -1,0 +1,20 @@
+{
+  "mod.vkbc.name": "葡园酒香 & 森罗酒馆 兼容补丁",
+  "mod.vkbc.description": "让葡园酒香的酒能放入森罗酒馆的酒柜中。",
+  "block.vkbc.white_grape_juice": "白葡萄汁",
+  "block.vkbc.savanna_red_grape_juice": "热带草原红葡萄汁",
+  "block.vkbc.savanna_white_grape_juice": "热带草原白葡萄汁",
+  "block.vkbc.taiga_red_grape_juice": "针叶林红葡萄汁",
+  "block.vkbc.taiga_white_grape_juice": "针叶林白葡萄汁",
+  "block.vkbc.jungle_red_grape_juice": "丛林红葡萄汁",
+  "block.vkbc.jungle_white_grape_juice": "丛林白葡萄汁",
+  "item.vkbc.red_grape_juice_bucket": "红葡萄汁桶",
+  "item.vkbc.apple_juice_bucket": "苹果汁桶",
+  "item.vkbc.white_grape_juice_bucket": "白葡萄汁桶",
+  "item.vkbc.savanna_red_grape_juice_bucket": "热带草原红葡萄汁桶",
+  "item.vkbc.savanna_white_grape_juice_bucket": "热带草原白葡萄汁桶",
+  "item.vkbc.taiga_red_grape_juice_bucket": "针叶林红葡萄汁桶",
+  "item.vkbc.taiga_white_grape_juice_bucket": "针叶林白葡萄汁桶",
+  "item.vkbc.jungle_red_grape_juice_bucket": "丛林红葡萄汁桶",
+  "item.vkbc.jungle_white_grape_juice_bucket": "丛林白葡萄汁桶"
+}

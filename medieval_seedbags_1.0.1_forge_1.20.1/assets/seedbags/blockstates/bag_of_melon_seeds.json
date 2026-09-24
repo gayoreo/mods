@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "seedbags:block/bag_of_melon_seeds"
+    },
+    "facing=east": {
+      "model": "seedbags:block/bag_of_melon_seeds",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "seedbags:block/bag_of_melon_seeds",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "seedbags:block/bag_of_melon_seeds",
+      "y": 270
+    }
+  }
+}

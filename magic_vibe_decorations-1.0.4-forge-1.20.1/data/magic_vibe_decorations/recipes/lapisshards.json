@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:lapiscrystals"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:lapis_crystal_shard",
+    "count": 3
+  }
+}

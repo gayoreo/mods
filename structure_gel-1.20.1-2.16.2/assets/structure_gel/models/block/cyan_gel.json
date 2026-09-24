@@ -1,0 +1,6 @@
+{
+	"parent": "structure_gel:block/gel",
+	"textures": {
+		"all": "structure_gel:block/cyan_gel"
+	}
+}

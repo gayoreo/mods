@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/cluster8",
+  "textures": {
+    "all": "magic_vibe_decorations:block/rubellitecluster",
+    "particle": "magic_vibe_decorations:block/rubellite_lamp",
+    "5": "magic_vibe_decorations:block/rubellitecluster"
+  },
+  "render_type": "cutout"
+}

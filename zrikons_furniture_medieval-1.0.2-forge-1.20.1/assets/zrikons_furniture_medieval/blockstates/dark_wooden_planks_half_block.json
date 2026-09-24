@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "zrikons_furniture_medieval:block/dark_wooden_planks_half_block"
+    },
+    "type=top": {
+      "model": "zrikons_furniture_medieval:block/dark_wooden_planks_half_block_top"
+    },
+    "type=double": {
+      "model": "zrikons_furniture_medieval:block/dark_wooden_planks_half_block_full"
+    }
+  }
+}

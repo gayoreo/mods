@@ -1,0 +1,8 @@
+{
+  "remove": [
+    "#forge:without_default_monster_spawns"
+  ],
+  "values": [
+    "#minecraft:is_overworld"
+  ]
+}

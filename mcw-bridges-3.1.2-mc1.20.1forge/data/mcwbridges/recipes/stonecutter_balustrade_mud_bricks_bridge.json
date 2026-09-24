@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:mud_bricks"
+    },
+    "result": "mcwbridges:balustrade_mud_bricks_bridge",
+    "group": "stonecutting",
+    "count": 1
+}

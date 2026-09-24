@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystaldruze4",
+  "textures": {
+    "all": "magic_vibe_decorations:block/ametrine_block",
+    "particle": "magic_vibe_decorations:block/ametrine_block",
+    "12": "magic_vibe_decorations:block/amethrine",
+    "24": "magic_vibe_decorations:block/amethrine2"
+  },
+  "render_type": "cutout"
+}

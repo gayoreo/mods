@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "tag": "forge:dyes"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:candy",
+    "count": 1
+  }
+}

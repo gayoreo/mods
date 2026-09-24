@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "magic_vibe_decorations:block/citrineblock1",
+    "up": "magic_vibe_decorations:block/citrineblock1",
+    "north": "magic_vibe_decorations:block/citrineblock1",
+    "east": "magic_vibe_decorations:block/citrineblock1",
+    "south": "magic_vibe_decorations:block/citrineblock1",
+    "west": "magic_vibe_decorations:block/citrineblock1",
+    "particle": "magic_vibe_decorations:block/citrineblock1"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,60 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"2": "kaleidoscope_lab:item/176",
+		"particle": "kaleidoscope_lab:item/176"
+	},
+	"elements": [
+		{
+			"from": [2.5, 1, 15.95],
+			"to": [13.5, 15, 15.95],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [10.5, 9, 16, 16], "rotation": 180, "texture": "#2"},
+				"south": {"uv": [10.5, 9, 16, 16], "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, -4],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, -3.5],
+			"scale": [0.55, 0.55, 0.55]
+		},
+		"firstperson_righthand": {
+			"rotation": [-75, 0, 0],
+			"translation": [0.25, -2.25, -4.5],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-75, 0, 0],
+			"translation": [0.25, -0.25, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 3.5, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"translation": [0, 0.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 14.75, 10.5]
+		},
+		"fixed": {
+			"translation": [0, 0, -8.25]
+		},
+		"on_shelf": {
+			"translation": [0, 0, -10.75]
+		}
+	}
+}

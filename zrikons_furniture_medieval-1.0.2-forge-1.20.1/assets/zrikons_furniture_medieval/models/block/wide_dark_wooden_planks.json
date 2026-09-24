@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zrikons_furniture_medieval:block/hugedarkplanks",
+    "up": "zrikons_furniture_medieval:block/hugedarkplanks",
+    "north": "zrikons_furniture_medieval:block/hugedarkplanks",
+    "east": "zrikons_furniture_medieval:block/hugedarkplanks",
+    "south": "zrikons_furniture_medieval:block/hugedarkplanks",
+    "west": "zrikons_furniture_medieval:block/hugedarkplanks",
+    "particle": "zrikons_furniture_medieval:block/hugedarkplanks"
+  },
+  "render_type": "solid"
+}

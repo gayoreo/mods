@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/pumpkin_lamp",
+  "textures": {
+    "all": "magic_vibe_decorations:block/pumpkin_kopie",
+    "particle": "magic_vibe_decorations:block/pumpkin_item",
+    "0": "magic_vibe_decorations:block/pumpkin_kopie",
+    "1": "magic_vibe_decorations:block/leave",
+    "3": "magic_vibe_decorations:block/pumpkin_kopie"
+  },
+  "render_type": "cutout"
+}

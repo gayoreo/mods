@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "zrikons_furniture_medieval:block/wide_dark_wooden_planks",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "zrikons_furniture_medieval:block/wide_dark_wooden_planks"
+    },
+    "axis=z": {
+      "model": "zrikons_furniture_medieval:block/wide_dark_wooden_planks",
+      "x": 90
+    }
+  }
+}

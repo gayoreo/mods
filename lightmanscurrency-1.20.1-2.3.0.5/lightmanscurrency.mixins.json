@@ -1,0 +1,34 @@
+{
+  "required": true,
+  "package": "io.github.lightman314.lightmanscurrency.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "lightmanscurrency.refmap.json",
+  "plugin": "io.github.lightman314.lightmanscurrency.mixin.plugin.LCMixinPlugin",
+  "mixins": [
+    "AbstractContainerMenuAccessor",
+    "EntityMixin",
+    "GiveCommandMixin",
+    "InventoryMenuMixin",
+    "ItemHandlerHelperMixin",
+    "MerchantMenuMixin",
+    "ShapedAndShapelessRecipeMixin",
+    "TemplatePoolAccess",
+    "compat.computercraft.DetailRegistryMixin",
+    "compat.create.StockTickerBlockEntityAccessor",
+    "compat.create.StockTickerBlockMixin",
+    "compat.create.StockTickerInteractionHandlerMixin",
+    "compat.farmingforblockheads.MarketMenuMixin",
+    "compat.supplementaries.ModVillagerTradesMixin",
+    "compat.supplementaries.RedMerchantMenuMixin"
+  ],
+  "client": [
+    "client.AtlasSetMixin",
+    "client.CommandSuggestionsAccessor",
+    "client.ModelBakeryAccessor",
+    "client.ModelManagerAccessor",
+    "client.RenderStateShardAccessor",
+    "client.SlotWrapperMixin",
+    "client.SuggestionsListAccessor"
+  ],
+  "minVersion": "0.8"
+}

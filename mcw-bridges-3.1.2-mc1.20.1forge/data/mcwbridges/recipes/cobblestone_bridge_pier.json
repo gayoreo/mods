@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "stone_piers",
+    
+    "pattern": [
+    "WFW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:cobblestone_wall"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:cobblestone"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:cobblestone_bridge_pier",
+        "count": 3
+    }
+}

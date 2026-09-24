@@ -1,0 +1,52 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "punchy.mixin",
+	"plugin": "punchy.mixin.PunchyMixinPlugin",
+	"refmap": "punchy.refmap.json",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+	],
+	"client": [
+		"client.ModelPartMixin",
+		"client.CancelSwingMixin",
+		"client.LivingEntitySwingMixin",
+		"client.GameRendererMixin",
+		"client.MinecraftMixin",
+		"client.LanguageMixin",
+		"client.MinecraftScreenDelayMixin",
+		"client.ItemInHandRendererMixin",
+		"client.ItemInHandRendererArmRedirectMixin",
+		"client.ItemIrisLightMixin",
+		"client.LivingEntityRendererMixin",
+		"client.LivingEntityRenderDebugMixin",
+        "client.CameraMixin",
+		"client.ItemPropertiesMixin",
+        "client.MultiPlayerGameModeMixin",
+                "client.MultiPlayerGameModeMiningMixin",
+                        "client.MultiPlayerGameModeAttackMixin",
+        "client.ShieldSoundMixin",
+        "client.ScreenEffectRendererMixin",
+		"client.FishingHookRendererMixin",
+        "client.LevelRendererMixin",
+        "client.AbstractBoatModelMixin",
+        "client.RaftModelMixin",
+        "client.BoatRenderStateMixin",
+        "client.MinecartRendererMixin",
+        "client.accessor.BoatItemAccessor",
+        "client.accessor.HumanoidArmorLayerAccessor",
+        "client.accessor.ItemInHandRendererInvoker",
+        "client.accessor.LivingEntityRendererAccessor",
+        "client.accessor.ModelPartAccessor",
+        "client.accessor.OptionsAccessor",
+        "client.accessor.PlayerModelAccessor",
+        "client.accessor.MinecartItemAccessor",
+        "client.accessor.ParticleEngineAccessor",
+        "client.accessor.PlayerFishingAccessor"
+                    ],	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

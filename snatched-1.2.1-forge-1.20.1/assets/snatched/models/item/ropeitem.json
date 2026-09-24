@@ -1,0 +1,7 @@
+{
+  "parent": "snatched:custom/rope_item",
+  "textures": {
+    "0": "snatched:block/rope_item",
+    "particle": "snatched:item/rope_item"
+  }
+}

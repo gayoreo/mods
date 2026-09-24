@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "lambdynlights",
+  "name": "LambDynamicLights",
+  "version": "4.4.0+1.20.1",
+  "description": "The most feature-complete dynamic lighting mod for Fabric.",
+  "authors": [
+    "LambdAurora"
+  ],
+  "contributors": [
+    "Akarys"
+  ],
+  "contact": {
+    "homepage": "https://lambdaurora.dev/projects/lambdynamiclights",
+    "sources": "https://github.com/LambdAurora/LambDynamicLights",
+    "issues": "https://github.com/LambdAurora/LambDynamicLights/issues"
+  },
+  "license": "Lambda License",
+  "icon": "assets/lambdynlights/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "dev.lambdaurora.lambdynlights.LambDynLights"
+    ],
+    "modmenu": [
+      "dev.lambdaurora.lambdynlights.LambDynLightsModMenu"
+    ]
+  },
+  "accessWidener": "lambdynlights.accesswidener",
+  "mixins": [
+    "lambdynlights.mixins.json",
+    "lambdynlights.lightsource.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "\u003e\u003d0.16.9",
+    "minecraft": "~1.20 \u003c1.20.2-",
+    "java": "\u003e\u003d17",
+    "lambdynlights_api": "\u003e\u003d4.4.0+1.20.1",
+    "spruceui": "\u003e\u003d6.2.1+1.20",
+    "fabric-lifecycle-events-v1": "\u003e\u003d2.2.22+1802ada577",
+    "fabric-resource-loader-v0": "\u003e\u003d0.11.10+1802ada577",
+    "fabric-resource-conditions-api-v1": "\u003e\u003d2.3.8+1802ada577"
+  },
+  "recommends": {
+    "modmenu": "\u003e\u003d7.2.2"
+  },
+  "breaks": {
+    "optifabric": "*",
+    "sodiumdynamiclights": "*",
+    "ryoamiclights": "*",
+    "createdynlight": "\u003c\u003d1.0.2"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights",
+        "modmenu.discord": "https://discord.lambdaurora.dev/",
+        "modmenu.github_releases": "https://github.com/LambdAurora/LambDynamicLights/releases",
+        "modmenu.modrinth": "https://modrinth.com/mod/lambdynamiclights",
+        "modmenu.bluesky": "https://bsky.app/profile/lambdaurora.dev"
+      }
+    }
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/lambdynamiclights-api-4.4.0+1.20.1.jar"
+    },
+    {
+      "file": "META-INF/jars/pridelib-1.2.0+1.19.4.jar"
+    },
+    {
+      "file": "META-INF/jars/spruceui-6.2.1+1.20.jar"
+    }
+  ]
+}

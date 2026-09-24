@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "magic_vibe_decorations:block/nethercrystalblock",
+    "up": "magic_vibe_decorations:block/nethercrystalblock",
+    "north": "magic_vibe_decorations:block/nethercrystalblock",
+    "east": "magic_vibe_decorations:block/nethercrystalblock",
+    "south": "magic_vibe_decorations:block/nethercrystalblock",
+    "west": "magic_vibe_decorations:block/nethercrystalblock",
+    "particle": "magic_vibe_decorations:block/nethercrystalblock"
+  },
+  "render_type": "solid"
+}

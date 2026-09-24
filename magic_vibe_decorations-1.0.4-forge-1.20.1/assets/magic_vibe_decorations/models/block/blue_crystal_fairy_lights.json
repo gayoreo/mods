@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/bluelights",
+  "textures": {
+    "all": "magic_vibe_decorations:block/blue2",
+    "particle": "magic_vibe_decorations:block/blue2",
+    "4": "magic_vibe_decorations:block/cabel",
+    "16": "magic_vibe_decorations:block/blue2",
+    "9": "magic_vibe_decorations:block/dia2"
+  },
+  "render_type": "cutout"
+}

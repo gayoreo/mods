@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "magic_vibe_decorations:block/basket"
+    },
+    "facing=east": {
+      "model": "magic_vibe_decorations:block/basket",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "magic_vibe_decorations:block/basket",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "magic_vibe_decorations:block/basket",
+      "y": 270
+    }
+  }
+}

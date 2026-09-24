@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "ace/actually/pirates/mixin/BuiltinPackSourceMixin": {
+      "loadPacks": "Lnet/minecraft/server/packs/repository/BuiltInPackSource;m_7686_(Ljava/util/function/Consumer;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "ace/actually/pirates/mixin/BuiltinPackSourceMixin": {
+        "loadPacks": "Lnet/minecraft/server/packs/repository/BuiltInPackSource;m_7686_(Ljava/util/function/Consumer;)V"
+      }
+    }
+  }
+}

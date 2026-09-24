@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/drip3",
+  "textures": {
+    "all": "magic_vibe_decorations:block/overworldlamp1",
+    "particle": "magic_vibe_decorations:block/overworldlamp1",
+    "23": "magic_vibe_decorations:block/emerald2",
+    "27": "magic_vibe_decorations:block/rubellite_red",
+    "18": "magic_vibe_decorations:block/yellow_fire"
+  },
+  "render_type": "cutout"
+}

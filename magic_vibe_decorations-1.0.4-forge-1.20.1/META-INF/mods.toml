@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="magic_vibe_decorations"
+version="1.0.4"
+displayName="Magic Vibe Decorations"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/magic-vibe-decorations"
+credits="LillouArts"
+authors="LillouArts"
+description="Magical decorations and crystals"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.magic_vibe_decorations]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

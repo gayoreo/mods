@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "balustrade_bridges",
+    
+    "pattern": [
+    "FFF",
+    "WWW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:deepslate_brick_wall"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:deepslate_brick_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:balustrade_deepslate_bricks_bridge",
+        "count": 5
+    }
+}

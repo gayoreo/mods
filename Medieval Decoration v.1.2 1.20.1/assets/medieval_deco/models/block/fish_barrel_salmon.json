@@ -1,0 +1,13 @@
+{
+  "parent": "medieval_deco:custom/fish_barrel_salmon",
+  "textures": {
+    "all": "medieval_deco:block/barrel_side",
+    "particle": "medieval_deco:block/barrel_side",
+    "0": "medieval_deco:block/barrel_bottom",
+    "1": "medieval_deco:block/barrel_side",
+    "2": "medieval_deco:block/barrel_top",
+    "3": "medieval_deco:block/barrel_top_open",
+    "5": "medieval_deco:block/salmon"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "timber_tales:block/hollow_oak_log_x"
+    },
+    "axis=y": {
+      "model": "timber_tales:block/hollow_oak_log"
+    },
+    "axis=z": {
+      "model": "timber_tales:block/hollow_oak_log_z"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "zrikons_furniture_medieval:block/darkplanks",
+    "particle": "zrikons_furniture_medieval:block/darkplanks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,20 @@
+{
+  "mod.vkbc.name": "Vinery & Kaleidoscope Tavern Bottle Compatibility",
+  "mod.vkbc.description": "Allows Vinery wines to be placed in Kaleidoscope Tavern bar cabinets.",
+  "block.vkbc.white_grape_juice": "White Grape Juice",
+  "block.vkbc.savanna_red_grape_juice": "Savanna Red Grape Juice",
+  "block.vkbc.savanna_white_grape_juice": "Savanna White Grape Juice",
+  "block.vkbc.taiga_red_grape_juice": "Taiga Red Grape Juice",
+  "block.vkbc.taiga_white_grape_juice": "Taiga White Grape Juice",
+  "block.vkbc.jungle_red_grape_juice": "Jungle Red Grape Juice",
+  "block.vkbc.jungle_white_grape_juice": "Jungle White Grape Juice",
+  "item.vkbc.red_grape_juice_bucket": "Red Grape Juice Bucket",
+  "item.vkbc.apple_juice_bucket": "apple Juice Bucket",
+  "item.vkbc.white_grape_juice_bucket": "White Grape Juice Bucket",
+  "item.vkbc.savanna_red_grape_juice_bucket": "Savanna Red Grape Juice Bucket",
+  "item.vkbc.savanna_white_grape_juice_bucket": "Savanna White Grape Juice Bucket",
+  "item.vkbc.taiga_red_grape_juice_bucket": "Taiga Red Grape Juice Bucket",
+  "item.vkbc.taiga_white_grape_juice_bucket": "Taiga White Grape Juice Bucket",
+  "item.vkbc.jungle_red_grape_juice_bucket": "Jungle Red Grape Juice Bucket",
+  "item.vkbc.jungle_white_grape_juice_bucket": "Jungle White Grape Juice Bucket"
+}

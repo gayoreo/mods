@@ -1,0 +1,15 @@
+{
+	"required": true,
+	"package": "com.legacy.structure_gel.core.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"refmap": "structure_gel.refmap.json",
+	"plugin": "com.legacy.structure_gel.core.mixin.StructureGelMixins",
+	"mixins": [
+	],
+	"client": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"minVersion": "0.8"
+}

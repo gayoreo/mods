@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/bookshelfmangrove1.19-1.20",
+  "textures": {
+    "all": "magic_vibe_decorations:block/mangrove",
+    "particle": "magic_vibe_decorations:block/mangrove",
+    "0": "magic_vibe_decorations:block/book1",
+    "9": "magic_vibe_decorations:block/mangrove"
+  },
+  "render_type": "solid"
+}

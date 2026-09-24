@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Specification-Title: SmartBrainLib
+Specification-Vendor: Tslat
+Specification-Version: 1.15
+Implementation-Title: Forge
+Implementation-Version: 1.15
+Implementation-Vendor: Tslat
+Implementation-Timestamp: 2024-08-23T14:22:50+1000
+Timestamp: 1724386970395
+Built-On-Java: 17.0.8.1+1 (Eclipse Adoptium)
+Built-On-Minecraft: 1.20.1
+

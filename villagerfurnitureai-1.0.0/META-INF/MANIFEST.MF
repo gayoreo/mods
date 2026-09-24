@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: VillagerFurnitureAI
+Implementation-Version: 1.0.0
+Specification-Vendor: Davi
+Specification-Title: villagerfurnitureai
+Implementation-Timestamp: 2026-09-15T17:23:20-0300
+Specification-Version: 1
+Implementation-Vendor: Davi
+

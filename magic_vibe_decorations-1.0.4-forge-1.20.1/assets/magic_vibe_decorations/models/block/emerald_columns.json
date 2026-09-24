@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/drip9",
+  "textures": {
+    "all": "magic_vibe_decorations:block/emerald3",
+    "particle": "magic_vibe_decorations:block/emerald3",
+    "16": "magic_vibe_decorations:block/emerald2"
+  },
+  "render_type": "cutout"
+}

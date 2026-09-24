@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: trotting_wagons
+Specification-Vendor: Favouriteless, AbstractPortrait
+Specification-Version: 1
+Implementation-Title: Trotting Wagons
+Implementation-Version: 1.0.4
+Implementation-Vendor: Favouriteless, AbstractPortrait
+Implementation-Timestamp: 2025-08-22T23:27:18+0100
+

@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/bookshelfoak",
+  "textures": {
+    "all": "magic_vibe_decorations:block/oak",
+    "particle": "magic_vibe_decorations:block/oak",
+    "0": "magic_vibe_decorations:block/book1",
+    "10": "magic_vibe_decorations:block/oak"
+  },
+  "render_type": "solid"
+}

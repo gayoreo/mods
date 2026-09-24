@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/booksrework",
+  "textures": {
+    "all": "magic_vibe_decorations:block/book1",
+    "particle": "magic_vibe_decorations:block/book1",
+    "0": "magic_vibe_decorations:block/book1"
+  },
+  "render_type": "cutout"
+}

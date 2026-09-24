@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:enderamethysts"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:ender_amethyst_shard",
+    "count": 3
+  }
+}

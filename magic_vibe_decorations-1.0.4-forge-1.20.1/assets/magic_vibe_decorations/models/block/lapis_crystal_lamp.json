@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "magic_vibe_decorations:block/lapiscrystal_lamp1",
+    "up": "magic_vibe_decorations:block/lapiscrystal_lamp1",
+    "north": "magic_vibe_decorations:block/lapiscrystal_lamp1",
+    "east": "magic_vibe_decorations:block/lapiscrystal_lamp1",
+    "south": "magic_vibe_decorations:block/lapiscrystal_lamp1",
+    "west": "magic_vibe_decorations:block/lapiscrystal_lamp1",
+    "particle": "magic_vibe_decorations:block/lapiscrystal_lamp1"
+  },
+  "render_type": "solid"
+}

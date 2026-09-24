@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:quartz"
+    },
+    "b": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:crystal_ball",
+    "count": 1
+  }
+}

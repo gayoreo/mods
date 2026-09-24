@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/clusterbushender",
+  "textures": {
+    "all": "magic_vibe_decorations:block/enderamethyst_lamp1",
+    "particle": "magic_vibe_decorations:block/enderamethyst_lamp1",
+    "2": "magic_vibe_decorations:block/enderamet1"
+  },
+  "render_type": "cutout"
+}

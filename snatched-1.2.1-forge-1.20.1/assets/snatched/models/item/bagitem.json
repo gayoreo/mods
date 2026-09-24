@@ -1,0 +1,7 @@
+{
+  "parent": "snatched:custom/bag_had_item",
+  "textures": {
+    "0": "minecraft:block/black_wool",
+    "particle": "minecraft:item/black_dye"
+  }
+}

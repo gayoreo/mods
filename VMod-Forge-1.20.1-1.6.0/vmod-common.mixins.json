@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.spaceeye.vmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "LevelChunkMixin",
+    "ShipObjectClientWorldMixin",
+    "ShipObjectServerWorldMixin",
+    "ShipObjectWorldAccessor"
+  ],
+  "client": [
+    "BlockRenderDispatcherAccessor",
+    "GameRendererMixin",
+    "KeyboardHandlerMixin",
+    "LevelRendererMixin",
+    "MixinMouseHandler"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "VMod-common-refmap.json"
+}

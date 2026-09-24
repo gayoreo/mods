@@ -1,0 +1,128 @@
+{
+  "mappings": {
+    "io/github/lightman314/lightmanscurrency/mixin/compat/create/StockTickerBlockMixin": {
+      "use": "Lcom/simibubi/create/content/logistics/stockTicker/StockTickerBlock;m_6227_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/GiveCommandMixin": {
+      "giveItem": "Lnet/minecraft/server/commands/GiveCommand;m_137778_(Lnet/minecraft/commands/CommandSourceStack;Lnet/minecraft/commands/arguments/item/ItemInput;Ljava/util/Collection;I)I",
+      "Lnet/minecraft/world/entity/player/Inventory;add(Lnet/minecraft/world/item/ItemStack;)Z": "Lnet/minecraft/world/entity/player/Inventory;m_36054_(Lnet/minecraft/world/item/ItemStack;)Z"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/client/ModelManagerAccessor": {
+      "atlases": "f_119398_:Lnet/minecraft/client/resources/model/AtlasSet;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/compat/farmingforblockheads/MarketMenuMixin": {
+      "removed": "Lnet/blay09/mods/farmingforblockheads/menu/MarketMenu;m_6877_(Lnet/minecraft/world/entity/player/Player;)V",
+      "quickMoveStack": "Lnet/blay09/mods/farmingforblockheads/menu/MarketMenu;m_7648_(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/client/SuggestionsListAccessor": {
+      "rect": "f_93947_:Lnet/minecraft/client/renderer/Rect2i;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/InventoryMenuMixin": {
+      "owner": "f_39703_:Lnet/minecraft/world/entity/player/Player;",
+      "quickMoveStack": "Lnet/minecraft/world/inventory/InventoryMenu;m_7648_(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/ShapedAndShapelessRecipeMixin": {
+      "matches(Lnet/minecraft/world/inventory/CraftingContainer;Lnet/minecraft/world/level/Level;)Z": "m_5818_(Lnet/minecraft/world/inventory/CraftingContainer;Lnet/minecraft/world/level/Level;)Z"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/client/CommandSuggestionsAccessor": {
+      "fillColor": "f_93860_:I",
+      "commandUsage": "f_93861_:Ljava/util/List;",
+      "suggestions": "f_93866_:Lnet/minecraft/client/gui/components/CommandSuggestions$SuggestionsList;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/AbstractContainerMenuAccessor": {
+      "addSlot": "m_38897_(Lnet/minecraft/world/inventory/Slot;)Lnet/minecraft/world/inventory/Slot;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/client/RenderStateShardAccessor": {
+      "name": "f_110133_:Ljava/lang/String;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/compat/supplementaries/RedMerchantMenuMixin": {
+      "removed": "Lnet/mehvahdjukaar/supplementaries/common/inventories/RedMerchantMenu;m_6877_(Lnet/minecraft/world/entity/player/Player;)V"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/client/AtlasSetMixin": {
+      "scheduleLoad": "Lnet/minecraft/client/resources/model/AtlasSet;m_247721_(Lnet/minecraft/server/packs/resources/ResourceManager;ILjava/util/concurrent/Executor;)Ljava/util/Map;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/EntityMixin": {
+      "spawnAtLocation(Lnet/minecraft/world/item/ItemStack;F)Lnet/minecraft/world/entity/item/ItemEntity;": "Lnet/minecraft/world/entity/Entity;m_5552_(Lnet/minecraft/world/item/ItemStack;F)Lnet/minecraft/world/entity/item/ItemEntity;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/MerchantMenuMixin": {
+      "removed": "Lnet/minecraft/world/inventory/MerchantMenu;m_6877_(Lnet/minecraft/world/entity/player/Player;)V",
+      "tradeContainer": "f_40028_:Lnet/minecraft/world/inventory/MerchantContainer;",
+      "trader": "f_40027_:Lnet/minecraft/world/item/trading/Merchant;",
+      "tryMoveItems": "Lnet/minecraft/world/inventory/MerchantMenu;m_40072_(I)V"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/TemplatePoolAccess": {
+      "rawTemplates": "f_210559_:Ljava/util/List;",
+      "templates": "f_210560_:Lit/unimi/dsi/fastutil/objects/ObjectArrayList;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/client/ModelBakeryAccessor": {
+      "predicate": "m_119273_(Lnet/minecraft/world/level/block/state/StateDefinition;Ljava/lang/String;)Ljava/util/function/Predicate;"
+    },
+    "io/github/lightman314/lightmanscurrency/mixin/compat/create/StockTickerInteractionHandlerMixin": {
+      "net/minecraft/world/entity/player/Player.getInventory()Lnet/minecraft/world/entity/player/Inventory;": "Lnet/minecraft/world/entity/player/Player;m_150109_()Lnet/minecraft/world/entity/player/Inventory;"
+    }
+  },
+  "data": {
+    "searge": {
+      "io/github/lightman314/lightmanscurrency/mixin/compat/create/StockTickerBlockMixin": {
+        "use": "Lcom/simibubi/create/content/logistics/stockTicker/StockTickerBlock;m_6227_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/player/Player;Lnet/minecraft/world/InteractionHand;Lnet/minecraft/world/phys/BlockHitResult;)Lnet/minecraft/world/InteractionResult;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/GiveCommandMixin": {
+        "giveItem": "Lnet/minecraft/server/commands/GiveCommand;m_137778_(Lnet/minecraft/commands/CommandSourceStack;Lnet/minecraft/commands/arguments/item/ItemInput;Ljava/util/Collection;I)I",
+        "Lnet/minecraft/world/entity/player/Inventory;add(Lnet/minecraft/world/item/ItemStack;)Z": "Lnet/minecraft/world/entity/player/Inventory;m_36054_(Lnet/minecraft/world/item/ItemStack;)Z"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/client/ModelManagerAccessor": {
+        "atlases": "f_119398_:Lnet/minecraft/client/resources/model/AtlasSet;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/compat/farmingforblockheads/MarketMenuMixin": {
+        "removed": "Lnet/blay09/mods/farmingforblockheads/menu/MarketMenu;m_6877_(Lnet/minecraft/world/entity/player/Player;)V",
+        "quickMoveStack": "Lnet/blay09/mods/farmingforblockheads/menu/MarketMenu;m_7648_(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/client/SuggestionsListAccessor": {
+        "rect": "f_93947_:Lnet/minecraft/client/renderer/Rect2i;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/InventoryMenuMixin": {
+        "owner": "f_39703_:Lnet/minecraft/world/entity/player/Player;",
+        "quickMoveStack": "Lnet/minecraft/world/inventory/InventoryMenu;m_7648_(Lnet/minecraft/world/entity/player/Player;I)Lnet/minecraft/world/item/ItemStack;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/ShapedAndShapelessRecipeMixin": {
+        "matches(Lnet/minecraft/world/inventory/CraftingContainer;Lnet/minecraft/world/level/Level;)Z": "m_5818_(Lnet/minecraft/world/inventory/CraftingContainer;Lnet/minecraft/world/level/Level;)Z"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/client/CommandSuggestionsAccessor": {
+        "fillColor": "f_93860_:I",
+        "commandUsage": "f_93861_:Ljava/util/List;",
+        "suggestions": "f_93866_:Lnet/minecraft/client/gui/components/CommandSuggestions$SuggestionsList;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/AbstractContainerMenuAccessor": {
+        "addSlot": "m_38897_(Lnet/minecraft/world/inventory/Slot;)Lnet/minecraft/world/inventory/Slot;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/client/RenderStateShardAccessor": {
+        "name": "f_110133_:Ljava/lang/String;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/compat/supplementaries/RedMerchantMenuMixin": {
+        "removed": "Lnet/mehvahdjukaar/supplementaries/common/inventories/RedMerchantMenu;m_6877_(Lnet/minecraft/world/entity/player/Player;)V"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/client/AtlasSetMixin": {
+        "scheduleLoad": "Lnet/minecraft/client/resources/model/AtlasSet;m_247721_(Lnet/minecraft/server/packs/resources/ResourceManager;ILjava/util/concurrent/Executor;)Ljava/util/Map;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/EntityMixin": {
+        "spawnAtLocation(Lnet/minecraft/world/item/ItemStack;F)Lnet/minecraft/world/entity/item/ItemEntity;": "Lnet/minecraft/world/entity/Entity;m_5552_(Lnet/minecraft/world/item/ItemStack;F)Lnet/minecraft/world/entity/item/ItemEntity;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/MerchantMenuMixin": {
+        "removed": "Lnet/minecraft/world/inventory/MerchantMenu;m_6877_(Lnet/minecraft/world/entity/player/Player;)V",
+        "tradeContainer": "f_40028_:Lnet/minecraft/world/inventory/MerchantContainer;",
+        "trader": "f_40027_:Lnet/minecraft/world/item/trading/Merchant;",
+        "tryMoveItems": "Lnet/minecraft/world/inventory/MerchantMenu;m_40072_(I)V"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/TemplatePoolAccess": {
+        "rawTemplates": "f_210559_:Ljava/util/List;",
+        "templates": "f_210560_:Lit/unimi/dsi/fastutil/objects/ObjectArrayList;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/client/ModelBakeryAccessor": {
+        "predicate": "m_119273_(Lnet/minecraft/world/level/block/state/StateDefinition;Ljava/lang/String;)Ljava/util/function/Predicate;"
+      },
+      "io/github/lightman314/lightmanscurrency/mixin/compat/create/StockTickerInteractionHandlerMixin": {
+        "net/minecraft/world/entity/player/Player.getInventory()Lnet/minecraft/world/entity/player/Inventory;": "Lnet/minecraft/world/entity/player/Player;m_150109_()Lnet/minecraft/world/entity/player/Inventory;"
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "playtics_deco:block/spruce_figureheads"
+    },
+    "facing=east": {
+      "model": "playtics_deco:block/spruce_figureheads",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "playtics_deco:block/spruce_figureheads",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "playtics_deco:block/spruce_figureheads",
+      "y": 270
+    }
+  }
+}

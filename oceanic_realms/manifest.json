@@ -1,0 +1,144 @@
+{
+  "minecraft": {
+    "version": "1.20.1",
+    "modLoaders": [
+      {
+        "id": "forge-47.4.20",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "oceanic realms",
+  "version": "1.0.0",
+  "author": "Modly",
+  "files": [
+    {
+      "projectID": 570463,
+      "fileID": 8350221,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 8292131,
+      "required": true
+    },
+    {
+      "projectID": 495267,
+      "fileID": 7565992,
+      "required": true
+    },
+    {
+      "projectID": 351264,
+      "fileID": 7291067,
+      "required": true
+    },
+    {
+      "projectID": 679177,
+      "fileID": 5208511,
+      "required": true
+    },
+    {
+      "projectID": 1327195,
+      "fileID": 6886491,
+      "required": true
+    },
+    {
+      "projectID": 388172,
+      "fileID": 8285794,
+      "required": true
+    },
+    {
+      "projectID": 834427,
+      "fileID": 8328261,
+      "required": true
+    },
+    {
+      "projectID": 309927,
+      "fileID": 6418456,
+      "required": true
+    },
+    {
+      "projectID": 936015,
+      "fileID": 6742615,
+      "required": true
+    },
+    {
+      "projectID": 852512,
+      "fileID": 8255539,
+      "required": true
+    },
+    {
+      "projectID": 1202395,
+      "fileID": 7258141,
+      "required": true
+    },
+    {
+      "projectID": 1126335,
+      "fileID": 8302577,
+      "required": true
+    },
+    {
+      "projectID": 987388,
+      "fileID": 7401036,
+      "required": true
+    },
+    {
+      "projectID": 426558,
+      "fileID": 5698791,
+      "required": true
+    },
+    {
+      "projectID": 924854,
+      "fileID": 5848216,
+      "required": true
+    },
+    {
+      "projectID": 331936,
+      "fileID": 7476570,
+      "required": true
+    },
+    {
+      "projectID": 1323369,
+      "fileID": 7180917,
+      "required": true
+    },
+    {
+      "projectID": 602059,
+      "fileID": 6354624,
+      "required": true
+    },
+    {
+      "projectID": 536530,
+      "fileID": 5343785,
+      "required": true
+    },
+    {
+      "projectID": 654384,
+      "fileID": 7979379,
+      "required": true
+    },
+    {
+      "projectID": 258371,
+      "fileID": 7906689,
+      "required": true
+    },
+    {
+      "projectID": 328085,
+      "fileID": 7178761,
+      "required": true
+    },
+    {
+      "projectID": 908741,
+      "fileID": 5681725,
+      "required": true
+    },
+    {
+      "projectID": 714177,
+      "fileID": 6668834,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    " b",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "snatched:ropeitem"
+    },
+    "b": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "snatched:lasso",
+    "count": 1
+  }
+}

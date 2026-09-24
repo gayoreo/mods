@@ -1,0 +1,9 @@
+{
+  "parent": "zrikons_furniture_medieval:custom/medievalchair",
+  "textures": {
+    "all": "zrikons_furniture_medieval:block/medievalchair",
+    "particle": "minecraft:block/barrel_bottom",
+    "0": "zrikons_furniture_medieval:block/medievalchair"
+  },
+  "render_type": "cutout_mipped"
+}

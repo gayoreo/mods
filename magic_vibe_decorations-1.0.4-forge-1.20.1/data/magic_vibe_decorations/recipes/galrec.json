@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "magic_vibe_decorations:ender_amethyst_shard"
+    },
+    {
+      "item": "minecraft:purple_dye"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:galaxy_rune",
+    "count": 1
+  }
+}

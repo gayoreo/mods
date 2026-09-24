@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:rubellitecrystals"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:rubellite_shard",
+    "count": 3
+  }
+}

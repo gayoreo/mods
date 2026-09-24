@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:grass_block"
+    },
+    "result": "mcwroofs:grass_top_roof",
+    "group": "roofs",
+    "count": 1
+}

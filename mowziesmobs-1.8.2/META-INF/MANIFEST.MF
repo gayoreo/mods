@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: mowziesmobs
+MixinConfigs: mowziesmobs.mixins.json
+Implementation-Version: 1.8.2
+Specification-Vendor: BobMowzie
+Specification-Title: mowziesmobs
+Implementation-Timestamp: 2026-03-26T00:13:50-0700
+Specification-Version: 1
+Implementation-Vendor: BobMowzie
+

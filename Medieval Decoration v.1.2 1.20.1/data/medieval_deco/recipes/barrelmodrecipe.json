@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "deco_mod",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:wooden_slabs"
+    },
+    "1": {
+      "item": "minecraft:barrel"
+    },
+    "2": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "medieval_deco:barrel_mod",
+    "count": 1
+  }
+}

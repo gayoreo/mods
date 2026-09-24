@@ -1,0 +1,11 @@
+{
+  "parent": "medieval_deco:custom/warped_figureheads",
+  "textures": {
+    "all": "medieval_deco:block/warped_planks",
+    "particle": "medieval_deco:block/warped_planks",
+    "0": "medieval_deco:block/warped_stem",
+    "1": "medieval_deco:block/warped_planks",
+    "2": "medieval_deco:block/warped_stem_top"
+  },
+  "render_type": "solid"
+}

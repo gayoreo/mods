@@ -1,0 +1,86 @@
+{
+  "mappings": {
+    "net/satisfy/vinery/core/mixin/BlockMixin": {
+      "isExceptionForConnection": "Lnet/minecraft/world/level/block/Block;m_152463_(Lnet/minecraft/world/level/block/state/BlockState;)Z"
+    },
+    "net/satisfy/vinery/core/mixin/BoneMealItemMixin": {
+      "useOn": "Lnet/minecraft/world/item/BoneMealItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;"
+    },
+    "net/satisfy/vinery/core/mixin/ClientPlayerEntityMixin": {
+      "Lnet/minecraft/client/player/LocalPlayer;getEffect(Lnet/minecraft/world/effect/MobEffect;)Lnet/minecraft/world/effect/MobEffectInstance;": "Lnet/minecraft/client/player/LocalPlayer;m_21124_(Lnet/minecraft/world/effect/MobEffect;)Lnet/minecraft/world/effect/MobEffectInstance;",
+      "Lnet/minecraft/client/player/LocalPlayer;hasEffect(Lnet/minecraft/world/effect/MobEffect;)Z": "Lnet/minecraft/client/player/LocalPlayer;m_21023_(Lnet/minecraft/world/effect/MobEffect;)Z",
+      "aiStep": "Lnet/minecraft/client/player/LocalPlayer;m_8107_()V",
+      "updateAutoJump": "Lnet/minecraft/client/player/LocalPlayer;m_108743_(FF)V"
+    },
+    "net/satisfy/vinery/core/mixin/ExperienceOrbMixin": {
+      "playerTouch": "Lnet/minecraft/world/entity/ExperienceOrb;m_6123_(Lnet/minecraft/world/entity/player/Player;)V"
+    },
+    "net/satisfy/vinery/core/mixin/FoxEntityEatSweetBerriesGoalMixin": {
+      "isValidTarget": "Lnet/minecraft/world/entity/animal/Fox$FoxEatBerriesGoal;m_6465_(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z",
+      "onReachedTarget": "Lnet/minecraft/world/entity/animal/Fox$FoxEatBerriesGoal;m_28686_()V"
+    },
+    "net/satisfy/vinery/core/mixin/LivingEntityMixin": {
+      "Lnet/minecraft/world/entity/LivingEntity;getEffect(Lnet/minecraft/world/effect/MobEffect;)Lnet/minecraft/world/effect/MobEffectInstance;": "Lnet/minecraft/world/entity/LivingEntity;m_21124_(Lnet/minecraft/world/effect/MobEffect;)Lnet/minecraft/world/effect/MobEffectInstance;",
+      "addEatEffect": "Lnet/minecraft/world/entity/LivingEntity;m_21063_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;)V",
+      "calculateFallDamage": "Lnet/minecraft/world/entity/LivingEntity;m_5639_(FF)I",
+      "getJumpBoostPower": "Lnet/minecraft/world/entity/LivingEntity;m_285755_()F"
+    },
+    "net/satisfy/vinery/core/mixin/PlantBlockMixin": {
+      "mayPlaceOn": "Lnet/minecraft/world/level/block/BushBlock;m_6266_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z"
+    },
+    "net/satisfy/vinery/core/mixin/ShovelItemMixin": {
+      "useOn": "Lnet/minecraft/world/item/ShovelItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;"
+    },
+    "net/satisfy/vinery/core/mixin/SpreadingSnowyDirtBlockMixin": {
+      "Lnet/minecraft/world/level/block/state/BlockState;is(Lnet/minecraft/world/level/block/Block;)Z": "Lnet/minecraft/world/level/block/state/BlockState;m_60713_(Lnet/minecraft/world/level/block/Block;)Z",
+      "randomTick": "Lnet/minecraft/world/level/block/SpreadingSnowyDirtBlock;m_213898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+    },
+    "net/satisfy/vinery/core/mixin/WanderingTraderManagerMixin": {
+      "Lnet/minecraft/world/entity/EntityType;spawn(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/MobSpawnType;)Lnet/minecraft/world/entity/Entity;": "Lnet/minecraft/world/entity/EntityType;m_262496_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/MobSpawnType;)Lnet/minecraft/world/entity/Entity;",
+      "spawn": "Lnet/minecraft/world/entity/npc/WanderingTraderSpawner;m_35915_(Lnet/minecraft/server/level/ServerLevel;)Z"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/satisfy/vinery/core/mixin/BlockMixin": {
+        "isExceptionForConnection": "Lnet/minecraft/world/level/block/Block;m_152463_(Lnet/minecraft/world/level/block/state/BlockState;)Z"
+      },
+      "net/satisfy/vinery/core/mixin/BoneMealItemMixin": {
+        "useOn": "Lnet/minecraft/world/item/BoneMealItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;"
+      },
+      "net/satisfy/vinery/core/mixin/ClientPlayerEntityMixin": {
+        "Lnet/minecraft/client/player/LocalPlayer;getEffect(Lnet/minecraft/world/effect/MobEffect;)Lnet/minecraft/world/effect/MobEffectInstance;": "Lnet/minecraft/client/player/LocalPlayer;m_21124_(Lnet/minecraft/world/effect/MobEffect;)Lnet/minecraft/world/effect/MobEffectInstance;",
+        "Lnet/minecraft/client/player/LocalPlayer;hasEffect(Lnet/minecraft/world/effect/MobEffect;)Z": "Lnet/minecraft/client/player/LocalPlayer;m_21023_(Lnet/minecraft/world/effect/MobEffect;)Z",
+        "aiStep": "Lnet/minecraft/client/player/LocalPlayer;m_8107_()V",
+        "updateAutoJump": "Lnet/minecraft/client/player/LocalPlayer;m_108743_(FF)V"
+      },
+      "net/satisfy/vinery/core/mixin/ExperienceOrbMixin": {
+        "playerTouch": "Lnet/minecraft/world/entity/ExperienceOrb;m_6123_(Lnet/minecraft/world/entity/player/Player;)V"
+      },
+      "net/satisfy/vinery/core/mixin/FoxEntityEatSweetBerriesGoalMixin": {
+        "isValidTarget": "Lnet/minecraft/world/entity/animal/Fox$FoxEatBerriesGoal;m_6465_(Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z",
+        "onReachedTarget": "Lnet/minecraft/world/entity/animal/Fox$FoxEatBerriesGoal;m_28686_()V"
+      },
+      "net/satisfy/vinery/core/mixin/LivingEntityMixin": {
+        "Lnet/minecraft/world/entity/LivingEntity;getEffect(Lnet/minecraft/world/effect/MobEffect;)Lnet/minecraft/world/effect/MobEffectInstance;": "Lnet/minecraft/world/entity/LivingEntity;m_21124_(Lnet/minecraft/world/effect/MobEffect;)Lnet/minecraft/world/effect/MobEffectInstance;",
+        "addEatEffect": "Lnet/minecraft/world/entity/LivingEntity;m_21063_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;)V",
+        "calculateFallDamage": "Lnet/minecraft/world/entity/LivingEntity;m_5639_(FF)I",
+        "getJumpBoostPower": "Lnet/minecraft/world/entity/LivingEntity;m_285755_()F"
+      },
+      "net/satisfy/vinery/core/mixin/PlantBlockMixin": {
+        "mayPlaceOn": "Lnet/minecraft/world/level/block/BushBlock;m_6266_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Z"
+      },
+      "net/satisfy/vinery/core/mixin/ShovelItemMixin": {
+        "useOn": "Lnet/minecraft/world/item/ShovelItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;"
+      },
+      "net/satisfy/vinery/core/mixin/SpreadingSnowyDirtBlockMixin": {
+        "Lnet/minecraft/world/level/block/state/BlockState;is(Lnet/minecraft/world/level/block/Block;)Z": "Lnet/minecraft/world/level/block/state/BlockState;m_60713_(Lnet/minecraft/world/level/block/Block;)Z",
+        "randomTick": "Lnet/minecraft/world/level/block/SpreadingSnowyDirtBlock;m_213898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+      },
+      "net/satisfy/vinery/core/mixin/WanderingTraderManagerMixin": {
+        "Lnet/minecraft/world/entity/EntityType;spawn(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/MobSpawnType;)Lnet/minecraft/world/entity/Entity;": "Lnet/minecraft/world/entity/EntityType;m_262496_(Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/world/entity/MobSpawnType;)Lnet/minecraft/world/entity/Entity;",
+        "spawn": "Lnet/minecraft/world/entity/npc/WanderingTraderSpawner;m_35915_(Lnet/minecraft/server/level/ServerLevel;)Z"
+      }
+    }
+  }
+}

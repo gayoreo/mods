@@ -1,0 +1,5 @@
+{
+  "multipart": [
+    { "apply": { "model": "kaleidoscope_grilling:block/seasoning_bottle" } }
+  ]
+}

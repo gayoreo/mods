@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: lightmanscurrency
+Specification-Vendor: Lightman314
+Specification-Version: 1
+Implementation-Title: LightmansCurrency
+Implementation-Version: 1.20.1-2.3.0.5
+Implementation-Vendor: Lightman314
+Implementation-Timestamp: 2026-07-03T19:27:00-0400
+MixinConfigs: lightmanscurrency.mixins.json
+

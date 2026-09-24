@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/lapis_crystal",
+  "textures": {
+    "all": "magic_vibe_decorations:block/lapis",
+    "particle": "magic_vibe_decorations:block/lapis2",
+    "6": "magic_vibe_decorations:block/lapis2",
+    "8": "magic_vibe_decorations:block/lapis"
+  },
+  "render_type": "cutout"
+}

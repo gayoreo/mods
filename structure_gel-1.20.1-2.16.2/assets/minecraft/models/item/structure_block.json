@@ -1,0 +1,29 @@
+{
+	"parent": "minecraft:block/structure_block",
+	"overrides": [
+		{
+			"predicate": {
+				"structure_gel:mode": 0
+			},
+			"model": "minecraft:item/structure_block_save"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 1
+			},
+			"model": "minecraft:item/structure_block_load"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 2
+			},
+			"model": "minecraft:item/structure_block_corner"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 3
+			},
+			"model": "minecraft:item/structure_block_data"
+		}
+	]
+}

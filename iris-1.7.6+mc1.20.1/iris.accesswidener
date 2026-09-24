@@ -1,0 +1,34 @@
+accessWidener	v1	intermediary
+accessible	class	com/mojang/blaze3d/platform/GlStateManager$class_1017
+accessible	class	com/mojang/blaze3d/platform/GlStateManager$class_1018
+accessible	class	com/mojang/blaze3d/platform/GlStateManager$class_1039
+accessible	class	com/mojang/blaze3d/platform/GlStateManager$class_1022
+accessible	class	com/mojang/blaze3d/platform/GlStateManager$class_1026
+accessible	class	net/minecraft/class_4668$class_4685
+accessible	class	net/minecraft/class_1921$class_4687
+accessible	class	net/minecraft/class_1921$class_4688
+accessible	class	net/minecraft/class_758$class_7285
+accessible	class	net/minecraft/class_1055$class_1056
+accessible	class	net/minecraft/class_761$class_762
+accessible	class	net/minecraft/class_1959$class_5482
+accessible	class	net/minecraft/class_315$class_5823
+accessible	class	net/minecraft/class_7764$class_5790
+accessible	class	net/minecraft/class_7764$class_5791
+accessible	class	net/minecraft/class_7764$class_7765
+accessible	class	net/minecraft/class_7172$class_7178
+extendable	class	net/minecraft/class_7172
+accessible	class	net/minecraft/class_846$class_851$class_4578
+extendable	class	net/minecraft/class_5455$class_6892
+accessible	class	net/minecraft/class_846$class_851$class_4578$class_7435
+accessible	method	net/minecraft/class_1921	method_24049	(Ljava/lang/String;Lnet/minecraft/class_293;Lnet/minecraft/class_293$class_5596;IZZLnet/minecraft/class_1921$class_4688;)Lnet/minecraft/class_1921$class_4687;
+accessible	field	net/minecraft/class_1011	field_4988	J
+mutable	field	net/minecraft/class_5944	field_29471	Lnet/minecraft/class_284;
+mutable	field	net/minecraft/class_5944	field_29470	Lnet/minecraft/class_284;
+mutable	field	net/minecraft/class_5944	field_29472	Lnet/minecraft/class_284;
+mutable	field	net/minecraft/class_5944	field_29482	Lnet/minecraft/class_284;
+mutable	field	net/minecraft/class_5944	field_29474	Lnet/minecraft/class_284;
+accessible	field	net/minecraft/class_5944	field_29490	Ljava/util/List;
+mutable	field	net/minecraft/class_761	field_20951	Lnet/minecraft/class_4599;
+accessible	class	net/minecraft/class_350$class_351
+accessible	field	com/mojang/blaze3d/platform/GlStateManager$class_1018	field_5051	Z
+accessible	method	net/minecraft/class_281	method_34417	()I

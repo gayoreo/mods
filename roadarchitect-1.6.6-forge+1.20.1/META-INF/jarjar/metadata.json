@@ -1,0 +1,16 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "com.github.ben-manes.caffeine",
+        "artifact": "caffeine"
+      },
+      "version": {
+        "range": "[3.2.3,)",
+        "artifactVersion": "3.2.3"
+      },
+      "path": "META-INF/jarjar/caffeine-3.2.3.jar",
+      "isObfuscated": false
+    }
+  ]
+}

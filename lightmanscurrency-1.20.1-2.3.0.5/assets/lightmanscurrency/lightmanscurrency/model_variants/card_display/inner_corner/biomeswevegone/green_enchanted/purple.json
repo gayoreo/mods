@@ -1,0 +1,8 @@
+{
+  "parent": "lightmanscurrency:card_display/inner_corner/biomeswevegone/green_enchanted/base",
+  "optional": true,
+  "target": "lightmanscurrency:card_display_biomeswevegone_green_enchanted_purple",
+  "textures": {
+    "wool": "minecraft:block/purple_wool"
+  }
+}

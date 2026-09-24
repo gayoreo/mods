@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "stone_bridges",
+    
+    "pattern": [
+    "F F",
+    "WWW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:diorite_wall"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:diorite_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:diorite_bridge",
+        "count": 4
+    }
+}

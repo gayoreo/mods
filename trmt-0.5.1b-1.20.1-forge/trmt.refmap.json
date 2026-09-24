@@ -1,0 +1,66 @@
+{
+  "mappings": {
+    "milkucha/trmt/mixin/ShovelItemMixin": {
+      "useOn": "Lnet/minecraft/world/item/ShovelItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;"
+    },
+    "milkucha/trmt/mixin/SugarCaneBlockMixin": {
+      "canSurvive": "Lnet/minecraft/world/level/block/SugarCaneBlock;m_7898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z"
+    },
+    "milkucha/trmt/mixin/BrushItemMixin": {
+      "useOn": "Lnet/minecraft/world/item/BrushItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;",
+      "onUseTick": "Lnet/minecraft/world/item/BrushItem;m_5929_(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;I)V"
+    },
+    "milkucha/trmt/mixin/BoneMealItemMixin": {
+      "useOn": "Lnet/minecraft/world/item/BoneMealItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;"
+    },
+    "milkucha/trmt/mixin/GuiMixin": {
+      "render": "Lnet/minecraft/client/gui/Gui;m_280421_(Lnet/minecraft/client/gui/GuiGraphics;F)V"
+    },
+    "milkucha/trmt/mixin/MobEntityMixin": {
+      "tick": "Lnet/minecraft/world/entity/Mob;m_8119_()V"
+    },
+    "milkucha/trmt/mixin/DisconnectedScreenMixin": {
+      "init()V": "Lnet/minecraft/client/gui/screens/DisconnectedScreen;m_7856_()V",
+      "repositionElements()V": "Lnet/minecraft/client/gui/screens/DisconnectedScreen;m_267719_()V"
+    },
+    "milkucha/trmt/mixin/HoeItemMixin": {
+      "useOn": "Lnet/minecraft/world/item/HoeItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;"
+    },
+    "milkucha/trmt/mixin/ServerPlayerEntityMixin": {
+      "tick": "Lnet/minecraft/server/level/ServerPlayer;m_8119_()V"
+    }
+  },
+  "data": {
+    "searge": {
+      "milkucha/trmt/mixin/ShovelItemMixin": {
+        "useOn": "Lnet/minecraft/world/item/ShovelItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;"
+      },
+      "milkucha/trmt/mixin/SugarCaneBlockMixin": {
+        "canSurvive": "Lnet/minecraft/world/level/block/SugarCaneBlock;m_7898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z"
+      },
+      "milkucha/trmt/mixin/BrushItemMixin": {
+        "useOn": "Lnet/minecraft/world/item/BrushItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;",
+        "onUseTick": "Lnet/minecraft/world/item/BrushItem;m_5929_(Lnet/minecraft/world/level/Level;Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;I)V"
+      },
+      "milkucha/trmt/mixin/BoneMealItemMixin": {
+        "useOn": "Lnet/minecraft/world/item/BoneMealItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;"
+      },
+      "milkucha/trmt/mixin/GuiMixin": {
+        "render": "Lnet/minecraft/client/gui/Gui;m_280421_(Lnet/minecraft/client/gui/GuiGraphics;F)V"
+      },
+      "milkucha/trmt/mixin/MobEntityMixin": {
+        "tick": "Lnet/minecraft/world/entity/Mob;m_8119_()V"
+      },
+      "milkucha/trmt/mixin/DisconnectedScreenMixin": {
+        "init()V": "Lnet/minecraft/client/gui/screens/DisconnectedScreen;m_7856_()V",
+        "repositionElements()V": "Lnet/minecraft/client/gui/screens/DisconnectedScreen;m_267719_()V"
+      },
+      "milkucha/trmt/mixin/HoeItemMixin": {
+        "useOn": "Lnet/minecraft/world/item/HoeItem;m_6225_(Lnet/minecraft/world/item/context/UseOnContext;)Lnet/minecraft/world/InteractionResult;"
+      },
+      "milkucha/trmt/mixin/ServerPlayerEntityMixin": {
+        "tick": "Lnet/minecraft/server/level/ServerPlayer;m_8119_()V"
+      }
+    }
+  }
+}

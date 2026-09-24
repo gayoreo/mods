@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "seedbags:block/bag_of_berrygood_foulberry_pips"
+    },
+    "facing=east": {
+      "model": "seedbags:block/bag_of_berrygood_foulberry_pips",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "seedbags:block/bag_of_berrygood_foulberry_pips",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "seedbags:block/bag_of_berrygood_foulberry_pips",
+      "y": 270
+    }
+  }
+}

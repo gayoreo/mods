@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+MixinConfigs: vmod-common.mixins.json
+Class-Path: elementa-697.jar universalcraft-1.20.1-forge-394.jar
+

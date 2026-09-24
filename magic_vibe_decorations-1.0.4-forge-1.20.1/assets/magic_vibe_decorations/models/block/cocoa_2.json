@@ -1,0 +1,13 @@
+{
+  "parent": "magic_vibe_decorations:custom/cocoa2",
+  "textures": {
+    "all": "magic_vibe_decorations:block/cake_spiral_better_chocolate",
+    "particle": "magic_vibe_decorations:block/cake_spiral_better_chocolate",
+    "1": "magic_vibe_decorations:block/cream_spiral",
+    "2": "magic_vibe_decorations:block/pumpkin2",
+    "3": "magic_vibe_decorations:block/pumpkin3",
+    "4": "magic_vibe_decorations:block/basket_texture",
+    "5": "magic_vibe_decorations:block/cake_spiral_better_chocolate"
+  },
+  "render_type": "translucent"
+}

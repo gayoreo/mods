@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zrikons_furniture_medieval:drak_wood"
+    }
+  ],
+  "result": {
+    "item": "zrikons_furniture_medieval:dark_wooden_planks",
+    "count": 4
+  }
+}

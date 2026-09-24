@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": { "item": "timber_tales:wood_chip" },
+    "c": { "item": "minecraft:cobblestone" }
+  },
+  "pattern": [
+    "WWW",
+    "WcW",
+    "WWW"
+  ],
+  "result": {
+    "item": "timber_tales:wooden_shield"
+  }
+}

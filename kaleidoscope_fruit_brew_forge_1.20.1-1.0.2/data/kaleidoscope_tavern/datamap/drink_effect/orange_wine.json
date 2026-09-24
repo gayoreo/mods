@@ -1,0 +1,91 @@
+{
+  "item": "kaleidoscope_fruit_brew:orange_wine",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:nausea",
+        "duration": 35,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:nausea",
+        "duration": 10,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 20,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:recovering",
+        "duration": 20,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 40,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:recovering",
+        "duration": 40,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:recovering",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 160,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:recovering",
+        "duration": 160,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 320,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:recovering",
+        "duration": 320,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

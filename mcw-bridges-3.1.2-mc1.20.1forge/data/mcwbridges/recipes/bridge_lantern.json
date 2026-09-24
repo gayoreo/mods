@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+    "FF"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:lantern"
+        }
+		
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:bridge_lantern",
+        "count": 2
+    }
+}

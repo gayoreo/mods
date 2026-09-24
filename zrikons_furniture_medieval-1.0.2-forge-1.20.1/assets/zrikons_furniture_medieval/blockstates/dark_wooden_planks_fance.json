@@ -1,0 +1,48 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "zrikons_furniture_medieval:block/dark_wooden_planks_fance_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "zrikons_furniture_medieval:block/dark_wooden_planks_fance",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "zrikons_furniture_medieval:block/dark_wooden_planks_fance",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "zrikons_furniture_medieval:block/dark_wooden_planks_fance",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "zrikons_furniture_medieval:block/dark_wooden_planks_fance",
+        "y": 90,
+        "uvlock": true
+      }
+    }
+  ]
+}

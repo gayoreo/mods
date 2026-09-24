@@ -1,0 +1,7 @@
+
+[General]
+	#Volume of water drips [0.0-1.0|default:0.3]
+	volume = 0.3
+	#Enables/Disables the whole Mod [false/true|default:true]
+	enableMod = true
+

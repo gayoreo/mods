@@ -1,0 +1,19 @@
+{
+	"required": false,
+	"minVersion": "0.8",
+	"package": "punchy.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+	],
+	"client": [
+		"client.ExposureCameraClientMixin",
+		"client.SwordBlockingMechanicsHandlerMixin",
+		"client.SwordBlockingMechanicsFirstPersonRenderMixin"
+	],
+	"injectors": {
+		"defaultRequire": 0
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

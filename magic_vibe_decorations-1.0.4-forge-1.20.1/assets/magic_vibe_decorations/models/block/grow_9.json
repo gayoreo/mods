@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystalplanterplanted9",
+  "textures": {
+    "all": "magic_vibe_decorations:block/tinycrystalswhite",
+    "particle": "magic_vibe_decorations:block/tinycrystalswhite",
+    "1": "magic_vibe_decorations:block/crystalblock1",
+    "2": "magic_vibe_decorations:block/grow1",
+    "4": "magic_vibe_decorations:block/tinycrystalswhite"
+  },
+  "render_type": "cutout"
+}

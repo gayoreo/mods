@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"group": "recyclable_lights",
+		
+    "ingredients": [
+        {
+            "item": "mcwbridges:bridge_torch"
+        }
+    ],
+    "result": {
+        "item": "minecraft:torch",
+        "count": 1
+    }
+}

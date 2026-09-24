@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "zrikons_furniture_medieval:block/darkplanks",
+    "bottom": "zrikons_furniture_medieval:block/darkplanks",
+    "top": "zrikons_furniture_medieval:block/darkplanks",
+    "side": "zrikons_furniture_medieval:block/darkplanks"
+  },
+  "render_type": "solid"
+}

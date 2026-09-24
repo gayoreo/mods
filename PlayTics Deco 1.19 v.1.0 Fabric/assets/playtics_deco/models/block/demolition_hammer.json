@@ -1,0 +1,11 @@
+{
+  "parent": "playtics_deco:custom/demolition_hammer",
+  "textures": {
+    "all": "playtics_deco:blocks/no_texture",
+    "particle": "playtics_deco:blocks/no_texture",
+    "0": "playtics_deco:blocks/aluminium",
+    "1": "playtics_deco:blocks/aluminium_dark",
+    "2": "playtics_deco:blocks/black",
+    "3": "playtics_deco:blocks/gelb_verwirbelung_32"
+  }
+}

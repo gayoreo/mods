@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:warped_fungus"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:wall_mushrooms_warped_fungus",
+    "count": 1
+  }
+}

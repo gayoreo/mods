@@ -1,0 +1,44 @@
+{
+  "mappings": {
+    "org/toame/food/mixin/Accessor/ItemInHandRendererAccessor": {
+      "mainHandItem": "f_109300_:Lnet/minecraft/world/item/ItemStack;"
+    },
+    "org/toame/food/mixin/KeyboardHandlerMixin": {
+      "keyPress": "Lnet/minecraft/client/KeyboardHandler;m_90893_(JIIII)V"
+    },
+    "org/toame/food/mixin/ItemInHandRendererMixin": {
+      "tick": "Lnet/minecraft/client/renderer/ItemInHandRenderer;m_109311_()V"
+    },
+    "org/toame/food/mixin/ItemRendererMixin": {
+      "renderStatic(Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;Lnet/minecraft/world/level/Level;III)V": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_269491_(Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;Lnet/minecraft/world/level/Level;III)V"
+    },
+    "org/toame/food/mixin/ClientPackSourceMixin": {
+      "populatePackList": "Lnet/minecraft/client/resources/ClientPackSource;m_245382_(Ljava/util/function/BiConsumer;)V"
+    },
+    "org/toame/food/mixin/PlayerRendererMixin": {
+      "<init>(Lnet/minecraft/client/renderer/entity/EntityRendererProvider$Context;Z)V": "Lnet/minecraft/client/renderer/entity/player/PlayerRenderer;<init>(Lnet/minecraft/client/renderer/entity/EntityRendererProvider$Context;Z)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "org/toame/food/mixin/Accessor/ItemInHandRendererAccessor": {
+        "mainHandItem": "f_109300_:Lnet/minecraft/world/item/ItemStack;"
+      },
+      "org/toame/food/mixin/KeyboardHandlerMixin": {
+        "keyPress": "Lnet/minecraft/client/KeyboardHandler;m_90893_(JIIII)V"
+      },
+      "org/toame/food/mixin/ItemInHandRendererMixin": {
+        "tick": "Lnet/minecraft/client/renderer/ItemInHandRenderer;m_109311_()V"
+      },
+      "org/toame/food/mixin/ItemRendererMixin": {
+        "renderStatic(Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;Lnet/minecraft/world/level/Level;III)V": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_269491_(Lnet/minecraft/world/entity/LivingEntity;Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/item/ItemDisplayContext;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;Lnet/minecraft/world/level/Level;III)V"
+      },
+      "org/toame/food/mixin/ClientPackSourceMixin": {
+        "populatePackList": "Lnet/minecraft/client/resources/ClientPackSource;m_245382_(Ljava/util/function/BiConsumer;)V"
+      },
+      "org/toame/food/mixin/PlayerRendererMixin": {
+        "<init>(Lnet/minecraft/client/renderer/entity/EntityRendererProvider$Context;Z)V": "Lnet/minecraft/client/renderer/entity/player/PlayerRenderer;<init>(Lnet/minecraft/client/renderer/entity/EntityRendererProvider$Context;Z)V"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "kaleidoscope_tavern:barrel",
+  "carrier": {
+    "item": "kaleidoscope_tavern:empty_bottle"
+  },
+  "fluid": "vkbc:savanna_white_grape_juice",
+  "ingredients": [
+    {
+      "item": "minecraft:kelp"
+    }
+  ],
+  "result": {
+    "item": "vinery:kelp_cider",
+    "count":1
+  }
+}

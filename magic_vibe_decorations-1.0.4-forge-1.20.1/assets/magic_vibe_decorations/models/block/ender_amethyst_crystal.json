@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/ender_amethyst_crystal",
+  "textures": {
+    "all": "magic_vibe_decorations:block/crystal_dark_purpur",
+    "particle": "magic_vibe_decorations:block/crystal_purpur",
+    "0": "magic_vibe_decorations:block/crystal_dark_purpur",
+    "1": "magic_vibe_decorations:block/crystal_pink",
+    "2": "magic_vibe_decorations:block/crystal_purpur"
+  },
+  "render_type": "cutout"
+}

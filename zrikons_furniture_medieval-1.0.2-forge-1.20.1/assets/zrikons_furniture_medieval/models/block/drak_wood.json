@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zrikons_furniture_medieval:block/darkwood",
+    "up": "zrikons_furniture_medieval:block/darkwood",
+    "north": "zrikons_furniture_medieval:block/darkwood",
+    "east": "zrikons_furniture_medieval:block/darkwood",
+    "south": "zrikons_furniture_medieval:block/darkwood",
+    "west": "zrikons_furniture_medieval:block/darkwood",
+    "particle": "zrikons_furniture_medieval:block/darkwood"
+  },
+  "render_type": "solid"
+}

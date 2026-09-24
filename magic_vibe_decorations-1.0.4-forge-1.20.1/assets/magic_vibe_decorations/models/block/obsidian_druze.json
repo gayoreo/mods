@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystaldruze12",
+  "textures": {
+    "all": "magic_vibe_decorations:block/obsidian_lamp",
+    "particle": "magic_vibe_decorations:block/obsidian_lamp",
+    "7": "magic_vibe_decorations:block/obsidian",
+    "31": "magic_vibe_decorations:block/obsidian2"
+  },
+  "render_type": "cutout"
+}

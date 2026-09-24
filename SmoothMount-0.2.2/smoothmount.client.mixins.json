@@ -1,0 +1,31 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.enderium.smoothmount.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "AvatarMixin",
+    "AvatarRendererMixin",
+    "AvatarRenderStateMixin",
+    "CameraMixin",
+    "EntityMixin",
+    "LivingEntityMixin",
+    "EntityRendererMixin",
+    "EntityRenderStateMixin",
+    "ModelPartMixin",
+    "PlayerModelMixin",
+    "accesor.ModelPartAccessor",
+    "emf.EMFModelPartWithStateMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "mixinextras": {
+    "minVersion": "0.5.0"
+  },
+  "mixins": [
+  ]
+}

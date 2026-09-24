@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bab",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:pumpkin"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:basket",
+    "count": 1
+  }
+}

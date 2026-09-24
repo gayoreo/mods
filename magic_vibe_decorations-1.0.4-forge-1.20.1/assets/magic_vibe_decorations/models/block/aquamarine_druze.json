@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystaldruze6",
+  "textures": {
+    "all": "magic_vibe_decorations:block/aqua2",
+    "particle": "magic_vibe_decorations:block/aqua2",
+    "7": "magic_vibe_decorations:block/blue2",
+    "31": "magic_vibe_decorations:block/turqoise"
+  },
+  "render_type": "cutout"
+}

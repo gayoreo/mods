@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:pumpkin"
+    },
+    {
+      "item": "minecraft:pumpkin"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:pumpkindecor",
+    "count": 1
+  }
+}

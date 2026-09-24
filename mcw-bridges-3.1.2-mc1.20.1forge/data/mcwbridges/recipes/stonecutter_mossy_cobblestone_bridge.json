@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:mossy_cobblestone"
+    },
+    "result": "mcwbridges:mossy_cobblestone_bridge",
+    "group": "stonecutting",
+    "count": 1
+}

@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern": [
+    "FF"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:torch"
+        }
+		
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:bridge_torch",
+        "count": 2
+    }
+}

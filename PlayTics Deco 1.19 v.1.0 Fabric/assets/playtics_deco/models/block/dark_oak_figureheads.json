@@ -1,0 +1,10 @@
+{
+  "parent": "playtics_deco:custom/dark_oak_figureheads",
+  "textures": {
+    "all": "playtics_deco:blocks/no_texture",
+    "particle": "playtics_deco:blocks/no_texture",
+    "0": "playtics_deco:blocks/dark_oak_log",
+    "1": "playtics_deco:blocks/dark_oak_planks",
+    "2": "playtics_deco:blocks/dark_oak_log_top"
+  }
+}

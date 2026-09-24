@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "net/satisfy/bakery/core/mixin/ZombieMixin": {
+      "finalizeSpawn": "Lnet/minecraft/world/entity/monster/Zombie;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/satisfy/bakery/core/mixin/ZombieMixin": {
+        "finalizeSpawn": "Lnet/minecraft/world/entity/monster/Zombie;m_6518_(Lnet/minecraft/world/level/ServerLevelAccessor;Lnet/minecraft/world/DifficultyInstance;Lnet/minecraft/world/entity/MobSpawnType;Lnet/minecraft/world/entity/SpawnGroupData;Lnet/minecraft/nbt/CompoundTag;)Lnet/minecraft/world/entity/SpawnGroupData;"
+      }
+    }
+  }
+}

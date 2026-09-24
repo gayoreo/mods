@@ -1,0 +1,40 @@
+modLoader="javafml" #mandatory
+loaderVersion="[47,)" #mandatory
+# The license for you mod. This is mandatory metadata and allows for easier comprehension of your redistributive properties.
+# Review your options at https://choosealicense.com/. All rights reserved is the default copyright stance, and is thus the default here.
+license="Apache License 2.0"
+issueTrackerURL="https://github.com/Lightman314/LightmansCurrency/issues" #optional
+
+[[mods]]
+modId="lightmanscurrency" #mandatory
+version="1.20.1-2.3.0.5" #mandatory
+displayName="Lightman's Currency" #mandatory
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+logoFile="lightman_icon.png"
+# A text field displayed in the mod UI
+#credits="Thanks for this example mod goes to Java" #optional
+authors="Lightman314" #optional
+description='''Adds a heavily configurable item-based money & shop system to the game.'''
+displayTest="MATCH_VERSION"
+
+[[dependencies.lightmanscurrency]]
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.lightmanscurrency]]
+    modId="minecraft"
+    mandatory=true
+# This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="[1.20.1,1.20.2)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.lightmanscurrency]]
+    modId="lightmansdiscord"
+    mandatory=false
+# This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="[1.20-0.2.0.0,1.20-0.3.0.0)"
+    ordering="NONE"
+    side="SERVER"

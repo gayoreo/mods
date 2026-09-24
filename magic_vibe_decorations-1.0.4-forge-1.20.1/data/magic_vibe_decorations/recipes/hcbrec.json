@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:quartz"
+    },
+    "b": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:hibernating_crystal_ball",
+    "count": 1
+  }
+}

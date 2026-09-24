@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "supplementaries"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "supplementaries:flax_seeds"
+    }
+  },
+  "result": {
+    "item": "seedbags:bag_of_supplementaries_flax_seeds",
+    "count": 1
+  }
+}

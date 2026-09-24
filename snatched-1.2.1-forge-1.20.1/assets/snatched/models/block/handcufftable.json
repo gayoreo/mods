@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "minecraft:block/stripped_spruce_log",
+    "up": "snatched:block/handcuff_table_top",
+    "north": "snatched:block/handcuff_table_front",
+    "east": "snatched:block/handcuff_table_back",
+    "south": "snatched:block/handcuff_table_side",
+    "west": "snatched:block/handcuff_table_back",
+    "particle": "minecraft:block/stripped_spruce_log"
+  },
+  "render_type": "solid"
+}

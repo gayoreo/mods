@@ -1,0 +1,9 @@
+{
+  "parent": "zrikons_furniture_medieval:custom/weaponhandler1-111",
+  "textures": {
+    "all": "zrikons_furniture_medieval:block/weaponhandler1",
+    "particle": "minecraft:block/barrel_bottom",
+    "0": "zrikons_furniture_medieval:block/weaponhandler1"
+  },
+  "render_type": "cutout_mipped"
+}

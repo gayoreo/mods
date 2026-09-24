@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "seedbags:block/pouch_of_hexerei_sage_seeds"
+    },
+    "facing=east": {
+      "model": "seedbags:block/pouch_of_hexerei_sage_seeds",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "seedbags:block/pouch_of_hexerei_sage_seeds",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "seedbags:block/pouch_of_hexerei_sage_seeds",
+      "y": 270
+    }
+  }
+}

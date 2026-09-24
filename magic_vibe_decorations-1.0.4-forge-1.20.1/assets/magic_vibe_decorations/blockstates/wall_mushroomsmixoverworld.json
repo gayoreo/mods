@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "magic_vibe_decorations:block/wall_mushroomsmixoverworld"
+    },
+    "facing=east": {
+      "model": "magic_vibe_decorations:block/wall_mushroomsmixoverworld",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "magic_vibe_decorations:block/wall_mushroomsmixoverworld",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "magic_vibe_decorations:block/wall_mushroomsmixoverworld",
+      "y": 270
+    }
+  }
+}

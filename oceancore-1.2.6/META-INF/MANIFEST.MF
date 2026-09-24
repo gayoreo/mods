@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: oceancore
+Specification-Vendor: TysonTheEmber
+Specification-Version: 1
+Implementation-Title: oceancore
+Implementation-Version: 1.2.6
+Implementation-Vendor: TysonTheEmber
+Implementation-Timestamp: 2026-07-02T22:05:30-0600
+MixinConfigs: oceancore.mixins.json
+

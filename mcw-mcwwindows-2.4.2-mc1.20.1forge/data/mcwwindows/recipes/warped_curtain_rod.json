@@ -1,0 +1,17 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "group" : "curtain_rods",
+  "pattern" : [ "ABA" ],
+  "key" : {
+    "A" : {
+      "item" : "minecraft:stick"
+    },
+    "B" : {
+      "item" : "minecraft:warped_stem"
+    }
+  },
+  "result" : {
+    "item" : "mcwwindows:warped_curtain_rod",
+    "count" : 5
+  }
+}

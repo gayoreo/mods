@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "00",
+    "00"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:beetroot_seeds"
+    }
+  },
+  "result": {
+    "item": "seedbags:pouch_of_beetroot_seeds",
+    "count": 1
+  }
+}

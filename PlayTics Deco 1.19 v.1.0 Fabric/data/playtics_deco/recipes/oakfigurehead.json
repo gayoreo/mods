@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_log"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:oak_log"
+    },
+    "4": {
+      "item": "minecraft:oak_planks"
+    },
+    "5": {
+      "item": "minecraft:oak_planks"
+    },
+    "7": {
+      "item": "minecraft:oak_planks"
+    },
+    "8": {
+      "item": "minecraft:oak_planks"
+    }
+  },
+  "result": {
+    "item": "playtics_deco:dark_oak_figureheads",
+    "count": 1
+  }
+}

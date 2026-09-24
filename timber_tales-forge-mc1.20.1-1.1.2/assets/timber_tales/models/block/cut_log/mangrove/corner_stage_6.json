@@ -1,0 +1,282 @@
+{
+  "credit": "Converted from Timber Tales Bedrock cut-log geometry.",
+  "texture_size": [
+    16,
+    16
+  ],
+  "textures": {
+    "particle": "minecraft:block/mangrove_log",
+    "side": "minecraft:block/mangrove_log",
+    "cut": "minecraft:block/mangrove_log_top"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        1.5,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            14.5,
+            16,
+            16.0
+          ],
+          "texture": "#side"
+        },
+        "south": {
+          "uv": [
+            0,
+            14.5,
+            16,
+            16.0
+          ],
+          "texture": "#side"
+        },
+        "east": {
+          "uv": [
+            0,
+            14.5,
+            16,
+            16.0
+          ],
+          "texture": "#side"
+        },
+        "west": {
+          "uv": [
+            0,
+            14.5,
+            16,
+            16.0
+          ],
+          "texture": "#side"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#cut"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#cut"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        14.5,
+        0
+      ],
+      "to": [
+        16,
+        16.0,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            1.5
+          ],
+          "texture": "#side"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            1.5
+          ],
+          "texture": "#side"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            1.5
+          ],
+          "texture": "#side"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            1.5
+          ],
+          "texture": "#side"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#cut"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#cut"
+        }
+      }
+    },
+    {
+      "from": [
+        15,
+        1.5,
+        0
+      ],
+      "to": [
+        16,
+        14.5,
+        15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            15,
+            1.5,
+            16,
+            14.5
+          ],
+          "texture": "#side"
+        },
+        "east": {
+          "uv": [
+            0,
+            1.5,
+            15,
+            14.5
+          ],
+          "texture": "#side"
+        },
+        "west": {
+          "uv": [
+            0,
+            1.5,
+            15,
+            14.5
+          ],
+          "texture": "#cut"
+        }
+      }
+    },
+    {
+      "from": [
+        15,
+        1.5,
+        15
+      ],
+      "to": [
+        16,
+        14.5,
+        16
+      ],
+      "faces": {
+        "south": {
+          "uv": [
+            15,
+            1.5,
+            16,
+            14.5
+          ],
+          "texture": "#side"
+        },
+        "east": {
+          "uv": [
+            15,
+            1.5,
+            16,
+            14.5
+          ],
+          "texture": "#side"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        1.5,
+        15
+      ],
+      "to": [
+        15,
+        14.5,
+        16
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            1.5,
+            15,
+            14.5
+          ],
+          "texture": "#cut"
+        },
+        "south": {
+          "uv": [
+            0,
+            1.5,
+            15,
+            14.5
+          ],
+          "texture": "#side"
+        },
+        "west": {
+          "uv": [
+            15,
+            1.5,
+            16,
+            14.5
+          ],
+          "texture": "#side"
+        },
+        "up": {
+          "uv": [
+            0,
+            15,
+            15,
+            16
+          ],
+          "texture": "#cut"
+        },
+        "down": {
+          "uv": [
+            0,
+            15,
+            15,
+            16
+          ],
+          "texture": "#cut"
+        }
+      }
+    }
+  ]
+}

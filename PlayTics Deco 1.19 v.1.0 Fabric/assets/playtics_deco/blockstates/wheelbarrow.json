@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "playtics_deco:block/wheelbarrow"
+    },
+    "facing=east": {
+      "model": "playtics_deco:block/wheelbarrow",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "playtics_deco:block/wheelbarrow",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "playtics_deco:block/wheelbarrow",
+      "y": 270
+    }
+  }
+}

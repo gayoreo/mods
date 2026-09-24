@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "makamys/satchels/mixin/MixinItemInWorldManager": {
+      "setGameType": "Lnet/minecraft/server/management/ItemInWorldManager;func_73076_a(Lnet/minecraft/world/WorldSettings$GameType;)V"
+    },
+    "makamys/satchels/mixin/MixinInventoryPlayer": {
+      "addItemStackToInventory": "Lnet/minecraft/entity/player/InventoryPlayer;func_70441_a(Lnet/minecraft/item/ItemStack;)Z"
+    },
+    "makamys/satchels/mixin/MixinPlayerControllerMP": {
+      "setGameType": "Lnet/minecraft/client/multiplayer/PlayerControllerMP;func_78746_a(Lnet/minecraft/world/WorldSettings$GameType;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "makamys/satchels/mixin/MixinItemInWorldManager": {
+        "setGameType": "Lnet/minecraft/server/management/ItemInWorldManager;func_73076_a(Lnet/minecraft/world/WorldSettings$GameType;)V"
+      },
+      "makamys/satchels/mixin/MixinInventoryPlayer": {
+        "addItemStackToInventory": "Lnet/minecraft/entity/player/InventoryPlayer;func_70441_a(Lnet/minecraft/item/ItemStack;)Z"
+      },
+      "makamys/satchels/mixin/MixinPlayerControllerMP": {
+        "setGameType": "Lnet/minecraft/client/multiplayer/PlayerControllerMP;func_78746_a(Lnet/minecraft/world/WorldSettings$GameType;)V"
+      }
+    }
+  }
+}

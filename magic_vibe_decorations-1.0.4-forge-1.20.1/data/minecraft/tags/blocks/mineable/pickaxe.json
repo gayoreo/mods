@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "magic_vibe_decorations:overworld_crystal_block",
+    "magic_vibe_decorations:quartz_crystal_block",
+    "magic_vibe_decorations:diamond_crystal_block",
+    "magic_vibe_decorations:emerald_crystal_block",
+    "magic_vibe_decorations:nether_fire_crystal_block",
+    "magic_vibe_decorations:lapis_crystal_block",
+    "magic_vibe_decorations:obsidian_crystal_block",
+    "magic_vibe_decorations:ender_amethyst_block",
+    "magic_vibe_decorations:rubellite_crystal_block",
+    "magic_vibe_decorations:citrine_crystal_block",
+    "magic_vibe_decorations:aquamarine_crystal_block",
+    "magic_vibe_decorations:ametrine_crystal_block"
+  ]
+}

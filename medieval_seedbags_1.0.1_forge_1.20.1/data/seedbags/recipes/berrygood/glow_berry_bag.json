@@ -1,0 +1,23 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "berry_good"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "berry_good:glow_berry_pips"
+    }
+  },
+  "result": {
+    "item": "seedbags:bag_of_berrygood_glow_berry_pips",
+    "count": 1
+  }
+}

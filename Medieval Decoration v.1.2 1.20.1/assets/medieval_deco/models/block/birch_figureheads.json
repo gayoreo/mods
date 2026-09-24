@@ -1,0 +1,11 @@
+{
+  "parent": "medieval_deco:custom/birch_figureheads",
+  "textures": {
+    "all": "medieval_deco:block/birch_planks",
+    "particle": "medieval_deco:block/birch_planks",
+    "0": "medieval_deco:block/birch_log",
+    "1": "medieval_deco:block/birch_planks",
+    "2": "medieval_deco:block/birch_log_top"
+  },
+  "render_type": "solid"
+}

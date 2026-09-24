@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/drip11",
+  "textures": {
+    "all": "magic_vibe_decorations:block/quartz",
+    "particle": "magic_vibe_decorations:block/quartz",
+    "16": "magic_vibe_decorations:block/clear_quartz"
+  },
+  "render_type": "cutout"
+}

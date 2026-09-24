@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "snatched:block/handcufftable"
+    },
+    "facing=east": {
+      "model": "snatched:block/handcufftable",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "snatched:block/handcufftable",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "snatched:block/handcufftable",
+      "y": 270
+    }
+  }
+}

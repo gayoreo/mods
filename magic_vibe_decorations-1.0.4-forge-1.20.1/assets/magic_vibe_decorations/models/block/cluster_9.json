@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/cluster9",
+  "textures": {
+    "all": "magic_vibe_decorations:block/greencluster",
+    "particle": "magic_vibe_decorations:block/emerald3",
+    "5": "magic_vibe_decorations:block/greencluster"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "vinery:wine_fermentation",
+  "juice": {
+    "type": "red_general",
+    "amount": 10
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:pink_petals"
+    }
+  ],
+  "wine_bottle": {
+    "required": true
+  },
+  "result": {
+    "item": "kaleidoscope_tavern:sakura_wine",
+    "count": 1
+  }
+}

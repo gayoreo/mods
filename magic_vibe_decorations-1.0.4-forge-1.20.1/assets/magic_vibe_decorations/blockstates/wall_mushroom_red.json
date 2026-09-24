@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "magic_vibe_decorations:block/wall_mushroom_red"
+    },
+    "facing=east": {
+      "model": "magic_vibe_decorations:block/wall_mushroom_red",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "magic_vibe_decorations:block/wall_mushroom_red",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "magic_vibe_decorations:block/wall_mushroom_red",
+      "y": 270
+    }
+  }
+}

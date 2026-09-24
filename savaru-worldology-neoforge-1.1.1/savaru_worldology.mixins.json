@@ -1,0 +1,16 @@
+{
+  "required": false,
+  "package": "com.savaru.worldology.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "savaru-worldology-neoforge-refmap.json",
+  "mixins": [
+    "HostileEntityMixin",
+    "MobEntitySunBurnMixin",
+    "ItemEntityDamageMixin",
+    "ExplosionMixin",
+    "GameRulesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_wood_chip": {
+      "conditions": {
+        "items": [
+          {
+            "items": ["timber_tales:wood_chip"]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "timber_tales:wooden_helmet"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_wood_chip"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "timber_tales:wooden_helmet"
+    ]
+  }
+}

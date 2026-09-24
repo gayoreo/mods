@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/netlights",
+  "textures": {
+    "all": "magic_vibe_decorations:block/fire_crystal",
+    "particle": "magic_vibe_decorations:block/fire_crystal",
+    "11": "magic_vibe_decorations:block/red_fire",
+    "13": "magic_vibe_decorations:block/fire_crystal",
+    "4": "magic_vibe_decorations:block/cabel"
+  },
+  "render_type": "cutout"
+}

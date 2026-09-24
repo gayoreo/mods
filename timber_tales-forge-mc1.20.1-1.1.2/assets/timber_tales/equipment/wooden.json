@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "timber_tales:wooden"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "timber_tales:wooden"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "timber_tales:wooden"
+      }
+    ]
+  }
+}

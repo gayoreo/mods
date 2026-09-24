@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "kaleidoscope_tavern:wine",
+    "kaleidoscope_tavern:champagne",
+    "kaleidoscope_tavern:vodka",
+    "kaleidoscope_tavern:sakura_wine",
+    "kaleidoscope_tavern:plum_wine",
+    "kaleidoscope_tavern:whiskey",
+    "kaleidoscope_tavern:ice_wine",
+    "kaleidoscope_tavern:vinegar",
+    "kaleidoscope_tavern:empty_bottle",
+    "kaleidoscope_tavern:molotov",
+    "vinery:solaris_wine",
+    "vinery:kelp_cider",
+    "vinery:villagers_fright",
+    "vinery:clark_wine",
+    "vinery:noir_wine",
+    "vinery:red_wine",
+    "vinery:cherry_wine",
+    "vinery:bolvar_wine",
+    "vinery:stal_wine",
+    "vinery:bottle_mojang_noir"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystal_star_ball5",
+  "textures": {
+    "all": "magic_vibe_decorations:block/rubellite_lamp2",
+    "particle": "magic_vibe_decorations:block/rubellite_lamp2",
+    "4": "magic_vibe_decorations:block/rubellite_lamp2",
+    "17": "magic_vibe_decorations:block/black"
+  },
+  "render_type": "cutout"
+}

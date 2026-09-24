@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "00",
+    "00"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:wheat_seeds"
+    }
+  },
+  "result": {
+    "item": "seedbags:pouch_of_wheat_seeds",
+    "count": 1
+  }
+}

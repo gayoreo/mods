@@ -1,0 +1,62 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "structure_gel:item/building_tool_none"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"structure_gel:mode": 0
+			},
+			"model": "structure_gel:item/building_tool_none"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 1
+			},
+			"model": "structure_gel:item/building_tool_replace"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 2
+			},
+			"model": "structure_gel:item/building_tool_fill"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 3
+			},
+			"model": "structure_gel:item/building_tool_clone"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 4
+			},
+			"model": "structure_gel:item/building_tool_flood"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 5
+			},
+			"model": "structure_gel:item/building_tool_extend"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 6
+			},
+			"model": "structure_gel:item/building_tool_move"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 7
+			},
+			"model": "structure_gel:item/building_tool_line"
+		},
+		{
+			"predicate": {
+				"structure_gel:mode": 8
+			},
+			"model": "structure_gel:item/building_tool_shape"
+		}
+	]
+}

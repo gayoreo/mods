@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "playtics_deco:block/fish_barrel_salmon"
+    },
+    "facing=east": {
+      "model": "playtics_deco:block/fish_barrel_salmon",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "playtics_deco:block/fish_barrel_salmon",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "playtics_deco:block/fish_barrel_salmon",
+      "y": 270
+    }
+  }
+}

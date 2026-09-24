@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "playtics_deco:block/demolition_hammer"
+    },
+    "facing=east": {
+      "model": "playtics_deco:block/demolition_hammer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "playtics_deco:block/demolition_hammer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "playtics_deco:block/demolition_hammer",
+      "y": 270
+    }
+  }
+}

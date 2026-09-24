@@ -1,0 +1,36 @@
+{
+  "overrides": [
+    {
+      "predicate": {
+        "opposing_force:pulling": 0
+      },
+      "model": "opposing_force:item/tesla_cannon_standby"
+    },
+    {
+      "predicate": {
+        "opposing_force:pulling": 1
+      },
+      "model": "opposing_force:item/tesla_cannon_pulling_0"
+    },
+    {
+      "predicate": {
+        "opposing_force:pulling": 1,
+        "opposing_force:pull": 0.58
+      },
+      "model": "opposing_force:item/tesla_cannon_pulling_1"
+    },
+    {
+      "predicate": {
+        "opposing_force:pulling": 1,
+        "opposing_force:pull": 1
+      },
+      "model": "opposing_force:item/tesla_cannon_pulling_2"
+    },
+    {
+      "predicate": {
+        "opposing_force:charged": 1
+      },
+      "model": "opposing_force:item/tesla_cannon_loaded"
+    }
+  ]
+}

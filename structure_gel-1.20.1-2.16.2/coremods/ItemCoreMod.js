@@ -1,0 +1,40 @@
+var Opcodes = Java.type('org.objectweb.asm.Opcodes');
+var InsnNode = Java.type('org.objectweb.asm.tree.InsnNode');
+var VarInsnNode = Java.type('org.objectweb.asm.tree.VarInsnNode');
+var MethodInsnNode = Java.type('org.objectweb.asm.tree.MethodInsnNode');
+var FieldInsnNode = Java.type('org.objectweb.asm.tree.FieldInsnNode');
+var JumpInsnNode = Java.type('org.objectweb.asm.tree.JumpInsnNode');
+var LabelNode = Java.type('org.objectweb.asm.tree.LabelNode');
+
+var ASMAPI = Java.type('net.minecraftforge.coremod.api.ASMAPI');
+
+function initializeCoreMod() {
+	return {
+		'getName': {
+			'target': {
+				'type': 'METHOD',
+				'class': 'net.minecraft.world.item.Item',
+				'methodName': 'm_7626_',
+				'methodDesc': '(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/network/chat/Component;'
+			},
+			'transformer': getName
+		}
+	}	
+}
+
+function getName(method) {
+	var instructions = method.instructions;
+	var insn = instructions.get(0);
+
+	var label = new LabelNode();
+
+	instructions.insertBefore(insn, new VarInsnNode(Opcodes.ALOAD, 1)); // load itemStack
+	instructions.insertBefore(insn, new MethodInsnNode(Opcodes.INVOKESTATIC, 'com/legacy/structure_gel/core/asm_hooks/ItemHooks', 'shouldModifyName', '(Lnet/minecraft/world/item/ItemStack;)Z'));
+	instructions.insertBefore(insn, new JumpInsnNode(Opcodes.IFEQ, label));
+	instructions.insertBefore(insn, new VarInsnNode(Opcodes.ALOAD, 1)); // load itemStack
+	instructions.insertBefore(insn, new MethodInsnNode(Opcodes.INVOKESTATIC, 'com/legacy/structure_gel/core/asm_hooks/ItemHooks', 'getModifiedName', '(Lnet/minecraft/world/item/ItemStack;)Lnet/minecraft/network/chat/Component;'));
+	instructions.insertBefore(insn, new InsnNode(Opcodes.ARETURN));
+	instructions.insertBefore(insn, label);
+	ASMAPI.log('INFO', '[Structure Gel] Transformed Item.getName');
+	return method;
+}

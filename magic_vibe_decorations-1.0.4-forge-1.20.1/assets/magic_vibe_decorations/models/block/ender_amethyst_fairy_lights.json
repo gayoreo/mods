@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/amlights",
+  "textures": {
+    "all": "magic_vibe_decorations:block/crystal_purpur",
+    "particle": "magic_vibe_decorations:block/crystal_purpur",
+    "4": "magic_vibe_decorations:block/cabel",
+    "7": "magic_vibe_decorations:block/crystal_dark_purpur",
+    "8": "magic_vibe_decorations:block/crystal_purpur"
+  },
+  "render_type": "cutout"
+}

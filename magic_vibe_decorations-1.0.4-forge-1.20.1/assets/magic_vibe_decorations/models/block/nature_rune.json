@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/wallpaint1",
+  "textures": {
+    "all": "magic_vibe_decorations:block/nature",
+    "particle": "magic_vibe_decorations:block/nature",
+    "21": "magic_vibe_decorations:block/nature"
+  },
+  "render_type": "cutout"
+}

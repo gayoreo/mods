@@ -1,0 +1,8 @@
+{
+  "parent": "playtics_deco:custom/sandcastle_light_sand",
+  "textures": {
+    "all": "playtics_deco:blocks/no_texture",
+    "particle": "playtics_deco:blocks/no_texture",
+    "1": "playtics_deco:blocks/sand"
+  }
+}

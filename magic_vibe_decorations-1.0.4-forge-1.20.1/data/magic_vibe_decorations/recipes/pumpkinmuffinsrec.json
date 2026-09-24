@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "bc",
+    "dd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:pumpkin"
+    },
+    "b": {
+      "item": "minecraft:egg"
+    },
+    "c": {
+      "item": "minecraft:sugar"
+    },
+    "d": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:pumpkinmuffins",
+    "count": 1
+  }
+}

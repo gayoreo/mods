@@ -1,0 +1,51 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+issueTrackerURL="https://github.com/0xCoDSnet/RoadArchitect/issues"
+license="Apache-2.0"
+
+[[mods]]
+modId="roadarchitect"
+version="1.6.6"
+displayName="RoadArchitect"
+description="Travel around the world without barriers: RoadArchitect automatically scans your world, finds villages, and other structures, and then lays a network of roads between them."
+authors="0xCoDSnet"
+homepage="https://github.com/0xCoDSnet"
+sources="https://github.com/0xCoDSnet/RoadArchitect"
+license="Apache-2.0"
+logoFile = "assets/roadarchitect/icon.png"
+displayURL="https://github.com/0xCoDSnet/RoadArchitect"
+
+# Minecraft
+[[dependencies.roadarchitect]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,)"
+ordering="NONE"
+side="BOTH"
+
+# Forge
+[[dependencies.roadarchitect]]
+modId="forge"
+mandatory=true
+versionRange="[47.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+# Cloth Config (Forge)
+[[dependencies.roadarchitect]]
+modId="cloth_config"
+mandatory=true
+versionRange="[11.1.136,)"
+ordering="NONE"
+side="BOTH"
+
+# Catalogue (опционально, клиент)
+[[dependencies.roadarchitect]]
+modId="catalogue"
+mandatory=false
+versionRange="*"
+ordering="NONE"
+side="CLIENT"
+
+[modproperties.roadarchitect]
+catalogueImageIcon="assets/roadarchitect/icon.png"

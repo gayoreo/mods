@@ -1,0 +1,19 @@
+{
+  "type": "vinery:wine_fermentation",
+  "juice": {
+    "type": "apple",
+    "amount": 10
+  },
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    }
+  ],
+  "wine_bottle": {
+    "required": true
+  },
+  "result": {
+    "item": "kaleidoscope_tavern:whiskey",
+    "count": 1
+  }
+}

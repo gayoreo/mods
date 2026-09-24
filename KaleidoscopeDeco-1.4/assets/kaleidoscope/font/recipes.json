@@ -1,0 +1,361 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/wand.png",
+            "chars": ["\u0001"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/doll.png",
+            "chars": ["\u0002"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/basket.png",
+            "chars": ["\u0003"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/fruit_basin.png",
+            "chars": ["\u0004"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/fishrack.png",
+            "chars": ["\u0005"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/utensil_rack.png",
+            "chars": ["\u0006"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/fry_pot.png",
+            "chars": ["\u0007"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/rubbish_bin.png",
+            "chars": ["\u0008"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/jars.png",
+            "chars": ["\u0009"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/teacup.png",
+            "chars": ["\u0010"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/teapot.png",
+            "chars": ["\u0011"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/scarecrow.png",
+            "chars": ["\u0012"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/doll_machine.png",
+            "chars": ["\u0013"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/stove.png",
+            "chars": ["\u0014"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/stock_pot.png",
+            "chars": ["\u0015"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/furniture.png",
+            "chars": ["\u0016"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/chili.png",
+            "chars": ["\u0017"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/bell.png",
+            "chars": ["\u0018"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/lights.png",
+            "chars": ["\u0019"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/sunshade.png",
+            "chars": ["\u0020"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/red_lantern.png",
+            "chars": ["\u0021"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/blessing_belt.png",
+            "chars": ["\u0022"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/censor.png",
+            "chars": ["\u0023"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/river_lamp.png",
+            "chars": ["\u0024"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/blackboard.png",
+            "chars": ["\u0025"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/road_block.png",
+            "chars": ["\u0026"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/traffic_cone_red.png",
+            "chars": ["\u0027"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/traffic_cone_yellow.png",
+            "chars": ["\u0028"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/warning_signs.png",
+            "chars": ["\u0029"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/spyglass.png",
+            "chars": ["\u0030"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/microscope.png",
+            "chars": ["\u0031"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/globe.png",
+            "chars": ["\u0032"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/balance.png",
+            "chars": ["\u0033"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/paper_with_ink.png",
+            "chars": ["\u0034"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/tube.png",
+            "chars": ["\u0035"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/bar_counter.png",
+            "chars": ["\u0036"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/cabinet.png",
+            "chars": ["\u0037"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/wine_bottle.png",
+            "chars": ["\u0038"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/tankard.png",
+            "chars": ["\u0039"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/grape_vine.png",
+            "chars": ["\u0040"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/sofa-counter_stool.png",
+            "chars": ["\u0041"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/painting.png",
+            "chars": ["\u0042"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/fortune_cat.png",
+            "chars": ["\u0043"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/cabinet_glass.png",
+            "chars": ["\u0044"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/blackboard_hang.png",
+            "chars": ["\u0045"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/bread_slicer.png",
+            "chars": ["\u0046"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/lmabox.png",
+            "chars": ["\u0047"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/mushroom_strings.png",
+            "chars": ["\u0048"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/ladder.png",
+            "chars": ["\u0049"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/coffee_table.png",
+            "chars": ["\u0050"],
+            "ascent": 48,
+            "height": 48
+        },
+        {
+            "type": "bitmap",
+            "file": "kaleidoscope:font/recipes/tap.png",
+            "chars": ["\u0051"],
+            "ascent": 48,
+            "height": 48
+        }
+    ]
+}

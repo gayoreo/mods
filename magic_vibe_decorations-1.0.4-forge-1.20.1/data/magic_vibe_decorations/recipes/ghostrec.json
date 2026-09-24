@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:string"
+    },
+    {
+      "item": "magic_vibe_decorations:quartz_crystal_shard"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:ghost_wallpaint",
+    "count": 1
+  }
+}

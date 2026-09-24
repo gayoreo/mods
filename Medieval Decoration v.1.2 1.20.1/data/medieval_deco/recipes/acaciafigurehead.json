@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 45",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:acacia_log"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:acacia_log"
+    },
+    "4": {
+      "item": "minecraft:acacia_planks"
+    },
+    "5": {
+      "item": "minecraft:acacia_planks"
+    },
+    "7": {
+      "item": "minecraft:acacia_planks"
+    },
+    "8": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "medieval_deco:acacia_figureheads",
+    "count": 1
+  }
+}

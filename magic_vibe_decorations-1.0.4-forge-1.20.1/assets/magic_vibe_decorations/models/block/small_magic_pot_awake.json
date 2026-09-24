@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/magic_pot_smaller",
+  "textures": {
+    "all": "magic_vibe_decorations:block/cauldron_1",
+    "particle": "magic_vibe_decorations:block/cauldron_1",
+    "1": "magic_vibe_decorations:block/cauldron_1",
+    "missing": "magic_vibe_decorations:block/finalanim"
+  },
+  "render_type": "solid"
+}

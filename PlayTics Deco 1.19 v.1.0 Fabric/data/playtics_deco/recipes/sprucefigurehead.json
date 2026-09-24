@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_log"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:spruce_log"
+    },
+    "4": {
+      "item": "minecraft:spruce_planks"
+    },
+    "5": {
+      "item": "minecraft:spruce_planks"
+    },
+    "7": {
+      "item": "minecraft:spruce_planks"
+    },
+    "8": {
+      "item": "minecraft:spruce_planks"
+    }
+  },
+  "result": {
+    "item": "playtics_deco:spruce_figureheads",
+    "count": 1
+  }
+}

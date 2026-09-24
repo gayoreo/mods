@@ -1,0 +1,12 @@
+{
+  "parent": "medieval_deco:custom/barrel_mod",
+  "textures": {
+    "all": "medieval_deco:block/barrel_side",
+    "particle": "medieval_deco:block/barrel_side",
+    "0": "medieval_deco:block/barrel_bottom",
+    "1": "medieval_deco:block/barrel_side",
+    "2": "medieval_deco:block/barrel_top",
+    "3": "medieval_deco:block/barrel_top_open"
+  },
+  "render_type": "solid"
+}

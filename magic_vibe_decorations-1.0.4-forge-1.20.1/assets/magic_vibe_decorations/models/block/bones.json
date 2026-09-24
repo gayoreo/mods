@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/scelet",
+  "textures": {
+    "all": "magic_vibe_decorations:block/scelet",
+    "particle": "magic_vibe_decorations:block/quartz",
+    "0": "magic_vibe_decorations:block/scelet"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "magic_vibe_decorations:crystallised_obsidian_shard"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:obsidian_crystal_block",
+    "count": 1
+  }
+}

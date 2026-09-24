@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/spider_plushie1",
+  "textures": {
+    "all": "magic_vibe_decorations:block/spider",
+    "particle": "magic_vibe_decorations:block/spiderparticle1",
+    "0": "magic_vibe_decorations:block/spider"
+  },
+  "render_type": "cutout"
+}

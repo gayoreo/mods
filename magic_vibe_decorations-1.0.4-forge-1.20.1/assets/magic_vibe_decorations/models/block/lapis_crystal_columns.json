@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/drip8",
+  "textures": {
+    "all": "magic_vibe_decorations:block/lapiscrystal_lamp1",
+    "particle": "magic_vibe_decorations:block/lapiscrystal_lamp1",
+    "16": "magic_vibe_decorations:block/lapis2"
+  },
+  "render_type": "cutout"
+}

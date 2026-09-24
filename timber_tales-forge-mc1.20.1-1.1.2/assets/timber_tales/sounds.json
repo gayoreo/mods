@@ -1,0 +1,37 @@
+{
+  "branches_breaking1": {
+    "sounds": [
+      "timber_tales:branches_breaking1"
+    ]
+  },
+  "branches_breaking2": {
+    "sounds": [
+      "timber_tales:branches_breaking2"
+    ]
+  },
+  "crackwood0": {
+    "sounds": [
+      "timber_tales:crackwood0"
+    ]
+  },
+  "crackwood1": {
+    "sounds": [
+      "timber_tales:crackwood1"
+    ]
+  },
+  "crackwood2": {
+    "sounds": [
+      "timber_tales:crackwood2"
+    ]
+  },
+  "tree_falling1": {
+    "sounds": [
+      "timber_tales:tree_falling1"
+    ]
+  },
+  "treecollide": {
+    "sounds": [
+      "timber_tales:treecollide"
+    ]
+  }
+}

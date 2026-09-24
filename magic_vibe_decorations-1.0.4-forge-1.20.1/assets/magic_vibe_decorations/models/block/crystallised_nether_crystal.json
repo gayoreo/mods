@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/clusterbushnether",
+  "textures": {
+    "all": "magic_vibe_decorations:block/nethercrystalblock",
+    "particle": "magic_vibe_decorations:block/nethercrystalblock2",
+    "2": "magic_vibe_decorations:block/nethercluster3"
+  },
+  "render_type": "cutout"
+}

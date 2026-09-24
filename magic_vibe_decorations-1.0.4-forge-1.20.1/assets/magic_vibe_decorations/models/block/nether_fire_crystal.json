@@ -1,0 +1,12 @@
+{
+  "parent": "magic_vibe_decorations:custom/nether_fire_crystal",
+  "textures": {
+    "all": "magic_vibe_decorations:block/fire_crystal",
+    "particle": "magic_vibe_decorations:block/yellow_fire",
+    "3": "magic_vibe_decorations:block/fire_2",
+    "4": "magic_vibe_decorations:block/fire_crystal",
+    "5": "magic_vibe_decorations:block/red_fire",
+    "6": "magic_vibe_decorations:block/yellow_fire"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.zhaiji.kaleidoscope_fruit_brew.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "kaleidoscope_fruit_brew.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

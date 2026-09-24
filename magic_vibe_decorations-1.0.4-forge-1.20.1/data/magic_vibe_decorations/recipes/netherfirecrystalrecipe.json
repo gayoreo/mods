@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:quartz"
+    },
+    "b": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:nether_fire_crystal",
+    "count": 1
+  }
+}

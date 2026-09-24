@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 45",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:jungle_log"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:jungle_log"
+    },
+    "4": {
+      "item": "minecraft:jungle_planks"
+    },
+    "5": {
+      "item": "minecraft:jungle_planks"
+    },
+    "7": {
+      "item": "minecraft:jungle_planks"
+    },
+    "8": {
+      "item": "minecraft:jungle_planks"
+    }
+  },
+  "result": {
+    "item": "medieval_deco:jungle_figureheads",
+    "count": 1
+  }
+}

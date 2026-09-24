@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/cluster6",
+  "textures": {
+    "all": "magic_vibe_decorations:block/whitecluster",
+    "particle": "magic_vibe_decorations:block/quartz",
+    "5": "magic_vibe_decorations:block/whitecluster"
+  },
+  "render_type": "cutout"
+}

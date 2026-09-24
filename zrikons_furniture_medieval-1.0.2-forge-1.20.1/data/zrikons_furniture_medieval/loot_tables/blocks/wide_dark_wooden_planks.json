@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "zrikons_furniture_medieval:blocks/wide_dark_wooden_planks",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "zrikons_furniture_medieval:wide_dark_wooden_planks"
+        }
+      ]
+    }
+  ]
+}

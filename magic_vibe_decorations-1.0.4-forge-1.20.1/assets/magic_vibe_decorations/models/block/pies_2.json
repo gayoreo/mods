@@ -1,0 +1,12 @@
+{
+  "parent": "magic_vibe_decorations:custom/halloween_pumpkin_pies3",
+  "textures": {
+    "all": "magic_vibe_decorations:block/pumpkin3",
+    "particle": "magic_vibe_decorations:block/pumpkin3",
+    "1": "magic_vibe_decorations:block/cream_spiral",
+    "2": "magic_vibe_decorations:block/pumpkin2",
+    "3": "magic_vibe_decorations:block/pumpkin3",
+    "5": "magic_vibe_decorations:block/bowl2"
+  },
+  "render_type": "solid"
+}

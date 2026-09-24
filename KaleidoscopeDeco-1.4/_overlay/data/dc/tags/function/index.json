@@ -1,0 +1,26 @@
+{
+    "values": [
+        {"required": false,"id": "kaleidoscope:doll/index/dolls"},
+        {"required": false,"id": "kaleidoscope:doll/index/misc"},
+        {"required": false,"id": "kaleidoscope:doll/index/credits"},
+        {
+            "id": "kaleidoscope:doll/index/sponsors",
+            "required": false
+        },
+        {
+            "id": "#kaleidoscope_plus:dolls",
+            "required": false
+        },
+        {
+            "id": "#kaleidoscope:cookery_plus_index",
+            "required": false
+        },
+        {"required": false,"id": "#kaleidoscope:lab_index"},
+        {"required": false,"id": "#kaleidoscope:bar_index"},
+        {"required": false,"id": "#kaleidoscope:chinese_index"},
+        {"required": false,"id": "#kaleidoscope:road_index"},
+        {"required": false,"id": "#kaleidoscope:holiday_index"},
+        {"required": false,"id": "kaleidoscope:cookery/index/misc"},
+        {"required": false,"id": "kaleidoscope:cookery/index/meals"}
+    ]
+}

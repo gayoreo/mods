@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "com/bobmowzie/mowziesmobs/mixin/BlockBehaviourMixin": {
+      "copy": "Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;m_60926_(Lnet/minecraft/world/level/block/state/BlockBehaviour;)Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/bobmowzie/mowziesmobs/mixin/BlockBehaviourMixin": {
+        "copy": "Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;m_60926_(Lnet/minecraft/world/level/block/state/BlockBehaviour;)Lnet/minecraft/world/level/block/state/BlockBehaviour$Properties;"
+      }
+    }
+  }
+}

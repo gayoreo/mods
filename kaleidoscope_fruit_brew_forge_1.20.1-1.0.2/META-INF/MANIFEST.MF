@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: kaleidoscope_fruit_brew
+Specification-Vendor: zhaiji, xXStrayXx
+Specification-Version: 1
+Implementation-Title: KaleidoscopeFruitBrew-1.20.1
+Implementation-Version: 1.0.2
+Implementation-Vendor: zhaiji, xXStrayXx
+Implementation-Timestamp: 2026-07-06T23:31:40+0800
+MixinConfigs: kaleidoscope_fruit_brew.mixins.json
+

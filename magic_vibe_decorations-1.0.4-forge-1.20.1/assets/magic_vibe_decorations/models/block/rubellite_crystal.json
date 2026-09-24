@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/rubellite",
+  "textures": {
+    "all": "magic_vibe_decorations:block/rubellite",
+    "particle": "magic_vibe_decorations:block/rubellite",
+    "2": "magic_vibe_decorations:block/fire_2",
+    "3": "magic_vibe_decorations:block/rubellite",
+    "7": "magic_vibe_decorations:block/rubellite_red"
+  },
+  "render_type": "cutout"
+}

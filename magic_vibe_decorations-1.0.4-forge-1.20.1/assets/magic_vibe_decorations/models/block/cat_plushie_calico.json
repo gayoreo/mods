@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/catplushiecalico",
+  "textures": {
+    "all": "magic_vibe_decorations:block/catfacecalico",
+    "particle": "magic_vibe_decorations:block/catfacecalico",
+    "8": "magic_vibe_decorations:block/catfurcalic3",
+    "9": "magic_vibe_decorations:block/catfacecalico"
+  },
+  "render_type": "cutout"
+}

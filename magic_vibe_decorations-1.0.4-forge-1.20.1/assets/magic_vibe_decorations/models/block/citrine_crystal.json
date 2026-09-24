@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/citrine_crystal",
+  "textures": {
+    "all": "magic_vibe_decorations:block/citrine",
+    "particle": "magic_vibe_decorations:block/citrine",
+    "7": "magic_vibe_decorations:block/citrine",
+    "9": "magic_vibe_decorations:block/citrine2"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa",
+    "bb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:book"
+    },
+    "b": {
+      "item": "minecraft:acacia_planks"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:bkacacia",
+    "count": 1
+  }
+}

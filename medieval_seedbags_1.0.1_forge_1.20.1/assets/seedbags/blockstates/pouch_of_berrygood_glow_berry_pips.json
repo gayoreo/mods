@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "seedbags:block/pouch_of_berrygood_glow_berry_pips"
+    },
+    "facing=east": {
+      "model": "seedbags:block/pouch_of_berrygood_glow_berry_pips",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "seedbags:block/pouch_of_berrygood_glow_berry_pips",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "seedbags:block/pouch_of_berrygood_glow_berry_pips",
+      "y": 270
+    }
+  }
+}

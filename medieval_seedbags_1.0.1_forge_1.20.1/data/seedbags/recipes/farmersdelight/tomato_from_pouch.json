@@ -1,0 +1,21 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "seedbags:pouch_of_farmersdelight_tomato_seeds"
+    }
+  },
+  "result": {
+    "item": "farmersdelight:tomato_seeds",
+    "count": 4
+  }
+}

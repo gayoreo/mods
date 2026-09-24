@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: kaleidoscopecookery
+Implementation-Version: 1.5.1-forge+mc1.20.1
+MixinConfigs: kaleidoscope_cookery.mixins.json
+

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "zrikons_furniture_medieval:dark_wooden_planks"
+    }
+  },
+  "result": {
+    "item": "zrikons_furniture_medieval:dark_wood_hatch",
+    "count": 2
+  }
+}

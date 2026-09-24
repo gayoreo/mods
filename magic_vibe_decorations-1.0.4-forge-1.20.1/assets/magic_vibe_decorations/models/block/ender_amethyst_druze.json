@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystaldruze1",
+  "textures": {
+    "all": "magic_vibe_decorations:block/enderamethyst_lamp1",
+    "particle": "magic_vibe_decorations:block/enderamethyst_lamp1",
+    "26": "magic_vibe_decorations:block/crystal_dark_purpur",
+    "27": "magic_vibe_decorations:block/crystal_purpur",
+    "28": "magic_vibe_decorations:block/crystal_pink"
+  },
+  "render_type": "cutout"
+}

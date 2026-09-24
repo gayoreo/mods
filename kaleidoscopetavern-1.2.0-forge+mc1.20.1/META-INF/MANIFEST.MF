@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: kaleidoscopetavern
+Implementation-Version: 1.2.0-forge+mc1.20.1
+MixinConfigs: kaleidoscope_tavern.mixins.json
+

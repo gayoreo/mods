@@ -1,0 +1,48 @@
+{
+  "jars": [
+    {
+      "identifier": {
+        "group": "net.spaceeye",
+        "artifact": "valkyrien-ship-schematics-1.20.1-forge"
+      },
+      "version": {
+        "range": "[1.3,)",
+        "artifactVersion": "1.3"
+      },
+      "path": "META-INF/jars/valkyrien-ship-schematics-1.20.1-forge-1.3.jar"
+    },
+    {
+      "identifier": {
+        "group": "org.jgrapht",
+        "artifact": "jgrapht-core"
+      },
+      "version": {
+        "range": "[1.5.2,)",
+        "artifactVersion": "1.5.2"
+      },
+      "path": "META-INF/jars/jgrapht-core-1.5.2.jar"
+    },
+    {
+      "identifier": {
+        "group": "org.apfloat",
+        "artifact": "apfloat"
+      },
+      "version": {
+        "range": "[1.14.0,)",
+        "artifactVersion": "1.14.0"
+      },
+      "path": "META-INF/jars/apfloat-1.14.0.jar"
+    },
+    {
+      "identifier": {
+        "group": "org.jheaps",
+        "artifact": "jheaps"
+      },
+      "version": {
+        "range": "[0.14,)",
+        "artifactVersion": "0.14"
+      },
+      "path": "META-INF/jars/jheaps-0.14.jar"
+    }
+  ]
+}

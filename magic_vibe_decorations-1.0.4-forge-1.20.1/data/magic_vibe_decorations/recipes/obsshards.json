@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:obsidiancrystals"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:crystallised_obsidian_shard",
+    "count": 3
+  }
+}

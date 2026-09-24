@@ -1,0 +1,102 @@
+{
+  "mappings": {
+    "com/bmt/kaleidoscope_world_liquor/mixins/create/AbstractContraptionSeatMixin": {
+      "positionRider": "Lcom/simibubi/create/content/contraptions/AbstractContraptionEntity;m_19956_(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/entity/Entity$MoveFunction;)V"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/EntityMixin": {
+      "turn(DD)V": "Lnet/minecraft/world/entity/Entity;m_19884_(DD)V",
+      "setGlowingTag": "Lnet/minecraft/world/entity/Entity;m_146915_(Z)V",
+      "getEyePosition(F)Lnet/minecraft/world/phys/Vec3;": "Lnet/minecraft/world/entity/Entity;m_20299_(F)Lnet/minecraft/world/phys/Vec3;"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/GuiGraphicsMixin": {
+      "renderItemDecorations(Lnet/minecraft/client/gui/Font;Lnet/minecraft/world/item/ItemStack;IILjava/lang/String;)V": "Lnet/minecraft/client/gui/GuiGraphics;m_280302_(Lnet/minecraft/client/gui/Font;Lnet/minecraft/world/item/ItemStack;IILjava/lang/String;)V"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/MultiJumpFallDamageMixin": {
+      "calculateFallDamage": "Lnet/minecraft/world/entity/LivingEntity;m_5639_(FF)I"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/LivingEntityMixin": {
+      "calculateFallDamage": "Lnet/minecraft/world/entity/LivingEntity;m_5639_(FF)I",
+      "tick": "Lnet/minecraft/world/entity/LivingEntity;m_8119_()V",
+      "jumpFromGround": "Lnet/minecraft/world/entity/LivingEntity;m_6135_()V"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/BoatMixin": {
+      "tick": "Lnet/minecraft/world/entity/vehicle/Boat;m_8119_()V"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/accessor/LivingEntityAccessor": {
+      "jumping": "f_20899_:Z",
+      "calculateFallDamage": "m_5639_(FF)I"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/accessor/CreativeModeInventoryScreenAccessor": {
+      "selectedTab": "f_98507_:Lnet/minecraft/world/item/CreativeModeTab;"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/CaptainGiftMixin": {
+      "move": "Lnet/minecraft/world/entity/Entity;m_6478_(Lnet/minecraft/world/entity/MoverType;Lnet/minecraft/world/phys/Vec3;)V",
+      "Lnet/minecraft/world/entity/Entity;collide(Lnet/minecraft/world/phys/Vec3;)Lnet/minecraft/world/phys/Vec3;": "Lnet/minecraft/world/entity/Entity;m_20272_(Lnet/minecraft/world/phys/Vec3;)Lnet/minecraft/world/phys/Vec3;"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/ClientPlayerEntityMixin": {
+      "aiStep": "Lnet/minecraft/client/player/LocalPlayer;m_8107_()V",
+      "serverAiStep": "Lnet/minecraft/client/player/LocalPlayer;m_6140_()V"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/CameraMixin": {
+      "setup": "Lnet/minecraft/client/Camera;m_90575_(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/EntityRendererMixin": {
+      "Lcom/mojang/blaze3d/vertex/PoseStack;pushPose()V": "Lcom/mojang/blaze3d/vertex/PoseStack;m_85836_()V",
+      "render": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7392_(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+    },
+    "com/bmt/kaleidoscope_world_liquor/mixins/TapBlockMixin": {
+      "tick": "Lcom/github/ysbbbbbb/kaleidoscopetavern/block/brew/TapBlock;m_213897_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/bmt/kaleidoscope_world_liquor/mixins/create/AbstractContraptionSeatMixin": {
+        "positionRider": "Lcom/simibubi/create/content/contraptions/AbstractContraptionEntity;m_19956_(Lnet/minecraft/world/entity/Entity;Lnet/minecraft/world/entity/Entity$MoveFunction;)V"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/EntityMixin": {
+        "turn(DD)V": "Lnet/minecraft/world/entity/Entity;m_19884_(DD)V",
+        "setGlowingTag": "Lnet/minecraft/world/entity/Entity;m_146915_(Z)V",
+        "getEyePosition(F)Lnet/minecraft/world/phys/Vec3;": "Lnet/minecraft/world/entity/Entity;m_20299_(F)Lnet/minecraft/world/phys/Vec3;"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/GuiGraphicsMixin": {
+        "renderItemDecorations(Lnet/minecraft/client/gui/Font;Lnet/minecraft/world/item/ItemStack;IILjava/lang/String;)V": "Lnet/minecraft/client/gui/GuiGraphics;m_280302_(Lnet/minecraft/client/gui/Font;Lnet/minecraft/world/item/ItemStack;IILjava/lang/String;)V"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/MultiJumpFallDamageMixin": {
+        "calculateFallDamage": "Lnet/minecraft/world/entity/LivingEntity;m_5639_(FF)I"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/LivingEntityMixin": {
+        "calculateFallDamage": "Lnet/minecraft/world/entity/LivingEntity;m_5639_(FF)I",
+        "tick": "Lnet/minecraft/world/entity/LivingEntity;m_8119_()V",
+        "jumpFromGround": "Lnet/minecraft/world/entity/LivingEntity;m_6135_()V"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/BoatMixin": {
+        "tick": "Lnet/minecraft/world/entity/vehicle/Boat;m_8119_()V"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/accessor/LivingEntityAccessor": {
+        "jumping": "f_20899_:Z",
+        "calculateFallDamage": "m_5639_(FF)I"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/accessor/CreativeModeInventoryScreenAccessor": {
+        "selectedTab": "f_98507_:Lnet/minecraft/world/item/CreativeModeTab;"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/CaptainGiftMixin": {
+        "move": "Lnet/minecraft/world/entity/Entity;m_6478_(Lnet/minecraft/world/entity/MoverType;Lnet/minecraft/world/phys/Vec3;)V",
+        "Lnet/minecraft/world/entity/Entity;collide(Lnet/minecraft/world/phys/Vec3;)Lnet/minecraft/world/phys/Vec3;": "Lnet/minecraft/world/entity/Entity;m_20272_(Lnet/minecraft/world/phys/Vec3;)Lnet/minecraft/world/phys/Vec3;"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/ClientPlayerEntityMixin": {
+        "aiStep": "Lnet/minecraft/client/player/LocalPlayer;m_8107_()V",
+        "serverAiStep": "Lnet/minecraft/client/player/LocalPlayer;m_6140_()V"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/CameraMixin": {
+        "setup": "Lnet/minecraft/client/Camera;m_90575_(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/world/entity/Entity;ZZF)V"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/EntityRendererMixin": {
+        "Lcom/mojang/blaze3d/vertex/PoseStack;pushPose()V": "Lcom/mojang/blaze3d/vertex/PoseStack;m_85836_()V",
+        "render": "Lnet/minecraft/client/renderer/entity/LivingEntityRenderer;m_7392_(Lnet/minecraft/world/entity/LivingEntity;FFLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;I)V"
+      },
+      "com/bmt/kaleidoscope_world_liquor/mixins/TapBlockMixin": {
+        "tick": "Lcom/github/ysbbbbbb/kaleidoscopetavern/block/brew/TapBlock;m_213897_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/server/level/ServerLevel;Lnet/minecraft/core/BlockPos;Lnet/minecraft/util/RandomSource;)V"
+      }
+    }
+  }
+}

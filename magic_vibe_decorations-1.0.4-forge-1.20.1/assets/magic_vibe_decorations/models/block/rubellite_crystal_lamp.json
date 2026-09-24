@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "magic_vibe_decorations:block/rubellite_lamp2",
+    "up": "magic_vibe_decorations:block/rubellite_lamp2",
+    "north": "magic_vibe_decorations:block/rubellite_lamp2",
+    "east": "magic_vibe_decorations:block/rubellite_lamp2",
+    "south": "magic_vibe_decorations:block/rubellite_lamp2",
+    "west": "magic_vibe_decorations:block/rubellite_lamp2",
+    "particle": "magic_vibe_decorations:block/rubellite_lamp2"
+  },
+  "render_type": "solid"
+}

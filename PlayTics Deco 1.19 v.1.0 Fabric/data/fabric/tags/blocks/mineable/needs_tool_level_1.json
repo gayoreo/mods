@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "playtics_deco:barrier",
+    "playtics_deco:traffic_cone",
+    "playtics_deco:construction_site_spotlight_bottom",
+    "playtics_deco:construction_site_spotlight_top",
+    "playtics_deco:construction_site_spotlight_top_on",
+    "playtics_deco:wheelbarrow",
+    "playtics_deco:demolition_hammer",
+    "playtics_deco:fish_barrel",
+    "playtics_deco:fish_barrel_salmon",
+    "playtics_deco:barrel_mod",
+    "playtics_deco:barrel_water",
+    "playtics_deco:oaks_figureheads",
+    "playtics_deco:birch_figureheads",
+    "playtics_deco:spruce_figureheads",
+    "playtics_deco:dark_oak_figureheads",
+    "playtics_deco:jungle_figureheads",
+    "playtics_deco:acacia_figureheads",
+    "playtics_deco:crimson_figureheads",
+    "playtics_deco:warped_figureheads",
+    "playtics_deco:guillotine",
+    "playtics_deco:guillotine_middle",
+    "playtics_deco:guillotine_top",
+    "playtics_deco:sandcastle_bucket",
+    "playtics_deco:sandcastle_light_sand"
+  ]
+}

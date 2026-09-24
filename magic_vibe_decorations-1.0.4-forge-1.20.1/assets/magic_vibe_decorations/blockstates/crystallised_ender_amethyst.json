@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "magic_vibe_decorations:block/crystallised_ender_amethyst"
+    },
+    "facing=east": {
+      "model": "magic_vibe_decorations:block/crystallised_ender_amethyst",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "magic_vibe_decorations:block/crystallised_ender_amethyst",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "magic_vibe_decorations:block/crystallised_ender_amethyst",
+      "y": 270
+    }
+  }
+}

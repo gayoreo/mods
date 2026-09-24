@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/cluster5",
+  "textures": {
+    "all": "magic_vibe_decorations:block/citrineblock1",
+    "particle": "magic_vibe_decorations:block/citrineblock1",
+    "5": "magic_vibe_decorations:block/citrinecluster"
+  },
+  "render_type": "cutout"
+}

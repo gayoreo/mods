@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/amethrine_crystal",
+  "textures": {
+    "all": "magic_vibe_decorations:block/amethrine",
+    "particle": "magic_vibe_decorations:block/amethrine2",
+    "3": "magic_vibe_decorations:block/amethrine",
+    "4": "magic_vibe_decorations:block/pink2",
+    "8": "magic_vibe_decorations:block/amethrine2"
+  },
+  "render_type": "cutout"
+}

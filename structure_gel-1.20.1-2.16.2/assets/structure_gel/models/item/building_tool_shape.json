@@ -1,0 +1,6 @@
+{
+	"parent": "structure_gel:item/building_tool",
+	"textures": {
+		"layer0": "structure_gel:item/building_tool_shape"
+	}
+}

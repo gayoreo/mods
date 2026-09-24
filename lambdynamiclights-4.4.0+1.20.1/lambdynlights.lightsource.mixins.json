@@ -1,0 +1,21 @@
+{
+	"required": true,
+	"package": "dev.lambdaurora.lambdynlights.mixin.lightsource",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"AbstractMinecartEntityMixin",
+		"BeaconBlockEntityMixin",
+		"EntityMixin",
+		"FallingBlockEntityMixin",
+		"GuardianEntityMixin",
+		"LivingEntityMixin",
+		"ParticleMixin",
+		"PlayerEntityMixin",
+		"PrimedTntEntityMixin",
+		"SonicBoomParticleMixin",
+		"TheEndGatewayBlockEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/bookshelfspruce",
+  "textures": {
+    "all": "magic_vibe_decorations:block/spruce",
+    "particle": "magic_vibe_decorations:block/spruce",
+    "0": "magic_vibe_decorations:block/book1",
+    "11": "magic_vibe_decorations:block/spruce"
+  },
+  "render_type": "solid"
+}

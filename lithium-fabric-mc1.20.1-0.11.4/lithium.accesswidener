@@ -1,0 +1,31 @@
+accessWidener	v1	intermediary
+accessible	class	net/minecraft/class_3204$class_4077
+accessible	class	net/minecraft/class_3215$class_4212
+accessible	class	net/minecraft/class_3898$class_3208
+accessible	class	net/minecraft/class_3898$class_3216
+accessible	class	net/minecraft/class_255
+accessible	class	net/minecraft/class_2835
+accessible	class	net/minecraft/class_2841$class_6561
+accessible	class	net/minecraft/class_2841$class_6560
+accessible	field	net/minecraft/class_3898$class_3208	field_18247	Lnet/minecraft/class_1297;
+accessible	field	net/minecraft/class_265	field_1401	Lnet/minecraft/class_251;
+accessible	field	net/minecraft/class_3541	field_15766	[[I
+accessible	method	net/minecraft/class_2841$class_6560	<init>	(Lnet/minecraft/class_2837$class_6559;I)V
+accessible	method	net/minecraft/class_2841$class_6563	method_38315	(Lnet/minecraft/class_2359;I)I
+accessible	method	net/minecraft/class_2841$class_6563	<init>	(I)V
+accessible	method	net/minecraft/class_3611	method_15794	()Z
+accessible	method	net/minecraft/class_3193	method_16143	(Ljava/util/concurrent/CompletableFuture;Ljava/lang/String;)V
+accessible	method	net/minecraft/class_3228	method_20627	(J)Z
+accessible	method	net/minecraft/class_246	<init>	(I)V
+accessible	method	net/minecraft/class_265	method_1109	(Lnet/minecraft/class_2350$class_2351;)Lit/unimi/dsi/fastutil/doubles/DoubleList;
+accessible	method	net/minecraft/class_265	<init>	(Lnet/minecraft/class_251;)V
+accessible	method	net/minecraft/class_259	method_1086	(DD)I
+accessible	field	net/minecraft/class_3532	field_15725	[F
+accessible	class	net/minecraft/class_3218$class_5526
+accessible	method	net/minecraft/class_1937	method_25952	(I)Z
+accessible	method	net/minecraft/class_2487	<init>	(Ljava/util/Map;)V
+accessible	class	net/minecraft/class_2784$class_2785
+accessible	method	net/minecraft/class_14	method_58	(Lnet/minecraft/class_1922;Lnet/minecraft/class_2338;)Lnet/minecraft/class_7;
+accessible	method	net/minecraft/class_4157	method_22444	()Z
+accessible	method	net/minecraft/class_4706	<init>	(ILjava/util/Comparator;)V
+accessible	field	net/minecraft/class_3228	field_14024	J

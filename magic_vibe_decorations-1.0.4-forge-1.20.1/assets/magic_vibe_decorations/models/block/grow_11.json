@@ -1,0 +1,11 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystalplanterplanted11",
+  "textures": {
+    "all": "magic_vibe_decorations:block/tinycrystalsrubellite",
+    "particle": "magic_vibe_decorations:block/tinycrystalsrubellite",
+    "1": "magic_vibe_decorations:block/crystalblock1",
+    "2": "magic_vibe_decorations:block/grow1",
+    "4": "magic_vibe_decorations:block/tinycrystalsrubellite"
+  },
+  "render_type": "cutout"
+}

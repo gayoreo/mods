@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "berry_good"
+    },
+	{
+      "type": "forge:mod_loaded",
+      "modid": "autumnity"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "seedbags:bag_of_berrygood_foulberry_pips"
+    }
+  },
+  "result": {
+    "item": "autumnity:foul_berry_pips",
+    "count": 9
+  }
+}

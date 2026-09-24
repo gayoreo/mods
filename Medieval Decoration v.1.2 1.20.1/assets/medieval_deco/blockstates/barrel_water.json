@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "medieval_deco:block/barrel_water"
+    },
+    "facing=east": {
+      "model": "medieval_deco:block/barrel_water",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "medieval_deco:block/barrel_water",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "medieval_deco:block/barrel_water",
+      "y": 270
+    }
+  }
+}

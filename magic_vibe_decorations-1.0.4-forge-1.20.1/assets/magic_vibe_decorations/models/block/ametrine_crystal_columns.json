@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/drip4",
+  "textures": {
+    "all": "magic_vibe_decorations:block/ametrine_lamp",
+    "particle": "magic_vibe_decorations:block/ametrine_lamp",
+    "16": "magic_vibe_decorations:block/amethrine"
+  },
+  "render_type": "cutout"
+}

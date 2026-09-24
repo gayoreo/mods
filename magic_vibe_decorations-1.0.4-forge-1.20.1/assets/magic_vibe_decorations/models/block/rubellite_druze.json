@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystaldruze5",
+  "textures": {
+    "all": "magic_vibe_decorations:block/rubellite_block2",
+    "particle": "magic_vibe_decorations:block/rubellite_block2",
+    "7": "magic_vibe_decorations:block/fire_2",
+    "31": "magic_vibe_decorations:block/rubellite"
+  },
+  "render_type": "cutout"
+}

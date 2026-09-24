@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "structure_gel:item/building_tool_clone"
+	}
+}

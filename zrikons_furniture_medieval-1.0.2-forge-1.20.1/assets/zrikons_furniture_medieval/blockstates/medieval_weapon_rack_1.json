@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "zrikons_furniture_medieval:block/medieval_weapon_rack_1"
+    },
+    "facing=east": {
+      "model": "zrikons_furniture_medieval:block/medieval_weapon_rack_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "zrikons_furniture_medieval:block/medieval_weapon_rack_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "zrikons_furniture_medieval:block/medieval_weapon_rack_1",
+      "y": 270
+    }
+  }
+}

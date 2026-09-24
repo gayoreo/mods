@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "lillouarts.magicvibedecorations.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+	"MagicVibeDecorationsModRepairItemRecipeMixin"  ],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}

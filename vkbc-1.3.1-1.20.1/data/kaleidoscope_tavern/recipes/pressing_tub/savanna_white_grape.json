@@ -1,0 +1,8 @@
+{
+  "type": "kaleidoscope_tavern:pressing_tub",
+  "fluid": "vkbc:savanna_white_grape_juice",
+  "fluid_amount": 125,
+  "ingredient": {
+    "item": "vinery:savanna_grapes_white"
+  }
+}

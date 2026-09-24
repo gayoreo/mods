@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/cluster7",
+  "textures": {
+    "all": "magic_vibe_decorations:block/blackcluster",
+    "particle": "magic_vibe_decorations:block/obsidian2",
+    "5": "magic_vibe_decorations:block/blackcluster"
+  },
+  "render_type": "cutout"
+}

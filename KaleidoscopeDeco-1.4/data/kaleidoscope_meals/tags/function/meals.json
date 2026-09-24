@@ -1,0 +1,46 @@
+{
+    "values": [
+        "kaleidoscope_meals:index/slime_ball_meal",
+        "kaleidoscope_meals:index/fondant_pie",
+        "kaleidoscope_meals:index/braised_fish",
+        "kaleidoscope_meals:index/stargazy_pie",
+        "kaleidoscope_meals:index/spicy_chicken",
+        "kaleidoscope_meals:index/pearl_meal",
+
+        "kaleidoscope_meals:index/chorus_eggs",
+        "kaleidoscope_meals:index/dongpo_pork",
+        "kaleidoscope_meals:index/fondant_eyes",
+        "kaleidoscope_meals:index/frogspawn_jelly",
+        "kaleidoscope_meals:index/golden_salad",
+        "kaleidoscope_meals:index/knight_steak",
+        "kaleidoscope_meals:index/mutton_amethyst",
+        "kaleidoscope_meals:index/mutton_flame",
+        "kaleidoscope_meals:index/mutton_ice",
+        "kaleidoscope_meals:index/sashimi_desert",
+        "kaleidoscope_meals:index/sashimi_end",
+        "kaleidoscope_meals:index/sashimi_nether",
+        "kaleidoscope_meals:index/sashimi_snow",
+        "kaleidoscope_meals:index/sashimi_tundra",
+        "kaleidoscope_meals:index/yakitori",
+
+        "kaleidoscope_meals:index/oil_splashed_fish",
+        "kaleidoscope_meals:index/cold_roasted_meat",
+        "kaleidoscope_meals:index/braised_pork_ribs",
+        "kaleidoscope_meals:index/candied_potato",
+        "kaleidoscope_meals:index/dough_drop_soup",
+        "kaleidoscope_meals:index/numbing_spicy_chicken",
+        "kaleidoscope_meals:index/spicy_rabbit_head",
+        "kaleidoscope_meals:index/spicy_blood_stew",
+        "kaleidoscope_meals:index/four_joy_meatball_soup",
+        "kaleidoscope_meals:index/fried_spring_roll",
+        "kaleidoscope_meals:index/crimson_fungus_pot_soup",
+        "kaleidoscope_meals:index/warped_fungus_pot_soup",
+        "kaleidoscope_meals:index/red_mushroom_pot_soup",
+        "kaleidoscope_meals:index/brown_mushroom_pot_soup",
+
+        "kaleidoscope_meals:index/apple_platter",
+        "kaleidoscope_meals:index/berry_platter",
+        "kaleidoscope_meals:index/melon_platter",
+        "kaleidoscope_meals:index/chrous_platter"
+    ]
+}

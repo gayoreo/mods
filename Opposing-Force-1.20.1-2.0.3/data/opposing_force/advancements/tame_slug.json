@@ -1,0 +1,29 @@
+{
+  "parent": "opposing_force:root",
+  "criteria": {
+    "tame_slug": {
+      "trigger": "opposing_force:tame_slug"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.opposing_force.tame_slug.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "opposing_force:slug_eggs"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.opposing_force.tame_slug"
+    }
+  },
+  "requirements": [
+    [
+      "tame_slug"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

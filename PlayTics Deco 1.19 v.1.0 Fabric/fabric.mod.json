@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "playtics_deco",
+  "version": "1.0",
+  "name": "PlayTics Deco",
+  "description": "Deco",
+  "authors": [
+    "PlayTics"
+  ],
+  "contact": {
+    "homepage": "https://patreon.com/playtics",
+    "sources": ""
+  },
+  "license": "All Rights Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.playticsdeco.PlayticsDecoMod"
+    ],
+    "client": [
+      "net.mcreator.playticsdeco.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}

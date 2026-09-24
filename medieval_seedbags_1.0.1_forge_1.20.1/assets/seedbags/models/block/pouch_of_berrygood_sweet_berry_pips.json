@@ -1,0 +1,9 @@
+{
+  "parent": "seedbags:custom/seed_pouch",
+  "textures": {
+    "all": "seedbags:block/pouch",
+    "particle": "seedbags:block/pouch",
+    "0": "seedbags:block/pouch_berrygood_sweetberry"
+  },
+  "render_type": "solid"
+}

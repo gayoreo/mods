@@ -1,0 +1,9 @@
+{
+	"parent": "structure_gel:block/template_data_handler",
+	"textures": {
+		"front": "structure_gel:block/data_handler_front_clear",
+		"back": "structure_gel:block/data_handler_back_clear",
+		"side": "structure_gel:block/data_handler_side_clear"
+	},
+	"render_type": "translucent"
+}

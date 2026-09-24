@@ -1,0 +1,11 @@
+{
+  "handcuff_open": {
+    "subtitle": "subtitles.handcuff_open",
+    "sounds": [
+      {
+        "name": "snatched:handcuff_open",
+        "stream": false
+      }
+    ]
+  }
+}

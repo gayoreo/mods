@@ -1,0 +1,41 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.bmt.kaleidoscope_compat.mixins",
+  "plugin": "com.bmt.kaleidoscope_compat.mixins.MainMixinPlugin",
+  "refmap": "kaleidoscope_compat.mixins.refmap.json",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "solcarrot.FoodItemsMixin",
+    "vinery.WineCompatRendererMixin"
+  ],
+  "mixins": [
+    "appleskin.FoodHelperMixin",
+    "curios.AdvanceBlockMatchToolMixin",
+    "farm_and_charm.CookingPotCategoryMixin",
+    "farm_and_charm.CookingPotRecipeMixin",
+    "farm_and_charm.StockpotRecipeCategoryMixin",
+    "farmersdelight.CookingPotRecipeMixin",
+    "farmersdelight.CuttingBoardRecipeMixin",
+    "farmersdelight.FDRecipesMixin",
+    "farmersdelight.NourishmentEffectMixin",
+    "kaleidoscope_cookery.MillstoneBlockEntityMixin",
+    "kaleidoscope_cookery.PhantomMixin",
+    "kaleidoscope_cookery.SickleItemMixin",
+    "kaleidoscope_cookery.TransmutationLunchBagItemMixin",
+    "kaleidoscope_cookery.VitalityEventMixin",
+    "kaleidoscope_tavern.BarCabinetBlockEntityRenderMixin",
+    "kaleidoscope_tavern.BarCabinetBlockMixin",
+    "kaleidoscope_tavern.BarrelRecipeCategoryMixin",
+    "quark.SimpleHarvestEventMixin",
+    "solcarrot.FoodListMixin",
+    "vinery.FermentationBarrelRecipeMixin",
+    "vinery.RecipeManagerMixin",
+    "youkaisfeasts.RackItemDataMixin",
+    "youkaisfeasts.SauceRackBlockEntityMixin",
+    "youkaisfeasts.WineShelfBlockEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

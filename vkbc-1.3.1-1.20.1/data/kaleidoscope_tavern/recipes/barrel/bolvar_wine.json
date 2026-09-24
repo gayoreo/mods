@@ -1,0 +1,19 @@
+{
+  "type": "kaleidoscope_tavern:barrel",
+  "carrier": {
+    "item": "kaleidoscope_tavern:empty_bottle"
+  },
+  "fluid": "vkbc:taiga_red_grape_juice",
+  "ingredients": [
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "vinery:cherry"
+    }
+  ],
+  "result": {
+    "item": "vinery:bolvar_wine",
+    "count":1
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"item": "kaleidoscope_cookery:nether_style_sashimi",
+	"invisible": ["kuaizi"],
+	"sounds": {
+		"eating": "food:eating5"
+	}
+}

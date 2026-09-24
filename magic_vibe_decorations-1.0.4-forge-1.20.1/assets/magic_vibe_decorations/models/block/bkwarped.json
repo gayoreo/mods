@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/bookshelfwarpped1.16",
+  "textures": {
+    "all": "magic_vibe_decorations:block/warpped",
+    "particle": "magic_vibe_decorations:block/warpped",
+    "0": "magic_vibe_decorations:block/book1",
+    "12": "magic_vibe_decorations:block/warpped"
+  },
+  "render_type": "solid"
+}

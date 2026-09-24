@@ -1,0 +1,41 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+# LICENSE and COPYING in the root of the JAR carry the full text. Sound packs are unaffected by it: a
+# resource pack is data read at runtime, not a derivative work, so anyone may make and sell packs on
+# any terms they like.
+license = "LGPL-3.0-or-later"
+
+[[mods]]
+modId = "treadlightly"
+version = "1.1.0+26.3"
+displayName = "Tread Lightly"
+authors = "aspctt"
+description = '''
+Footsteps worth listening to. Snow crunches, wood creaks, puddles splash, and long grass drags at your legs as you push through it. Every block in the world sounds like what it is.
+'''
+
+[[mixins]]
+config = "treadlightly.mixins.json"
+
+# The mod does not load on a server at all, so every dependency is only declared for the client.
+[[dependencies.treadlightly]]
+modId = "neoforge"
+type = "required"
+versionRange = "[26.3.0.12-beta,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.treadlightly]]
+modId = "minecraft"
+type = "required"
+versionRange = "[26.3]"
+ordering = "NONE"
+side = "CLIENT"
+
+# Draws the config screen. Without it the mod works and the Mods list simply shows no config button.
+[[dependencies.treadlightly]]
+modId = "yet_another_config_lib_v3"
+type = "optional"
+versionRange = "[3.9.7,)"
+ordering = "NONE"
+side = "CLIENT"

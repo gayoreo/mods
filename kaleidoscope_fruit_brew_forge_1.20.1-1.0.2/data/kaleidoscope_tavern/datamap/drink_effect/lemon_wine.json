@@ -1,0 +1,91 @@
+{
+  "item": "kaleidoscope_fruit_brew:lemon_wine",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:nausea",
+        "duration": 35,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:nausea",
+        "duration": 10,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 20,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:refreshing",
+        "duration": 20,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 40,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:refreshing",
+        "duration": 40,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:refreshing",
+        "duration": 80,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 160,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:refreshing",
+        "duration": 160,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:haste",
+        "duration": 320,
+        "amplifier": 0,
+        "probability": 1.0
+      },
+      {
+        "effect": "fruitsdelight:refreshing",
+        "duration": 320,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

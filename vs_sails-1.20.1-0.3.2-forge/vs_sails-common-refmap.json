@@ -1,0 +1,34 @@
+{
+  "mappings": {
+    "com/quintonc/vs_sails/mixin/ExampleMixin": {
+      "loadLevel": "Lnet/minecraft/server/MinecraftServer;m_130006_()V"
+    },
+    "com/quintonc/vs_sails/mixin/ParticleMixin": {
+      "move(DDD)V": "Lnet/minecraft/client/particle/Particle;m_6257_(DDD)V"
+    },
+    "com/quintonc/vs_sails/mixin/PlayerModelMixin": {
+      "setupAnim*": "Lnet/minecraft/client/model/PlayerModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+    },
+    "com/quintonc/vs_sails/mixin/ThrownPotionMixin": {
+      "applyWater": "Lnet/minecraft/world/entity/projectile/ThrownPotion;m_37552_()V",
+      "onHit": "Lnet/minecraft/world/entity/projectile/ThrownPotion;m_6532_(Lnet/minecraft/world/phys/HitResult;)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/quintonc/vs_sails/mixin/ExampleMixin": {
+        "loadLevel": "Lnet/minecraft/server/MinecraftServer;m_130006_()V"
+      },
+      "com/quintonc/vs_sails/mixin/ParticleMixin": {
+        "move(DDD)V": "Lnet/minecraft/client/particle/Particle;m_6257_(DDD)V"
+      },
+      "com/quintonc/vs_sails/mixin/PlayerModelMixin": {
+        "setupAnim*": "Lnet/minecraft/client/model/PlayerModel;m_6973_(Lnet/minecraft/world/entity/LivingEntity;FFFFF)V"
+      },
+      "com/quintonc/vs_sails/mixin/ThrownPotionMixin": {
+        "applyWater": "Lnet/minecraft/world/entity/projectile/ThrownPotion;m_37552_()V",
+        "onHit": "Lnet/minecraft/world/entity/projectile/ThrownPotion;m_6532_(Lnet/minecraft/world/phys/HitResult;)V"
+      }
+    }
+  }
+}

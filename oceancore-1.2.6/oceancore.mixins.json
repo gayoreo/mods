@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.tysontheember.oceancore.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "oceancore.refmap.json",
+  "mixins": [
+    "InitialSpawnMixin",
+    "NoiseBasedChunkGeneratorMixin",
+    "OverworldBiomeParametersMixin",
+    "RandomStateMixin",
+    "StructureGenerationMixin",
+    "compat.ServerPropertiesCompatMixin"
+  ],
+  "client": [
+    "CreateWorldScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

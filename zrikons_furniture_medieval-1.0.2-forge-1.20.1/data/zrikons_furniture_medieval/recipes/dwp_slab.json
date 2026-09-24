@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zrikons_furniture_medieval:dark_wooden_planks"
+    },
+    {
+      "item": "zrikons_furniture_medieval:dark_wooden_planks"
+    },
+    {
+      "item": "zrikons_furniture_medieval:dark_wooden_planks"
+    }
+  ],
+  "result": {
+    "item": "zrikons_furniture_medieval:dark_wooden_planks_half_block",
+    "count": 6
+  }
+}

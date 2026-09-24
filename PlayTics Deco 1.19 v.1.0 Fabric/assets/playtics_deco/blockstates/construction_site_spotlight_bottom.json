@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "playtics_deco:block/construction_site_spotlight_bottom"
+    },
+    "facing=east": {
+      "model": "playtics_deco:block/construction_site_spotlight_bottom",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "playtics_deco:block/construction_site_spotlight_bottom",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "playtics_deco:block/construction_site_spotlight_bottom",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "balustrade_bridges",
+    
+    "pattern": [
+    "FFF",
+    "WWW"
+    ],
+    
+    "key":
+    {
+        "F":
+        {
+            "item": "minecraft:prismarine_wall"
+        },
+        
+        "W":
+        {
+            "item": "minecraft:prismarine_brick_slab"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "mcwbridges:balustrade_prismarine_bricks_bridge",
+        "count": 5
+    }
+}

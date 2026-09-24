@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:emerald_crystal",
+    "count": 1
+  }
+}

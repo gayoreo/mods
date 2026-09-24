@@ -1,0 +1,26 @@
+modLoader = "javafml" #mandatory
+loaderVersion = ">=47" #mandatory This is typically bumped every Minecraft version by Forge. See https://files.minecraftforge.net/ for a list of versions.
+license = "ARR" # Review your options at https://choosealicense.com/.
+clientSideOnly=true
+[[mods]] #mandatory
+modId = "punchy" #mandatory
+version = "2.8a" #mandatory
+displayName = "Punchy" #mandatory
+#updateJSONURL="https://change.me.example.invalid/updates.json" #optional (see https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/)
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional (displayed in the mod UI)
+logoFile = "assets/punchy/icon.png" #optional
+credits = "" #optional
+authors = "Punchy" #optional
+description = '''First-person animations. Special thanks to Godku for the support.''' #mandatory (Supports multiline text)
+[[dependencies.punchy]] #optional
+modId = "forge" #mandatory
+mandatory = true #mandatory
+versionRange = "[47,)" #mandatory
+ordering = "NONE" # The order that this dependency should load in relation to your mod, required to be either 'BEFORE' or 'AFTER' if the dependency is not mandatory
+side = "CLIENT" # Side this dependency is applied on - 'BOTH', 'CLIENT' or 'SERVER'
+[[dependencies.punchy]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1, 1.21)"
+ordering = "NONE"
+side = "CLIENT"

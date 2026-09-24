@@ -1,0 +1,19 @@
+{
+  "type": "kaleidoscope_tavern:barrel",
+  "carrier": {
+    "item": "kaleidoscope_tavern:empty_bottle"
+  },
+  "fluid": "vkbc:savanna_red_grape_juice",
+  "ingredients": [
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "vinery:cherry"
+    }
+  ],
+  "result": {
+    "item": "vinery:lilitu_wine",
+    "count":1
+  }
+}

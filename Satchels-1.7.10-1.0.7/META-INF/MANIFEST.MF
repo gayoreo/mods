@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+TweakOrder: 0
+MixinConfigs: satchels.mixin.json
+FMLCorePluginContainsFMLMod: true
+FMLAT: tconstruct_tabs_at.cfg
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+ForceLoadAsMod: true
+

@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/clearquartz_crystal",
+  "textures": {
+    "all": "magic_vibe_decorations:block/clear_quartz",
+    "particle": "magic_vibe_decorations:block/clear_quartz",
+    "4": "magic_vibe_decorations:block/clear_quartz"
+  },
+  "render_type": "cutout"
+}

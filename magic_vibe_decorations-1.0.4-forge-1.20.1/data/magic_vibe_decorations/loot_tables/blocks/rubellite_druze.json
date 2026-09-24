@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "magic_vibe_decorations:blocks/rubellite_druze",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "magic_vibe_decorations:rubellite_druze"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "magic_vibe_decorations:custom/witchyaltar",
+  "textures": {
+    "all": "magic_vibe_decorations:block/book1",
+    "particle": "magic_vibe_decorations:block/herb3",
+    "0": "magic_vibe_decorations:block/scelet",
+    "1": "magic_vibe_decorations:block/herb3",
+    "5": "magic_vibe_decorations:block/book1",
+    "6": "magic_vibe_decorations:block/clear_quartz",
+    "7": "magic_vibe_decorations:block/spider2"
+  },
+  "render_type": "cutout"
+}

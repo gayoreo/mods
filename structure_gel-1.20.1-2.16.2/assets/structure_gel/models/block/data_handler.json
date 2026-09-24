@@ -1,0 +1,8 @@
+{
+	"parent": "structure_gel:block/template_data_handler",
+	"textures": {
+		"front": "structure_gel:block/data_handler_front",
+		"back": "structure_gel:block/data_handler_back",
+		"side": "structure_gel:block/data_handler_side"
+	}
+}

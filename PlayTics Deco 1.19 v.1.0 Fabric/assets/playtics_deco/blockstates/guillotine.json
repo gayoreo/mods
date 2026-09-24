@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "playtics_deco:block/guillotine"
+    },
+    "facing=east": {
+      "model": "playtics_deco:block/guillotine",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "playtics_deco:block/guillotine",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "playtics_deco:block/guillotine",
+      "y": 270
+    }
+  }
+}

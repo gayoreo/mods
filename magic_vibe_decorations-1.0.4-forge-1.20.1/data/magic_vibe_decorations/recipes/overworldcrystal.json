@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "b c",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "b": {
+      "item": "minecraft:emerald"
+    },
+    "c": {
+      "item": "minecraft:quartz"
+    },
+    "d": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:overworld_secret_crystal",
+    "count": 1
+  }
+}

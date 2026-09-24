@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "magic_vibe_decorations:block/obsidian_lamp",
+    "up": "magic_vibe_decorations:block/obsidian_lamp",
+    "north": "magic_vibe_decorations:block/obsidian_lamp",
+    "east": "magic_vibe_decorations:block/obsidian_lamp",
+    "south": "magic_vibe_decorations:block/obsidian_lamp",
+    "west": "magic_vibe_decorations:block/obsidian_lamp",
+    "particle": "magic_vibe_decorations:block/obsidian_lamp"
+  },
+  "render_type": "solid"
+}

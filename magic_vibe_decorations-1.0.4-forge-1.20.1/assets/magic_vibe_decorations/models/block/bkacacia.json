@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/bookshelfacacia",
+  "textures": {
+    "all": "magic_vibe_decorations:block/acacia",
+    "particle": "magic_vibe_decorations:block/acacia",
+    "0": "magic_vibe_decorations:block/book1",
+    "4": "magic_vibe_decorations:block/acacia"
+  },
+  "render_type": "solid"
+}

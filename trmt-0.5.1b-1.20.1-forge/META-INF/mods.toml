@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[0,)"
+license="CC-BY-NC-4.0"
+mixinConfigs="trmt.mixins.json"
+
+[[mods]]
+    modId="trmt"
+    version="0.5.1b-1.20.1-forge"
+    displayName="The Roads More Travelled"
+    authors="milkucha"
+    description='''An erosion mod for Minecraft'''
+
+[[dependencies.trmt]]
+    modId="forge"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.trmt]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20,1.21)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "minocraft_medieval_gates:castle_gate_pale_oak_gold"
+      }
+    },
+    "has_material_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:gold_ingot"
+          }
+        ]
+      }
+    },
+    "has_material_1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:pale_oak_planks"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_material_0",
+      "has_material_1"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minocraft_medieval_gates:castle_gate_pale_oak_gold"
+    ]
+  }
+}

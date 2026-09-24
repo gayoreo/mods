@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.moigferdsrte.vkbc.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "vkbc.refmap.json",
+  "mixins": [
+    "BarCabinetBlockEntityRenderMixin",
+    "BarCabinetBlockMixin",
+    "BarrelBlockEntityMixin",
+    "BarrelRecipeSerializerMixin",
+    "DrinkBlockItemAccessor",
+    "GrapevinePotBlockMixin",
+    "PressingTubBlockEntityMixin"
+  ],
+  "client": [
+    "client.WineCompatRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

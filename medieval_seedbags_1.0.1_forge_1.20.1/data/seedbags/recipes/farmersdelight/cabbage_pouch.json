@@ -1,0 +1,22 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "farmersdelight"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "00",
+    "00"
+  ],
+  "key": {
+    "0": {
+      "item": "farmersdelight:cabbage_seeds"
+    }
+  },
+  "result": {
+    "item": "seedbags:pouch_of_farmersdelight_cabbage_seeds",
+    "count": 1
+  }
+}

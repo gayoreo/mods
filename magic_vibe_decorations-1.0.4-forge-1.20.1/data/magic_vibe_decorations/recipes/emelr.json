@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "magic_vibe_decorations:emerald_crystal_shard"
+    },
+    "c": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:emerald_fairy_lights",
+    "count": 3
+  }
+}

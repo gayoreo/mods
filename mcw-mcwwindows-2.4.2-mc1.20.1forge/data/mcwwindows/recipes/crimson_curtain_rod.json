@@ -1,0 +1,17 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "group" : "curtain_rods",
+  "pattern" : [ "ABA" ],
+  "key" : {
+    "A" : {
+      "item" : "minecraft:stick"
+    },
+    "B" : {
+      "item" : "minecraft:crimson_stem"
+    }
+  },
+  "result" : {
+    "item" : "mcwwindows:crimson_curtain_rod",
+    "count" : 5
+  }
+}

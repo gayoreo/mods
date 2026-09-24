@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:diorite"
+    },
+    "result": "mcwbridges:diorite_bridge",
+    "group": "stonecutting",
+    "count": 1
+}

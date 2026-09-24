@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/crystal_star_ball4",
+  "textures": {
+    "all": "magic_vibe_decorations:block/ametrine_block",
+    "particle": "magic_vibe_decorations:block/ametrine_block",
+    "4": "magic_vibe_decorations:block/ametrine_lamp",
+    "17": "magic_vibe_decorations:block/black"
+  },
+  "render_type": "cutout"
+}

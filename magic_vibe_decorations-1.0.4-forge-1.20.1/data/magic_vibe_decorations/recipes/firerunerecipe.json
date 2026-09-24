@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "magic_vibe_decorations:nether_crystal_shard"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:fire_rune",
+    "count": 1
+  }
+}

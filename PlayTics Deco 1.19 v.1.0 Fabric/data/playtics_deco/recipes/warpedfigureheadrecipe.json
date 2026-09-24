@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "playtics_deco:versionsblock"
+    },
+    "1": {
+      "item": "playtics_deco:versionsblock"
+    },
+    "2": {
+      "item": "playtics_deco:versionsblock"
+    },
+    "4": {
+      "item": "playtics_deco:versionsblock"
+    },
+    "5": {
+      "item": "playtics_deco:versionsblock"
+    },
+    "7": {
+      "item": "playtics_deco:versionsblock"
+    },
+    "8": {
+      "item": "playtics_deco:versionsblock"
+    }
+  },
+  "result": {
+    "item": "playtics_deco:warped_figureheads",
+    "count": 1
+  }
+}

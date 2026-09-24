@@ -1,0 +1,30 @@
+{
+	"required": true,
+	"package": "dev.lambdaurora.lambdynlights.mixin",
+	"plugin": "dev.lambdaurora.lambdynlights.LambDynLightsMixinPlugin",
+	"compatibilityLevel": "JAVA_17",
+	"client": [
+		"ClientLevelMixin",
+		"CommonLevelRendererMixin",
+		"DebugRendererMixin",
+		"DebugScreenOverlayMixin",
+		"DevModeMixin",
+		"EntityRendererMixin",
+		"EntityTypeMixin",
+		"LevelRendererAccessor",
+		"MinecraftClientMixin",
+		"OptionsMixin",
+		"ParticleEngineMixin",
+		"VideoSettingsScreenMixin",
+		"fabric.AoCalculatorMixin",
+		"retrofit.DynamicLightHandlerMixin",
+		"retrofit.DynamicLightHandlersMixin",
+		"sodium.ArrayLightDataCacheMixin",
+		"sodium.LightDataAccessMixin",
+		"sodium.OldSodiumOptionsGuiMixin",
+		"sodium.SodiumOptionsGuiMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

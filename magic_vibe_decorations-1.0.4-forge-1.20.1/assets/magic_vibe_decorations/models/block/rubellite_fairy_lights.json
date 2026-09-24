@@ -1,0 +1,10 @@
+{
+  "parent": "magic_vibe_decorations:custom/rublights",
+  "textures": {
+    "all": "magic_vibe_decorations:block/rubellite_red",
+    "particle": "magic_vibe_decorations:block/rubellite_red",
+    "14": "magic_vibe_decorations:block/rubellite_red",
+    "4": "magic_vibe_decorations:block/cabel"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 45",
+    " 78"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:warped_stem"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "minecraft:warped_stem"
+    },
+    "4": {
+      "item": "minecraft:warped_planks"
+    },
+    "5": {
+      "item": "minecraft:warped_planks"
+    },
+    "7": {
+      "item": "minecraft:warped_planks"
+    },
+    "8": {
+      "item": "minecraft:warped_planks"
+    }
+  },
+  "result": {
+    "item": "medieval_deco:warped_figureheads",
+    "count": 1
+  }
+}

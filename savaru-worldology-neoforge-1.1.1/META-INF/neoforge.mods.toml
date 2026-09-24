@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="savaru_worldology"
+version="1.1.1"
+displayName="Savaru's Worldology"
+authors="Savaru"
+description='''
+Region-based world progression, biome gating, monster scaling, and world ascension.
+'''
+
+[[mixins]]
+config="savaru_worldology.mixins.json"
+
+[[dependencies.savaru_worldology]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.savaru_worldology]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

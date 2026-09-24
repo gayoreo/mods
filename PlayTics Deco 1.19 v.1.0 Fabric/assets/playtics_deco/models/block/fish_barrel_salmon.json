@@ -1,0 +1,12 @@
+{
+  "parent": "playtics_deco:custom/fish_barrel_salmon",
+  "textures": {
+    "all": "playtics_deco:blocks/no_texture",
+    "particle": "playtics_deco:blocks/no_texture",
+    "0": "playtics_deco:blocks/barrel_bottom",
+    "1": "playtics_deco:blocks/barrel_side",
+    "2": "playtics_deco:blocks/barrel_top",
+    "3": "playtics_deco:blocks/barrel_top_open",
+    "5": "playtics_deco:blocks/salmon"
+  }
+}

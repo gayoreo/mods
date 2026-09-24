@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "zrikons_furniture_medieval:block/darkplanks",
+    "up": "zrikons_furniture_medieval:block/darkplanks",
+    "north": "zrikons_furniture_medieval:block/darkplanks",
+    "east": "zrikons_furniture_medieval:block/darkplanks",
+    "south": "zrikons_furniture_medieval:block/darkplanks",
+    "west": "zrikons_furniture_medieval:block/darkplanks",
+    "particle": "zrikons_furniture_medieval:block/darkplanks"
+  },
+  "render_type": "solid"
+}

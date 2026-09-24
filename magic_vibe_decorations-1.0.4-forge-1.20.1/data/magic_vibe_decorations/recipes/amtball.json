@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "magic_vibe_decorations:ametrine_shard"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:ametrine_star_ball",
+    "count": 1
+  }
+}

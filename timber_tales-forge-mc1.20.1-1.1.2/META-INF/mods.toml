@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="timber_tales"
+version="1.1.2"
+displayName="Timber Tales"
+authors="Pichau"
+description='''Dynamic tree felling, progressive cuts and collectible wood chips.'''
+
+[[dependencies.timber_tales]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.23,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.timber_tales]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"

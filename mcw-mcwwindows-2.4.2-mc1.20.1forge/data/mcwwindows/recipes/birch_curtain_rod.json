@@ -1,0 +1,17 @@
+{
+  "type" : "minecraft:crafting_shaped",
+  "group" : "curtain_rods",
+  "pattern" : [ "ABA" ],
+  "key" : {
+    "A" : {
+      "item" : "minecraft:stick"
+    },
+    "B" : {
+      "item" : "minecraft:birch_log"
+    }
+  },
+  "result" : {
+    "item" : "mcwwindows:birch_curtain_rod",
+    "count" : 5
+  }
+}

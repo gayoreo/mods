@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "minecraft:diamondcrystals"
+    }
+  ],
+  "result": {
+    "item": "magic_vibe_decorations:diamond_crystal_shard",
+    "count": 3
+  }
+}

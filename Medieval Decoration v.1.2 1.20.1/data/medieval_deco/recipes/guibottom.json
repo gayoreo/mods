@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_log"
+    },
+    "1": {
+      "item": "minecraft:oak_trapdoor"
+    },
+    "2": {
+      "item": "minecraft:oak_log"
+    },
+    "3": {
+      "item": "minecraft:oak_log"
+    },
+    "4": {
+      "item": "minecraft:oak_trapdoor"
+    },
+    "5": {
+      "item": "minecraft:oak_log"
+    },
+    "6": {
+      "item": "minecraft:oak_wood"
+    },
+    "7": {
+      "item": "minecraft:oak_wood"
+    },
+    "8": {
+      "item": "minecraft:oak_wood"
+    }
+  },
+  "result": {
+    "item": "medieval_deco:guillotine",
+    "count": 1
+  }
+}

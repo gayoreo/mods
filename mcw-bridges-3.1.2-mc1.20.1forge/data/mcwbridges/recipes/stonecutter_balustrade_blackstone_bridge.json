@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:blackstone"
+    },
+    "result": "mcwbridges:balustrade_blackstone_bridge",
+    "group": "stonecutting",
+    "count": 1
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "C C",
+    "PPP",
+    "III"
+  ],
+  "key": {
+    "C": "minecraft:iron_chain",
+    "P": "minecraft:bamboo_planks",
+    "I": "minecraft:iron_ingot"
+  },
+  "result": {
+    "id": "minocraft_medieval_gates:drawbridge_bamboo",
+    "count": 2
+  }
+}

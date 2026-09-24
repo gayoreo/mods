@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "magic_vibe_decorations:blocks/aquamarine_star_ball",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "magic_vibe_decorations:aquamarine_star_ball"
+        }
+      ]
+    }
+  ]
+}

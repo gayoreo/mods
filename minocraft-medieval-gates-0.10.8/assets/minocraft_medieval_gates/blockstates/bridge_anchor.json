@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"minocraft_medieval_gates:block/bridge_anchor"},"facing=east":{"model":"minocraft_medieval_gates:block/bridge_anchor","y":90},"facing=south":{"model":"minocraft_medieval_gates:block/bridge_anchor","y":180},"facing=west":{"model":"minocraft_medieval_gates:block/bridge_anchor","y":270}}}

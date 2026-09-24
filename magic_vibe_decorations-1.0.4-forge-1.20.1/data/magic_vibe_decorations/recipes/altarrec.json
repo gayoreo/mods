@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bcb",
+    " d "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:quartzcrystals"
+    },
+    "b": {
+      "item": "magic_vibe_decorations:herbs"
+    },
+    "c": {
+      "item": "magic_vibe_decorations:bones"
+    },
+    "d": {
+      "item": "minecraft:book"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:witchy_altar",
+    "count": 1
+  }
+}

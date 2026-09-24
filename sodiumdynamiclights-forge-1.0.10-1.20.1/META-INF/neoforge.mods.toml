@@ -1,0 +1,25 @@
+modLoader = "javafml"
+loaderVersion="[1,)"
+license="MIT"
+showAsResourcePack=false
+
+issueTrackerURL = "https://github.com/txnimc/SodiumDynamicLights/issues"
+
+[[mods]]
+modId="sodiumdynamiclights"
+version="1.0.9"
+displayName="Sodium Dynamic Lights"
+authors="toni, LambdAurora"
+description="Fork of LambDynLights to work with Sodium on Neoforge 1.21+"
+logoFile="assets/sodiumdynamiclights/textures/mod_logo.png"
+displayURL = "https://github.com/txnimc/SodiumDynamicLights/"
+
+[[mixins]]
+config = "mixins.sodiumdynamiclights.json"
+
+[[dependencies."sodiumdynamiclights"]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"

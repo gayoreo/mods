@@ -1,0 +1,9 @@
+{
+  "parent": "magic_vibe_decorations:custom/drip10",
+  "textures": {
+    "all": "magic_vibe_decorations:block/citrineblock1",
+    "particle": "magic_vibe_decorations:block/citrineblock1",
+    "16": "magic_vibe_decorations:block/citrine2"
+  },
+  "render_type": "cutout"
+}

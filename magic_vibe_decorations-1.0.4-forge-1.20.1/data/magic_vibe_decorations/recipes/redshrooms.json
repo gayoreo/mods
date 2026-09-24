@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_mushroom"
+    }
+  },
+  "result": {
+    "item": "magic_vibe_decorations:wall_mushroom_red",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+
+#Generation Setting
+[Generation_Settings]
+	#Enables debug mode. Takes more time to generate.
+	#Default : false
+	debug = false
+	#Replace cobblestone? Replaces dungeon cobble stone for example.
+	#Default: true
+	replaceCobble = true
+	#Disable rock replacement
+	#Default: false
+	disableGeneration = false
+	#Disable nether generation
+	#Default: false
+	disableNetherGeneration = false
+	#Always replace dirt regardless of biome?
+	#Default: false
+	alwaysReplaceDirt = false
+	#Use Replaceable Block Tag? Could have performance impact!
+	#Default: true
+	replaceableTag = true
+

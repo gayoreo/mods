@@ -1,0 +1,7 @@
+{
+  "parent": "snatched:custom/magnifier",
+  "textures": {
+    "0": "snatched:block/magnifier",
+    "particle": "snatched:item/magnifier"
+  }
+}

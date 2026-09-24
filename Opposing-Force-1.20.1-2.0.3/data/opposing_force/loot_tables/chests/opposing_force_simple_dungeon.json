@@ -1,0 +1,108 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "opposing_force:vile_boulder",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "opposing_force:vile_staff",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "opposing_force:slug_baron_helmet",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "opposing_force:slug_baron_chestplate",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "opposing_force:slug_baron_leggings",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:item",
+          "name": "opposing_force:slug_baron_boots",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 24
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:empty",
+          "weight": 95
+        },
+        {
+          "type": "minecraft:item",
+          "name": "opposing_force:waltz_of_the_slug_disc",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "rolls": 2,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "opposing_force:fire_bomb",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "opposing_force:lightning_bomb",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 0,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "opposing_force:electric_charge",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:empty",
+          "weight": 2
+        }
+      ]
+    }
+  ]
+}

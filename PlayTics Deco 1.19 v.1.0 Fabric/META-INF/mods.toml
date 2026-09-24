@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="playtics_deco"
+version="1.0"
+displayName="PlayTics Deco"
+credits="PlayTics"
+displayURL="https://patreon.com/playtics"
+authors="PlayTics"
+description='''
+Deco
+'''
+
+[[dependencies.playtics_deco]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

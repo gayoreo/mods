@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Specification-Title: kaleidoscope_world_liquor
+Specification-Vendor: BmtUltra,Chenjdy,Bfxm
+Specification-Version: 1
+Implementation-Title: Kaleidoscope-World-Liquor-1.20.1-Forge
+Implementation-Version: 1.1.11-forge+mc1.20.1-fix
+Implementation-Vendor: BmtUltra,Chenjdy,Bfxm
+Implementation-Timestamp: 2026-09-22T21:41:24+0800
+MixinConfigs: mixins.kaleidoscope_world_liquor.json,mixins.kaleidoscope_
+ world_liquor.create.json
+
